@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-14T16:00:49.209Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Lernmodul in ILIAS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Lernmodul in ILIAS</para>
+    </header>
+    <para styleclass="Body Text">Lernmodule gehören zu den zentralen Lernobjekten in ILIAS. Sie ermöglichen die strukturierte Bereitstellung von Lerninhalten mit Texten, Bildern, Videos und interaktiven Elementen.</para>
+    <para styleclass="Body Text">ILIAS unterscheidet zwischen eigenen ILIAS-Lernmodulen, HTML-Lernmodulen und SCORM-Lernmodulen. Besonders wichtig ist die Unterstützung der Standards SCORM 1.2 und SCORM 2004. Damit lassen sich Lernmodule aus verschiedenen Autorentools importieren und im LMS nutzen.</para>
+    <para styleclass="Body Text">SCORM ermöglicht zudem die Übermittlung von Lernfortschrittsdaten an ILIAS. Je nach Lernmodul können beispielsweise Bearbeitungsstatus, Ergebnisse, Punktzahlen und Bearbeitungszeiten aufgezeichnet und ausgewertet werden. Voraussetzung ist, dass das Lernmodul die entsprechenden Daten übermittelt.</para>
+    <para styleclass="Normal"><image id="FIG50B5F075" src="052-ilias-modul-scorm-einstellungen.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: SCORM-Einstellungen beim Lernmodul in ILIAS.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Das native ILIAS-Lernmodul unterstützt ebenfalls die Erfassung des Lernfortschritts, benötigt dafür aber kein SCORM. Die SCORM-Unterstützung betrifft den separaten Objekttyp SCORM-Lernmodul.</para>
+  </body>
+</topic>

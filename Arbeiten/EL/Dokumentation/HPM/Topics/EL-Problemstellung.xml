@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-09-22T15:15:49.615Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Problemstellung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Problemstellung</para>
+    </header>
+    <para styleclass="Body Text">Personen und kleinere Organisationen, die ein eigenes E-Learning-Angebot aufbauen möchten, stehen vor einer Vielzahl möglicher Lernmanagementsysteme und Autorentools. Die verfügbaren Produkte unterscheiden sich unter anderem hinsichtlich Funktionsumfang, Lizenzmodell, technischer Anforderungen, Bedienbarkeit und Betriebsform.</para>
+    <para styleclass="Body Text">Produktbeschreibungen und allgemeine Vergleiche liefern zwar erste Informationen, beantworten jedoch nur bedingt, welche Werkzeuge sich unter konkreten Rahmenbedingungen tatsächlich eignen. Besonders schwierig ist die Auswahl, wenn nur ein begrenztes Budget, wenig technisches Fachwissen oder eingeschränkte personelle Ressourcen zur Verfügung stehen.</para>
+    <para styleclass="Body Text">Hinzu kommt, dass kostengünstige oder frei verfügbare Werkzeuge nicht automatisch mit geringem Gesamtaufwand verbunden sind. Auch ohne hohe Lizenzkosten entstehen Aufwände für Evaluation, Installation, Konfiguration, Einarbeitung, Wartung und Betrieb. Die Betrachtung der Anschaffungskosten allein reicht deshalb nicht aus.</para>
+    <para styleclass="Body Text">Diese Arbeit trägt mit einer kompakten und praxisorientierten Darstellung dazu bei, diese Lücke zu schliessen. Dabei werden geeignete Werkzeuge nicht nur beschrieben, sondern ihre Auswahl, Einrichtung und Anwendung anhand eines nachvollziehbaren Beispiels aufgezeigt.</para>
+  </body>
+</topic>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T06:55:22.914Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Lernmodule</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Lernmodule</para>
+    </header>
+    <para styleclass="Body Text">Ein Lernmodul ist eine in sich geschlossene Lerneinheit zu einem abgegrenzten Thema. Es verfolgt definierte Lernziele und verbindet die dafür erforderlichen Inhalte, Medien, Lernaktivitäten und Lernkontrollen.</para>
+    <para styleclass="Body Text">Ein Lernmodul kann aus einer einzelnen Seite bestehen oder mehrere Abschnitte umfassen. Entscheidend ist nicht der Umfang, sondern der inhaltliche und didaktische Zusammenhang. Die Lernenden sollen erkennen können, welches Thema behandelt wird, was sie lernen sollen und wann die Bearbeitung abgeschlossen ist.</para>
+    <para styleclass="Body Text" style="page-break-after:avoid;">Ein einfaches Lernmodul kann folgendermassen aufgebaut sein:</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="9" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Bestandteil</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Zweck</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Einstieg</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Thema einführen und Interesse wecken</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Lernziele</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Erwartete Lernergebnisse transparent machen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Grundlagen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Benötigtes Vorwissen und zentrale Begriffe vermitteln</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Lerninhalte</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Das Thema strukturiert darstellen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Beispiele</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Inhalte veranschaulichen und den Praxisbezug herstellen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Übungen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Eine aktive Auseinandersetzung ermöglichen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Lernkontrolle</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Das Verständnis oder die Zielerreichung überprüfen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Abschluss</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Inhalte zusammenfassen und weiterführende Schritte aufzeigen</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Aufbau eines einfachen Lernmoduls.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Image Caption Source" style="white-space:normal;"><text styleclass="Body Text">Lernmodule können unterschiedliche Medientypen enthalten. Texte eignen sich für präzise Erklärungen, Bilder und Grafiken für visuelle Zusammenhänge, Audio und Video für Abläufe oder Demonstrationen. Interaktive Elemente ermöglichen es den Lernenden, Entscheidungen zu treffen, Inhalte zu erkunden oder unmittelbar Rückmeldungen zu erhalten.</text></para>
+    <para styleclass="Body Text">Die eingesetzten Medien sollten nicht allein aufgrund ihrer technischen Möglichkeiten ausgewählt werden. Sie müssen einen erkennbaren Beitrag zum Lernziel leisten und für die Zielgruppe zugänglich sein. Aufwendige Animationen oder Videos sind nicht zwingend erforderlich. Gerade bei begrenzten Mitteln kann ein klar aufgebautes Modul mit Texten, aussagekräftigen Bildern und einfachen Übungen zweckmässiger sein.</para>
+    <para styleclass="Body Text">Lernmodule lassen sich direkt in einem LMS oder mit einem externen Autorentool erstellen. Die Erstellung im LMS vereinfacht häufig die Einbindung und Verwaltung. Ein externes Autorentool kann dagegen zusätzliche Gestaltungs- und Interaktionsmöglichkeiten bieten. Wird ein standardisiertes Ausgabeformat verwendet, kann das Modul grundsätzlich auch in anderen kompatiblen Systemen eingesetzt werden.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Für den praktischen Vergleich dieser Arbeit wird dasselbe Lernmodul mit unterschiedlichen Werkzeugen umgesetzt. Inhalt, Lernziele und grundlegender Aufbau bleiben dabei möglichst gleich. Dadurch lassen sich Unterschiede beim Erstellungsprozess, bei den Gestaltungsmöglichkeiten, bei der Veröffentlichung und bei der Einbindung in das LMS besser erkennen.</para>
+  </body>
+</topic>

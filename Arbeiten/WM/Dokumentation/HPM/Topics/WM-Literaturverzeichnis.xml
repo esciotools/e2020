@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T21:24:29.497Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Literaturverzeichnis</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Literaturverzeichnis</para>
+    </header>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#91;&#37;&#48;&#58;&#115;&#93;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><anchor id="WM-LVZ-0100"></anchor>Ineichen, M., Class, C., Frischherz, B. &amp; Steiner, F. (2003). <text styleclass="T_Ref">Wissenschaftliche Arbeiten konstruieren und gliedern</text>. HSW Luzern.</li>
+      <li styleclass="Body Text"><anchor id="WM-LVZ-0200"></anchor>Stelzer, D. (o. J.). Wissen. In<text styleclass="T_Ref"> Die Enzyklopädie der Wirtschaftsinformatik</text>. Abgerufen am 2.10.2026 von <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://wi-lex.de/lexikon/informations-daten-und-wissensmanagement/wissensmanagement/wissen</link></li>
+      <li styleclass="Body Text"><anchor id="WM-LVZ-0300"></anchor>Wiedemann, C. (2017, 11. November). <text styleclass="T_Ref">Bausteine des Wissensmanagements</text> [Vorlesungsfolien, CAS Wissensmanagement 2017/18]. IKF, Luzern.</li>
+      <li styleclass="Body Text"><anchor id="WM-LVZ-0400"></anchor>North, K. (o. J.). <text styleclass="T_Ref">Grundlagen zur Implementierung von Wissensmanagement</text> [Vorlesungsfolien, CAS Wissensmanagement 2017/18]. IKF, Luzern.</li>
+      <li styleclass="Body Text"><anchor id="WM-LVZ-0500"></anchor>Willke, H. (o. J.). <text styleclass="T_Ref">Systemisches Wissensmanagement – Teil 1: Grundbegriffe</text> [Vorlesungsfolien, CAS Wissensmanagement 2017/18]. IKF, Luzern.</li>
+      <li styleclass="Body Text"><anchor id="WM-LVZ-0600"></anchor>Willke, H. (o. J.). <text styleclass="T_Ref">Der MikroArtikel als Instrument des Wissensmanagements</text> [Vorlesungsfolien, CAS Wissensmanagement 2017/18]. IKF, Luzern.</li>
+      <li styleclass="Body Text"><anchor id="WM-LVZ-0700"></anchor>Closs, S. (2011). Single source publishing: Modularer Content für EPUB &amp; Co. entwickler.press.</li>
+      <li styleclass="Body Text"><anchor id="WM-LVZ-0800"></anchor>World Wide Web Consortium. (2008, 26. November). <text styleclass="T_Ref">Extensible Markup Language (XML) 1.0 (Fifth Edition)</text>. Abgerufen am 13.10.2026 von <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.w3.org/TR/xml</link></li>
+      <li styleclass="Body Text"><anchor id="WM-LVZ-0900"></anchor>Microsoft. (o. J.).<text styleclass="T_Ref"> XML für Anfänger</text>. Abgerufen am 13.10.2026 von <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://support.microsoft.com/de-de/office/xml-for-the-uninitiated</link></li>
+      <li styleclass="Body Text"><anchor id="WM-LVZ-1000"></anchor>Jonker, A., &amp; Gomstyn, A. (o. J.). <text styleclass="T_Ref">Strukturierte vs. unstrukturierte Daten: Was ist der Unterschied?</text> IBM. Abgerufen am 13.10.2026 von <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.ibm.com/de-de/think/topics/structured-vs-unstructured-data</link></li>
+      <li styleclass="Body Text"><anchor id="WM-LVZ-1100"></anchor>EC Software. (o. J.). <text styleclass="T_Ref">Editing XML source code</text>. Help+Manual User Manual. Abgerufen am 13.10.2026 von <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.helpandmanual.com/help/hm_working_topics_editxml.html</link></li>
+      <li styleclass="Body Text"><anchor id="WM-LVZ-1200"></anchor>EC Software. (o. J.). <text styleclass="T_Ref">Help+Manual User Manual</text>. Abgerufen am 13.10.2026 von <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.helpandmanual.com/help</link></li>
+      <li styleclass="Body Text"><anchor id="WM-LVZ-1300"></anchor>Quanos. (2025, 20. August). <text styleclass="T_Ref">Diese Software-Systeme sollten Technische Redakteure kennen</text>. Abgerufen am 13.10.2026 von <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://quanos.com/blog/technische-dokumentation/detail/diese-software-systeme-sollten-technische-redakteure-kennen</link></li>
+      <li styleclass="Body Text"><anchor id="WM-LVZ-1400"></anchor>EC Software. (o. J.). Help+Manual Online Store. Abgerufen am 16.10.2026 von <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.helpandmanual.com/order.php</link></li>
+    </list>
+  </body>
+</topic>

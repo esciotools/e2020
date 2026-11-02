@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T04:02:55.208Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Help+Manual</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Help+Manual</para>
+    </header>
+    <para styleclass="Body Text">Für diese Arbeit wird <var translate="false">&lt;%DOC_TOOL%&gt;</var> eingesetzt, weil es <var translate="false">&lt;%SSP%&gt;</var> unterstützt: Inhalte werden in einer gemeinsamen Quelle gepflegt und daraus in verschiedenen Ausgabeformaten veröffentlicht. Die topicbasierte Struktur und die Wiederverwendung von Textbausteinen (Snippets) ermöglichen es zudem, dieselben Inhalte in mehreren Dokumentationen zu verwenden. Verlinkte (verknüpfte) Inhalte werden an ihrer Quelle gepflegt und an mehreren Stellen verwendet.</para>
+    <para styleclass="Body Text">Als lokal nutzbares Autorensystem benötigt <var translate="false">&lt;%DOC_TOOL%&gt;</var> für die redaktionelle Arbeit keine Internetverbindung und auch keine Serverumgebung. Gegenüber umfangreichen, rein webbasierten Systemen bleibt damit der technische Betriebsaufwand für die hier verwendete Dokumentationsumgebung überschaubar.</para>
+    <para styleclass="Body Text">Der dateibasierte Projektaufbau ermöglicht ausserdem die Bearbeitung der Quellen mit externen Werkzeugen. Diese Möglichkeit wird für die später beschriebenen Praxisfälle genutzt.</para>
+    <para styleclass="Body Text"><var translate="false">&lt;%DOC_TOOL%&gt;</var> eignet sich für unterschiedliche Dokumentationsprodukte, darunter Wissensbasen, technische Dokumentationen, Handbücher, Online-Hilfen und Anleitungen. Die verschiedenen Ausgabeformate ermöglichen sowohl die Nutzung im Webbrowser als auch die Bereitstellung als druckbares Dokument oder E-Book.</para>
+    <para styleclass="Body Text">Formatvorlagen und Ausgabevorlagen vereinheitlichen die Gestaltung der Dokumentation von den Projektarbeiten.</para>
+    <para styleclass="Body Text">Die tägliche Bearbeitung der Inhalte erfolgt in der grafischen Oberfläche des Autorentools, für besondere Aufgaben stehen die zugänglichen XML-Quellen zur Verfügung.</para>
+    <para styleclass="Body Text">Die laufende Inhaltsbearbeitung erfolgt in <var translate="false">&lt;%DOC_TOOL%&gt;</var>. Für dateiübergreifende Änderungen werden die XML-Quelldateien zusätzlich mit einem externen Editor bearbeitet. Die entsprechenden Arbeitsschritte werden in den Praxisfällen dokumentiert.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text">Für die Dokumentation der Projektarbeiten wird <var translate="false">&lt;%DOC_TOOL%&gt;</var> X10 in der Professional Edition unter <var translate="false">&lt;%WIN_VER%&gt;</var> eingesetzt. Die beschriebenen Funktionen, Einstellungen und Praxisbeispiele beziehen sich auf diese Version und Edition.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Weitere-Infos" inline="true"/> [<link displaytype="text" defaultstyle="true" type="topiclink" href="WM-Webressourcen" anchor="HelpManual">Web:H+M</link>].</para>
+    <para styleclass="Image Caption"><image id="FIGA2D9E5C5" src="005-hpm-ui.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Benutzerschnittstelle von <%DOC_TOOL%>.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+  </body>
+</topic>

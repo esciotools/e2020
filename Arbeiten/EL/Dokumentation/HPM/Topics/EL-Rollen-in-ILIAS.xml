@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-10T04:52:06.663Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Rollen in ILIAS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Rollen in ILIAS</para>
+    </header>
+    <para styleclass="Body Text">ILIAS steuert den Zugriff auf Inhalte und Funktionen über Rollen. Neben den vorgegebenen Kursrollen und systemweiten Rollen können eigene Rollen mit gezielt festgelegten Berechtigungen erstellt werden.</para>
+    <para styleclass="Heading2">Rollen in Kursen</para>
+    <para styleclass="Body Text">ILIAS stellt für jeden Kurs drei lokale Rollen bereit. Die folgende Tabelle ordnet diese dem in dieser Arbeit verwendeten <link displaytype="text" defaultstyle="true" type="topiclink" href="EL-E-Learning" anchor="RollenimE-Learning">Rollenschema</link> für E-Learning zu. Die Rollen gelten jeweils für den einzelnen Kurs. Die Administration des gesamten ILIAS-Systems ist davon getrennt.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="4" colcount="3">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Rolle in ILIAS</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Aufgabe und typische Befugnisse</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Zuordnung E-Learning</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Kursmitglied</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Freigegebene Lerninhalte nutzen, Lernmodule bearbeiten und Tests absolvieren.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Trainee</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Kursbetreuer / Kurstutor</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Lernende betreuen, Leistungen bewerten, Lernfortschritte einsehen und je nach Rechtevergabe Inhalte bearbeiten.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Trainer</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Kursadministration / Kursadministrator</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kursinhalte, Einstellungen, Mitgliedschaften und kursbezogene Zugriffsrechte verwalten.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Course Manager</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: ILIAS-Kursrollen und Zuordnung zum Rollenschema.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Die Befugnisse können durch Anpassungen der Rollen und der kursbezogenen Berechtigungen verändert werden. Die Zuordnung beschreibt daher die grundsätzlichen Aufgabenbereiche. Ein Benutzer kann in verschiedenen Kursen unterschiedliche Rollen besitzen <snippet src="file::EL-SNIP-LVZ-0500.xml" inline="true"/>.</para>
+    <para styleclass="Heading2">Technische Rollennamen</para>
+    <para styleclass="Body Text">Die internen Rollennamen enthalten die Referenz-ID (ref_id) des jeweiligen Kurses. Für einen Kurs mit <text styleclass="T_Technical">ref_id=1234</text> ergeben sich folgende Bezeichnungen <snippet src="file::EL-SNIP-LVZ-0600.xml" inline="true"/>:</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="4" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Rolle</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Technischer Rollenname</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Kursmitglied</para>
+        </td>
+        <td>
+          <para styleclass="Normal">il_crs_member_1234</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Kursbetreuer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">il_crs_tutor_1234</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Kursadministration</para>
+        </td>
+        <td>
+          <para styleclass="Normal">il_crs_admin_1234</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_7BCFAA" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Technische Rollennamen in ILIAS-Kursen.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Die technischen Rollennamen ermöglichen eine eindeutige Zuordnung zum jeweiligen Kurs und zur gewünschten Kursrolle. Sie können beispielsweise beim Benutzerimport verwendet werden, um Benutzer automatisch als Kursmitglied, Kursbetreuer oder Kursadministrator zuzuweisen.</para>
+    <para styleclass="Heading2">Benutzer der Praxisumgebung</para>
+    <para styleclass="Body Text">Die Benutzernamen bestehen aus der Rollenbezeichnung und einer zweistelligen Nummer ab 01.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="4" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Benutzername</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Zugewiesene Kursrolle</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">trainee-01</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kursmitglied</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">trainer-01</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kursbetreuer</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">manager-01</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kursadministration</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_72317F" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Benutzernamen und Kursrollen der ILIAS-Praxisumgebung.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Weitere Benutzer werden fortlaufend nummeriert, beispielsweise trainee-02. Der Benutzername dient der Übersicht, die Berechtigungen entstehen durch die Rollenzuweisung im jeweiligen Kurs.</para>
+    <para styleclass="Body Text">Die Unterschiede zwischen den Kursrollen zeigen sich beispielsweise in den verfügbaren Funktionen und Einstellungen. Während der Trainee die freigegebenen Lernangebote nutzt, kann der Trainer Leistungen bewerten, Lernende betreuen und Kursinhalte anpassen. Der Course Manager kann darüber hinaus Mitgliedschaften und im erlaubten Umfang kursbezogene Zugriffsrechte verwalten und damit wesentlich beeinflussen, wer auf den Kurs zugreifen und seine Inhalte bearbeiten darf.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshots]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text">Die folgenden Screenshots veranschaulichen die unterschiedlichen Kursansichten anhand der drei Benutzerrollen in der Praxisumgebung.</para>
+          <para styleclass="Image Caption"><image src="008-ilias-rolle-crs-member.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="0"><caption><![CDATA[Trainee (il_crs_member)]]></caption></image></para>
+          <para styleclass="Image Caption"><image src="009-ilias-rolle-crs-tutor.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="0"><caption><![CDATA[Trainer (il_crs_tutor)]]></caption></image></para>
+          <para styleclass="Normal"><image src="010-ilias-rolle-crs-admin.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Body Text" figurelistinclude="0"><caption><![CDATA[Manager (il_crs_admin)]]></caption></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading2">Systemweite Rollen </para>
+    <para styleclass="Body Text">Neben den kursbezogenen Rollen verfügt ILIAS über globale Rollen. Diese legen die grundlegenden Berechtigungen eines Benutzers im gesamten System fest:</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="5" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Globale Rolle</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Grundsätzliche Berechtigungen</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Administrator</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Vollständiger Zugriff auf Inhalte, Benutzerverwaltung und Systemeinstellungen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">User</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Zugriff nach Anmeldung auf freigegebene Inhalte und Funktionen sowie die Möglichkeit, Kursen gemäss deren Beitrittsregeln beizutreten.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Guest</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Eingeschränkter Zugriff nach Anmeldung: Objekte sind sichtbar, ihre Inhalte jedoch grundsätzlich nicht lesbar. Ein selbstständiger Kursbeitritt ist nicht vorgesehen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Anonymous</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Zugriff ohne Anmeldung auf ausdrücklich öffentlich freigegebene Inhalte.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_15032C" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Systemweite ILIAS-Rollen.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Heading2">Eigene Rollen</para>
+    <para styleclass="Body Text">Für besondere Anforderungen können eigene globale oder lokale Rollen eingerichtet werden. Dabei wird festgelegt, welche Inhalte und Funktionen die zugewiesenen Benutzer sehen, nutzen, bearbeiten oder verwalten dürfen. Globale Rollen gelten systemweit, lokale Rollen für einen abgegrenzten Bereich, beispielsweise eine Kategorie oder einen Kurs.</para>
+    <para styleclass="Body Text">So lässt sich beispielsweise eine Rolle einrichten, die ausgewählte Lerninhalte zum Lesen freigibt, ohne deren Bearbeitung zu erlauben. Bestehende Rollenvorlagen können als Ausgangspunkt dienen und an den gewünschten Aufgabenbereich angepasst werden.</para>
+  </body>
+</topic>

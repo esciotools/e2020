@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T08:01:39.998Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Formate ersetzen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Formate ersetzen</para>
+    </header>
+    <para styleclass="Heading3">Problem</para>
+    <para styleclass="Body Text">Bei der Textbearbeitung oder beim Einfügen von Bildern kann einem Bildabsatz versehentlich das Absatzformat <text styleclass="T_Emphasis">Body Text</text> statt <text styleclass="T_Emphasis">Image Caption</text> zugewiesen werden. Dadurch entspricht die Darstellung nicht mehr der vorgesehenen Formatierung für Abbildungen. Da das Problem in zahlreichen Topics auftreten kann, wäre eine manuelle Korrektur Bild für Bild aufwendig. Deshalb werden die betroffenen Absatzformate direkt in den XML-Dateien ersetzt.</para>
+    <para styleclass="Body Text"><text styleclass="Heading3">Kontext</text></para>
+    <para styleclass="Body Text">Im unkomprimierten Projektformat liegen die Topicdateien als XML vor. Das Absatzformat wird durch das Attribut <text styleclass="T_Technical">styleclass</text> im Element <text styleclass="T_Technical">para</text> festgelegt. Das darin enthaltene Element <text styleclass="T_Technical">image</text> besitzt eigene Formatangaben. Diese bleiben bei der Korrektur unverändert.</para>
+    <para styleclass="Body Text">Im vorliegenden Quelltext folgt das Bildelement unmittelbar auf den öffnenden Absatz-Tag:</para>
+    <para styleclass="Body Text"><text styleclass="T_Code">&lt;para styleclass=&quot;Body Text&quot;&gt;&lt;image id=</text></para>
+    <para styleclass="Body Text">Diese Zeichenfolge ermöglicht eine gezielte Ersetzung ohne reguläre Ausdrücke. Erfasst werden ausschliesslich Absätze mit dem Format Body Text, die direkt mit einem Bildelement beginnen. Gewöhnliche Textabsätze bleiben unverändert.</para>
+    <para styleclass="Body Text"><text styleclass="Heading3">Vorgehen</text></para>
+    <para styleclass="Body Text">Im folgenden Beispiel wird das Absatzformat <text styleclass="T_Emphasis">Body Text</text> durch Image Caption ersetzt, wenn unmittelbar danach ein Bildelement folgt.</para>
+    <para styleclass="Title">1. Absatzformat kontrollieren</para>
+    <para styleclass="Body Text">In <var translate="false">&lt;%DOC_TOOL%&gt;</var> prüfen, ob das Absatzformat <text styleclass="T_Emphasis">Image Caption</text> vorhanden ist und der gewünschten Darstellung für Abbildungen entspricht.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="029-fmt-check.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="Title">2. Projekt sichern und schliessen</text></para>
+    <para styleclass="Body Text">Alle Änderungen in <var translate="false">&lt;%DOC_TOOL%&gt;</var> speichern und das Projekt schliessen. Eine Sicherung des Projektordners erstellen.</para>
+    <para styleclass="Body Text"><text styleclass="Title">3. Topicsordner öffnen</text></para>
+    <para styleclass="Body Text">Den Topicsordner in <var translate="false">&lt;%VSC%&gt;</var> öffnen. Dazu den Ordner aus dem Datei-Explorer in das Programmfenster von <var translate="false">&lt;%VSC%&gt;</var> ziehen.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="007-hpm-var-vsc-files.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="Title">4. Fundstellen prüfen</text></para>
+    <para styleclass="Body Text">Nach folgender Zeichenfolge suchen:</para>
+    <para styleclass="Body Text"><text styleclass="T_Code">&lt;para styleclass=&quot;Body Text&quot;&gt;&lt;image id=</text></para>
+    <para styleclass="Body Text">Die Treffer kontrollieren. Bei jedem Treffer muss es sich um einen Bildabsatz handeln, der das Absatzformat Image Caption erhalten soll.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Die Ersetzung ändert das Format des gesamten Absatzes. Enthält dieser neben dem Bild weiteren Inhalt, muss geprüft werden, ob das Absatzformat auch dafür geeignet ist.</para>
+    <para styleclass="Body Text"><text styleclass="Title">5. Absatzformat ersetzen</text></para>
+    <para styleclass="Body Text">Die Ersetzung unter Berücksichtigung der Gross-/Kleinschreibung und ohne reguläre Ausdrücke durchführen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Suchen nach</text>: &lt;para styleclass=&quot;Body Text&quot;&gt;&lt;image id=</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Ersetzen durch</text>: &lt;para styleclass=&quot;Image Caption&quot;&gt;&lt;image id=</para>
+    <para styleclass="Body Text">Geändert wird ausschliesslich das Absatzformat im Element <text styleclass="T_Technical">para</text>. Die Bild-ID, der Dateiname, die Bildformatierung und die Bildunterschrift bleiben erhalten.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="030-hpm-var-search-replace.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title">6. Dateien kontrollieren und speichern</para>
+    <para styleclass="Body Text">Die Änderungen im Editor prüfen und die Dateien mit unveränderter Zeichenkodierung speichern. Erneut nach der ursprünglichen Zeichenfolge suchen und verbleibende Treffer kontrollieren.</para>
+    <para styleclass="Body Text">Der korrigierte Absatz sieht beispielsweise so aus:</para>
+    <para styleclass="Body Text"><text styleclass="T_Code">&lt;para styleclass=&quot;Image Caption&quot;&gt;&lt;image id=&quot;FIGE7D52932&quot; src=...</text></para>
+    <para styleclass="Body Text">Das Ergebnis sollte wie folgt aussehen:</para>
+    <para styleclass="Body Text"><image src="031-hpm-search-not-found.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Title">7. Ergebnis prüfen</para>
+    <para styleclass="Body Text">Das Projekt in <var translate="false">&lt;%DOC_TOOL%&gt;</var> öffnen und die korrigierten Bildabsätze in mehreren Topics kontrollieren. Ihnen muss nun das Absatzformat <text styleclass="T_Emphasis">Image Caption</text> zugewiesen sein. Eine Testausgabe erstellen und die Darstellung der Abbildungen einschliesslich Abständen und Bildunterschriften prüfen.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Image Caption"><image src="032-vor-format-anpassung.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="0"><caption><![CDATA[Vor der Formatanpassung.]]></caption></image></para>
+          <para styleclass="Image Caption Source"></para>
+          <para styleclass="Image Caption"><image src="033-nach-format-anpassung.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="0"><caption><![CDATA[Nach der Formatanpassung.]]></caption></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading2">Einsichten</para>
+    <para styleclass="Body Text">Absatzformat und Bildformatierung werden im XML getrennt gespeichert. Eine korrekte Formatangabe im Bildelement stellt deshalb nicht sicher, dass auch der umgebende Absatz richtig formatiert ist.</para>
+    <para styleclass="Body Text">Die einheitliche XML-Struktur ermöglicht eine einfache, dateiübergreifende Korrektur. Durch die Aufnahme von <text styleclass="T_Technical">&lt;image id=</text> in die Suchzeichenfolge wird die Ersetzung auf Absätze begrenzt, die unmittelbar mit einem Bild beginnen.</para>
+    <para styleclass="Heading2">Folgerungen</para>
+    <para styleclass="Body Text">Beim Einfügen und Bearbeiten von Bildern sollte auch das Absatzformat kontrolliert werden. Für bereits vorhandene Fehler bietet die XML-Bearbeitung eine effiziente Korrekturmöglichkeit über mehrere Topics hinweg.</para>
+    <para styleclass="Body Text">Die gezeigte Ersetzung setzt voraus, dass Absatz-Tag und Bildelement unmittelbar aufeinanderfolgen. Abweichend aufgebaute Stellen werden nicht erfasst und müssen gesondert geprüft werden.</para>
+    <para styleclass="Heading2">Anschlussfragen</para>
+    <para styleclass="Body Text">Keine.</para>
+  </body>
+</topic>

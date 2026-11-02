@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-09-22T15:22:31.910Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Fragestellung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Fragestellung</para>
+    </header>
+    <para styleclass="Body Text">Die Arbeit untersucht folgende zentrale Fragestellung:</para>
+    <para styleclass="Higlight">Wie lässt sich mit begrenzten finanziellen, personellen und technischen Mitteln ein funktionsfähiges E-Learning-Angebot aufbauen?</para>
+    <para styleclass="Body Text">Zur Beantwortung der zentralen Fragestellung werden folgende Teilfragen behandelt:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Welche grundlegenden Anforderungen müssen ein Lernmanagementsystem und ein Autorentool für diesen Einsatz erfüllen?</li>
+      <li styleclass="Body Text">Welche kostengünstigen oder frei verfügbaren Werkzeuge eignen sich für die praktische Umsetzung?</li>
+      <li styleclass="Body Text">Wie lassen sich die ausgewählten Werkzeuge mit vertretbarem Aufwand einrichten und einsetzen?</li>
+      <li styleclass="Body Text">Wie kann ein Lernmodul erstellt, veröffentlicht und in ein Lernmanagementsystem eingebunden werden?</li>
+      <li styleclass="Body Text">Welche Unterschiede zeigen sich bei der praktischen Anwendung der ausgewählten Werkzeuge?</li>
+      <li styleclass="Body Text">Welche Empfehlungen lassen sich aus den Ergebnissen für vergleichbare Vorhaben ableiten?</li>
+    </list>
+    <para styleclass="Body Text">Die Fragestellung wird durch die Auswertung geeigneter Fachquellen, die Anwendung festgelegter Evaluationskriterien und die praktische Erprobung ausgewählter Werkzeuge beantwortet.</para>
+  </body>
+</topic>

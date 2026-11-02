@@ -1,0 +1,48 @@
+﻿<topic modified="2026-10-01T19:54:07.548Z" lasteditedby="huber" version="2">
+  <body>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="5" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Rolle</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Typische Aufgaben</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Label">Trainee</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kurse aufrufen, Lerninhalte bearbeiten, Lernaktivitäten und Tests durchführen und den eigenen Lernfortschritt einsehen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Label">Trainer</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kurse und Lerninhalte gestalten, Lernaktivitäten betreuen, Aufgaben und Tests auswerten sowie den Lernfortschritt der Teilnehmenden begleiten.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Label">Course Manager</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kurse anlegen und organisieren, Trainer und Teilnehmende zuweisen, Kursabläufe verwalten sowie kursübergreifende Berichte auswerten.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Label">Administrator</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Das LMS technisch konfigurieren, Benutzerkonten und systemweite Rollen verwalten, Erweiterungen einrichten sowie Sicherheit, Aktualisierungen und Betrieb sicherstellen.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><figurelabel id="FIG_1FF1D3" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Typische Rollen und Aufgaben in einem LMS.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KIEIGEN%&gt;</var></para>
+  </body>
+</topic>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T20:39:35.945Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Lernmodul einbinden</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Lernmodul einbinden</para>
+    </header>
+    <para styleclass="Body Text">Für die Einbindung eines extern erstellten Lernmoduls in ein LMS ist zunächst das passende Ausgabeformat zu wählen. Eine HTML-Ausgabe kann zur Bereitstellung im Browser verwendet werden. Soll das LMS zusätzlich Bearbeitungsstände und Ergebnisse aus dem Lernmodul aufzeichnen, wird für die hier beschriebenen Umsetzungen die SCORM-1.2-Ausgabe verwendet.</para>
+    <para styleclass="Body Text">Das exportierte SCORM-Paket wird als ZIP-Datei in das entsprechende Lernobjekt des LMS importiert. Anschliessend werden die Darstellung, die zulässigen Versuche sowie die Bewertungs- und Abschlussbedingungen eingestellt. In Moodle erfolgt die Einbindung als Aktivität <text styleclass="T_Emphasis">Lernpaket</text>, in ILIAS als <text styleclass="T_Emphasis">SCORM-Lernmodul</text>.</para>
+    <para styleclass="Body Text">SCORM ermöglicht die Übermittlung von Daten wie Bearbeitungsstatus, Punktzahl und Bearbeitungszeit. Welche Werte tatsächlich aufgezeichnet werden, hängt vom Lernmodul, dem Autorentool und den Einstellungen im LMS ab. Eine reine HTML-Ausgabe übermittelt ohne zusätzliche Schnittstelle keine entsprechenden Daten aus dem Lernmodul. Das LMS kann gegebenenfalls den Aufruf registrieren, daraus lässt sich jedoch keine vollständige Bearbeitung ableiten.</para>
+    <para styleclass="Body Text">Ein installiertes Lernmodul sollte mit einem Teilnehmerkonto (Trainee) getestet werden. Dabei sind die vollständige Bearbeitung, die Ergebnisübermittlung sowie das Verlassen und erneute Öffnen zu prüfen.</para>
+    <para styleclass="Image Caption"><image src="061-ilias-scorm-import.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: SCORM-Modul in ILIAS hinzufügen.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Sobald der Objekttyp ausgewählt ist, lässt sich das SCORM-Paket als ZIP-Datei ins LMS hochladen.</para>
+    <para styleclass="Image Caption"><image src="062-ilias-scorm-import-file.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: SCORM-Datei in ILIAS hochladen.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Anschliessend werden die individuellen Einstellungen vorgenommen. Dafür muss meist bekannt sein, welche Status- und Ergebniswerte das Lernmodul über SCORM an das LMS übermittelt.</para>
+    <para styleclass="Image Caption"><image src="063-ilias-scorm-einstellungen.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: SCORM-Einstellungen in ILIAS.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+    <para styleclass="Body Text">In ILIAS sind sowohl die allgemeinen Einstellungen des SCORM-Lernmoduls als auch die Einstellungen zum Lernfortschritt zu prüfen. Wird der Gesamtstatus anhand ausgewählter Kapitel (SCOs) ermittelt, muss zusätzlich festgelegt werden, welche SCOs dafür berücksichtigt werden. Je nach innerem Aufbau des Lernmoduls kann es mehrere SCOs enthalten.</para>
+    <para styleclass="Image Caption"><image src="063-ilias-scorm-einstellungen-2.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: SCO-Einstellungen in ILIAS.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: SCORM ist nicht die einzige Möglichkeit für Lernaufzeichnungen. Auch direkt eingebundene H5P-Aktivitäten oder LMS-eigene Lernobjekte können Ergebnisse speichern.</para>
+  </body>
+</topic>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T04:23:20.816Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Glossar</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Glossar</para>
+    </header>
+    <para styleclass="Body Text">Dieses Glossar enthält die in dieser Arbeit verwendeten Fachbegriffe und deren Definitionen in alphabetischer Reihenfolge. Es dient als zentrales Nachschlagewerk und unterstützt ein einheitliches Verständnis der verwendeten Terminologie.</para>
+    <para styleclass="Body Text" style="margin-top:19px; margin-bottom:19px;"><link displaytype="button" type="topiclink" href="" anchor="-A-">A</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-B-">B</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-C-">C</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-D-">D</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-E-">E</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-G-">G</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-H-">H</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-K-">K</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-N-">N</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-O-">O</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-P-">P</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-R-">R</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-S-">S</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-U-">U</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-W-">W</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-X-">X</link></para>
+    <para styleclass="Heading2"><anchor id="-A-"></anchor>- A -</para>
+    <para styleclass="Title">Attribut (XML)</para>
+    <para styleclass="Body Text">Zusätzliche Angabe zu einem XML-Element, bestehend aus einem Namen und einem Wert. Beispielsweise legt <text styleclass="T_Technical">styleclass=&quot;Body Text&quot;</text> die verwendete Formatvorlage fest.</para>
+    <para styleclass="Title">Autorentool</para>
+    <para styleclass="Body Text">Software zum Erstellen, Bearbeiten und Veröffentlichen digitaler Inhalte. Im E-Learning werden damit Lernmodule mit Texten, Bildern, Medien und interaktiven Aufgaben entwickelt. Weitere Einsatzbereiche sind beispielsweise technische Dokumentationen, Online-Hilfen und Handbücher. Je nach Werkzeug lassen sich die Inhalte in unterschiedlichen Formaten ausgeben.</para>
+    <para styleclass="Heading2"><anchor id="-B-"></anchor>- B -</para>
+    <para styleclass="Title">Befehlszeile</para>
+    <para styleclass="Body Text">Wird häufig als Synonym für Kommandozeile verwendet und bezeichnet eine textbasierte Möglichkeit zur Eingabe und Ausführung von Befehlen. Je nach Kontext können die Begriffe Befehlszeile und Kommandozeile daher gleichbedeutend verwendet werden.</para>
+    <para styleclass="Heading2"><anchor id="-C-"></anchor>- C -</para>
+    <para styleclass="Title">Central Processing Unit (CPU)</para>
+    <para styleclass="Body Text">Die Central Processing Unit (CPU) ist die zentrale Recheneinheit eines Computers. Sie führt Programmbefehle aus, verarbeitet Daten und steuert die Abläufe zwischen Arbeitsspeicher, Massenspeicher sowie Ein- und Ausgabegeräten. Die Leistungsfähigkeit einer CPU wird unter anderem durch ihre Architektur, die Anzahl der Prozessorkerne, die Taktfrequenz und den verfügbaren Cache bestimmt.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: <text styleclass="T_Emphasis">Prozessor</text></para>
+    <para styleclass="Heading2"><anchor id="-D-"></anchor>- D -</para>
+    <para styleclass="Title">DITA (Darwin Information Typing Architecture)</para>
+    <para styleclass="Body Text">XML-basierter Standard für die topicbasierte Erstellung und Wiederverwendung von Inhalten. Informationen werden in eigenständigen Topics erfasst und über sogenannte DITA-Maps zu Dokumentationen zusammengestellt. Inhalt und Darstellung sind getrennt, sodass dieselben Inhalte in unterschiedlichen Ausgabeformaten publiziert werden können.</para>
+    <para styleclass="Heading2"><anchor id="-E-"></anchor>- E -</para>
+    <para styleclass="Title">Eingabe</para>
+    <para styleclass="Body Text">Als Eingabe wird das Erfassen oder Übermitteln von Daten, Befehlen oder Werten an ein Programm bezeichnet. Dies kann beispielsweise über die Befehlszeile oder über Eingabefelder einer grafischen Benutzeroberfläche (GUI) erfolgen. In der Befehlszeile wird eine eingegebene Anweisung üblicherweise mit der Eingabetaste (Enter/Return) bestätigt und ausgeführt. In grafischen Benutzeroberflächen kann eine Eingabe je nach Anwendung durch die Eingabetaste, eine Schaltfläche oder eine andere Benutzeraktion bestätigt beziehungsweise übernommen werden.</para>
+    <para styleclass="Title">Element (XML)</para>
+    <para styleclass="Body Text">Benannter Bestandteil eines XML-Dokuments, der Text oder weitere Elemente enthalten kann. Er wird durch ein Start- und ein End-Tag begrenzt, beispielsweise <text styleclass="T_Technical">&lt;title&gt;Wissen&lt;/title&gt;</text>. Leere Elemente können als einzelnes Tag geschrieben werden.</para>
+    <para styleclass="Title">Entitätsreferenz (XML)</para>
+    <para styleclass="Body Text">Verweis auf einen benannten Ersatzinhalt. Vordefinierte Entitätsreferenzen ermöglichen unter anderem die Darstellung von Zeichen, die in XML eine besondere Bedeutung haben. Beispielsweise steht <text styleclass="T_Technical">&amp;lt;</text> für &lt; und <text styleclass="T_Technical">&amp;amp;</text> für &amp;.</para>
+    <para styleclass="Heading2"><anchor id="-G-"></anchor>- G -</para>
+    <para styleclass="Title">Git</para>
+    <para styleclass="Body Text">Verteiltes Versionsverwaltungssystem, das Änderungen an Dateien nachvollziehbar speichert. Es ermöglicht, frühere Bearbeitungsstände wiederherzustellen, Änderungen zu vergleichen und parallel an unterschiedlichen Versionen zu arbeiten. Die Dateien und ihre Änderungshistorie werden in einem sogenannten Repository verwaltet.</para>
+    <para styleclass="Title">GUI</para>
+    <para styleclass="Body Text">Eine grafische Benutzeroberfläche (Graphical User Interface, GUI) ermöglicht die Bedienung eines Programms über visuelle Elemente wie Fenster, Menüs, Schaltflächen und Eingabefelder. Die Interaktion erfolgt hauptsächlich mit Maus, Tastatur oder Touchscreen. Ein GUI bildet damit die visuelle Schnittstelle zwischen Benutzer und Anwendung und ermöglicht deren Bedienung, ohne Befehle über eine Befehlszeile eingeben zu müssen.</para>
+    <para styleclass="Heading2"><anchor id="-H-"></anchor>- H -</para>
+    <para styleclass="Title">HTML (Hypertext Markup Language)</para>
+    <para styleclass="Body Text">Standardisierte Auszeichnungssprache zur Strukturierung von Inhalten auf Webseiten. HTML verwendet vordefinierte Elemente, um beispielsweise Überschriften, Texte, Bilder, Links, Tabellen und Formulare zu beschreiben. HTML wird von Webbrowsern interpretiert und bildet zusammen mit CSS und JavaScript eine zentrale Grundlage moderner Webseiten.</para>
+    <para styleclass="Title">HTML5 (Hypertext Markup Language 5)</para>
+    <para styleclass="Body Text">Auszeichnungssprache zur Strukturierung von Webinhalten. Sie ermöglicht die Einbindung von Texten, Bildern, Audio und Video direkt im Browser. Zusammen mit CSS und JavaScript bildet sie die Grundlage für moderne Webseiten und interaktive Lernmodule.</para>
+    <para styleclass="Heading2"><anchor id="-K-"></anchor>- K -</para>
+    <para styleclass="Title">Kommandozeile</para>
+    <para styleclass="Body Text">Die Kommandozeile ist eine textbasierte Schnittstelle zur Bedienung eines Betriebssystems oder Programms. Befehle und zugehörige Parameter werden über die Tastatur eingegeben und üblicherweise mit der Eingabetaste ausgeführt. Im Unterschied zu einer grafischen Benutzeroberfläche (GUI) erfolgt die Bedienung hauptsächlich durch die direkte Eingabe von Befehlen.</para>
+    <para styleclass="Heading2"><anchor id="-N-"></anchor>- N -</para>
+    <para styleclass="Title">Notebook</para>
+    <para styleclass="Body Text">Tragbarer Computer mit integriertem Bildschirm, Tastatur und Akku. Er kann sowohl unterwegs als auch an einem festen Arbeitsplatz verwendet werden.</para>
+    <para styleclass="Heading2"><anchor id="-O-"></anchor>- O -</para>
+    <para styleclass="Title">ODF (OpenDocument Format)</para>
+    <para styleclass="Body Text">Offenes, standardisiertes Dateiformat für Office-Dokumente wie Texte, Tabellen und Präsentationen. ODF basiert auf XML und ermöglicht den Austausch und die Bearbeitung von Dokumenten zwischen unterschiedlichen Programmen. Typische Dateiendungen sind .odt für Textdokumente, .ods für Tabellen und .odp für Präsentationen.</para>
+    <para styleclass="Title">Open Source</para>
+    <para styleclass="Body Text">Open Source bezeichnet ein Entwicklungs- und Lizenzmodell, bei dem der Quellcode öffentlich zugänglich ist und entsprechend der jeweiligen Lizenz eingesehen, verwendet, verändert und weitergegeben werden darf. Das Konzept fördert Transparenz, Zusammenarbeit und die gemeinschaftliche Weiterentwicklung von Software.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: <text styleclass="T_Emphasis">Quelloffen</text></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis:</text> Open Source ist der Eigenname des Konzepts und wird international genau so verwendet und darum ohne Bindestrich geschrieben.</para>
+    <para styleclass="Title">Open-Source-Software (OSS)</para>
+    <para styleclass="Body Text">Open-Source-Software (OSS) ist Software, die unter einer Open-Source-Lizenz veröffentlicht wird. Ihr Quellcode ist öffentlich zugänglich und darf entsprechend den jeweiligen Lizenzbedingungen genutzt, untersucht, verändert und weitergegeben werden. Bekannte Beispiele sind Linux, LibreOffice, Gimp und Moodle.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: <text styleclass="T_Emphasis">Quelloffene Software</text></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis:</text> Open-Source-Software ist ein deutsches Kompositum mit einem englischen Erstglied. Nach den deutschen Rechtschreibregeln wird ein Bindestrich gesetzt.</para>
+    <para styleclass="Heading2"><anchor id="-P-"></anchor>- P -</para>
+    <para styleclass="Title">PDF (Portable Document Format)</para>
+    <para styleclass="Body Text">PDF ein Format für Dokumente, deren Darstellung auf unterschiedlichen Geräten weitgehend erhalten bleibt.</para>
+    <para styleclass="Title">Personal Computer (PC)</para>
+    <para styleclass="Body Text">Ein Personal Computer (PC) ist ein universell einsetzbarer Computer, der für die Nutzung durch eine einzelne Person ausgelegt ist. Er besteht typischerweise aus Prozessor, Arbeitsspeicher, Massenspeicher sowie Ein- und Ausgabegeräten und dient unter anderem zur Ausführung von Betriebssystemen, Anwendungsprogrammen und Entwicklungswerkzeugen.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: Personal Computer hat sich als <text styleclass="T_Emphasis">Eigenbegriff</text> etabliert.</para>
+    <para styleclass="Heading2"><anchor id="-R-"></anchor>- R -</para>
+    <para styleclass="Title">Random Access Memory (RAM)</para>
+    <para styleclass="Body Text">Der Random Access Memory (RAM) ist der flüchtige Arbeitsspeicher eines Computers. Er speichert Programme und Daten temporär, damit die CPU schnell darauf zugreifen und sie verarbeiten kann. Beim Ausschalten des Computers geht der Inhalt des Arbeitsspeichers verloren.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: <text styleclass="T_Emphasis">Arbeitsspeicher</text></para>
+    <para styleclass="Heading2"><anchor id="-S-"></anchor>- S -</para>
+    <para styleclass="Title">Syntax</para>
+    <para styleclass="Body Text">Regeln für den formalen Aufbau einer Sprache. Bei XML bestimmen sie unter anderem, wie Elemente und Attribute geschrieben und ineinander verschachtelt werden.</para>
+    <para styleclass="Heading2"><anchor id="-T-"></anchor>- T -</para>
+    <para styleclass="Title">Tool</para>
+    <para styleclass="Body Text">Hilfsmittel zur Unterstützung einer bestimmten Aufgabe oder eines Arbeitsprozesses. In dieser Arbeit bezeichnet der Begriff überwiegend Softwareanwendungen und digitale Dienste.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: <text styleclass="T_Emphasis">Werkzeug</text></para>
+    <para styleclass="Heading2"><anchor id="-U-"></anchor>- U -</para>
+    <para styleclass="Title">User Interface (UI)</para>
+    <para styleclass="Body Text">Benutzeroberfläche eines Programms oder Systems, über die Benutzer mit dessen Funktionen und Inhalten interagieren. Dazu gehören beispielsweise Menüs, Schaltflächen, Eingabefelder, Symbole und andere Bedienelemente.</para>
+    <para styleclass="Heading2"><anchor id="-W-"></anchor>- W -</para>
+    <para styleclass="Title">Wohlgeformtheit (XML)</para>
+    <para styleclass="Body Text">Eigenschaft eines XML-Dokuments, das die grundlegenden XML-Syntaxregeln erfüllt. Dazu gehören korrekt geschlossene und verschachtelte Elemente sowie genau ein Wurzelelement. Wohlgeformtheit allein gewährleistet noch nicht, dass die von einer Anwendung erwartete Dokumentstruktur eingehalten wird.</para>
+    <para styleclass="Heading2"><anchor id="-X-"></anchor>- X -</para>
+    <para styleclass="Title">XML (Extensible Markup Language)</para>
+    <para styleclass="Body Text">Textbasiertes, standardisiertes Format zur strukturierten Speicherung und Übertragung von Daten. XML verwendet frei definierbare Elemente und Attribute, um Daten hierarchisch zu beschreiben. Es ist sowohl für Menschen als auch für Maschinen lesbar und wird unter anderem für Konfigurationsdateien, Datenaustausch und als Grundlage verschiedener Dokumentformate wie ODF verwendet.</para>
+    <para styleclass="Title">XML Schema (XSD)</para>
+    <para styleclass="Body Text">Sprache zur Beschreibung der zulässigen Struktur und Datentypen eines XML-Dokuments. Ein Schema legt beispielsweise fest, welche Elemente und Attribute vorkommen dürfen oder müssen. Es ermöglicht die automatisierte Prüfung eines Dokuments auf Einhaltung dieser Vorgaben.</para>
+    <para styleclass="Title">XPath (XML Path Language)</para>
+    <para styleclass="Body Text">Ausdruckssprache zur gezielten Auswahl von Bestandteilen eines XML-Dokuments. Mit Pfadausdrücken lassen sich beispielsweise bestimmte Elemente oder Attribute anhand ihrer Position, ihres Namens oder ihres Werts auswählen.</para>
+    <para styleclass="Title">XSLT (Extensible Stylesheet Language Transformations)</para>
+    <para styleclass="Body Text">Sprache zur regelbasierten Umwandlung von XML-Dokumenten. Sie ermöglicht beispielsweise die Erzeugung von HTML, anderen XML-Strukturen oder reinem Text. Zur Auswahl der zu verarbeitenden Inhalte verwendet XSLT die Sprache XPath.</para>
+  </body>
+</topic>

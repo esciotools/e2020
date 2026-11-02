@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T14:35:18.798Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>LiaScript</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">LiaScript</para>
+    </header>
+    <para styleclass="Body Text">LiaScript ist ein kostenloses Open-Source-Werkzeug zur Erstellung interaktiver Lernmodule. Die Inhalte werden in <text styleclass="T_Emphasis">Markdown</text> geschrieben und mit speziellen Anweisungen für Fragen, Übungen und weitere interaktive Elemente ergänzt. Die Darstellung erfolgt im Browser.</para>
+    <para styleclass="Body Text">Die Bearbeitung erfolgt beispielsweise im browserbasierten LiveEditor oder in Visual Studio Code. Im LiveEditor stehen der Quelltext und die Vorschau des Lernmoduls nebeneinander zur Verfügung. Die Inhalte werden direkt als Text eingegeben. Für die Darstellung als Lernmodul wird die Vorschau aktualisiert.</para>
+    <para styleclass="Image Caption"><image src="065-lia-script-vscode-view.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: LiaScript mit Vorschau in VS Code.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">Ein Lernmodul besteht aus einer Markdown-Datei, die durch Überschriften in Kapitel und Seiten gegliedert wird. Neben Texten und Bildern können Videos, Quizfragen, Lückentexte, Umfragen und weitere interaktive Elemente eingebunden werden. Auch HTML und JavaScript lassen sich verwenden.</para>
+    <para styleclass="Body Text">LiaScript verzichtet weitgehend auf grafische Bearbeitungsfunktionen. Stattdessen werden Inhalte und Funktionen über eine einfache Textsyntax beschrieben. Das erfordert etwas Einarbeitung, erlaubt aber eine flexible und gut nachvollziehbare Bearbeitung der Quelldateien.</para>
+    <para styleclass="Body Text">Für die Veröffentlichung steht der separate <text styleclass="T_Product">LiaScript-Exporter</text> zur Verfügung. Damit lassen sich Lernmodule unter anderem als HTML5-Webausgabe sowie als SCORM-1.2- oder SCORM-2004-Paket erstellen. Weitere Formate sind PDF, EPUB und DOCX.</para>
+    <para styleclass="Body Text">Der Exporter kann als Webanwendung, Desktop-Anwendung oder über die Kommandozeile verwendet werden. Für geläufige LMS stehen vorbereitete Exporteinstellungen zur Verfügung. Die Webausgabe lässt sich auf einem eigenen Webserver bereitstellen.</para>
+    <para styleclass="Image Caption"><image src="065-lia-exporter.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: LiaScript Exporter.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">Zur Veröffentlichung stehen HTML für die Darstellung im Browser sowie SCORM 1.2 und SCORM 2004 für den Einsatz in einem LMS zur Verfügung. Darüber hinaus werden LMS-spezifische Exporte unterstützt, die auf das jeweilige LMS abgestimmte Lernmodule erzeugen. Weitere Ausgabeformate sind unter anderem EPUB und PDF. Die bearbeitbare Quelldatei bleibt im Markdown-Format erhalten.</para>
+    <para styleclass="Image Caption"><image src="068-lia-export.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: LiaScript Exporter-Formate.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">Die Navigation im fertigen Lernmodul erfolgt über die LiaScript-Oberfläche. Lernende können zwischen den Seiten wechseln oder Inhalte direkt über die Kapitelübersicht aufrufen. Die Navigation wird automatisch aus der Markdown-Datei erstellt.</para>
+    <para styleclass="Body Text">Für die Aufzeichnung im LMS wird die SCORM-Ausgabe verwendet. Der Exporter kann Fragen auswerten und eine Bestehensgrenze berücksichtigen. SCORM 1.2 speichert den Bearbeitungsstand nur eingeschränkt. Beispielsweise gehen die Zustände einzelner Fragen beim erneuten Laden verloren. SCORM 2004 bietet dafür mehr Möglichkeiten.</para>
+    <para styleclass="Body Text">Welche Ergebnisse und Abschlussinformationen tatsächlich an das LMS übertragen werden, muss im jeweiligen Lernmodul geprüft werden.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Weitere-Infos" inline="true"/> [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Webressourcen" anchor="LiaScript">Web:Lia</link>].</para>
+  </body>
+</topic>

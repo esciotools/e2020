@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T19:00:32.311Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Werkzeugvergleich</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Werkzeugvergleich</para>
+    </header>
+    <para styleclass="Body Text"><var translate="false">&lt;%DOC_TOOL%&gt;</var> ist für das vorgestellte Anwendungsszenario geeignet. Es verbindet die grafische Bearbeitung mit einer topicbasierten Inhaltsstruktur, wiederverwendbaren Textbausteinen und unterschiedlichen Ausgabeformaten. Die zugänglichen XML-Dateien erlauben ergänzende Eingriffe mit externen Werkzeugen.</para>
+    <para styleclass="Body Text">Eine vergleichende Erprobung mehrerer Autorensysteme wurde nicht durchgeführt. Aus der Umsetzung lässt sich deshalb keine allgemeine Überlegenheit von <var translate="false">&lt;%DOC_TOOL%&gt;</var> ableiten. Die Beurteilung bezieht sich auf seine Eignung für die verwendete MAS-Umgebung.</para>
+    <para styleclass="Body Text">Autorensystem und Texteditor übernehmen dabei unterschiedliche Aufgaben. Die laufende Inhaltsbearbeitung, die Gliederung und die Publikation erfolgen in <var translate="false">&lt;%DOC_TOOL%&gt;</var>. Ein externer Editor eignet sich für gezielte, dateiübergreifende Änderungen. Massgeblich ist der gesamte Ablauf von der Erstellung über die Veröffentlichung bis zur späteren Überarbeitung.</para>
+  </body>
+</topic>

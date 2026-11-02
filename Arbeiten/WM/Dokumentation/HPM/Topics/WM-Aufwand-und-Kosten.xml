@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T21:26:00.643Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Aufwand und Kosten</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Aufwand und Kosten</para>
+    </header>
+    <para styleclass="Body Text"><var translate="false">&lt;%DOC_TOOL%&gt;</var> ist lizenzpflichtig. Für den in dieser Arbeit verwendeten unkomprimierten Projektaufbau wird eine entsprechende Edition benötigt. Ergänzend sind gegebenenfalls Kosten für zusätzliche Ausgabevorlagen und die Bereitstellung im Web zu berücksichtigen.</para>
+    <para styleclass="Body Text">Die eingesetzte Professional Edition wird als unbefristete Kauflizenz für die lokale Installation auf einem PC angeboten. Beim Erstkauf sind zwölf Monate Wartung enthalten. Während dieser Zeit stehen Updates, neue Hauptversionen und technischer Support ohne zusätzliche Kosten zur Verfügung.</para>
+    <para styleclass="Body Text">Nach Ablauf kann die Wartung kostenpflichtig um jeweils ein Jahr verlängert werden. Die Verlängerung ist freiwillig: Ohne Verlängerung lässt sich die zuletzt durch die Lizenz abgedeckte Programmversion zeitlich unbegrenzt weiterverwenden. Der Anspruch auf danach veröffentlichte Updates und neue Hauptversionen entfällt.</para>
+    <para styleclass="Body Text">Stand 16. Oktober 2026 gelten folgende Preise für eine Einzellizenz von <var translate="false">&lt;%DOC_TOOL%&gt;</var> Professional <snippet src="file::WM-SNIP-LVZ-1400.xml" inline="true"/>:</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="3" colcount="3">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Kostenposition</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Preis</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Leistungsumfang</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Erstkauf</para>
+        </td>
+        <td>
+          <para styleclass="Normal">899.00 EUR</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Unbefristete Lizenz inklusive zwölf Monaten Wartung</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Wartungsverlängerung</para>
+        </td>
+        <td>
+          <para styleclass="Normal">179.80 EUR</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Weitere zwölf Monate Updates, neue Hauptversionen und Support</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_7A228E" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Kosten für &lt;%DOC_TOOL%&gt;.</para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_ELLE%&gt;</var>&#32;<snippet src="file::WM-SNIP-LVZ-1400.xml" inline="true"/><text styleclass="Body Text">.</text></para>
+    <para styleclass="Body Text">Bei einer späteren Wiederaufnahme beginnt die Wartungsverlängerung rückwirkend am bisherigen Ablaufdatum. Nach einer längeren Unterbrechung können deshalb mehrere Wartungsjahre erforderlich sein.</para>
+    <para styleclass="Body Text">Der Arbeitsaufwand liegt vor allem in der Strukturierung der Inhalte, der Einrichtung gemeinsamer Ressourcen und der Abstimmung der Ausgabevorlagen. Auch eindeutige Dateinamen, funktionierende Suchpfade und die Prüfung der Ausgaben benötigen Zeit. Die zentrale Pflege kann spätere Mehrfachänderungen vermeiden, setzt aber einen geeigneten Aufbau voraus.</para>
+    <para styleclass="Body Text">Eine verlässliche Aussage zur Zeitersparnis lässt sich daraus nicht ableiten. Der Aufwand wurde nicht systematisch mit einer getrennten Pflege mehrerer Dokumente verglichen. Der Nutzen ist besonders dort nachvollziehbar, wo gleiche Inhalte wiederholt verwendet und regelmässig geändert werden.</para>
+  </body>
+</topic>

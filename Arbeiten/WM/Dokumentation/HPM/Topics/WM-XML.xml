@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T01:26:05.845Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>XML</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">XML</para>
+    </header>
+    <para styleclass="Body Text">XML steht für Extensible Markup Language, auf Deutsch erweiterbare Auszeichnungssprache. Sie beschreibt Inhalte und deren Struktur in einem textbasierten Format. Dazu werden Inhalte mit benannten <text styleclass="T_Emphasis">Elementen</text> gekennzeichnet. <text styleclass="T_Emphasis">Attribute</text> ergänzen Angaben zu diesen Elementen. Die verwendeten Namen und ihre Bedeutung legt die jeweilige Anwendung fest <snippet src="file::WM-SNIP-LVZ-0900.xml" inline="true"/>.</para>
+    <para styleclass="Body Text">Das folgende Beispiel zeigt einen gekürzten und vereinfachten Ausschnitt aus dem Topic <text styleclass="T_Highlight">Wissen</text>:</para>
+    <para styleclass="Body Text"><table styleclass="Default" rowcount="1" colcount="1" style="background-color:#ececec;">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Code Example">&lt;topic template=&quot;Default&quot; version=&quot;2&quot;&gt;</para>
+          <para styleclass="Code Example"> &#160;&lt;title&gt;Wissen&lt;/title&gt;</para>
+          <para styleclass="Code Example"> &#160;&lt;body&gt;</para>
+          <para styleclass="Code Example"> &#160; &#160;&lt;header&gt;</para>
+          <para styleclass="Code Example"> &#160; &#160; &#160;&lt;para styleclass=&quot;Heading1&quot;&gt;Wissen&lt;/para&gt;</para>
+          <para styleclass="Code Example"> &#160; &#160;&lt;/header&gt;</para>
+          <para styleclass="Code Example"> &#160; &#160;&lt;para styleclass=&quot;Body Text&quot;&gt;</para>
+          <para styleclass="Code Example"> &#160; &#160; &#160;Wissen ermöglicht es Menschen, Zusammenhänge zu verstehen,</para>
+          <para styleclass="Code Example"> &#160; &#160; &#160;Situationen einzuschätzen und begründet zu handeln.</para>
+          <para styleclass="Code Example"> &#160; &#160; &#160;&lt;snippet src=&quot;file::WM-SNIP-LVZ-0200.xml&quot; inline=&quot;true&quot;/&gt;</para>
+          <para styleclass="Code Example"> &#160; &#160;&lt;/para&gt;</para>
+          <para styleclass="Code Example"> &#160;&lt;/body&gt;</para>
+          <para styleclass="Code Example">&lt;/topic&gt;</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text">Die wichtigsten Bestandteile lassen sich daran wie folgt erklären:</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="5" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Bestandteil</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Bedeutung im Beispiel</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Element</para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Technical">&lt;title&gt;Wissen&lt;/title&gt;</text> besteht aus einem öffnenden Tag, dem Textinhalt und einem schliessenden Tag.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Attribut</para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Technical">styleclass=&quot;Body Text&quot;</text> weist dem Absatz eine Formatvorlage zu. Attributwerte stehen in Anführungszeichen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Verschachtelung</para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Technical">&lt;topic&gt;</text> umschliesst das Dokument. Darin liegen unter anderem <text styleclass="T_Technical">&lt;title&gt;</text> und <text styleclass="T_Technical">&lt;body&gt;</text>. Die untergeordneten Elemente bilden eine Hierarchie.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Leeres Element</para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Technical">&lt;snippet .../&gt;</text> besitzt keinen eigenen Textinhalt. Seine Attribute verweisen auf die einzubindende Datei und legen die Einbindung im laufenden Text fest.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_7A228E" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Anforderungen an die persönliche Arbeitsumgebung.</para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KIEIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Die Bezeichnungen topic, para oder snippet gehören zum XML-Format von <var translate="false">&lt;%DOC_TOOL%&gt;</var>. XML selbst schreibt diese Namen nicht vor. Auch version=&quot;2&quot; ist eine Angabe des Autorensystems und bezeichnet nicht die Version der XML-Sprache.</para>
+    <para styleclass="Body Text">XML verlangt eine genaue Schreibweise. Gross- und Kleinschreibung werden unterschieden, geöffnete Elemente müssen geschlossen und korrekt ineinander verschachtelt werden. Ein Dokument, das die grundlegenden XML-Syntaxregeln erfüllt, wird als wohlgeformt bezeichnet. Für die Verarbeitung durch <var translate="false">&lt;%DOC_TOOL%&gt;</var> muss zusätzlich die vom Autorensystem erwartete Dokumentstruktur eingehalten werden <snippet src="file::WM-SNIP-LVZ-0800.xml" inline="true"/>&#32;<snippet src="file::WM-SNIP-LVZ-1100.xml" inline="true"/>.</para>
+    <para styleclass="Body Text">Bestimmte Zeichen müssen im Text besonders geschrieben werden. Beispielsweise steht <text styleclass="T_Technical">&amp;lt;</text> für &lt; und <text styleclass="T_Technical">&amp;amp;</text> für &amp;. Der Variablenplatzhalter <text styleclass="T_Technical">&lt;%S\SP%&gt;</text> erscheint im gelieferten Quelltext deshalb als <text styleclass="T_Technical">&amp;lt;%SSP%&amp;gt;</text> innerhalb eines <text styleclass="T_Technical">var</text>-Elements. Einrückungen machen die Verschachtelung leichter lesbar, die Struktur entsteht durch die Elemente. Leerzeichen innerhalb von Textinhalten können dagegen für die Ausgabe relevant sein <snippet src="file::WM-SNIP-LVZ-0800.xml" inline="true"/>.</para>
+    <para styleclass="Body Text">Für die Praxisfälle dieser Arbeit ermöglicht dieser Aufbau, bestimmte Elemente und Attribute gezielt zu finden und zu ändern. Externe Editoren und eigene Hilfsprogramme können solche Anpassungen über mehrere Topicdateien hinweg ausführen. Nach der Bearbeitung werden die Dateien im Autorensystem geöffnet und die betroffenen Ausgaben geprüft <snippet src="file::WM-SNIP-LVZ-1100.xml" inline="true"/>.</para>
+    <para styleclass="Body Text">XML wurde entwickelt, um strukturierte Daten unabhängig von einzelnen Programmen und Plattformen über das Web austauschen und verarbeiten zu können. Es dient damit sowohl der Speicherung von Inhalten als auch dem Datenaustausch zwischen Systemen. Die eindeutig gekennzeichneten Elemente und Attribute ermöglichen eine maschinelle Verarbeitung und unterstützen automatisierte Prozesse. Ergänzende Technologien übernehmen dabei bestimmte Aufgaben: XML Schema definiert die zulässige Dokumentstruktur, XPath ermöglicht den gezielten Zugriff auf Elemente und Attribute, und XSLT beschreibt Regeln zur Umwandlung der Inhalte, beispielsweise in HTML oder andere XML-Strukturen. So lassen sich Daten automatisiert prüfen, weiterverarbeiten und aus einer gemeinsamen Inhaltsquelle unterschiedliche Ausgaben erzeugen. Dieses Zusammenspiel unterstützt die Trennung von Inhalt, Verarbeitung und Darstellung und bildet eine technische Grundlage für <var translate="false">&lt;%SSP%&gt;</var>&#32;<snippet src="file::WM-SNIP-LVZ-0800.xml" inline="true"/><text translate="false">.</text></para>
+  </body>
+</topic>

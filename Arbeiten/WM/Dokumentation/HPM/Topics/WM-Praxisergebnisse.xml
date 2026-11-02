@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T18:59:06.321Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Praxisergebnisse</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Praxisergebnisse</para>
+    </header>
+    <para styleclass="Body Text">Mit <var translate="false">&lt;%DOC_TOOL%&gt;</var> wurde eine Dokumentationsumgebung aufgebaut, in der die EL-Arbeit, die WM-Arbeit und das MAS-Handbuch getrennt organisiert sind und gemeinsame Inhalte verwenden. Das MAS-Repository stellt gemeinsame Formatvorlagen und vorbereitete Textbausteine bereit. Projektspezifische Ausgabevorlagen ermöglichen eine unterscheidbare Gestaltung auf gemeinsamer Grundlage.</para>
+    <para styleclass="Body Text">Die Wiederverwendung wird am Topic <text styleclass="T_Emphasis">Dokumentkonventionen</text> konkret gezeigt. Sein Inhalt wird in der EL-Arbeit gepflegt und als verlinktes Snippet in die WM-Arbeit eingebunden. Eine unabhängige Pflege desselben Textes entfällt damit. Kopierte Hinweisboxen erfüllen einen anderen Zweck: Sie liefern einen vorbereiteten Aufbau, während ihr Inhalt an der jeweiligen Verwendungsstelle ergänzt wird.</para>
+    <para styleclass="Body Text">Die XML-basierten Projektdateien ermöglichen zusätzlich gezielte Änderungen über mehrere Topics hinweg. Die Praxisbeispiele beschreiben das nachträgliche Einfügen von Variablen und die Korrektur von Absatzformaten bei Abbildungen. Solche Eingriffe ergänzen die grafische Bearbeitung, erfordern jedoch ein genaues Verständnis der XML-Struktur und der Auswirkungen der Änderungen.</para>
+  </body>
+</topic>

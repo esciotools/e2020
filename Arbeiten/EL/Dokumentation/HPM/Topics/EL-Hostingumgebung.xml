@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-10T15:31:02.637Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Hostingumgebung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Hostingumgebung</para>
+    </header>
+    <para styleclass="Body Text">Die Verwaltung eines Servers erfordert technisches Fachwissen. Hostinganbieter übernehmen einen grossen Teil dieser Aufgaben und stellen grafische Werkzeuge bereit. Nach der Anmeldung beim Hostinganbieter gelangt man in der Regel ins <text styleclass="T_Emphasis">Kundenportal</text>, von dem aus diese Werkzeuge aufgerufen werden können. Mit einem Control Panel lässt sich die Hostingumgebung verwalten, Installationswerkzeuge wie Softaculous vereinfachen die Einrichtung von Webanwendungen. Damit können auch Personen mit IT-Grundkenntnissen ein Lernmanagementsystem auf einem Webserver installieren und betreiben.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Topic-Themen-Links" inline="true"/></para>
+  </body>
+</topic>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T21:11:06.309Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Pfade</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Pfade</para>
+    </header>
+    <para styleclass="Body Text">Die Projekt-Suchpfade legen fest, in welchen Ordnern <var translate="false">&lt;%DOC_TOOL%&gt;</var> Bilder und externe Snippets sucht. Die Ordner werden in der angegebenen Reihenfolge durchsucht. Bei gleichnamigen Dateien wird die zuerst gefundene verwendet. Für externe Snippets gilt dies, wenn beim Einfügen die Option zur Verwendung der Projekt-Suchpfade aktiviert wurde <snippet src="file::WM-SNIP-LVZ-1200.xml" inline="true"/>.</para>
+    <para styleclass="Body Text">Eindeutige Dateinamen vermeiden Verwechslungen. Deshalb erhalten die Topicdateien der MAS-Projekte ein projektspezifisches Präfix. Dieses kennzeichnet ihre Herkunft und verhindert Namenskonflikte bei der Verwendung als externe Snippets.</para>
+    <para styleclass="Image Caption"><image id="FIG15F91751" src="018-hpm-topic-prefix.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Präfix für Topicdateien.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Als Präfix wird das Projektkürzel verwendet und durch einen Bindestrich vom restlichen Dateinamen getrennt.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="4" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Präfix</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Projekt</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">EL-</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Projektarbeit E-Learning</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">WM-</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Projektarbeit Wissensmanagement</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">MAS-</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Handbuch zur Masterarbeit</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_7A228E" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Präfixe für die Topicdateien.</para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text"><var translate="false">&lt;%DOC_TOOL%&gt;</var> erleichtert die einheitliche Benennung der Topicdateien: In den Einstellungen lässt sich ein Präfix festlegen, welches beim Anlegen neuer Topics automatisch übernommen wird.</para>
+    <para styleclass="Image Caption"><image id="FIG8945A7D5" src="034-topic-prefix-setzen.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: ]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Werden Grafiken und Fotos in mehreren Ordnern abgelegt, helfen auch hier Präfixe, ihre Herkunft zu erkennen und gleichnamige Dateien zu unterscheiden.</para>
+    <para styleclass="Image Caption"><image id="FIG8BEFB7C0" src="022-pfade-aktuell.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Projekt-Suchpfade.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Die Suchpfade bilden die Abhängigkeiten zwischen den Projekten ab. Das MAS-Handbuch kann auf Topicdateien der EL- und der WM-Arbeit zugreifen. Die EL-Arbeit berücksichtigt den Topicordner des MAS-Handbuchs, die WM-Arbeit den Topicordner der EL-Arbeit. Welche Inhalte tatsächlich eingebunden werden, wird beim Einfügen der Snippets festgelegt.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Ein Suchpfad macht Dateien auffindbar, er bindet sie noch nicht ein.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><var translate="false">&lt;%DOC_TOOL%&gt;</var> speichert die Suchpfade relativ zum Projektordner, auch wenn in den Einstellungen vollständige Pfade angezeigt werden. Die Verknüpfungen bleiben beim gemeinsamen Verschieben der Ordner erhalten, sofern sich deren Lage zueinander nicht ändert. Nach einem Verschieben werden die Suchpfade und die Registrierung des Repositorys geprüft.</para>
+    <para styleclass="Body Text">Enthält ein externes Snippet Bilder, müssen auch diese im verwendenden Projekt auffindbar sein. Die Suchpfade berücksichtigen deshalb neben den Snippetdateien auch die benötigten Bildordner.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Wird die Ordnerstruktur der <link displaytype="text" defaultstyle="true" type="topiclink" href="WM-MAS-Umgebung">MAS-Umgebung</link> beibehalten, lassen sich die bereitgestellten Projekte dank der relativen Suchpfade auch auf einem anderen Rechner mit geringem Anpassungsaufwand nutzen.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-09T15:09:34.449Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Grenzen und Übertragbarkeit</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Grenzen und Übertragbarkeit</para>
+    </header>
+    <para styleclass="Body Text">Die Ergebnisse beziehen sich auf ausgewählte Werkzeuge, konkrete Beispiele und die verwendete Hostingumgebung. Sie bilden keine vollständige Marktübersicht und erlauben keine allgemeine Rangfolge der Produkte. Änderungen an Softwareversionen oder Hostingangeboten können zudem die beschriebenen Abläufe beeinflussen.</para>
+    <para styleclass="Body Text">Die Erprobung konzentriert sich auf die technische Erstellung und Bereitstellung. Sie belegt weder die didaktische Wirksamkeit der Lernangebote noch deren Akzeptanz bei Lernenden. Ebenso wurden der Betrieb mit vielen gleichzeitigen Benutzern und die langfristige Zuverlässigkeit nicht untersucht.</para>
+    <para styleclass="Body Text">Die grundlegenden Arbeitsschritte lassen sich auf vergleichbare Vorhaben von Einzelpersonen und kleineren Organisationen übertragen. Voraussetzung sind passende technische Rahmenbedingungen und ausreichend Zeit für die Einarbeitung. Grundkenntnisse reichen für viele Standardaufgaben aus, bei Fehlern oder besonderen Anforderungen kann zusätzliche technische Unterstützung notwendig werden.</para>
+  </body>
+</topic>

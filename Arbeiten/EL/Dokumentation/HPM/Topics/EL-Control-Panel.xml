@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T20:43:25.510Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Control Panel</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Control Panel</para>
+    </header>
+    <para styleclass="Body Text">Ein Control Panel (Kontrollzentrum) ist eine grafische Verwaltungsoberfläche für Webhosting und Server. Es ermöglicht viele Administrationsaufgaben ohne direkten Zugriff auf das Betriebssystem oder die Kommandozeile. Grundkenntnisse der verwendeten Fachbegriffe und Hostingkonzepte erleichtern die Bedienung.</para>
+    <para styleclass="Body Text">Je nach Hostingangebot lassen sich damit Domains, Subdomains, Websites, Verzeichnisse, Dateien, Datenbanken und E-Mail-Konten verwalten. Weitere Funktionen umfassen SSL-Zertifikate, Datensicherungen und deren Wiederherstellung, PHP-Einstellungen sowie die Installation und Verwaltung von Webanwendungen.</para>
+    <para styleclass="Body Text">Beim Shared Hosting verwaltet der Anbieter den Server, während der Kunde seine Hostingumgebung über das Control Panel betreut.</para>
+    <para styleclass="Body Text">Neben Eigenentwicklungen der Hostinganbieter gibt es eigenständige Produkte spezialisierter Softwarehersteller. Zu den bekanntesten kommerziellen Lösungen gehören <text styleclass="T_Product">cPanel</text> und <text styleclass="T_Product">Plesk</text>. Beide bieten die wesentlichen Verwaltungsfunktionen für Websites, Domains, E-Mail, Datenbanken, Dateien und Sicherheit [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Webressourcen" anchor="ControlPanel">Web:Control Panel</link>].</para>
+    <para styleclass="Body Text">cPanel gliedert seine Funktionen in thematische Bereiche, beispielsweise Dateien, Datenbanken, Domains und E-Mail.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Image Caption"><image id="FIG212C85EC" src="012-cpanel-ui.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="0"><caption><![CDATA[Benutzeroberfläche von cPanel.]]></caption></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text">Plesk organisiert den Zugriff auf Websites und Domains, E-Mail, Dateien und Datenbanken über eine dauerhaft sichtbare linke Seitenleiste.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="013-plesk-ui.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"><caption><![CDATA[Benutzeroberfläche von Plesk]]></caption></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text">Beide Oberflächen können über Demo-Installationen im Browser ausprobiert und verglichen werden. So lassen sich Aufbau, Navigation und Verwaltungsfunktionen ohne eigenes Hosting oder eine Serverinstallation kennenlernen.</para>
+    <para styleclass="Body Text">Der Zugang erfolgt üblicherweise über das Kundenportal des Hostinganbieters. Bezeichnung und Position unterscheiden sich je nach Anbieter:</para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Beim Hostinganbieter anmelden.</li>
+      <li styleclass="Body Text">Webhosting auswählen.</li>
+      <li styleclass="Body Text">Zugehöriges Control Panel öffnen.</li>
+      <li styleclass="Body Text">Die verfügbaren Webhosting-Tools aufrufen.<conditional-text type="IFNOT" value="PDF,DOCX"/></li>
+    </list>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Explainer]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text"><video src="001-cpanel.xplain" autostart="false" loop="false" showcontrols="false" playbutton="true" printcolumns="2" lightbox="true" previewimage="001-cpanel.xplain" imagestyleclass="Standard" scale="-50.00%" styleclass="Image Caption"><title>Explainer: cPanel öffnen</title><caption><![CDATA[Explainer: cPanel öffnen]]></caption></video></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><conditional-text type="END"/><conditional-text type="IF" value="PDF,DOCX"/></para>
+    <para styleclass="Body Text">Eine bebilderte Schritt-für-Schritt-Anleitung zum Öffnen des cPanel ist über folgende Verweise verfügbar:</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Im Anhang</text>: <link displaytype="text" defaultstyle="true" type="topiclink" href="EL-CPanel-oeffnen">&lt;%TARGETTITLE%&gt;</link></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Online PDF</text>: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_LIB_EL_EXPLAIN%&gt;/001/pdf/001-cpanel.pdf" target="_blank">cPanel öffnen</link></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Online HTML</text>: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_LIB_EL_EXPLAIN%&gt;/001/html/001-cpanel.html" target="_blank">cPanel öffnen</link> – interaktiver Explainer<conditional-text type="END"/></para>
+    <para styleclass="Heading2">Bedeutung für diese Arbeit</para>
+    <para styleclass="Body Text">Für die praktischen Beispiele zur Verwaltung des Servers beim Webhosting wird <text styleclass="T_Product">cPanel</text> verwendet.</para>
+  </body>
+</topic>

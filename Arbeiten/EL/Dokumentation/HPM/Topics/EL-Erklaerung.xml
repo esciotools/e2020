@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T22:02:40.249Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Erklärung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Erklärung</para>
+    </header>
+    <para styleclass="Body Text">Ich erkläre hiermit,</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">dass ich die vorliegende Arbeit ohne fremde Hilfe und ohne Verwendung anderer als der angegebenen Hilfsmittel verfasst habe,</li>
+      <li styleclass="Body Text">dass ich sämtliche verwendeten Quellen erwähnt und gemäss gängigen wissenschaftlichen Zitierregeln korrekt zitiert habe.</li>
+    </list>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Body Text">Erklärung zum Einsatz von Künstlicher Intelligenz (KI):</para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Body Text">☐ Ich habe für die Erstellung dieser Arbeit keine Werkzeuge Künstlicher Intelligenz (KI) verwendet.</para>
+    <para styleclass="Body Text"><text style="font-weight:bold;">X</text> Ich habe für die Erstellung dieser Arbeit KI-gestützte Werkzeuge (z. B. ChatGPT, Claude) wie folgt eingesetzt:</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#167;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Wingdings; font-size:11pt; color:#000000;">
+      <list id="1" level="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+        <li styleclass="Body Text">Werkzeug / Modell: ChatGPT, Google Gemini</li>
+        <li styleclass="Body Text">Verwendungszweck: Rechtschreibprüfung, Brainstorming zur Gliederung, Formulierungshilfen, Rechercherche, Grafiken, Zusammenfassungen</li>
+        <li styleclass="Body Text">Die inhaltliche Verantwortung sowie die kritische Reflexion verbleiben vollumfänglich bei der Autorschaft.</li>
+      </list>
+    </list>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Body Text">Ort, Datum: Kloten, 18.10.2026</para>
+    <para styleclass="Body Text">Unterschrift:</para>
+    <para styleclass="Normal"><image src="sig-hub.png" imagestyleclass="Standard" scale="25.00%" width="200" height="68" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

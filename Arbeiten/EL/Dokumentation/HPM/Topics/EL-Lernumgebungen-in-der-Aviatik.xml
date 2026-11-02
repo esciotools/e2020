@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T10:53:49.337Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Lernumgebungen in der Aviatik</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Lernumgebungen in der Aviatik</para>
+    </header>
+    <para styleclass="Body Text">Im Antrag zur Masterarbeit war vorgesehen, die Anforderungen an LMS in auditrelevanten Branchen zu untersuchen. Als Anwendungsbereich wurde die Aviatik gewählt. Die Untersuchung konnte aus Zeitgründen nur in reduziertem Umfang durchgeführt werden. Die folgenden Ergebnisse geben dennoch einen praxisbezogenen Einblick in die Anforderungen der Pilotenausbildung.</para>
+    <para styleclass="Heading2">Schlussfolgerung</para>
+    <para styleclass="Body Text">Die Schlussfolgerung stützt sich auf zwei Befragungen aus dem Bereich der Pilotenausbildung. Der abgebildete <link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Fragenkatalog-Aviatik">&lt;%TARGETTITLE%&gt;</link> wurde von einem der beiden Teilnehmenden, einem Chief Theoretical Knowledge Instructor (CTKI) an einer Pilotenschule für angehende Airlinepiloten, ausgefüllt. Aus Zeitgründen war es nicht möglich, die Befragung breiter durchzuführen. Die Ergebnisse dienen deshalb der praxisbezogenen Einordnung und sind nicht repräsentativ.</para>
+    <para styleclass="Body Text">Der ausgefüllte Fragenkatalog zeigt, und stimmt darin mehrheitlich mit dem zweiten ausgefüllten Fragebogen überein, dass ein LMS in der Pilotenausbildung mehr leisten muss als die Bereitstellung von Lerninhalten. Besonders wichtig sind die eindeutige Zuordnung der Ausbildungsdaten zu einer Person, die Dokumentation der verwendeten Inhaltsversionen sowie die Erfassung von Ausbildungszeiten, Prüfungsversuchen und Ergebnissen. Beim Abschluss werden neben dem Aufruf der vorgeschriebenen Inhalte auch bestandene Tests, bestätigte Leistungen und erreichte Kompetenzen als wesentlich eingestuft. Für Prüfungen stehen kontrollierte Abläufe, Identitätsprüfung und der Schutz der Prüfungsinhalte im Vordergrund. Die gewünschten Auswertungen betreffen vor allem individuelle Leistungen, Lernziele und Wiederholungen, detaillierte statistische Analysen einzelner Fragen werden weniger stark gewichtet.</para>
+    <para styleclass="Body Text">Bevorzugt wird ein zentrales LMS, das Ergebnisse externer Autoren- und Testsysteme übernimmt. Einfache Bedienung, klare Lernpfade und zuverlässige Rückmeldungen sind ebenso wichtig wie Verfügbarkeit, Support, Datensicherung und langfristige Betriebskosten. Technischer Betrieb kann extern erfolgen, während fachliche Verantwortung und Datenhoheit intern verbleiben.</para>
+    <para styleclass="Body Text">Die Antworten aus den beiden Befragungen decken sich mit der Einschätzung des Autors, der viele Jahre im Bereich E-Learning in der Aviatik tätig war. Sie stützen die Auffassung, dass die Eignung eines LMS vor allem von nachvollziehbaren Ausbildungsnachweisen, verlässlichen Prüfungsabläufen und einem dauerhaft gesicherten Betrieb abhängt. Eine grosse Anzahl von Funktionen allein reicht dafür nicht aus.</para>
+    <para styleclass="Heading2">Bedeutung für diese Arbeit</para>
+    <para styleclass="Body Text">Die in dieser Arbeit eingesetzten LMS wurden nicht auf die Erfüllung dieser Anforderungen überprüft. Der Fragenkatalog kann jedoch als erster Entwurf für eine entsprechende LMS-Evaluation dienen und für den jeweiligen Ausbildungskontext ergänzt und konkretisiert werden.</para>
+  </body>
+</topic>

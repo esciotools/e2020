@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T19:40:04.426Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Zielerreichung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Zielerreichung</para>
+    </header>
+    <para styleclass="Body Text">Die Arbeit zeigt einen praktisch umsetzbaren Weg, um Dokumentationsinhalte zentral zu pflegen, projektübergreifend wiederzuverwenden und einheitlich zu gestalten. Die MAS-Umgebung und die beschriebenen Praxisfälle machen die wesentlichen Arbeitsschritte nachvollziehbar. Die XML-basierten Quellen ermöglichen ergänzende Anpassungen mit externen Werkzeugen.</para>
+    <para styleclass="Body Text">Die geprüften Veröffentlichungen als HTML-Dokumentation, PDF und weiteren Formaten zeigen, dass sich aus denselben Quellen unterschiedliche Ausgaben erstellen lassen. Gemeinsame Inhalte werden dabei übernommen und entsprechend den gewählten Ausgabevorlagen dargestellt. Die Versionsverwaltung macht Änderungen nachvollziehbar und ermöglicht den Rückgriff auf frühere Projektstände.</para>
+    <para styleclass="Body Text">Die zentrale Fragestellung nach der zentralen Verwaltung, Pflege und Veröffentlichung einer Dokumentation in unterschiedlichen Formaten lässt sich damit durch das Zusammenspiel von topicbasierten Inhalten, verlinkten Textbausteinen, gemeinsamen Formatvorlagen und ausgabespezifischen Vorlagen beantworten. Voraussetzung sind eine klare Organisation der Quellen und ein geregelter Publikations- und Prüfablauf.</para>
+    <para styleclass="Body Text">Der Beitrag zum Wissensmanagement liegt in der strukturierten Aufbereitung, Bewahrung und Bereitstellung von Fachinformationen. Dokumentierte Erfahrungen und Vorgehensweisen bleiben erhalten und können von anderen nachvollzogen und genutzt werden. Die zentrale Pflege unterstützt die Konsistenz dieser Wissensbasis, unterschiedliche Ausgabeformate erleichtern den Zugang. Aktuelle und verlässliche Inhalte erfordern jedoch weiterhin eine regelmässige fachliche Pflege und die Prüfung der veröffentlichten Ausgaben.</para>
+  </body>
+</topic>

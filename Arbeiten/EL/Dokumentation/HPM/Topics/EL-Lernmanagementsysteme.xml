@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-10T15:25:49.200Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Lernmanagementsysteme</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Lernmanagementsysteme</para>
+    </header>
+    <para styleclass="Body Text">Ein Lernmanagementsystem, kurz LMS, ist eine Software zur Bereitstellung, Organisation und Verwaltung digitaler Lernangebote. Es bildet eine gemeinsame Umgebung, in der Kurse eingerichtet, Lerninhalte bereitgestellt sowie Benutzer und Zugriffsrechte verwaltet werden können.</para>
+    <para styleclass="Body Text">Ein LMS verbindet die Lernangebote mit den dafür erforderlichen organisatorischen Funktionen. Es kann beispielsweise anzeigen, welche Personen an einem Kurs teilnehmen, welche Aktivitäten sie bearbeitet haben und welche Ergebnisse sie bei Tests erzielt haben.</para>
+    <para styleclass="Body Text" style="page-break-after:avoid;">Zu den typischen Funktionen eines LMS gehören:</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="11" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Funktionsbereich</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Beispiele</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Kurse und Inhalte</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kurse anlegen, Materialien bereitstellen, Lernmodule einbinden</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Benutzer und Rollen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Benutzerkonten, Gruppen, Einschreibungen und Zugriffsrechte verwalten</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Kommunikation</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Mitteilungen, Foren, Chats oder Benachrichtigungen bereitstellen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Lernaktivitäten</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Aufgaben, Übungen, Umfragen und weitere Aktivitäten durchführen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Fragen und Tests</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Fragen verwalten, Tests erstellen und Ergebnisse bewerten</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Lernfortschritt</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Bearbeitungsstände, Abschlüsse und Ergebnisse dokumentieren</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Berichte</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Aktivitäten und Lernergebnisse auswerten</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Standards und Schnittstellen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Lernmodule importieren und externe Werkzeuge anbinden</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Erweiterungen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Zusätzliche Funktionen über Plugins ergänzen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Betrieb und Sicherheit</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Konfiguration, Aktualisierungen, Datensicherung und Zugriffssteuerung ermöglichen</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Typische Funktionen eines LMS.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_REF%&gt;</var><text translate="false">&#32;</text><text styleclass="Body Text">[</text><link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Literaturverzeichnis" anchor="EL-LVZ-0400" styleclass="Body Text">4</link><text styleclass="Body Text">]</text></para>
+    <para styleclass="Body Text">Nicht jedes LMS stellt alle aufgeführten Funktionen im gleichen Umfang bereit. Die Unterschiede liegen häufig weniger in den grundlegenden Möglichkeiten als in deren Ausgestaltung, Bedienung, Erweiterbarkeit und technischem Aufwand.</para>
+    <para styleclass="Body Text">Ein LMS ist nicht mit einem Autorentool oder einem einzelnen Lernmodul gleichzusetzen. Mit einem Autorentool werden Lerninhalte erstellt. Das LMS dient dagegen vor allem dazu, diese Inhalte in Kursen zu organisieren, für bestimmte Benutzer bereitzustellen und ihre Bearbeitung zu begleiten. Einige LMS enthalten zusätzlich eigene Funktionen zur Erstellung von Lerninhalten.</para>
+    <para styleclass="Body Text" style="page-break-after:avoid;">Bei der Nutzung eines LMS treten unterschiedliche Rollen auf:</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="5" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Rolle</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Typische Aufgaben</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainee</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kurse aufrufen, Lerninhalte bearbeiten, Lernaktivitäten und Tests durchführen und den eigenen Lernfortschritt einsehen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kurse und Lerninhalte gestalten, Lernaktivitäten betreuen, Aufgaben und Tests auswerten sowie den Lernfortschritt der Teilnehmenden begleiten.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Course Manager</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kurse anlegen und organisieren, Trainer und Teilnehmende zuweisen, Kursabläufe verwalten sowie kursübergreifende Berichte auswerten.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Administrator</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Das LMS technisch konfigurieren, Benutzerkonten und systemweite Rollen verwalten, Erweiterungen einrichten sowie Sicherheit, Aktualisierungen und Betrieb sicherstellen.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_1FF1D3" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Typische Rollen und Aufgaben in einem LMS.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Während der Trainer die konkrete Durchführung eines Kurses betreut, ist der Course Manager vorwiegend für dessen organisatorische Verwaltung zuständig. Die genaue Aufgabenverteilung kann je nach LMS und Rechtekonfiguration abweichen.</para>
+    <para styleclass="Body Text">Die genaue Bezeichnung und Aufteilung der Rollen unterscheidet sich je nach System und Arbeitsumgebung. In kleinen Projekten kann eine Person mehrere Rollen übernehmen. Beispielsweise kann dieselbe Person das LMS einrichten, den Kurs aufbauen und die Lerninhalte erstellen. Dies reduziert den personellen Aufwand, setzt aber entsprechend breite Kenntnisse voraus.</para>
+    <para styleclass="Heading2">Betriebsmodelle von Lernmanagementsystemen</para>
+    <para styleclass="Body Text">Lernmanagementsysteme können lokal, auf einem eigenen oder gemieteten Webserver oder als vollständig bereitgestellter Onlinedienst betrieben werden. Im Mittelpunkt dieser Arbeit stehen Open-Source-LMS, die sich auf eigener Infrastruktur installieren lassen. Dies reduziert Lizenzkosten und ermöglicht mehr Kontrolle über die technische Umgebung und die gespeicherten Daten. Dafür müssen Installation, Konfiguration, Aktualisierung und Datensicherung selbst übernommen werden.</para>
+    <para styleclass="Heading2"><image id="FIGBEB87255" src="003-lms-kernfunktionen.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Grundlegende Funktionen eines Lernmanagementsystems.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+  </body>
+</topic>

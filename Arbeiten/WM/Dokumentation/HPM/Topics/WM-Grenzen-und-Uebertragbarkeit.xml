@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T19:27:21.968Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Grenzen und Übertragbarkeit</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Grenzen und Übertragbarkeit</para>
+    </header>
+    <para styleclass="Body Text">Die Ergebnisse beziehen sich auf <var translate="false">&lt;%DOC_TOOL%&gt;</var> X10 in der Professional Edition unter <var translate="false">&lt;%WIN_VER%&gt;</var> und auf die verwendete MAS-Umgebung. Sie bilden keine vollständige Marktübersicht. Änderungen an Softwareversionen oder Projektstrukturen können die beschriebenen Abläufe beeinflussen.</para>
+    <para styleclass="Body Text">Die zugänglichen XML-Dateien erleichtern technische Anpassungen, machen die Projekte aber nicht unabhängig vom Autorensystem. Für die korrekte Verarbeitung muss dessen Dokumentstruktur eingehalten werden. Fehlerhafte Ersetzungen können mehrere Topics gleichzeitig betreffen.</para>
+    <para styleclass="Body Text">Die Arbeit zeigte die Erstellung, Pflege und Bereitstellung dokumentierter Fachinformationen. Sie belegt weder deren tatsächliche Nutzung noch eine Verbesserung des Wissenstransfers. Auch die langfristige Pflege und die Zusammenarbeit mehrerer Autoren wurden nicht systematisch untersucht.</para>
+    <para styleclass="Body Text">Die grundlegenden Arbeitsweisen lassen sich auf vergleichbare Dokumentationen von Einzelpersonen und kleineren Organisationen übertragen. Voraussetzung sind eine nachvollziehbare Ablagestruktur und geregelte Zuständigkeiten. Für die grafische Inhaltsbearbeitung sind keine Programmierkenntnisse erforderlich. Direkte XML-Eingriffe benötigen zusätzliche technische Kenntnisse.</para>
+  </body>
+</topic>

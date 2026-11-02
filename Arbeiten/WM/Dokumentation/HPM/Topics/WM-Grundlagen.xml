@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T15:08:47.627Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Grundlagen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Grundlagen</para>
+    </header>
+    <para styleclass="Body Text">Die Erstellung einer Dokumentation verbindet fachliche Inhalte mit ihrer technischen Aufbereitung und Veröffentlichung. Damit Informationen verständlich, aktuell und in mehreren Formaten verfügbar bleiben, müssen Inhaltsstruktur, Bearbeitung und Ausgabe aufeinander abgestimmt sein.</para>
+    <para styleclass="Body Text"><var translate="false">&lt;%SSP%&gt;</var> ermöglicht die zentrale Pflege und mehrfache Verwendung von Inhalten. Autorensysteme unterstützen deren Bearbeitung und Veröffentlichung. Standards und Formate bestimmen, wie Informationen gespeichert, ausgetauscht und ausgegeben werden. Versionsverwaltung und Datensicherung helfen, Änderungen nachzuvollziehen und frühere Projektstände wiederherzustellen.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Topic-Themen-Links" inline="true"/></para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Body Text"></para>
+  </body>
+</topic>

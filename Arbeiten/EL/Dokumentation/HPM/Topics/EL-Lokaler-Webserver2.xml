@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-08T12:18:03.500Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Lokaler Webserver</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Lokaler Webserver</para>
+    </header>
+    <para styleclass="Body Text">Ein lokaler Webserver stellt Webanwendungen und Inhalte auf dem eigenen Computer bereit. Der Zugriff erfolgt meist über den Browser desselben Computers unter einer URL wie <text styleclass="T_Technical">https://localhost</text>. Die Anwendung verhält sich dabei grundsätzlich wie auf einem Webserver im Internet, benötigt jedoch kein externes Hosting.</para>
+    <para styleclass="Body Text">Viele Webanwendungen benötigen zusätzlich eine Laufzeitumgebung und eine Datenbank. Eine typische Umgebung für PHP-basierte Anwendungen besteht aus einem Webserver wie Apache oder Nginx, PHP sowie MariaDB oder MySQL. Die konkreten Anforderungen hängen von der Anwendung ab, auch LMS benötigen meist eine solche Umgebung.</para>
+    <para styleclass="Body Text">Der lokale Betrieb eignet sich für Installation, Konfiguration, Erprobung und Entwicklung. Änderungen lassen sich testen, ohne eine öffentlich erreichbare oder produktive Installation zu beeinflussen. Für den dauerhaften Zugriff mehrerer Benutzer über das Internet eignet sich hingegen eine entsprechende Server- oder Webhostingumgebung.</para>
+    <para styleclass="Body Text">Die benötigten Komponenten können einzeln installiert oder mit Tools wie XAMPP und Docker bereitgestellt werden.</para>
+    <para styleclass="Body Text"><text styleclass="T_Product">XAMPP</text> bietet unter Windows eine vorkonfigurierte Serverumgebung mit Apache, PHP und MariaDB. Damit lassen sich PHP-basierte Webanwendungen mit vergleichsweise geringem Einrichtungsaufwand lokal betreiben.</para>
+    <para styleclass="Body Text"><text styleclass="T_Product">Docker</text> führt Webserver, Datenbank und weitere Komponenten in sogenannten Containern aus. Die Dienste lassen sich getrennt konfigurieren und gemeinsam starten oder beenden. So können unterschiedliche Serverumgebungen auf demselben Computer betrieben werden, ohne alle Komponenten direkt im Windows-System zu installieren.</para>
+    <para styleclass="Body Text">Beide Werkzeuge ermöglichen somit lokale Webanwendungen, verfolgen aber unterschiedliche Ansätze.</para>
+    <para styleclass="Image Caption"><image id="FIGD1006499" src="011-localhost.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Aufbau einer lokalen Webserverumgebung.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Weitere-Infos" inline="true"/> [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Webressourcen" anchor="Docker">Web:Docker</link>] [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Webressourcen" anchor="XAMPP">Web:XAMPP</link>].</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: XAMPP und Docker werden hier zur Einordnung beschrieben, jedoch entsprechend der <link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Abgrenzung">&lt;%TARGETTITLE%&gt;</link> in dieser Arbeit nicht praktisch eingesetzt. </para>
+  </body>
+</topic>

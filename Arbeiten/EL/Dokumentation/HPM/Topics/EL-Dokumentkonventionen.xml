@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T21:31:39.864Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Dokumentkonventionen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Dokumentkonventionen</para>
+    </header>
+    <para styleclass="Heading2">Hinweisarten</para>
+    <para styleclass="Body Text">Zur besseren Lesbarkeit und zur einheitlichen Darstellung wichtiger Informationen werden in dieser Arbeit unterschiedlich gefärbte Hinweisboxen verwendet. Sie dienen dazu, Zusatzinformationen hervorzuheben, Empfehlungen zu geben oder auf mögliche Risiken aufmerksam zu machen. Dabei werden folgende Hinweisarten unterschieden:</para>
+    <para styleclass="Title">Info</para>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Enthält ergänzende Informationen oder Hintergrundwissen, die das Verständnis eines Sachverhalts erleichtern, für die Durchführung jedoch nicht zwingend erforderlich sind.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title">Tipp</para>
+    <para styleclass="Body Text"><table styleclass="Box_Tip" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Enthält bewährte Vorgehensweisen, Empfehlungen oder praktische Hinweise, welche die Arbeit erleichtern, effizienter gestalten oder zu besseren Ergebnissen führen können.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title">Achtung</para>
+    <para styleclass="Body Text"><table styleclass="Box_Caution" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Weist auf wichtige Voraussetzungen, Einschränkungen oder mögliche Probleme hin. Das Nichtbeachten kann zu Fehlfunktionen, unerwarteten Ergebnissen oder unnötigem Mehraufwand führen.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title">Warnung</para>
+    <para styleclass="Body Text"><table styleclass="Box_Warning" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Weist auf erhebliche Risiken oder schwerwiegende Folgen hin, beispielsweise Datenverlust, Fehlkonfigurationen oder andere unerwünschte Auswirkungen. Warnungen sollten stets beachtet werden.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading2"><anchor id="IEEEZitierstil"></anchor>IEEE-Zitierstil</para>
+    <para styleclass="Body Text">Mit der Studienleitung wurde vereinbart, dass in dieser Arbeit der IEEE-Zitierstil (Institute of Electrical and Electronics Engineers) verwendet wird. Der IEEE-Zitierstil ist ein nummernbasierter Zitierstil, der vor allem in den Bereichen Informatik, Elektrotechnik, Software Engineering, Telekommunikation, Maschinenbau sowie der technischen Dokumentation verbreitet ist.</para>
+    <para styleclass="Body Text">Dabei wird im Fliesstext nicht der Autor genannt, sondern lediglich eine Nummer in eckigen Klammern. Die Nummer verweist auf den entsprechenden Eintrag im Literaturverzeichnis.</para>
+    <para styleclass="Title">Beispiele:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Single-Source-Publishing verbessert die Wiederverwendbarkeit [5].</li>
+      <li styleclass="Body Text">Mehrere Studien bestätigen diesen Ansatz [2], [6], [8].</li>
+    </list>
+    <para styleclass="Body Text">Das Literaturverzeichnis wird nach Reihenfolge der ersten Nennung im Text nummeriert. Die einzelnen Literaturangaben sind nach den Formatierungsrichtlinien der APA (7. Auflage) erstellt.</para>
+    <para styleclass="Title">Beispiele:</para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#91;&#37;&#48;&#58;&#115;&#93;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="5" styleclass="Body Text" style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Meier, P. (2024). Single-Source-Publishing: Grundlegende Prinzipien. IKF Luzern.</li>
+      <li styleclass="Body Text">Bernasconi, C. (2025). Single-Source-Publishing im Wissensmanagement am IKF. IKF Luzern.</li>
+    </list>
+    <para styleclass="Body Text">Da die Quellenverweise direkt mit den Einträgen im Literaturverzeichnis verknüpft sind, werden deren Nummerierung und Verweise bei Änderungen automatisch konsistent gehalten. Dadurch bleiben Querverweise und Literaturverzeichnis jederzeit nachvollziehbar und aktuell.</para>
+    <para styleclass="Heading2">Verweise auf Webressourcen</para>
+    <para styleclass="Body Text">Zur Verbesserung der Lesbarkeit werden Verweise auf Webseiten und Onlinedienste teilweise in Form von Referenzen in eckigen Klammern angegeben. Die Kennzeichnung <text styleclass="T_Emphasis">[Web]</text> weist dabei auf einen Eintrag im Kapitel Webressourcen hin. Dort sind die vollständigen Angaben und URLs zu den jeweiligen Ressourcen aufgeführt.</para>
+    <para styleclass="Heading2">Bezeichnung des Betriebssystems</para>
+    <para styleclass="Body Text">In dieser Arbeit wird für die lokale Arbeitsumgebung <var styleclass="T_Product" translate="false">&lt;%WIN_VER%&gt;</var><text styleclass="T_Product"> Pro</text> verwendet.</para>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Wird im weiteren Verlauf vereinfachend nur von Windows oder <var translate="false">&lt;%WIN_VER%&gt;</var> gesprochen, ist damit grundsätzlich <var translate="false">&lt;%WIN_VER%&gt;</var> Pro gemeint.</li>
+      <li styleclass="Body Text">Andere Windows-Versionen werden ausdrücklich bezeichnet.</li>
+    </list>
+    <para styleclass="Heading2">Schreibweise von Fachbegriffen</para>
+    <para styleclass="Body Text">Die vorliegende Arbeit verwendet zahlreiche englischsprachige Fachbegriffe. Eigenständige Fachbegriffe und Produktnamen werden in ihrer offiziellen Schreibweise übernommen. Zusammengesetzte Begriffe werden nach den Regeln der deutschen Rechtschreibung mit Bindestrichen geschrieben. Dies verbessert die Lesbarkeit und sorgt für eine einheitliche Terminologie.</para>
+    <para styleclass="Title">Beispiele:</para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Open Source, jedoch Open-Source-Software, Open-Source-Lizenz und Open-Source-Projekt</li>
+      <li styleclass="Body Text">Single Sign-On (SSO), jedoch Single-Sign-On-Lösung</li>
+      <li styleclass="Body Text">Client-Server-Architektur</li>
+      <li styleclass="Body Text">Peer-to-Peer-Netzwerk</li>
+      <li styleclass="Body Text">Windows-Betriebssystem</li>
+    </list>
+    <para styleclass="Heading2">Formatierung und Darstellung</para>
+    <para styleclass="Body Text">Für unterschiedliche Inhaltstypen werden gezielt verschiedene Textformate verwendet.</para>
+    <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Die Formatierung dient dabei in erster Linie einer einheitlichen Gestaltung, der visuellen Orientierung und der guten Lesbarkeit des Dokuments.</li>
+      <li styleclass="Body Text">Neben dieser gestalterischen Funktion wird auch das Prinzip der semantischen Formatierung berücksichtigt. Bestimmte Formate kennzeichnen somit zugleich die Funktion oder Bedeutung eines Textbestandteils, beispielsweise einen Begriff, einen Produktnamen, einen Befehl oder eine Pfadangabe.</li>
+    </list>
+    <para styleclass="Body Text">Nicht jeder semantisch unterscheidbare Inhalt erhält jedoch ein eigenes Format. Eine zu starke Differenzierung würde zu einer Vielzahl von Formaten führen und das Schriftbild unnötig unruhig machen. Eigene Formate werden deshalb nur dort eingesetzt, wo sie die Orientierung unterstützen, wiederkehrende Inhaltstypen erkennbar machen oder für das Verständnis hilfreich sind.</para>
+    <para styleclass="Body Text">Die Formatierung folgt damit einer Kombination aus gestalterischen und semantischen Kriterien: Im Vordergrund stehen ein konsistentes Erscheinungsbild und eine klare visuelle Linie, semantische Formate werden gezielt eingesetzt, wo sie einen erkennbaren Mehrwert bieten.</para>
+    <para styleclass="Title">Beispiele:</para>
+    <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Das ist ein Begriff: <text styleclass="T_Emphasis">Betriebssystem</text>.</li>
+      <li styleclass="Body Text">Das ist eine Hervorhebung: <text styleclass="T_Emphasis">besonders wichtig</text>.</li>
+      <li styleclass="Body Text">Das ist eine dezente Kennzeichnung: <text styleclass="T_Highlight">optional</text>.</li>
+      <li styleclass="Body Text">Das ist ein Produktname: <text styleclass="T_Product">Moodle</text>.</li>
+      <li styleclass="Body Text">Das ist eine Referenz: <text styleclass="T_Ref">The Cambridge Handbook of Multimedia Learning</text>.</li>
+      <li styleclass="Body Text">Das ist eine Pfadangabe: <text styleclass="T_Technical">C:\Programme\Docker</text>.</li>
+      <li styleclass="Body Text">Das ist ein Bedienelement im UI: <text styleclass="T_UI">Datei öffnen</text>.</li>
+      <li styleclass="Body Text">Das ist eine Benutzereingabe: <text styleclass="T_Technical Example">copy a.tmp c.tmp</text>.</li>
+    </list>
+    <para styleclass="Heading2">Bezug zu Programmfenstern</para>
+    <para styleclass="Body Text"><text style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">Das Symbol </text><image src="mas-win-ui.png" imagestyleclass="Standard" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image><text style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;"> steht für ein Programmfenster und wird dem Fensternamen bzw. Fenstertitel vorangestellt, z. B. </text><image src="mas-win-ui.png" imagestyleclass="Standard" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image><text style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">&#32;</text><text styleclass="T_UI">Einstellungen &gt; System &gt; Info</text><text style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;"> oder </text><image src="mas-win-ui.png" imagestyleclass="Standard" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image><text styleclass="T_UI"> PowerPoint &gt; Datei &gt; Öffnen</text><text style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">. Das Symbol wird unabhängig davon verwendet, ob es sich um ein Fenster von Windows oder einer anderen Anwendung handelt. Ist das Fenster durch eine Abbildung eindeutig erkennbar, kann die Angabe des Fensternamens entfallen.</text></para>
+    <para styleclass="Heading2">Einordnung von Tools (Werkzeugen)</para>
+    <para styleclass="Body Text">Tools werden im Haupttext dort eingeordnet, wo sie fachlich erstmals relevant sind, und als eigene Einträge im Inhaltsverzeichnis aufgeführt. Technische Voraussetzungen müssen dabei nicht vorgängig behandelt worden sein, auf später folgende Grundlagen wird mittels Querverweis verwiesen.</para>
+    <para styleclass="Heading2">Aufklappbare Zusatzinhalte</para>
+    <para styleclass="Body Text">Ergänzende Inhalte können in aufklappbaren Bereichen (Collapsible Sections) dargestellt werden. Dazu gehören beispielsweise zusätzliche Erläuterungen, Beispiele, Tabellen und Abbildungen, die den Haupttext ergänzen, für dessen Verständnis jedoch nicht zwingend erforderlich sind.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Zusatzinhalt]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <list id="6" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Body Text">Der Titel des aufklappbaren Bereichs bezeichnet den jeweiligen Inhalt.</li>
+            <li styleclass="Body Text">Auf eine zusätzliche Kennzeichnung als Ergänzung wird verzichtet, da die Bereiche durch ihre einheitliche visuelle Gestaltung als aufklappbare Zusatzinhalte erkennbar sind.</li>
+            <li styleclass="Body Text">Abbildungen und Tabellen innerhalb solcher Bereiche werden nicht nummeriert und nicht in die entsprechenden Verzeichnisse aufgenommen, sofern sie ausschliesslich ergänzenden Charakter haben und im Haupttext nicht referenziert werden.</li>
+            <li styleclass="Body Text">In gedruckten Ausgaben sowie in nicht interaktiven Ausgabemedien wie PDF werden aufklappbare Zusatzinhalte vollständig, entsprechend dem aufgeklappten Zustand, dargestellt.</li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading2">Explainer</para>
+    <para styleclass="Body Text">Explainer sind mit <text styleclass="T_Product">HelpXplain</text> erstellte bebilderte Anleitungen und Erläuterungen, die beispielsweise Bedienabläufe Schritt für Schritt zeigen. Online sind sie als interaktive HTML-Inhalte verfügbar. In den PDF- und Word-Ausgaben führen Verweise zum Anhang oder zur Online-Version, da die zahlreichen Abbildungen den Haupttext unnötig verlängern und den Lesefluss unterbrechen würden.</para>
+  </body>
+</topic>

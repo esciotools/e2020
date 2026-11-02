@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T05:43:41.328Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Dateien und Tools</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Dateien und Tools</para>
+    </header>
+    <para styleclass="Body Text">Hier stehen ergänzende Dateien und Materialien aus den beiden MAS-Arbeiten zum Download bereit. Die Dateien dienen dazu, die praktischen Umsetzungen nachzuvollziehen, Ergebnisse selbst auszuprobieren und ausgewählte Inhalte weiterzubearbeiten.</para>
+    <para styleclass="Heading2">Dateien zur Lernmodulproduktion</para>
+    <para styleclass="Body Text">Die bei der Erstellung der Lernmodule verwendeten Dateien stehen über den folgenden Link zum Download bereit. Dazu gehören unter anderem bearbeitbare Projektdateien der Autorentools sowie die erzeugten Ausgabeformate wie HTML und SCORM.</para>
+    <para styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_LIB_EL_MODULE%&gt;/index.html" target="_blank">Dateien zur Lernmodulproduktion</link></para>
+    <para styleclass="Body Text">Der Link führt zu einer Indexseite, welche die Dateien und Unterverzeichnisse der Ablagestruktur auflistet. Die Verzeichnisse sind nach Lernmodulen beziehungsweise Werkzeugen gegliedert. Innerhalb der Verzeichnisse werden die verfügbaren Dateien mit ihren Namen als Downloadlinks angezeigt.</para>
+    <para styleclass="Body Text">Die Dateien können einzeln heruntergeladen und je nach Dateiformat direkt verwendet oder mit dem entsprechenden Autorentool weiterbearbeitet werden.</para>
+    <para styleclass="Heading2">Dateien zur Wissensmanagementproduktion</para>
+    <para styleclass="Body Text">Ergänzende Dateien und Hilfsmittel, die im Rahmen der Wissensmanagementarbeit erstellt oder eingesetzt wurden, stehen über den folgenden Link zur Verfügung. Dazu gehören beispielsweise Hilfsprogramme, Skripte, Quellcode und weitere Materialien für spezielle Anwendungsfälle.</para>
+    <para styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_LIB_WM_UTILS%&gt;/index.html" target="_blank">Dateien zur Wissensmanagementproduktion</link></para>
+    <para styleclass="Body Text">Der Link führt zu einer Übersichtsseite, auf der die verfügbaren Dateien mit einer kurzen Beschreibung und den entsprechenden Downloadlinks aufgeführt sind. Die Übersicht wird bei Bedarf ergänzt.</para>
+  </body>
+</topic>

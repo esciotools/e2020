@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-06T19:34:19.702+02:00" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Vorgehen und Auswahl</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Vorgehen und Auswahl</para>
+    </header>
+    <para styleclass="Body Text">Dieses Kapitel beschreibt das Vorgehen bei der Auswahl und praktischen Erprobung der Werkzeuge. Die Anforderungen ergeben sich aus der Zielsetzung, ein kleines E-Learning-Angebot mit begrenzten finanziellen und personellen Mitteln aufzubauen. Im Mittelpunkt stehen zwei Lernmanagementsysteme, die sich mit begrenzten Mitteln selbst betreiben und für konkrete Lernangebote einsetzen lassen. Die Auswahl verbindet eine literaturgestützte Vorauswahl mit den technischen und funktionalen Anforderungen dieser Arbeit. Ergänzend werden Autorentools zur Erstellung von Lernmodulen ausgewählt und erprobt. Dabei steht die Verfügbarkeit von Open-Source-Lösungen oder kostenlos nutzbaren Werkzeugen im Vordergrund.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Topic-Themen-Links" inline="true"/></para>
+  </body>
+</topic>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T22:22:07.763Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Variablen einfügen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Variablen einfügen</para>
+    </header>
+    <para styleclass="Heading3">Problem</para>
+    <para styleclass="Body Text">Der Toolname <var translate="false">&lt;%DOC_TOOL%&gt;</var> ist in zahlreichen Topicdateien als fester Text enthalten. Er soll durch die Variable <text styleclass="T_Technical">&lt;%\DOC_TOOL%&gt;</text> ersetzt werden. Damit lässt sich der Name zentral ändern und überall einheitlich schreiben. Die Ersetzungsfunktion im <var translate="false">&lt;%DOC_TOOL%&gt;</var> kann gewöhnlichen Text jedoch nicht durch ein Variablenelement ersetzen. Deshalb werden die Topicdateien im XML bearbeitet.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="009-hpm-var-text-vorher.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading3">Kontext</para>
+    <para styleclass="Body Text">Der Produktname soll in der gesamten Dokumentation einheitlich geschrieben und zentral gepflegt werden. Mit einer Variablen lassen sich spätere Änderungen der Bezeichnung an einer Stelle vornehmen.</para>
+    <para styleclass="Body Text">Im unkomprimierten Projektformat liegen die Topicdateien als XML vor. Sie lassen sich mit einem Texteditor gemeinsam durchsuchen und bearbeiten.</para>
+    <para styleclass="Body Text"><text styleclass="Heading3">Vorgehen</text></para>
+    <para styleclass="Body Text">Im folgenden Beispiel wird der Text <var translate="false">&lt;%DOC_TOOL%&gt;</var> durch ein XML-Variablenelement ersetzt. Der Wert der Variable bleibt zunächst <var translate="false">&lt;%DOC_TOOL%&gt;</var>.</para>
+    <para styleclass="Body Text">Das Variablenelement hat dieses Format: <text styleclass="T_Code">&lt;var translate=&quot;false&quot;&gt;&amp;lt;%DOC_TOOL%&amp;gt;&lt;/var&gt;</text></para>
+    <para styleclass="Body Text"><text styleclass="Title">1. Variable anlegen</text></para>
+    <para styleclass="Body Text">In <var translate="false">&lt;%DOC_TOOL%&gt;</var> die benutzerdefinierte Variable <text styleclass="T_Technical">DOC_TOOL</text> mit dem Wert <var translate="false">&lt;%DOC_TOOL%&gt;</var> anlegen. Ist sie bereits vorhanden, ihren Wert kontrollieren.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="006-hpm-var-def.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="Title">2. Projekt sichern und schliessen</text></para>
+    <para styleclass="Body Text">Alle Änderungen in <var translate="false">&lt;%DOC_TOOL%&gt;</var> speichern und das Projekt schliessen. Eine Sicherung des Projektordners erstellen.</para>
+    <para styleclass="Body Text"><text styleclass="Title">3. Topicsordner öffnen</text></para>
+    <para styleclass="Body Text">Den Topicsordner in <var translate="false">&lt;%VSC%&gt;</var> öffnen. Dazu den Ordner aus dem Datei-Explorer in das Programmfenster von <var translate="false">&lt;%VSC%&gt;</var> ziehen.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="007-hpm-var-vsc-files.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="Title">4. Fundstellen prüfen</text></para>
+    <para styleclass="Body Text">Nach <var styleclass="T_Highlight" translate="false">&lt;%DOC_TOOL%&gt;</var> suchen und die Treffer kontrollieren. Ersetzt werden die Textstellen, an denen künftig der Variablenwert erscheinen soll.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: In Dateinamen, Pfaden, URLs oder Code kann der Begriff technisch erforderlich sein. Eine Ersetzung kann dort zu Fehlern führen.</para>
+    <para styleclass="Body Text"><text styleclass="Title">5. Text ersetzen</text></para>
+    <para styleclass="Body Text">Die Ersetzung ohne Berücksichtigung der Gross-/Kleinschreibung und ohne reguläre Ausdrücke durchführen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Suchen nach</text>: <var translate="false">&lt;%DOC_TOOL%&gt;</var></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Ersetzen durch</text>: &lt;var translate=&quot;false&quot;&gt;&amp;lt;%DOC_TOOL%&amp;gt;&lt;/var&gt;</para>
+    <para styleclass="Body Text">Das Element <text styleclass="T_Technical">var</text> kennzeichnet den Variablenverweis. Die Zeichen &lt; und &gt; des Platzhalters werden innerhalb des Elements als <text styleclass="T_Technical">&amp;lt;</text> und <text styleclass="T_Technical">&amp;gt;</text> gespeichert. Die umgebenden XML-Elemente bleiben erhalten.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="008-hpm-var-search-replace.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title">6. Dateien kontrollieren und speichern</para>
+    <para styleclass="Body Text">Die Änderungen im Editor prüfen und die Dateien mit unveränderter Zeichenkodierung speichern. Erneut nach <var translate="false">&lt;%DOC_TOOL%&gt;</var> suchen und verbleibende Treffer kontrollieren. Ist der Name durch Formatierungen auf mehrere XML-Elemente verteilt, muss die betreffende Stelle einzeln bearbeitet werden.</para>
+    <para styleclass="Body Text"><text styleclass="Title">7. Ergebnis prüfen</text></para>
+    <para styleclass="Body Text">Das Projekt in <var translate="false">&lt;%DOC_TOOL%&gt;</var> öffnen und die bearbeiteten Stellen kontrollieren. Der eingefügte Platzhalter muss als Variable erkannt werden. Eine Testausgabe erstellen und prüfen, ob weiterhin <var translate="false">&lt;%DOC_TOOL%&gt;</var> erscheint. Optional den Variablenwert vorübergehend ändern und mit einer weiteren Testausgabe prüfen, ob die Änderung an allen vorgesehenen Stellen übernommen wird. Danach den ursprünglichen Wert wiederherstellen.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="010-hpm-var-text-nachher.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading2">Einsichten</para>
+    <para styleclass="Body Text">Es genügt, den Variablenplatzhalter direkt in den Text zu schreiben. Ein eigenes Variablenelement bietet jedoch Vorteile bei der Bearbeitung: Die Variable wird im <var translate="false">&lt;%DOC_TOOL%&gt;-</var>Editor optisch hervorgehoben, und ein Doppelklick darauf öffnet den Dialog zum Bearbeiten von Variablen. Durch die direkte XML-Bearbeitung lassen sich Texte dateiübergreifend durch Variablenelemente ersetzen. </para>
+    <para styleclass="Heading2">Folgerungen</para>
+    <para styleclass="Body Text">Wiederkehrende Bezeichnungen sollten bereits beim Schreiben als Variablen eingefügt werden. Bei bestehenden Inhalten ermöglicht die XML-Bearbeitung eine nachträgliche Umstellung. Dafür müssen die Fundstellen vor der Ersetzung und die betroffenen Ausgaben danach geprüft werden.</para>
+    <para styleclass="Heading2">Anschlussfragen</para>
+    <para styleclass="Body Text">Keine.</para>
+  </body>
+</topic>

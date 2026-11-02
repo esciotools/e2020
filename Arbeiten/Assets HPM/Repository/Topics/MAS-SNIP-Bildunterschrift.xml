@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-08-02T20:13:23.589Z" lasteditedby="huber" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <body>
+    <para styleclass="Image Caption"><figurelabel id="FIG_55407D" type="figure" styleclass="Image Caption" figurelistinclude="1" translate="true">Abbildung &lt;%HMFIGCOUNTER%&gt;: </figurelabel><text styleclass="Image Caption" translate="true">Bildunterschrift eingeben.</text></para>
+    <para styleclass="Image Caption Source"><var styleclass="Image Caption Source">&lt;%QU_EIGEN%&gt;</var></para>
+  </body>
+</topic>

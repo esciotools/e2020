@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T04:14:21.826Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Webressourcen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Webressourcen</para>
+    </header>
+    <para styleclass="Body Text">Dieses Kapitel enthält die im Text verwendeten Referenzen auf Webseiten, Onlinedienste, Herstellerportale und Onlinedokumentationen. Die Einträge sind nach Themenbereichen und Kategorien gegliedert.</para>
+    <para styleclass="Body Text">Verweise in der Arbeit in der Form [Web] führen zur entsprechenden Kategorie im Ressourcenverzeichnis. Eine Kategorie kann eine oder mehrere Ressourcen umfassen. Unter Ressource wird der inhaltliche Gegenstand des Eintrags angegeben, beispielsweise ein Produkt, Thema, Modell oder Verfahren. Die zugehörige Website dient als weiterführende Quelle oder Dokumentation.</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading2"><anchor id="Autorentools"></anchor>Autorentools</para>
+    <para styleclass="Heading3"><anchor id="HelpManual"></anchor>Help+Manual</para>
+    <para styleclass="Title">Ressource: Help+Manual Autorentool</para>
+    <para styleclass="Body Text">Hersteller: EC Software GmbH</para>
+    <para styleclass="Body Text">Einordnung: XML-basiertes Autorensystem</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.helpandmanual.com</link></para>
+    <para styleclass="Body Text">Beschreibung: Kommerzielles Autorensystem zur Erstellung und Pflege von Handbüchern, Online-Hilfen und technischen Dokumentationen. Unterstützt die topicbasierte Strukturierung, Wiederverwendung von Inhalten, Versionsverwaltung sowie die Veröffentlichung in verschiedenen Ausgabeformaten, darunter HTML, PDF, Word und CHM.</para>
+    <para styleclass="Heading3"><anchor id="HelpXplain"></anchor>HelpXplain</para>
+    <para styleclass="Body Text">Hersteller: EC Software GmbH</para>
+    <para styleclass="Body Text">Einordnung: Tool für animierte Anleitungen und Screencasts</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.helpandmanual.com/hx</link></para>
+    <para styleclass="Body Text">Beschreibung: Kommerzielles Werkzeug zur Erstellung von Schritt-für-Schritt-Anleitungen aus Bildschirmaufnahmen, Texten und grafischen Elementen. Unterstützt unterschiedliche Ausgabeformate sowie die Einbindung in Webseiten und <var translate="false">&lt;%DOC_TOOL%&gt;</var>-Dokumentationen..</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading2"><anchor id="Editoren"></anchor>Editoren</para>
+    <para styleclass="Heading3"><anchor id="VisualSourceCode"></anchor>Visual Studio Code</para>
+    <para styleclass="Title">Ressource: Visual Studio Code Texteditor</para>
+    <para styleclass="Body Text">Hersteller: Microsoft Corporation</para>
+    <para styleclass="Body Text">Einordnung: Erweiterbarer Text- und Quelltexteditor</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://code.visualstudio.com</link></para>
+    <para styleclass="Body Text">Beschreibung: Kostenloser Text- und Quelltexteditor für Windows, macOS und Linux. Unterstützt die Bearbeitung von XML-Dateien, Syntaxhervorhebung, dateiübergreifendes Suchen und Ersetzen sowie Versionsverwaltung mit Git. Erweiterungen wie XML Language Support by Red Hat ergänzen XML-Prüfung, automatische Vervollständigung und Formatierung.</para>
+    <para styleclass="Body Text"><anchor id="Notepad" styleclass="Heading3"></anchor><text styleclass="Heading3">Notepad++</text></para>
+    <para styleclass="Title">Ressource: Notepad++ Texteditor</para>
+    <para styleclass="Body Text">Hersteller: Don Ho und die Notepad++-Projektgemeinschaft</para>
+    <para styleclass="Body Text">Einordnung: Text- und Quelltexteditor</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://notepad-plus-plus.org</link></para>
+    <para styleclass="Body Text">Beschreibung: Kostenloser Text- und Quelltexteditor für Windows. Unterstützt die Bearbeitung von XML-Dateien, Syntaxhervorhebung sowie dateiübergreifendes Suchen und Ersetzen. Das Plugin XML Tools ergänzt Funktionen zur Syntaxprüfung, Validierung und übersichtlichen Formatierung von XML.</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading2"><anchor id="KI"></anchor>KI</para>
+    <para styleclass="Heading3"><anchor id="KI-Assistenten"></anchor>KI-Assistenten</para>
+    <para styleclass="Title">Ressource: ChatGPT</para>
+    <para styleclass="Body Text">Hersteller: OpenAI</para>
+    <para styleclass="Body Text">Einordnung: Generative KI</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="https://chatgpt.com/" target="_blank">https://chatgpt.com</link></para>
+    <para styleclass="Body Text">Beschreibung: <text styleclass="Normal">Generativer KI-Assistent für Recherche sowie zur Erstellung, Analyse, Bearbeitung und Zusammenfassung digitaler Inhalte.</text></para>
+    <para styleclass="Title">Ressource: Google Gemini</para>
+    <para styleclass="Body Text">Hersteller: Google</para>
+    <para styleclass="Body Text">Einordnung: Generative KI</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="https://gemini.google.com/" target="_blank">https://gemini.google.com</link></para>
+    <para styleclass="Body Text">Beschreibung: <text styleclass="Normal">Generativer KI-Assistent für Recherche sowie zur Erstellung, Analyse, Bearbeitung und Zusammenfassung digitaler Inhalte.</text></para>
+    <para styleclass="Title">Ressource: Gemini Notebook</para>
+    <para styleclass="Body Text">Hersteller: Google</para>
+    <para styleclass="Body Text">Einordnung: KI-gestützte Recherche</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="https://notebook.google.com/" target="_blank">https://notebook.google.com</link></para>
+    <para styleclass="Body Text">Beschreibung: KI-gestütztes Werkzeug zur Analyse, Zusammenfassung und Strukturierung bereitgestellter Dokumente und Quellen.</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading2"><anchor id="Versionsverwaltung"></anchor>Versionsverwaltung</para>
+    <para styleclass="Heading3"><anchor id="Git"></anchor>Git</para>
+    <para styleclass="Title">Ressource: Git Source Code Management</para>
+    <para styleclass="Body Text">Hersteller: Git-Projekt (Open-Source-Community)</para>
+    <para styleclass="Body Text">Einordnung: Verteiltes Versionsverwaltungssystem</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://git-scm.com</link></para>
+    <para styleclass="Body Text">Beschreibung: <text styleclass="Normal">Kostenloses Open-Source-System zur Versionsverwaltung von Dateien und Projekten. Ermöglicht die Nachverfolgung von Änderungen, die Wiederherstellung früherer Bearbeitungsstände und die gemeinsame Arbeit. Das Repository mit der Versionsgeschichte liegt lokal vor und kann mit weiteren Repositories synchronisiert werden.</text></para>
+    <para styleclass="Title">Ressource: GitHub</para>
+    <para styleclass="Body Text">Hersteller: GitHub, Inc.</para>
+    <para styleclass="Body Text">Einordnung: Webplattform zur Verwaltung von Git-Repositories</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://github.com</link></para>
+    <para styleclass="Body Text">Beschreibung: <text styleclass="Normal">Webbasierte Plattform zur Ablage und gemeinsamen Bearbeitung von Projekten mit Git. Ermöglicht öffentliche und private Repositories, die Synchronisation mit lokalen Repositories sowie die Nachverfolgung von Änderungen. Ergänzende Funktionen unterstützen die Aufgabenverwaltung und die Prüfung von Änderungsvorschlägen. Kostenlose und kostenpflichtige Angebote verfügbar.</text></para>
+    <para styleclass="Title">Ressource: GitHub Desktop</para>
+    <para styleclass="Body Text">Hersteller: GitHub, Inc.</para>
+    <para styleclass="Body Text">Einordnung: Grafische Benutzeroberfläche für Git</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://desktop.github.com</link>&#32;</para>
+    <para styleclass="Body Text">Beschreibung: <text styleclass="Normal">Kostenlose Open-Source-Anwendung für Windows und macOS zur Verwaltung von Git-Repositories. Ermöglicht das Anlegen und Klonen von Repositories, die Anzeige von Dateiänderungen, das Erstellen von Commits sowie die Synchronisation mit GitHub und anderen Git-Hostingdiensten. Die wesentlichen Git-Funktionen lassen sich ohne Befehlsweile bedienen.</text></para>
+    <para styleclass="Heading3"><anchor id="Subversion"></anchor>Subversion</para>
+    <para styleclass="Title">Ressource: Apache Subversion (SVN)</para>
+    <para styleclass="Body Text">Hersteller: Apache Software Foundation</para>
+    <para styleclass="Body Text">Einordnung: Zentrales Versionsverwaltungssystem</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://subversion.apache.org</link></para>
+    <para styleclass="Body Text">Beschreibung: <text styleclass="Normal">Kostenloses Open-Source-System zur Versionsverwaltung von Dateien und Projekten. Ermöglicht die Nachverfolgung von Änderungen, die Wiederherstellung früherer Bearbeitungsstände und die gemeinsame Arbeit. Die Versionsgeschichte wird in einem zentralen Repository verwaltet, die Bearbeitung erfolgt in lokalen Arbeitskopien.</text></para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+  </body>
+</topic>

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T21:51:22.092Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Arbeiten</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Arbeiten</para>
+    </header>
+    <para styleclass="Body Text">Hier stehen die beiden Abschlussarbeiten zu den Themen E-Learning und Wissensmanagement bereit.</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="topiclink" href="MAS-E-Learning">E-Learning</link>: Auswahl und praktischer Einsatz von günstigen Lernmanagementsystemen und Autorentools zur Bereitstellung digitaler Lernangebote.</li>
+      <li styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="topiclink" href="MAS-Wissensmanagement">Wissensmanagement</link>: Inhalte mit Single-Source-Publishing zentral pflegen und in unterschiedlichen Ausgabeformaten veröffentlichen.</li>
+    </list>
+    <para styleclass="Body Text">Dem Single-Source-Publishing-Ansatz folgend werden beide Arbeiten in mehreren Formaten bereitgestellt. Die Inhalte werden je Arbeit in einer gemeinsamen Quelle gepflegt und daraus in die verschiedenen Formate ausgegeben. Änderungen müssen dadurch nur an einer Stelle vorgenommen werden. Das reduziert den Pflegeaufwand und erleichtert es, die Ausgaben inhaltlich einheitlich zu halten.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Nutzung</text>: Die Arbeiten können online gelesen oder zum Offline-Lesen, Drucken und Weiterverarbeiten heruntergeladen werden. Darstellung und verfügbare Funktionen unterscheiden sich je nach Format.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Betriebssystem</text>: Die Arbeiten wurden unter Microsoft Windows erstellt und veröffentlicht. Die folgenden Angaben zur Nutzung der Dateien beziehen sich daher auf Windows. Optionen für macOS werden vereinzelt ergänzend genannt.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Darstellung</text>: Die Inhalte der Arbeiten und Lernmanagementsysteme werden am besten auf Bildschirmen ab Tabletgrösse dargestellt, da sich einzelne Bilder und Seiten nur eingeschränkt an kleinere Bildschirme anpassen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Unterstützung</text>: Bei Problemen mit dem Download, dem Öffnen oder der Darstellung der Dateien bietet das Kapitel <link displaytype="text" defaultstyle="true" type="topiclink" href="MAS-Hilfe-zu-Dateien">Hilfe zu Dateien</link> Unterstützung.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><anchor id="Formatbeschreibungen"></anchor><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Formatbeschreibungen]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text">Die Beschreibungen erläutern den Verwendungszweck der Formate und nennen geeignete Programme zum Öffnen. Links zu diesen Programmen folgen im Abschnitt <link displaytype="text" defaultstyle="true" type="topiclink" href="" anchor="Betrachter">Betrachter</link>.</para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">HTML5/Webhelp</text>: Webversion einer Dokumentation mit verlinkten Themenseiten, Inhaltsverzeichnis und Suchfunktion.Zum Online-Lesen, nicht zum Download.</para>
+          <para styleclass="Body Text">Öffnen mit: Einem aktuellen Webbrowser, beispielsweise Edge, Firefox, Chrome, Opera oder Safari auf macOS.</para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">PDF</text>: Dokument mit festem Seitenlayout zum Offline-Lesen, Drucken und Zitieren mit Seitenangaben.</para>
+          <para styleclass="Body Text">Öffnen mit: Einem aktuellen Webbrowser oder einem kostenlosen PDF-Reader, beispielsweise Adobe Acrobat Reader oder Foxit PDF Reader.</para>
+          <para styleclass="Heading3"><text styleclass="T_Emphasis">Microsoft Word</text><text styleclass="Body Text">: Dokument im DOCX-Format zum Offline-Lesen, Bearbeiten und Drucken.</text></para>
+          <para styleclass="Body Text">Öffnen mit: Microsoft Word oder einer kompatiblen Textverarbeitung, beispielsweise dem kostenlosen LibreOffice Writer.</para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Microsoft HTML Help</text>: HTML-basierte Dokumentation im CHM-Format mit Themenseiten, Inhaltsverzeichnis und Suchfunktion in einer Datei zum Offline-Lesen.</para>
+          <para styleclass="Body Text">Öffnen mit: Dem in Windows integrierten HTML Help Viewer. Die Datei lokal speichern und per Doppelklick öffnen. Keine zusätzliche Anwendung erforderlich.</para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">eWriter Hilfe</text>: HTML-basierte Dokumentation mit moderner WebHelp-Darstellung, Inhaltsverzeichnis und Suchfunktion in einer Datei zum Offline-Lesen.</para>
+          <para styleclass="Body Text">Öffnen mit: Dem kostenlosen eWriter Viewer für Windows oder macOS. Bei einer EXE-Datei ist der Viewer bereits enthalten, diese lässt sich nur unter Windows öffnen.</para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">ZipHelp</text>: HTML-basierte Dokumentation mit Navigation in einem ZIP-basierten Archiv mit der Endung .zhelp zum Offline-Lesen.</para>
+          <para styleclass="Body Text">Öffnen mit: Dem kostenlosen eWriter Viewer für Windows oder macOS. Ein Entpacken ist nicht erforderlich.</para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Apple iBooks (ePUB Format)</text>: E-Book mit anpassbarem Seitenlayout zum Offline-Lesen in Apple Books, der Nachfolgeanwendung von iBooks.</para>
+          <para styleclass="Body Text">Öffnen mit: Apple Books auf iPhone, iPad oder Mac. Falls die App fehlt, kann sie über den App Store installiert werden.</para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Amazon Kindle (MOBI)</text>: Älteres E-Book-Format zum Offline-Lesen auf kompatiblen Kindle-Geräten und in geeigneten Leseprogrammen.</para>
+          <para styleclass="Body Text">Öffnen mit: Am Computer beispielsweise mit dem kostenlosen Calibre für Windows, macOS und Linux. Bei Kindle-Geräten hängt die Nutzbarkeit vom Modell und Übertragungsweg ab.</para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Markdown</text>: Textformat mit einfachen Auszeichnungen für Überschriften, Listen und Links zum Offline-Lesen, Bearbeiten und Weiterverarbeiten.</para>
+          <para styleclass="Body Text">Öffnen mit: Jedem Texteditor für die Rohtextansicht. Für eine formatierte Vorschau beispielsweise dem kostenlosen Visual Studio Code.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><anchor id="Betrachter"></anchor><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Betrachter]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text">Die folgenden Programme können bei Bedarf über die verlinkten Seiten heruntergeladen und installiert werden. Einige sind auch für Tablets und Smartphones verfügbar. Bereits vorhandene Programme müssen nicht erneut installiert werden. Webanwendungen lassen sich direkt im Browser nutzen. Beispiele zur Darstellung der verschiedenen Formate finden sich bei <link displaytype="text" defaultstyle="true" type="topiclink" href="" anchor="Darstellungsbeispiele">Darstellungsbeispiele</link>.</para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Webbrowser</text>: Zum Anzeigen von Webseiten. Auf macOS ist Safari vorinstalliert.</para>
+          <para styleclass="Body Text">Download Edge: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://explore.microsoft.com/edge/download</link></para>
+          <para styleclass="Body Text">Download Firefox: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.firefox.com</link>&#32;</para>
+          <para styleclass="Body Text">Download Chrome: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.google.com/chrome</link></para>
+          <para styleclass="Body Text">Download Opera: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.opera.com/download</link></para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">PDF-Reader</text>: Zum Lesen, Kommentieren und Drucken von PDF-Dokumenten.</para>
+          <para styleclass="Body Text">Download Adobe Acrobat Reader: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://get.adobe.com/reader</link></para>
+          <para styleclass="Body Text">Download Foxit PDF Reader: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.foxit.com/pdf-reader</link></para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Microsoft Word</text>: Textverarbeitung zum Lesen und Bearbeiten von Dokumenten. Die Webversion ist mit einem Microsoft-Konto kostenlos nutzbar.</para>
+          <para styleclass="Body Text">Online nutzen: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://word.cloud.microsoft</link></para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">LibreOffice Writer</text>: Kostenlose Textverarbeitung. Wird als Teil der LibreOffice-Suite installiert, die unter anderem auch Tabellenkalkulation und Präsentationssoftware enthält. </para>
+          <para styleclass="Body Text">Download: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.libreoffice.org/download</link></para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Microsoft HTML Help Viewer</text>: Anzeigeprogramm für Windows-Hilfedateien. Bereits in Windows enthalten, kein Download erforderlich. Falls der Viewer fehlt, kann er hier als Bestandteil des HTML Help Workshop heruntergeladen werden.</para>
+          <para styleclass="Body Text">Download: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.helpandmanual.com/downloads_mscomp.html</link></para>
+          <para styleclass="Body Text">Download: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://microsoft-html-help-sdk.en.softonic.com</link></para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">eWriter Viewer</text>: Kostenloses Anzeigeprogramm für elektronische Dokumentationen unter Windows und macOS.</para>
+          <para styleclass="Body Text">Download: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.helpandmanual.com/ewriter</link></para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Apple Books</text>: Kostenlose App zum Lesen und Verwalten von E-Books auf iPhone, iPad und Mac.</para>
+          <para styleclass="Body Text">Informationen und App-Zugang: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.apple.com/apple-books</link></para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Amazon Kindle</text>: Kostenlose App zum Lesen und Verwalten von Kindle-E-Books auf Smartphones, Tablets und Computern.</para>
+          <para styleclass="Body Text">Informationen und App-Zugang: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://lesen.amazon.de/landing</link></para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Calibre</text>: Kostenloses Programm zum Lesen, Verwalten und Konvertieren von E-Books.</para>
+          <para styleclass="Body Text">Download: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://calibre-ebook.com/download</link></para>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Visual Studio Code</text>: Kostenloser Texteditor mit formatierter Vorschau für Markdown-Dokumente.</para>
+          <para styleclass="Body Text">Download: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://code.visualstudio.com/download</link></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><anchor id="Darstellungsbeispiele"></anchor><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Darstellungsbeispiele]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text">Die Beispiele zeigen, wie die Arbeiten in unterschiedlichen Formaten und Programmen dargestellt werden.</para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Webhelp]]></caption></toggle></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+            <tr style="vertical-align:top">
+              <td>
+                <para styleclass="Normal"><image src="005-view-browser.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"><caption><![CDATA[Webhelp im Chrome-Browser.]]></caption></image></para>
+              </td>
+            </tr>
+          </table></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[PDF]]></caption></toggle></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+            <tr style="vertical-align:top">
+              <td>
+                <para styleclass="Body Text"><image src="003-view-pdf.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"><caption><![CDATA[PDF-Dokument im Foxit PDF Reader.]]></caption></image></para>
+              </td>
+            </tr>
+          </table></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Microsoft Word]]></caption></toggle></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+            <tr style="vertical-align:top">
+              <td>
+                <para styleclass="Body Text"><image src="002-view-word.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"><caption><![CDATA[DOCX-Dokument in Microsoft Word.]]></caption></image></para>
+              </td>
+            </tr>
+          </table></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[HTML Help]]></caption></toggle></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+            <tr style="vertical-align:top">
+              <td>
+                <para styleclass="Normal"><image src="001-chm-pdf.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"><caption><![CDATA[CHM-Datei im integrierten HTML Help Viewer von Windows.]]></caption></image></para>
+              </td>
+            </tr>
+          </table></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[eWriter]]></caption></toggle></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+            <tr style="vertical-align:top">
+              <td>
+                <para styleclass="Normal"><image src="004-view-ewriter.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"><caption><![CDATA[eWriter-Dokument im eWriter Viewer.]]></caption></image></para>
+              </td>
+            </tr>
+          </table></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[ZipHelp]]></caption></toggle></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+            <tr style="vertical-align:top">
+              <td>
+                <para styleclass="Normal"><image src="007-view-ziphelp.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"><caption><![CDATA[ZipHelp-Dokument im eWriter Viewer.]]></caption></image></para>
+              </td>
+            </tr>
+          </table></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[EPUB]]></caption></toggle></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+            <tr style="vertical-align:top">
+              <td>
+                <para styleclass="Normal"><image src="010-view-epub.png" imagestyleclass="Standard" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"><caption><![CDATA[EPUB in Calibre.]]></caption></image></para>
+              </td>
+            </tr>
+          </table></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Markdown]]></caption></toggle></para>
+          <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+            <tr style="vertical-align:top">
+              <td>
+                <para styleclass="Normal"><image src="006-view-markdown.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"><caption><![CDATA[Markdown-Dokument in Visual Studio Code mit Quelltext und formatierter Vorschau.]]></caption></image></para>
+              </td>
+            </tr>
+          </table></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

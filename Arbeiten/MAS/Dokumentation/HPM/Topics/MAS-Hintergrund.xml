@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T19:59:45.712Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Hintergrund</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Hintergrund</para>
+    </header>
+    <para styleclass="Body Text">Die Projektarbeiten E2020 E-Learning und E2020 Wissensmanagement bilden gemeinsam die Masterarbeit im Studiengang MAS E-Learning und Wissensmanagement am Institut für Kommunikation und Führung (IKF).</para>
+    <para styleclass="Body Text">Das begleitende E2020 MAS Handbuch bündelt den Zugang zu den Arbeiten und den Ergebnissen ihrer praktischen Umsetzung.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="9" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Bezeichnung</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Angaben</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Projektarbeiten</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">E2020 E-Learning, E2020 Wissensmanagement</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Autor</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Ernst Huber</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Studiengang</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">MAS E-Learning und Wissensmanagement</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Institution</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="https://ikf.ch" target="_blank">Institut für Kommunikation und Führung (IKF)</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Betreuung</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">David Krieger</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Abgabejahr</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">2026</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kontakt</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="mailto:&lt;%LINK_CAPTION%&gt;">info@escio.ch</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Antrag zur Masterarbeit</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_LIB_IKF%&gt;/E2020 Antrag  Masterarbeit  Ernst Huber.pdf" target="_blank">Antragsdokument</link></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

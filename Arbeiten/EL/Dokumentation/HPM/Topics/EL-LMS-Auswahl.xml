@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-06T14:42:02.618Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>LMS-Auswahl</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">LMS-Auswahl</para>
+    </header>
+    <para styleclass="Body Text">Der Markt für Learning Management Systeme umfasst eine grosse Zahl unterschiedlicher Produkte. Eine vollständige eigene Untersuchung aller verfügbaren Systeme wäre im Rahmen dieser Arbeit weder sinnvoll noch erforderlich. Ziel der Evaluation ist deshalb nicht, das allgemein beste LMS zu bestimmen, sondern geeignete Systeme für die praktische Erprobung im Rahmen dieser Arbeit auszuwählen.</para>
+    <para styleclass="Body Text">Als wichtige Grundlage für die Vorauswahl dient die Untersuchung von Sanchez et al. <snippet src="file::EL-SNIP-LVZ-0400.xml" inline="true"/>.</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Darin werden 45 LMS für den Einsatz in der höheren Bildung verglichen.</li>
+      <li styleclass="Body Text">Die Autoren bewerten die Systeme anhand der sechs Bereiche Interoperabilität, Zugänglichkeit, Produktivitätswerkzeuge, Kommunikationswerkzeuge, Lernwerkzeuge sowie Sicherheit und Zertifizierungen.</li>
+    </list>
+    <para styleclass="Body Text">Die Evaluation in dieser Arbeit übernimmt diese Bewertung nicht unverändert.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Die Untersuchung von Sanchez et al. dient vielmehr dazu, den Markt einzugrenzen und geeignete Kandidaten zu identifizieren.</li>
+      <li styleclass="Body Text">Anschliessend werden diese anhand der für die praktische Zielsetzung dieser Arbeit relevanten Anforderungen beurteilt.</li>
+    </list>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Topic-Themen-Links" inline="true"/></para>
+  </body>
+</topic>

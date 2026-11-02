@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T20:59:27.119Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Zielsetzung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Zielsetzung</para>
+    </header>
+    <para styleclass="Body Text">Ziel dieser Arbeit ist es, aufzuzeigen, wie sich eine Dokumentation mit überschaubaren personellen und technischen Mitteln zentral pflegen, einheitlich gestalten und in verschiedenen Formaten veröffentlichen lässt. Als praktisches Beispiel dient die MAS-Umgebung mit der EL-Arbeit, der WM-Arbeit und dem MAS-Handbuch.</para>
+    <para styleclass="Body Text">Im Mittelpunkt steht das <var translate="false">&lt;%SSP%&gt;</var>-Prinzip und dessen Umsetzung mit <var translate="false">&lt;%DOC_TOOL%&gt;</var>. Neben der zentralen Verwaltung und Wiederverwendung von Inhalten werden auch die Möglichkeiten zur gemeinsamen Bearbeitung, Versionsverwaltung und Weiterverarbeitung berücksichtigt.</para>
+    <para styleclass="Body Text">Die praktische Umsetzung umfasst den Aufbau einer geeigneten Inhaltsstruktur, die Verwendung gemeinsamer Textbausteine und Formatvorlagen sowie die Erstellung unterschiedlicher Ausgabeformate. Ergänzend werden die Möglichkeiten XML-basierter Projektdateien und deren Bearbeitung mit externen Werkzeugen wie Editoren beschrieben.</para>
+    <para styleclass="Body Text">Als Ergebnis entsteht eine praxisorientierte Umsetzungshilfe, die Möglichkeiten, Aufwand und Grenzen von <var translate="false">&lt;%SSP%&gt;</var> aufzeigt.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Der Fokus liegt auf einer langfristig nutzbaren Lösung mit einheitlicher Gestaltung, grafischer Bearbeitung und der Möglichkeit technischer Eingriffe in die Projektdateien.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis: </text>Neben den Lizenzkosten für ein Werkzeug entstehen Aufwände für Einrichtung, Einarbeitung, Pflege und Datensicherung. Eine Bewertung sollte daher den gesamten Arbeitsaufwand und nicht nur die Anschaffungskosten berücksichtigen.</para>
+  </body>
+</topic>

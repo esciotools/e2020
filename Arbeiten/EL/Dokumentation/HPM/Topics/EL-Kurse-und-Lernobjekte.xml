@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-10T12:09:39.240Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Kurse und Lernobjekte</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Kurse und Lernobjekte</para>
+    </header>
+    <para styleclass="Body Text">Moodle und ILIAS bieten zahlreiche Lernobjekte und Funktionen, deren Einsatzmöglichkeiten sich vor allem beim praktischen Arbeiten erschliessen. Diese Arbeit vermittelt einen kompakten Einstieg in das Einrichten von Kursen mit Lernmodulen und ausgewählten weiteren Lernobjekten. Eine umfassende Einführung in beide LMS ist nicht vorgesehen.</para>
+    <para styleclass="Body Text">Die folgenden Begriffe helfen, den Aufbau und die Nutzung von Kursen zu verstehen:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Kurse</text> bündeln Inhalte und Aktivitäten. Einstellungen regeln beispielsweise Zugang, Darstellung und Abschluss.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Rollen</text> bestimmen, wer im Kurs Inhalte nutzen, Lernende betreuen oder Inhalte bearbeiten darf.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Lernobjekte</text> werden im Kurs angelegt oder eingebunden, beispielsweise Dateien, Inhaltsseiten, Lernmodule und Tests.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Lernmodule</text>: enthalten zusammenhängende Lerninhalte. Sie werden im LMS erstellt oder aus einem Autorentool importiert.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Fragen</text> werden in Tests eingesetzt und lassen sich über Fragebanken oder Fragenpools verwalten und wiederverwenden.</li>
+    </list>
+    <para styleclass="Body Text">Für einen übersichtlichen Beispielkurs genügt eine kurze Einführung mit anschliessenden Lerninhalten und einer optionalen Lernerfolgskontrolle. Aussagekräftige Titel, eine erkennbare Reihenfolge und kurze Bearbeitungshinweise erleichtern die Orientierung. Vor der Freigabe wird der Kurs mit einem Lernendenkonto geprüft.</para>
+    <para styleclass="Body Text">Die Kurse der Praxisumgebung veranschaulichen unterschiedliche Objekttypen, Formate und Einstellungen und regen zum eigenen Erproben an. Sie bilden keinen vollständig didaktisch ausgearbeiteten Lehrgang. Nicht jeder gezeigte Baustein ist für einen realen Kurs erforderlich.</para>
+  </body>
+</topic>

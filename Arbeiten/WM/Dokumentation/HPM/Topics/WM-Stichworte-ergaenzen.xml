@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T02:51:08.227Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Stichworte ergänzen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Stichworte ergänzen</para>
+    </header>
+    <para styleclass="Body Text">Ein <text styleclass="T_Emphasis">Stichwortindex</text> (Keyword Index) erschliesst Inhalte unabhängig vom Inhaltsverzeichnis. Seine manuelle Erstellung ist jedoch aufwändig: Für jedes Topic müssen passende Begriffe ausgewählt und als Keywords hinterlegt werden. In der vorliegenden Arbeit wurde diese Aufgabe zu Versiuchszuwecken mit ChatGPT bearbeitet.</para>
+    <para styleclass="Body Text">Zunächst erhielt die KI einige Topicdateien als Beispiele, um den Aufbau des XML-Formats von <var translate="false">&lt;%DOC_TOOL%&gt;</var> und die Ablage der Keywords kennenzulernen. Anschliessend verarbeitete sie das bereitgestellte Projekt und ergänzte die Topicdateien um Stichwörter. Diese Einträge bilden die Grundlage für den Stichwortindex, den <var translate="false">&lt;%DOC_TOOL%&gt;</var> bei der Veröffentlichung erzeugt.</para>
+    <para styleclass="Body Text">Das erste Ergebnis erscheint brauchbar. Die Auswahl der Begriffe, ihre einheitliche Benennung und ihre Zuordnung zu den Topics müssen jedoch noch geprüft werden. Bereits dieser Versuch zeigt einen lohnenden KI-Einsatz: ChatGPT übernimmt einen grossen Teil der zeitaufwändigen Vorarbeit, die fachliche Prüfung und gezielte Korrekturen bleiben bei der dokumentierenden Person.</para>
+    <para styleclass="Image Caption"><image id="FIG48EA148D" src="052-hpm-keywords.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Stichwortindex im <%DOC_TOOL%>-Editor.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Die folgende Abbildung zeigt den Stichwortindex in der HTML-Ausgabe im Browser. Die verlinkten Einträge führen direkt zu den zugehörigen Topics.</para>
+    <para styleclass="Image Caption"><image id="FIGDB5433BA" src="053-hpm-keywords-html.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Stichwortindex im Browser.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Die folgende Abbildung zeigt den Stichwortindex in der PDF-Ausgabe. Die Seitenangaben verweisen auf die entsprechenden Stellen im Dokument.</para>
+    <para styleclass="Image Caption"><image src="054-hpm-keywords-pdf.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Stichwortindex im PDF-Dokument.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Da das Ergänzen der Stichwörter die Topicdateien durch zusätzliche <text styleclass="T_Technical">&lt;keyword&gt;</text>-Elemente verändert, wurde im Rahmen der Masterarbeit vorerst darauf verzichtet, das Ergebnis definitiv in das Projekt zu übernehmen.</para>
+    <para styleclass="Image Caption"><image id="FIGDD442708" src="055-hpm-keywords-xml.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Zusätzliche Elemente im XML-Code für Stichworte.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+  </body>
+</topic>

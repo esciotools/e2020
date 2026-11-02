@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-11T13:23:39.515Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Empfehlungen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Empfehlungen</para>
+    </header>
+    <para styleclass="Body Text">Für ein erstes eigenes Angebot empfiehlt sich ein kleiner Pilotkurs mit einem LMS und einem Autorentool. Dieser sollte die tatsächlich benötigten Inhalte, Interaktionen und Abschlussbedingungen enthalten. So lässt sich der vollständige Ablauf prüfen, bevor grössere Mengen an Lernmaterial erstellt werden.</para>
+    <para styleclass="Body Text">Die Werkzeugauswahl sollte sich an wenigen verbindlichen Anforderungen orientieren. Dazu gehören die Bearbeitbarkeit der Inhalte, das benötigte Ausgabeformat und die zuverlässige Nutzung im vorgesehenen LMS. Wird dasselbe Lernmodul in Moodle und ILIAS eingesetzt, bietet sich SCORM 1.2 als gemeinsames Format an.</para>
+    <para styleclass="Body Text">Zusätzliche Plugins und technische Sonderlösungen sollten nur eingesetzt werden, wenn sie einen konkreten Bedarf abdecken. Jede Erweiterung erhöht den Prüf- und Wartungsaufwand. Ebenso sollten bearbeitbare Quelldateien aufbewahrt werden, damit spätere Änderungen ohne vollständige Neuerstellung möglich bleiben.</para>
+    <para styleclass="Body Text">Vor dem produktiven Einsatz sind Zuständigkeiten und Zeitbudgets für Betrieb und Inhaltspflege festzulegen. Fehlen diese Ressourcen, sollte eine betreute Hostinglösung in die Entscheidung einbezogen werden. Ausschlaggebend sind die Gesamtkosten aus Gebühren und eigenem Arbeitsaufwand.</para>
+    <para styleclass="Body Text">Die Umsetzung eines eigenen E-Learning-Angebots erfolgt schrittweise:</para>
+    <para styleclass="Higlight">Anforderungen festlegen <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Werkzeuge auswählen <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Pilotkurs umsetzen <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Ergebnis prüfen <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Angebot ausbauen</para>
+    <para styleclass="Body Text">Erfüllt der Pilotkurs die Anforderungen nicht, wird die Werkzeugauswahl überprüft und bei Bedarf angepasst. Anschliessend wird der Pilotkurs überarbeitet und erneut geprüft.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Es lohnt sich zudem, die Möglichkeiten von KI kennenzulernen und gezielt einzusetzen, da sie die Planung, Erstellung und Überarbeitung von Lernangeboten wirkungsvoll unterstützen kann.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

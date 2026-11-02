@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-07T18:14:30.431Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Vorgehen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Vorgehen</para>
+    </header>
+    <para styleclass="Body Text">Die Auswahl der Werkzeuge erfolgt schrittweise und orientiert sich an den Anforderungen dieser Arbeit. Bei den Lernmanagementsystemen bildet eine veröffentlichte Untersuchung den Ausgangspunkt, bei den Autorentools eine Marktsichtung mit Schwerpunkt auf Open-Source- und kostenlos nutzbaren Lösungen. In beiden Fällen wird die Eignung durch eine praktische Erprobung überprüft.</para>
+    <para styleclass="Heading2">Lernmanagementsysteme</para>
+    <para styleclass="Body Text">Die LMS-Auswahl erfolgt in vier Schritten:</para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Vorauswahl</text>: Geeignete Kandidaten anhand einer veröffentlichten LMS-Untersuchung identifizieren.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Eingrenzung</text>: Lizenzmodell und technische Voraussetzungen mit den Anforderungen dieser Arbeit abgleichen.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Auswahl</text>: Zwei LMS für die praktische Umsetzung festlegen und die Entscheidung begründen.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Erprobung</text>: Vergleichbare Aufgaben in beiden Systemen durchführen und die Ergebnisse dokumentieren.</li>
+    </list>
+    <para styleclass="Heading2">Autorentools</para>
+    <para styleclass="Body Text">Die Auswahl der Autorentools erfolgt in vier Schritten:</para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Marktsichtung</text>: Verfügbare Open-Source- oder kostenlos nutzbare Autorentools recherchieren.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Eingrenzung</text>: Kandidaten hinsichtlich Nutzbarkeit, Publikationsmöglichkeiten sowie aktiver Weiterentwicklung und Community prüfen.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Auswahl</text>: Geeignete Autorentools für die praktische Umsetzung festlegen und die Entscheidung begründen.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Erprobung</text>: Vergleichbare Lerninhalte mit den ausgewählten Tools erstellen, als SCORM 1.2 veröffentlichen und in den LMS erproben. Die Ergebnisse dokumentieren.</li>
+    </list>
+  </body>
+</topic>

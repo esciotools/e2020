@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-10T15:33:22.712Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Softaculous</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Softaculous</para>
+    </header>
+    <para styleclass="Body Text">Softaculous ist ein Installationswerkzeug, das bei vielen Webhostingangeboten direkt in Verwaltungsoberflächen wie cPanel oder Plesk integriert ist.</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Es ermöglicht die weitgehend automatisierte Installation und Verwaltung zahlreicher Webanwendungen, darunter Content-Management-Systeme und verschiedene Lernmanagementsysteme.</li>
+      <li styleclass="Body Text">Typische Einstellungen wie Installationsverzeichnis, Datenbank und Administratorkonto werden dabei über eine grafische Oberfläche festgelegt, sodass keine manuelle Einrichtung der Anwendung und Datenbank erforderlich ist.</li>
+      <li styleclass="Body Text">Installierte Webanwendungen lassen sich damit auch einfach wieder deinstallieren.</li>
+      <li styleclass="Body Text">Je nach Hostingangebot stehen zusätzlich Funktionen für Aktualisierungen, Datensicherungen oder das Klonen von Installationen zur Verfügung.</li>
+    </list>
+    <para styleclass="Body Text">Softaculous gliedert die verfügbaren Webanwendungen in thematische Kategorien, beispielsweise Blogs, Content-Management-Systeme, Foren und Lernmanagementsysteme.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Image Caption"><image id="FIGDCD1E59C" src="020-softaculous-ui.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"><caption><![CDATA[Benutzeroberfläche von Softaculous.]]></caption></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text">Softaculous steht als Tool im Control Panel zur Verfügung und wird von dort aus geöffnet.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="021-softaculous-tool.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading2">Bedeutung für diese Arbeit</para>
+    <para styleclass="Body Text">Für die praktischen Beispiele zur Installation von Webanwendungen auf dem Webhosting wird <text styleclass="T_Product">Softaculous</text> verwendet.</para>
+  </body>
+</topic>

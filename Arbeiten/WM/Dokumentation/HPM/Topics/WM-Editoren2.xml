@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T07:00:11.248Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Editoren</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Editoren</para>
+    </header>
+    <para styleclass="Body Text">XML-Dateien lassen sich mit einem Texteditor direkt öffnen und bearbeiten. Dadurch sind neben den Textinhalten auch Elemente und Attribute zugänglich. Bei dateibasierten Autorensystemen ermöglicht dies gezielte Änderungen am Quelltext, beispielsweise das Korrigieren von Formatzuweisungen oder das Ersetzen wiederkehrender Angaben in mehreren Topicdateien.</para>
+    <para styleclass="Body Text">Geeignete Editoren erleichtern die Arbeit durch farbliche Hervorhebung der XML-Syntax, Zeilennummern und das Einklappen von Elementen. Such- und Ersetzungsfunktionen unterstützen Änderungen über mehrere Dateien hinweg. Zusätzliche XML-Erweiterungen können den Quelltext prüfen und übersichtlich einrücken.</para>
+    <para styleclass="Body Text">Die folgenden Texteditoren sind für die XML-Bearbeitung empfehlenswert und wurden auch in der vorliegenden Arbeit eingesetzt.</para>
+    <para styleclass="Body Text"><var styleclass="T_Product" translate="false">&lt;%VSC%&gt;</var>, kurz VS Code, ist ein kostenloser Quelltexteditor von Microsoft für Windows, macOS und Linux. Ganze Projektordner lassen sich öffnen und durchsuchen. Die integrierte Git-Unterstützung erleichtert die Versionsverwaltung. Die Erweiterung XML Language Support by Red Hat ergänzt unter anderem Syntaxprüfung, automatische Vervollständigung und XML-Formatierung.</para>
+    <para styleclass="Image Caption"><image id="FIG37D6EBD5" src="039-vs-code.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Benutzerschnittstelle von <%VSC%>.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Für die gleichzeitige Bearbeitung mehrerer Dateien bietet <var translate="false">&lt;%VSC%&gt;</var> leistungsfähige Such- und Ersetzungsfunktionen: Wird ein Ordner aus dem Datei-Explorer in das Programmfenster gezogen, stehen alle darin enthaltenen Dateien für diese Funktionen zur Verfügung.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="056-vsc-file-cmds.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"><text styleclass="T_Product">Notepad++</text> ist ein kostenloser Open-Source-Texteditor für Windows. Er bietet Syntaxhervorhebung sowie Such- und Ersetzungsfunktionen über mehrere Dateien hinweg. Das Plugin XML Tools ergänzt Funktionen zur Prüfung und Formatierung von XML. Damit eignet sich Notepad++ für die Kontrolle einzelner Topicdateien und für wiederkehrende Korrekturen am Quelltext.berücksichtigt werden.</para>
+    <para styleclass="Image Caption"><image src="040-notepad-pp.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Benutzerschnittstelle von Notepad++.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Weitere-Infos" inline="true"/> [<link displaytype="text" defaultstyle="true" type="topiclink" href="WM-Webressourcen" anchor="Editoren">Web:Edit</link>].</para>
+  </body>
+</topic>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T21:09:05.287Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Projektdateien</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Projektdateien</para>
+    </header>
+    <para styleclass="Body Text">Alle <var translate="false">&lt;%DOC_TOOL%&gt;</var>-Projekte der Masterarbeiten werden im unkomprimierten Projektformat geführt. Dadurch sind die Topicdateien für dateiübergreifende Änderungen mit externen Werkzeugen zugänglich. Ausserdem lassen sich Änderungen an den XML-Dateien mit Git vergleichen und als Bearbeitungsstände festhalten. Der Einsatz von Git wird unter <link displaytype="text" defaultstyle="true" type="topiclink" href="WM-Versionsverwaltung">Versionsverwaltung</link> beschrieben.</para>
+    <para styleclass="Body Text">Das Anlegen von Projekten im unkomprimierten Format erfordert eine Professional- oder Floating-Lizenz von <var translate="false">&lt;%DOC_TOOL%&gt;</var><text translate="false">.</text></para>
+    <para styleclass="Body Text"><text styleclass="Normal">Der </text><text styleclass="T_Emphasis">Projektordner</text><text styleclass="Normal"> enthält die zentrale Projektdatei mit der Endung </text><text styleclass="T_Technical">.hmxp</text><text styleclass="Normal"> sowie Unterordner für Topicdateien, Inhaltsverzeichnisse und Zusatzdateien. Medien und gemeinsam verwendete Inhalte können auch ausserhalb dieses Ordners liegen </text><snippet src="file::WM-SNIP-LVZ-1200.xml" inline="true"/>.</para>
+    <para styleclass="Image Caption"><image id="FIG8E8ED4C9" src="003-hpm-ordner.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Projektordner von <%DOC_TOOL%>.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Im Ordner <text styleclass="T_Emphasis">Topics</text> liegt jedes Topic als separate XML-Datei vor. Der Dateiname entspricht der Topic-ID, die Struktur und Reihenfolge der Einträge im Inhaltsverzeichnis werden in den XML-Dateien im Ordner <text styleclass="T_Emphasis">Maps</text> festgelegt <snippet src="file::WM-SNIP-LVZ-1200.xml" inline="true"/>.</para>
+    <para styleclass="Image Caption"><image src="004-hpm-topics.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Topicsordner von <%DOC_TOOL%>.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Für dateiübergreifende Suchen und Ersetzungen wird der Topicsordner in <var styleclass="T_Product" translate="false">&lt;%VSC%&gt;</var><text styleclass="T_Product" translate="false">&#32;</text>geöffnet. Betrifft eine Änderung auch Projekteinstellungen oder Inhaltsverzeichnisse, wird der gesamte Projektordner geöffnet.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Wichtig</text>: Vor externen Änderungen wird das Projekt gespeichert und in <var translate="false">&lt;%DOC_TOOL%&gt;</var> geschlossen. Die XML-Struktur muss bei der Bearbeitung erhalten bleiben. Anschliessend wird das Projekt erneut geöffnet und die betroffene Ausgabe geprüft.</para>
+    <para styleclass="Body Text">Eine vollständige Sicherung umfasst neben dem Projektordner auch die extern abgelegten Medien, Snippets, das Style-Repository und die verwendeten Ausgabevorlagen.</para>
+  </body>
+</topic>

@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T14:11:19.582Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Webressourcen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Webressourcen</para>
+    </header>
+    <para styleclass="Body Text">Dieses Kapitel enthält die im Text verwendeten Referenzen auf Webseiten, Onlinedienste, Herstellerportale und Onlinedokumentationen. Die Einträge sind nach Themenbereichen und Kategorien gegliedert.</para>
+    <para styleclass="Body Text">Verweise in der Arbeit in der Form <text styleclass="T_Emphasis">[Web]</text> führen zur entsprechenden Kategorie im Ressourcenverzeichnis. Eine Kategorie kann eine oder mehrere Ressourcen umfassen. Unter Ressource wird der inhaltliche Gegenstand des Eintrags angegeben, beispielsweise ein Produkt, Thema, Modell oder Verfahren. Die zugehörige Website dient als weiterführende Quelle oder Dokumentation.</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading2"><anchor id="E-Learning-Autorentools"></anchor>E-Learning-Autorentools</para>
+    <para styleclass="Heading3"><anchor id="eXeLearning"></anchor>eXeLearning</para>
+    <para styleclass="Title">Ressource: eXeLearning</para>
+    <para styleclass="Body Text">Hersteller: eXeLearning-Projekt (koordiniert durch CEDEC/INTEF)</para>
+    <para styleclass="Body Text">Einordnung: Autorentool für E-Learning</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://exelearning.net</link></para>
+    <para styleclass="Body Text">Beschreibung: Kostenlose Open-Source-Anwendung zur Erstellung strukturierter Lernmodule mit Texten, Medien und interaktiven Aufgaben sowie zur Veröffentlichung als HTML, SCORM oder EPUB.</para>
+    <para styleclass="Heading3"><anchor id="iSpringFree"></anchor>iSpring Free</para>
+    <para styleclass="Title">Ressource: iSpring Free für PowerPoint</para>
+    <para styleclass="Body Text">Hersteller: iSpring Solutions, Inc.</para>
+    <para styleclass="Body Text">Einordnung: Autorentool für E-Learning</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.ispringsolutions.com/ispring-free</link></para>
+    <para styleclass="Body Text">Beschreibung: Kostenlose Erweiterung für Microsoft PowerPoint zur Erstellung von Lernmodulen mit Quizfragen und zur Veröffentlichung als HTML5 oder SCORM.</para>
+    <para styleclass="Heading3"><anchor id="LiaScript"></anchor>LiaScript</para>
+    <para styleclass="Title">Ressource: LiaScript</para>
+    <para styleclass="Body Text">Hersteller: LiaScript-Projekt (Open-Source-Community)</para>
+    <para styleclass="Body Text">Einordnung: Markdown-basiertes Autorentool</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://liascript.github.io</link></para>
+    <para styleclass="Body Text">Beschreibung: Kostenlose Open-Source-Lösung zur Erstellung interaktiver Lernmodule auf Basis von Markdown. Unterstützt unter anderem Tests, Umfragen und multimediale Inhalte, die direkt im Webbrowser genutzt werden können.</para>
+    <para styleclass="Title">Ressource: LiaScript Exporter</para>
+    <para styleclass="Body Text">Hersteller: LiaScript-Projekt (Open-Source-Community)</para>
+    <para styleclass="Body Text">Einordnung: Exportwerkzeug für LiaScript-Lernmodule</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://liascript.github.io/exporter</link></para>
+    <para styleclass="Body Text">Beschreibung: Kostenlose Open-Source-Desktop-Anwendung zur Konvertierung von LiaScript-Lernmodulen in verschiedene Ausgabeformate, darunter HTML, SCORM 1.2, SCORM 2004, PDF und EPUB. </para>
+    <para styleclass="Title">Ressource: LiaScript LiveEditor</para>
+    <para styleclass="Body Text">Hersteller: LiaScript-Projekt (Open-Source-Community)</para>
+    <para styleclass="Body Text">Einordnung: Browserbasierter Editor für LiaScript</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://liascript.github.io/live-editor</link></para>
+    <para styleclass="Body Text">Beschreibung: Kostenloser Open-Source-Editor zur Erstellung und Bearbeitung von LiaScript-Lernmodulen im Webbrowser. Bietet eine Vorschau der Lerninhalte, die Einbindung von Medien und die gemeinsame Bearbeitung in Echtzeit.</para>
+    <para styleclass="Heading3"><anchor id="Lumi"></anchor>Lumi für H5P</para>
+    <para styleclass="Title">Ressource: Lumi H5P Desktop Editor</para>
+    <para styleclass="Body Text">Hersteller: Lumi Education UG</para>
+    <para styleclass="Body Text">Einordnung: Autorentool für E-Learning</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://lumi.education</link></para>
+    <para styleclass="Body Text">Beschreibung: Kostenlose Open-Source-Desktop-Anwendung zur Erstellung und Bearbeitung interaktiver H5P-Lerninhalte sowie zur Veröffentlichung als H5P, HTML oder SCORM.</para>
+    <para styleclass="Title">Ressource: LiaScript LiveEditor</para>
+    <para styleclass="Body Text">Hersteller: LiaScript-Projekt (Open-Source-Community)</para>
+    <para styleclass="Body Text">Einordnung: Browserbasierter Editor für LiaScript</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://liascript.github.io/live-editor</link></para>
+    <para styleclass="Body Text">Beschreibung: Kostenloser Open-Source-Editor zur Erstellung und Bearbeitung von LiaScript-Lernmodulen im Webbrowser. Bietet eine Vorschau der Lerninhalte, die Einbindung von Medien und die gemeinsame Bearbeitung in Echtzeit.</para>
+    <para styleclass="Heading3"><anchor id="OpeneLearning"></anchor>Open eLearning</para>
+    <para styleclass="Title">Ressource: Open eLearning</para>
+    <para styleclass="Body Text">Hersteller: Open-eLearning-Projekt</para>
+    <para styleclass="Body Text">Einordnung: Autorentool für E-Learning</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.openelearning.org</link></para>
+    <para styleclass="Body Text">Beschreibung: Kostenlose Open-Source-Desktop-Anwendung zur Erstellung interaktiver Lernmodule mit Texten, Medien und Lernaktivitäten sowie zur Veröffentlichung als SCORM.</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading2"><anchor id="E-Learning-Standards"></anchor>E-Learning-Standards</para>
+    <para styleclass="Heading3"><anchor id="1EdTech"></anchor>1EdTech</para>
+    <para styleclass="Title">Ressource: Standards für Bildungstechnologien</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.1edtech.org</link></para>
+    <para styleclass="Body Text">Beschreibung: Internationale Organisation zur Entwicklung und Förderung offener Standards für Bildungstechnologien, insbesondere für die Interoperabilität und den Datenaustausch zwischen LMS, Lernwerkzeugen und weiteren Bildungssystemen. Dazu gehören unter anderem LTI, QTI, Common Cartridge und Open Badges.</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading2"><anchor id="Hilfsmittel"></anchor>Hilfsmittel</para>
+    <para styleclass="Heading3"><anchor id="Konverter"></anchor>Konverter</para>
+    <para styleclass="Title">Ressource: PPT to HTML Converter</para>
+    <para styleclass="Body Text">Hersteller: GroupDocs (Aspose Pty Ltd)</para>
+    <para styleclass="Body Text">Einordnung: Online-Konverter</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://products.groupdocs.app/conversion/ppt-to-html</link></para>
+    <para styleclass="Body Text">Beschreibung: Kostenloser Online-Dienst zur Konvertierung von PowerPoint-Präsentationen in HTML. Die Dateien werden hochgeladen, konvertiert und anschliessend zum Download bereitgestellt. Eine Installation oder Registrierung ist nicht erforderlich. </para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading2"><anchor id="KI"></anchor>KI</para>
+    <para styleclass="Heading3"><anchor id="KI-Assistenten"></anchor>KI-Assistenten</para>
+    <para styleclass="Title">Ressource: ChatGPT</para>
+    <para styleclass="Body Text">Hersteller: OpenAI</para>
+    <para styleclass="Body Text">Einordnung: Generative KI</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="https://chatgpt.com/" target="_blank">https://chatgpt.com</link></para>
+    <para styleclass="Body Text">Beschreibung: <text styleclass="Normal">Generativer KI-Assistent für Recherche sowie zur Erstellung, Analyse, Bearbeitung und Zusammenfassung digitaler Inhalte.</text></para>
+    <para styleclass="Title">Ressource: Google Gemini</para>
+    <para styleclass="Body Text">Hersteller: Google</para>
+    <para styleclass="Body Text">Einordnung: Generative KI</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="https://gemini.google.com/" target="_blank">https://gemini.google.com</link></para>
+    <para styleclass="Body Text">Beschreibung: <text styleclass="Normal">Generativer KI-Assistent für Recherche sowie zur Erstellung, Analyse, Bearbeitung und Zusammenfassung digitaler Inhalte.</text></para>
+    <para styleclass="Title">Ressource: Gemini Notebook</para>
+    <para styleclass="Body Text">Hersteller: Google</para>
+    <para styleclass="Body Text">Einordnung: KI-gestützte Recherche</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="https://notebook.google.com/" target="_blank">https://notebook.google.com</link></para>
+    <para styleclass="Body Text">Beschreibung: KI-gestütztes Werkzeug zur Analyse, Zusammenfassung und Strukturierung bereitgestellter Dokumente und Quellen.</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading2"><anchor id="Lernmanagementsysteme"></anchor>Lernmanagementsysteme</para>
+    <para styleclass="Heading3"><anchor id="ILIAS"></anchor>ILIAS</para>
+    <para styleclass="Title">Ressource: ILIAS Lernmanagementsystem</para>
+    <para styleclass="Body Text">Hersteller: ILIAS open source e-Learning e. V.</para>
+    <para styleclass="Body Text">Einordnung: Open-Source-Lernmanagementsystem</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.ilias.de</link></para>
+    <para styleclass="Body Text">Dokumentation: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://docu.ilias.de</link></para>
+    <para styleclass="Body Text">Online-Hilfe: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://help.ilias.de</link></para>
+    <para styleclass="Body Text">Installation und technische Anforderungen: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://docu.ilias.de/goto_docu_st_75023.html</link></para>
+    <para styleclass="Body Text">Entwicklerdokumentation: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://docu.ilias.de/goto_docu_pg_29964_42.html?lang=en</link></para>
+    <para styleclass="Body Text">Plugin-Verzeichnis: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://docu.ilias.de/goto_docu_cat_1442.html</link></para>
+    <para styleclass="Body Text">Beschreibung: Informationen zu Funktionen, Installation, technischen Anforderungen, Erweiterbarkeit und Plugins.</para>
+    <para styleclass="Heading3"><anchor id="LMS-Evaluation" styleclass="Higlight"></anchor>LMS-Evaluation</para>
+    <para styleclass="Title">Ressource: Arbeitshilfe zur Auswahl von Lernplattformen</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://digital.awo.org/wissenstransfer</link></para>
+    <para styleclass="Body Text">Beschreibung: Arbeitshilfe der Arbeiterwohlfahrt zur Auswahl geeigneter Lernplattformen. Sie erläutert unterschiedliche Arten von Lernplattformen und enthält strukturierte Checklisten mit Kriterien für die Auswahl von LMS, LCMS und LXP. Die Anforderungen können unter anderem nach Muss-Kriterien und optionalen Kriterien gewichtet werden.</para>
+    <para styleclass="Title">Ressource: Qualitätskriterien für Lehr- und Lernmanagementsysteme</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://comenius-award.de/comenius-award-2/kriterien</link></para>
+    <para styleclass="Body Text">Beschreibung: Kriterienkatalog zur strukturierten Bewertung von Lehr- und Lernmanagementsystemen im Rahmen des Comenius-EduMedia-Awards. Berücksichtigt werden unter anderem didaktische, technische und organisatorische Aspekte sowie Benutzerfreundlichkeit, Kommunikation und Funktionen zur Erstellung und Verwaltung von Lerninhalten.</para>
+    <para styleclass="Title">Ressource: Kriterien zur Auswahl von Lernmanagementsystemen</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.jff.de/fileadmin/user_upload/jff/projekte/LooM/jff_muenchen_2019_veroeffentlichung_loom_expertise_blended_learning.pdf</link></para>
+    <para styleclass="Body Text">Beschreibung: Publikation zur Auswahl und zum Vergleich von Lernmanagementsystemen im Kontext von Blended Learning und beruflicher Fortbildung. Für die Auswahl geeigneter Lernplattformen wird ein konkreter Kriterienkatalog verwendet. Dieser berücksichtigt unter anderem Kosten, Open Source, mobile Handhabung, die Etablierung der Systeme im deutschsprachigen Raum sowie die Unterstützung des SCORM-Standards.</para>
+    <para styleclass="Heading3"><anchor id="Moodle"></anchor>Moodle</para>
+    <para styleclass="Title">Ressource: Moodle Lernmanagementsystem</para>
+    <para styleclass="Body Text">Hersteller: Moodle Pty Ltd</para>
+    <para styleclass="Body Text">Einordnung: Open-Source-Lernmanagementsystem</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://moodle.org</link></para>
+    <para styleclass="Body Text">Dokumentation: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://docs.moodle.org</link></para>
+    <para styleclass="Body Text">Installation und technische Anforderungen: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://moodledev.io/docs/main/gettingstarted/requirements</link></para>
+    <para styleclass="Body Text">Entwicklerdokumentation: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://moodledev.io</link></para>
+    <para styleclass="Body Text">Plugin-Verzeichnis: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://moodle.org/plugins</link></para>
+    <para styleclass="Body Text">Beschreibung: Informationen zu Funktionen, Installation, technischen Anforderungen, Erweiterbarkeit und Plugins.</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading2">Lokale Entwicklungsumgebungen</para>
+    <para styleclass="Heading3"><anchor id="Docker"></anchor>Docker</para>
+    <para styleclass="Title">Ressource: Docker Desktop</para>
+    <para styleclass="Body Text">Hersteller: Docker, Inc.</para>
+    <para styleclass="Body Text">Einordnung: Container-Plattform</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.docker.com/products/docker-desktop</link></para>
+    <para styleclass="Body Text">Beschreibung: Desktop-Anwendung zur lokalen Bereitstellung und Verwaltung von Docker-Containern, Images und weiteren Docker-Ressourcen.</para>
+    <para styleclass="Title">Ressource: Docker Hub</para>
+    <para styleclass="Body Text">Hersteller: Docker, Inc.</para>
+    <para styleclass="Body Text">Einordnung: Container-Registry</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://hub.docker.com</link></para>
+    <para styleclass="Body Text">Beschreibung: Onlineplattform zur Bereitstellung, Veröffentlichung und zum Bezug von Docker-Images.</para>
+    <para styleclass="Heading3"><anchor id="XAMPP" styleclass="Body Text"></anchor>XAMPP</para>
+    <para styleclass="Title">Ressource: XAMPP für lokale Webserver</para>
+    <para styleclass="Body Text">Hersteller: Apache Friends</para>
+    <para styleclass="Body Text">Einordnung: Lokale Serverumgebung</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://www.apachefriends.org/de/index.html</link></para>
+    <para styleclass="Body Text">Beschreibung: Softwarepaket mit Apache, MariaDB, PHP und Perl zur lokalen Bereitstellung und Erprobung von Webanwendungen.</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading2"><anchor id="Office"></anchor>Office</para>
+    <para styleclass="Heading3"><anchor id="Libre"></anchor>Libre</para>
+    <para styleclass="Title">Ressource: LibreOffice</para>
+    <para styleclass="Body Text">Hersteller: The Document Foundation</para>
+    <para styleclass="Body Text">Einordnung: Office-Suite</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="https://de.libreoffice.org/" target="_blank">https://de.libreoffice.org</link></para>
+    <para styleclass="Body Text">Beschreibung: Kostenlose Open-Source-Office-Suite zur Erstellung und Bearbeitung von Textdokumenten, Tabellen, Präsentationen und weiteren Office-Dokumenten.</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading2"><anchor id="Webtechnologien"></anchor>Webtechnologien</para>
+    <para styleclass="Heading3"><anchor id="ControlPanel" styleclass="Higlight"></anchor>Control Panel</para>
+    <para styleclass="Title">Ressource: cPanel - Dokumentation der Benutzeroberfläche</para>
+    <para styleclass="Body Text">Hersteller: WebPros International GmbH</para>
+    <para styleclass="Body Text">Einordnung: Webhosting Control Panel</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://docs.cpanel.net/cpanel/the-cpanel-interface/the-cpanel-interface</link></para>
+    <para styleclass="Body Text">Beschreibung: Kommerzielles Control Panel zur grafischen Verwaltung von Webhosting-Umgebungen, insbesondere von Websites, Domains, E-Mail-Konten, Dateien und Datenbanken.</para>
+    <para styleclass="Title">Ressource: cPanel Demo</para>
+    <para styleclass="Body Text">Anbieter: ByetHost</para>
+    <para styleclass="Body Text">Einordnung: Demo-Installation</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://byet.host/paid-hosting/paidcpaneldemo</link></para>
+    <para styleclass="Body Text">Beschreibung: Online-Demo zum Ausprobieren der cPanel-Benutzeroberfläche und zum Kennenlernen der grundlegenden Funktionen zur Verwaltung einer Webhosting-Umgebung.</para>
+    <para styleclass="Title">Ressource: Plesk - Dokumentation der Benutzeroberfläche</para>
+    <para styleclass="Body Text">Hersteller: WebPros International GmbH</para>
+    <para styleclass="Body Text">Einordnung: Webhosting Control Panel</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://docs.plesk.com/en-US/obsidian/administrator-guide/about-plesk/the-plesk-gui.70562</link></para>
+    <para styleclass="Body Text">Beschreibung: Kommerzielles Control Panel zur grafischen Verwaltung von Webhosting-Umgebungen, insbesondere von Websites, Domains, E-Mail-Konten, Dateien und Datenbanken.</para>
+    <para styleclass="Title">Ressource: Plesk Demo</para>
+    <para styleclass="Body Text">Hersteller: WebPros International GmbH</para>
+    <para styleclass="Body Text">Einordnung: Demo-Installation</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://docs.plesk.com/try-plesk-now</link></para>
+    <para styleclass="Body Text">Beschreibung: Online-Demo zum Ausprobieren der Plesk-Benutzeroberfläche und zum Kennenlernen der Navigation und Verwaltungsfunktionen ohne eigene Installation.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: cPanel und Plesk gehören beide zu WebPros. Die Produkte sind aber eigenständige Control Panels mit unterschiedlichen Benutzeroberflächen und Konzepten.</para>
+    <para styleclass="Title">Ressource: Plesk und cPanel im Vergleich</para>
+    <para styleclass="Body Text">Herausgeber: Contabo GmbH</para>
+    <para styleclass="Body Text">Einordnung: Vergleichsartikel</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://contabo.com/blog/de/plesk-vs-cpanel-was-ist-besser-fuer-deinen-vps</link></para>
+    <para styleclass="Body Text">Beschreibung: Vergleich von Plesk und cPanel hinsichtlich Benutzeroberfläche, Funktionen, unterstützter Betriebssysteme, Sicherheit und Kosten. Der Artikel unterstützt die Einordnung der beiden Control Panels und zeigt wesentliche Unterschiede sowie mögliche Einsatzbereiche auf.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Der Artikel stammt von einem Hostinganbieter und ist keine Dokumentation der Hersteller von Plesk oder cPanel. Die Angaben sollten deshalb bei Bedarf anhand der offiziellen Produktdokumentationen überprüft werden.</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading3"><anchor id="Webhosting" styleclass="Higlight"></anchor>Webhosting</para>
+    <para styleclass="Title">Ressource: Vergleich von Webhostinganbietern in der Schweiz</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">www.webhostinganbieter.ch</link></para>
+    <para styleclass="Body Text">Beschreibung: Schweizer Vergleichsportal für Webhostingangebote mit Informationen zu Anbietern, Leistungen und Preisen.</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Heading3"><anchor id="Webserver"></anchor>Webserver</para>
+    <para styleclass="Title">Ressource: Apache HTTP Server</para>
+    <para styleclass="Body Text">Hersteller: Apache Software Foundation</para>
+    <para styleclass="Body Text">Einordnung: Webserver</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://httpd.apache.org</link></para>
+    <para styleclass="Body Text">Beschreibung: Open-Source-Webserver zur Bereitstellung von Webseiten und Webanwendungen über HTTP und HTTPS.</para>
+    <para styleclass="Title">Ressource: NGINX</para>
+    <para styleclass="Body Text">Hersteller: F5, Inc.</para>
+    <para styleclass="Body Text">Einordnung: Webserver und Reverse Proxy</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://nginx.org</link></para>
+    <para styleclass="Body Text">Beschreibung: Webserver und Reverse Proxy zur Bereitstellung von Webseiten und Webanwendungen sowie für weitere Aufgaben wie Lastverteilung und Caching.</para>
+    <para styleclass="Title">Ressource: Internet Information Services (IIS)</para>
+    <para styleclass="Body Text">Hersteller: Microsoft</para>
+    <para styleclass="Body Text">Einordnung: Webserver</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://learn.microsoft.com/de-de/iis</link></para>
+    <para styleclass="Body Text">Beschreibung: Webserver-Plattform von Microsoft zur Bereitstellung und Verwaltung von Webseiten, Webanwendungen und Diensten in Windows-Umgebungen.</para>
+    <para styleclass="Title">Ressource: Caddy</para>
+    <para styleclass="Body Text">Hersteller: Caddy-Projekt</para>
+    <para styleclass="Body Text">Einordnung: Webserver und Reverse Proxy</para>
+    <para styleclass="Body Text">Website: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://caddyserver.com</link></para>
+    <para styleclass="Body Text">Beschreibung: Open-Source-Webserver und Reverse Proxy mit einfacher Konfiguration und automatischer Bereitstellung und Erneuerung von HTTPS-Zertifikaten.</para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+  </body>
+</topic>

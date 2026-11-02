@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T08:56:51.424+02:00" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Kurs in Moodle</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Kurs in Moodle</para>
+    </header>
+    <para styleclass="Body Text">Ein Kurs in Moodle dient dazu, Lerninhalte und Aktivitäten für eine bestimmte Gruppe von Lernenden bereitzustellen. Er kann Lernpakete, Tests, Dateien und weitere Lernobjekte enthalten, die in der Regel direkt im Kurs erstellt oder eingebunden werden.</para>
+    <para styleclass="Body Text">Über die Kursverwaltung lassen sich Teilnehmende, Rollen, Zugriffsrechte und Lernfortschritte verwalten. Zusätzlich können Voraussetzungen festgelegt werden, sodass bestimmte Lernobjekte erst nach Erfüllung definierter Bedingungen zugänglich sind.</para>
+    <para styleclass="Body Text">Der Kurs bildet in Moodle das <text styleclass="T_Emphasis">zentrale</text> Element für die Durchführung von E-Learning.</para>
+    <para styleclass="Image Caption"><image id="FIGC9E6803F" src="054-moodle-kurs.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Kurs in Moodle.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+    <para styleclass="Body Text">In Moodle stehen innerhalb eines Kurses verschiedene Menüs zur Verfügung. Über den Menüpunkt <text styleclass="T_UI">Mehr</text> in der Kursnavigation lassen sich zusätzliche Funktionen zur Kursverwaltung aufrufen.</para>
+    <para styleclass="Image Caption"><image id="FIG3FD4904A" src="055-moodle-aktionen-menu.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Kursmenü in Moodle.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Das Menü bietet Zugriff auf Funktionen wie Bewertungen, Berichte, Fragensammlungen, Kursabschluss oder die Wiederverwendung von Kursen. Zusätzlich verfügen einzelne Lernaktivitäten und Kursabschnitte über ein Drei-Punkte-Menü, über das sich beispielsweise Einstellungen bearbeiten sowie Inhalte duplizieren, verschieben oder löschen lassen. Welche Funktionen zur Verfügung stehen, hängt von den Zugriffsrechten der jeweiligen Benutzer ab. Damit können sowohl Kursverantwortliche als auch Kursteilnehmende die für sie freigegebenen Funktionen nutzen.</para>
+    <para styleclass="Normal"><image id="FIG50B5F075" src="056-moodle-kurs-einstellungen.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Lernfortschrittseinstellungen beim Kurs in Moodle.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+  </body>
+</topic>

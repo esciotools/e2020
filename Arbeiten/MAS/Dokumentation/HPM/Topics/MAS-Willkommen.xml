@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-02T14:55:29.607Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Willkommen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Willkommen</para>
+    </header>
+    <para styleclass="Body Text">Das <text styleclass="T_Emphasis">E2020 MAS Handbuch</text> ist das begleitende Webportal zu den beiden Abschlussarbeiten E-Learning und Wissensmanagement, die im Rahmen des Master-of-Advanced-Studies-Studiums (MAS) am Institut für Kommunikation und Führung (IKF) entstanden sind. Es bietet Zugang zu den Arbeiten sowie zu den dazugehörigen Beispielen, Anleitungen und Lernumgebungen.</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Die Arbeit <link displaytype="text" defaultstyle="true" type="topiclink" href="MAS-E-Learning">&lt;%TARGETTITLE%&gt;</link> zeigt, wie sich digitale Lernangebote mit ausgewählten Lernmanagementsystemen und Autorentools praktisch umsetzen lassen.</li>
+      <li styleclass="Body Text">Die Arbeit <link displaytype="text" defaultstyle="true" type="topiclink" href="MAS-Wissensmanagement">&lt;%TARGETTITLE%&gt;</link> behandelt die strukturierte Dokumentation und Veröffentlichung von Inhalten in unterschiedlichen Ausgabeformaten aus einer gemeinsamen Quelle (Single-Source-Publishing).</li>
+    </list>
+    <para styleclass="Body Text">Über dieses Handbuch lassen sich die Arbeiten online lesen oder herunterladen sowie die Praxisbeispiele in den Lernumgebungen aufrufen. Ergänzende Anleitungen unterstützen die Nutzung.</para>
+    <para styleclass="Body Text">Angaben zu Autor, Studiengang und Institution finden sich im Anhang bei <link displaytype="text" defaultstyle="true" type="topiclink" href="MAS-Hintergrund">&lt;%TARGETTITLE%&gt;</link>.</para>
+  </body>
+</topic>

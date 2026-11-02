@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T21:00:25.214Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Fragestellung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Fragestellung</para>
+    </header>
+    <para styleclass="Body Text">Die Arbeit untersucht folgende zentrale Fragestellung:</para>
+    <para styleclass="Higlight">Wie lässt sich eine Dokumentation nach dem <var translate="false">&lt;%SSP%&gt;</var>-Prinzip zentral verwalten, pflegen und in unterschiedlichen Formaten veröffentlichen?</para>
+    <para styleclass="Body Text">Zur Beantwortung der zentralen Fragestellung werden folgende Teilfragen behandelt:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Welche grundlegenden Anforderungen muss ein Autorensystem für diesen Einsatz erfüllen?</li>
+    </list>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Wie lassen sich Inhalte strukturieren, wiederverwenden und für unterschiedliche Ausgabeformate aufbereiten?</li>
+      <li styleclass="Body Text">Welche Möglichkeiten bieten XML-basierte Projekte für die Pflege und Weiterverarbeitung von Inhalten?</li>
+      <li styleclass="Body Text">Wie können bestehende Inhalte übernommen und gemeinsame Inhalte projektübergreifend genutzt werden?</li>
+      <li styleclass="Body Text">Wie lassen sich Änderungen nachvollziehen und Projektstände sichern?</li>
+      <li styleclass="Body Text">Welche Empfehlungen ergeben sich aus der praktischen Umsetzung für vergleichbare Vorhaben?</li>
+    </list>
+    <para styleclass="Body Text">Die Fragestellung wird durch die Auswertung geeigneter Fachquellen und die praktische Umsetzung mit <var translate="false">&lt;%DOC_TOOL%&gt;</var> beantwortet. Als Anwendungsbeispiel dient das Zusammenspiel der drei Dokumentationsprojekte innerhalb der MAS-Umgebung.</para>
+  </body>
+</topic>

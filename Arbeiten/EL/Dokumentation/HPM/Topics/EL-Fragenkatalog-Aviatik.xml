@@ -1,0 +1,916 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T09:45:45.969Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Fragenkatalog Aviatik</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Fragenkatalog Aviatik</para>
+    </header>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:1px; margin-right:1px; margin-bottom:27px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border-color:#4f81bd; border-style:single; border-width:1px; border-top:none; border-right:none; border-left:none; padding:0px; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:25pt; font-weight:bold; color:#000000;">Fragenkatalog zu E Learning und LMS in der Aviatik</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:19px; margin-right:0px; margin-bottom:9px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:16pt; font-weight:bold; color:#000000;">Zweck und Einordnung</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Der Fragenkatalog erhebt fachliche, regulatorische und betriebliche Anforderungen an digitale Lernsysteme in einem Aviatikunternehmen. Im Mittelpunkt stehen der Nachweis von Lernaktivitäten und Ausbildungszeiten, die Durchführung und Auswertung von Tests und Assessments, die mögliche Aufteilung auf mehrere Systeme, Schnittstellen, Bedienbarkeit, Kosten und Betriebsverantwortung.</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Wichtig: Die herangezogenen Vorschriften definieren nicht ein universelles „aviatiktaugliches LMS“. Welche Nachweise, Aufbewahrungsfristen und Prüfungsverfahren verbindlich sind, hängt vom Tätigkeitsgebiet, vom genehmigten Ausbildungsprogramm und von der zuständigen Behörde ab. Die Fragen übersetzen deshalb wiederkehrende regulatorische Grundsätze in überprüfbare Systemanforderungen, ohne technische Funktionen als pauschale Rechtsvorgaben darzustellen.</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:19px; margin-right:0px; margin-bottom:9px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:16pt; font-weight:bold; color:#000000;">Antwort und Gewichtung</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Bei jeder Frage werden die zutreffenden Optionen markiert. Zusätzlich bewertet die befragte Person die Gesamtbedeutung der Frage auf einer Skala von 0 bis 4. Bei einer späteren Nutzwertanalyse kann die Bewertung direkt als Gewicht verwendet werden.</text></para>
+    <para styleclass="Normal"><table rowcount="6" colcount="2" style="width:auto; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#d9d9d9; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Auswahl</text></para>
+        </td>
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Einheitliche Gewichtungsskala</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">0 – nicht relevant</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">1 – geringe Bedeutung</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">2 – mittlere Bedeutung</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">3 – hohe Bedeutung</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">4 – zwingende Anforderung</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:19px; margin-right:0px; margin-bottom:9px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:16pt; font-weight:bold; color:#000000;">Fragen</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:13px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:12pt; font-weight:bold; color:#000000;">1 &#160;Geltungsbereich der Ausbildung</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Für welche Ausbildungsarten soll das digitale Lernsystem verbindliche Nachweise liefern?</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Auswahlregel: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Mehrfachauswahl; alle zutreffenden Bereiche markieren.</text></para>
+    <para styleclass="Normal"><table rowcount="7" colcount="2" style="width:auto; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#d9d9d9; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Auswahl</text></para>
+        </td>
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Antwortoptionen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Behördlich genehmigte oder vorgeschriebene Ausbildung [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Wiederkehrende Ausbildung und Requalifikation [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Muster-, funktions- oder aufgabenspezifische Ausbildung [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Safety-, Compliance- oder Security-Training [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Interne Weiterbildung ohne formellen Befähigungsnachweis</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Vorbereitung, Übung oder freiwilliges Selbststudium</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Priorität/Gewichtung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">0 = nicht relevant &#160; 1 = gering &#160; 2 = mittel &#160; 3 = hoch &#160; 4 = zwingend: &#160;____</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Regulatorische Herleitung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Die anzuwendenden Detailanforderungen unterscheiden sich nach Ausbildungsbereich. EASA verlangt von Organisationen nachvollziehbare Aufzeichnungen ihrer Tätigkeiten und nennt E-Learning ausdrücklich als mögliche Form von Sicherheitstraining [1]. ICAO stellt bei CBTA die nachzuweisende Kompetenz in den Vordergrund [3], [4].</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:13px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:12pt; font-weight:bold; color:#000000;">2 &#160;Nachweis von Lernaktivitäten</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Welche Angaben müssen für ein Lernmodul pro Person dauerhaft und revisionsfähig aufgezeichnet werden?</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Auswahlregel: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Mehrfachauswahl; maximal sechs zwingende Angaben markieren.</text></para>
+    <para styleclass="Normal"><table rowcount="11" colcount="2" style="width:auto; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#d9d9d9; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Auswahl</text></para>
+        </td>
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Antwortoptionen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Eindeutige Identität der lernenden Person [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Kurs, Modul und verwendete Version [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Zuweisungs-, Start- und Abschlussdatum [2]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Bearbeitungsstatus und erreichte Abschlusskriterien</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Anzahl Aufrufe und Unterbrechungen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Gesamte Sitzungsdauer beziehungsweise aktive Lernzeit</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Versuche, Punktzahl und Bestehensstatus [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Bestätigung oder Freigabe durch Lehrperson beziehungsweise Vorgesetzte</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Änderungsprotokoll mit Zeitpunkt und verantwortlicher Person</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Exportierbarer Ausbildungsnachweis für Audit oder Behördenanfrage</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Priorität/Gewichtung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">0 = nicht relevant &#160; 1 = gering &#160; 2 = mittel &#160; 3 = hoch &#160; 4 = zwingend: &#160;____</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Regulatorische Herleitung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">EASA ORA.GEN.220 fordert ausreichende Speicherung, zuverlässige Rückverfolgbarkeit, Schutz vor Veränderung und zeitgerechten Zugriff; elektronische Systeme benötigen Sicherungen und Schutz vor unbefugter Änderung [1]. FAA 14 CFR 142.73 verlangt personenbezogene Kurs-, Zeit-, Leistungs- und Prüfungsangaben [7].</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:13px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:12pt; font-weight:bold; color:#000000;">3 &#160;Erfassung der Nutzungs und Ausbildungszeit</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Welche Zeitmessung ist für Ihre Nachweise fachlich notwendig?</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Auswahlregel: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Eine Hauptoption wählen; ergänzende Option „Plausibilitätsprüfung“ kann zusätzlich markiert werden.</text></para>
+    <para styleclass="Normal"><table rowcount="8" colcount="2" style="width:auto; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#d9d9d9; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Auswahl</text></para>
+        </td>
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Antwortoptionen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Nur Abschlussdatum; keine Dauer erforderlich</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Gesamtdauer pro Kurs oder Modul [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Dauer pro Sitzung mit Beginn, Ende und Unterbrechungen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Aktive Lernzeit ohne längere Inaktivität</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Vorgegebene Mindestlernzeit als Abschlussbedingung</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Ist-Zeit im Vergleich zur vorgesehenen Ausbildungszeit</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Zusätzliche Plausibilitätsprüfung durch Interaktionen, Lernfortschritt oder Testleistung</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Priorität/Gewichtung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">0 = nicht relevant &#160; 1 = gering &#160; 2 = mittel &#160; 3 = hoch &#160; 4 = zwingend: &#160;____</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Regulatorische Herleitung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">FAA 14 CFR 142.73 nennt ausdrücklich die absolvierte Kurszeit [7]. Die EASA-Regel verlangt Rückverfolgbarkeit, schreibt jedoch keine allgemeine minutengenaue LMS-Zeitmessung vor [1]. Deshalb sollte geklärt werden, ob Zeit ein formeller Nachweis, ein Planungswert oder nur ein Indikator ist.</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:13px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:12pt; font-weight:bold; color:#000000;">4 &#160;Abschluss und Kompetenznachweis</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Wodurch gilt eine digitale Lerneinheit in Ihrem Anwendungsbereich als erfolgreich abgeschlossen?</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Auswahlregel: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Mehrfachauswahl; notwendige Bedingungen markieren und die wichtigste Bedingung mit „1“ kennzeichnen.</text></para>
+    <para styleclass="Normal"><table rowcount="9" colcount="2" style="width:auto; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#d9d9d9; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Auswahl</text></para>
+        </td>
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Antwortoptionen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">«1»</text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;"> Alle vorgeschriebenen Inhalte wurden aufgerufen [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Eine Mindestbearbeitungszeit wurde erreicht</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Eingebaute Wissensfragen wurden beantwortet</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Ein Abschlusstest wurde mit definierter Bestehensgrenze bestanden [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Eine praktische Aufgabe oder Simulation wurde beurteilt [3]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Eine Lehrperson oder ein Evaluator bestätigte die Leistung [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Definierte Kompetenzen beziehungsweise Leistungsindikatoren wurden erreicht [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Eine Kombination aus Lernmodul, Test und praktischem Assessment wurde erfüllt</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Priorität/Gewichtung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">0 = nicht relevant &#160; 1 = gering &#160; 2 = mittel &#160; 3 = hoch &#160; 4 = zwingend: &#160;____</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Regulatorische Herleitung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">ICAO PANS-TRG und die darauf aufbauende Trainingsmethodik richten Ausbildung und Assessment an Kompetenzen und beobachtbaren Leistungsstandards aus [3], [4]. Auch FAA-Aufzeichnungen unterscheiden zwischen Kurszeit, Leistung je Lektion und Ergebnis praktischer Abschlusstests [7].</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:13px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:12pt; font-weight:bold; color:#000000;">5 &#160;Ein System oder mehrere Systeme</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Wie sollen Lerninhalte, Tests, praktische Assessments und Ausbildungsnachweise technisch organisiert sein?</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Auswahlregel: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Eine bevorzugte Architektur wählen.</text></para>
+    <para styleclass="Normal"><table rowcount="7" colcount="2" style="width:auto; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#d9d9d9; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Auswahl</text></para>
+        </td>
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Antwortoptionen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Alles in einem zentralen LMS</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Zentrales LMS als führendes System; externe Autoren- und Testsysteme liefern </text><br/><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Ergebnisse zurück [3]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Getrennte Lern- und Prüfungssysteme; Ergebnisse werden automatisch zusammengeführt</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Mehrere spezialisierte Systeme; Zusammenführung über ein Data Warehouse oder Learning Record Store</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Getrennte Systeme und manuelle Übernahme beziehungsweise Freigabe der Resultate</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Noch offen; entscheidend ist ein vollständiger, auditierbarer Gesamtnachweis</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Priorität/Gewichtung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">0 = nicht relevant &#160; 1 = gering &#160; 2 = mittel &#160; 3 = hoch &#160; 4 = zwingend: &#160;____</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Regulatorische Herleitung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Die Regelwerke verlangen vor allem Verantwortung, kontrollierte Verfahren und nachweisbare Aufzeichnungen, nicht zwingend ein einziges Produkt. Bei ausgelagerten Tätigkeiten bleibt die genehmigte Organisation nach EASA verantwortlich und muss Aufsicht sowie Zugriff der Behörde ermöglichen [1].</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:13px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:12pt; font-weight:bold; color:#000000;">6 &#160;Schnittstellen und Datenübertragbarkeit</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Welche Schnittstellen oder Austauschmöglichkeiten sind erforderlich, damit Lern- und Prüfungsdaten ohne Medienbruch zusammengeführt werden können?</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Auswahlregel: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Mehrfachauswahl; maximal fünf vorrangige Anforderungen markieren.</text></para>
+    <para styleclass="Normal"><table rowcount="10" colcount="2" style="width:auto; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#d9d9d9; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Auswahl</text></para>
+        </td>
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Antwortoptionen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">SCORM für Lernmodule und standardisierte Ergebnisrückmeldung [2]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">xAPI für detaillierte Lernaktivitäten und Learning Record Store</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">LTI für den sicheren Aufruf externer Lern- oder Testwerkzeuge [2]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">QTI oder vergleichbares Format für Austausch von Testfragen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">REST-API oder Webservices für Stammdaten, Zuweisungen und Resultate</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Single Sign-on und zentrale Identitätsverwaltung [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">CSV- oder Excel-Import und -Export als kontrollierte Rückfallebene</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Unveränderbarer PDF- oder signierter Nachweis für Archiv und Audit [2]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Vollständiger Datenexport beim Systemwechsel</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Priorität/Gewichtung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">0 = nicht relevant &#160; 1 = gering &#160; 2 = mittel &#160; 3 = hoch &#160; 4 = zwingend: &#160;____</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Regulatorische Herleitung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">EASA verlangt dauerhafte Zugänglichkeit und Lesbarkeit auch bei Hardware- oder Softwarewechseln [1]. Daraus folgt als technische Anforderung die prüfbare Datenportabilität; ein bestimmter E-Learning-Standard wird dadurch nicht pauschal vorgeschrieben.</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:13px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:12pt; font-weight:bold; color:#000000;">7 &#160;Durchführung und Absicherung von Tests</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Welche Funktionen sind für Tests oder formelle Assessments notwendig?</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Auswahlregel: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Mehrfachauswahl; zwingende Funktionen markieren.</text></para>
+    <para styleclass="Normal"><table rowcount="10" colcount="2" style="width:auto; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#d9d9d9; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Auswahl</text></para>
+        </td>
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Antwortoptionen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Zentrale, versionierte Fragenbank [3]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Zufällige Auswahl und Reihenfolge von Fragen und Antworten [3]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Festgelegte Bestehensgrenzen und Versuchszahlen [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Zeitbegrenzung sowie gesteuerter Prüfungsbeginn und -abschluss [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Eindeutige Identitätsprüfung beziehungsweise beaufsichtigte Durchführung [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Trennung der Rollen für Autorenschaft, Freigabe, Durchführung und Bewertung</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Dokumentation von manuellen Korrekturen und Bewertungsänderungen [3]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Sperrfristen, Nachschulung und erneuter Versuch nach Nichtbestehen [3]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Schutz der Prüfungsinhalte vor unberechtigtem Zugriff und Weitergabe [4]</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Priorität/Gewichtung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">0 = nicht relevant &#160; 1 = gering &#160; 2 = mittel &#160; 3 = hoch &#160; 4 = zwingend: &#160;____</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Regulatorische Herleitung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Regulatorische Ausbildungsmodelle verlangen definierte Standards, qualifizierte Instruktoren beziehungsweise Evaluatoren und nachvollziehbare Prüfungsergebnisse. EASA nennt Prüfungsbeobachtung und Überprüfung von Trainingsaufzeichnungen als Elemente der Organisationskontrolle [1]; FAA 14 CFR 142.73 verlangt Datum, Ergebnis und Evaluator von Abschlusstests [7].</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:13px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:12pt; font-weight:bold; color:#000000;">8 &#160;Auswertung von Testfragen und Ergebnissen</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Welche Auswertungen benötigen Ausbildungsverantwortliche, um Leistung, Fragenqualität und Trainingswirksamkeit beurteilen zu können?</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Auswahlregel: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Mehrfachauswahl; maximal sechs vorrangige Auswertungen markieren.</text></para>
+    <para styleclass="Normal"><table rowcount="12" colcount="2" style="width:auto; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#d9d9d9; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Auswahl</text></para>
+        </td>
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Antwortoptionen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Ergebnis pro Person, Versuch, Kurs und Zeitraum [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Ergebnis nach Thema, Lernziel oder Kompetenz [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Antwortverteilung je Frage und je Antwortoption</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Schwierigkeitsindex einer Frage</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Trennschärfe beziehungsweise Zusammenhang zwischen Frage und Gesamtergebnis</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Distraktorenanalyse für selten oder nie gewählte falsche Antworten</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Vergleich von Kohorten, Standorten, Funktionen oder Ausbildungsperioden [3]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Analyse von Erstversuch, Wiederholung und Nachschulung [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Erkennung auffälliger Fragen, Ergebnisse oder Bearbeitungszeiten</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Export von Rohdaten und Berichten für vertiefte Analysen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Dokumentierte fachliche Prüfung, Überarbeitung und Freigabe von Testfragen [3]</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Priorität/Gewichtung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">0 = nicht relevant &#160; 1 = gering &#160; 2 = mittel &#160; 3 = hoch &#160; 4 = zwingend: &#160;____</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Regulatorische Herleitung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">ICAO CBTA und EBT nutzen Leistungsdaten zur Beurteilung von Kompetenz und zur laufenden Verbesserung von Ausbildung [3], [5]. EASA verlangt Compliance Monitoring und die Überprüfung von Trainingsaufzeichnungen, Kursen, Prüfungen und Feedback [1]. Die genannten Item-Analysen sind geeignete Messverfahren, aber nicht pauschal vorgeschriebene LMS-Funktionen.</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:13px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:12pt; font-weight:bold; color:#000000;">9 &#160;Bedienbarkeit und Rollen</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Welche Anforderungen an Bedienbarkeit und Rollen sind für den erfolgreichen Betrieb besonders wichtig?</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Auswahlregel: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Mehrfachauswahl; je Rolle höchstens zwei Hauptanforderungen markieren.</text></para>
+    <para styleclass="Normal"><table rowcount="10" colcount="2" style="width:auto; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#d9d9d9; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Auswahl</text></para>
+        </td>
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Antwortoptionen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Administration: einfache Benutzer-, Rollen- und Rechteverwaltung [3]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Administration: Massenimport, Automatisierung und Fehlerprotokolle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Course Management: einfache Zuweisung, Terminierung und Versionskontrolle [3]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Course Management: übersichtliche Status-, Fristen- und Eskalationsberichte [2]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Lehrpersonen und Evaluatoren: schnelle Bewertung, Kommentierung und Freigabe [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Lernende: klarer Lernpfad, sichtbarer Fortschritt und verständliche Rückmeldungen [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Lernende: nutzbar auf unterschiedlichen Geräten und bei geringer Bandbreite [4]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Alle Rollen: barrierearme, konsistente und mehrsprachige Bedienung</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Alle Rollen: kontextsensitive Hilfe und nachvollziehbare Fehlermeldungen [3]</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Priorität/Gewichtung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">0 = nicht relevant &#160; 1 = gering &#160; 2 = mittel &#160; 3 = hoch &#160; 4 = zwingend: &#160;____</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Regulatorische Herleitung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Die Vorschriften verlangen geeignete Ressourcen, klare Verantwortlichkeiten, geschultes Personal und wirksame Verfahren [1]. Bedienbarkeit ist damit kein Selbstzweck: Sie beeinflusst Datenqualität, regelkonforme Durchführung und die Wahrscheinlichkeit von Bedienfehlern.</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:13px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:12pt; font-weight:bold; color:#000000;">10 &#160;Kosten Betrieb und Wartungsverantwortung</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Welches Betriebs- und Kostenmodell passt zu Verantwortung, Verfügbarkeit und Kontrollbedarf Ihrer Organisation?</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Auswahlregel: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Eine Hauptoption wählen; anschliessend die drei wichtigsten Entscheidungskriterien markieren.</text></para>
+    <para styleclass="Normal"><table rowcount="11" colcount="2" style="width:auto; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#d9d9d9; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Auswahl</text></para>
+        </td>
+        <td style="vertical-align:middle; width:302px; background-color:#1f4e78;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#ffffff;">Antwortoptionen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Betrieb und Wartung vollständig intern</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Technischer Betrieb extern, fachliche Administration und Datenhoheit intern</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">SaaS oder Managed Service mit vertraglich geregelter Datenhoheit und Auditmöglichkeit</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Hybrides Modell mit internem führendem System und externen Spezialdiensten</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Bevorzugt einmalige Lizenz- und Einführungskosten</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Bevorzugt planbare Abonnementkosten pro Nutzer oder Jahr</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Entscheidend sind Gesamtbetriebskosten über mehrere Jahre</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Entscheidend sind Verfügbarkeit, Support- und Wiederherstellungszeiten</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">X</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Entscheidend sind Backup, Archivierung, Informationssicherheit und Notbetrieb</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:19px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">☐</text></para>
+        </td>
+        <td style="vertical-align:middle; width:582px; background-color:#eef4f8;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Entscheidend sind Exit-Regelung, vollständiger Datenexport und Anbieterwechsel</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Priorität/Gewichtung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">0 = nicht relevant &#160; 1 = gering &#160; 2 = mittel &#160; 3 = hoch &#160; 4 = zwingend: &#160;____</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">Regulatorische Herleitung: </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Nach EASA bleibt eine Organisation auch bei ausgelagerten Tätigkeiten verantwortlich; Vereinbarungen, Überwachung und Behördenzugriff müssen gewährleistet sein [1]. Anforderungen an Backup, Schutz, Aufbewahrung und Migration wirken direkt auf Betriebsmodell und Lebenszykluskosten. Das BAZL ist in der Schweiz die zuständige Zertifizierungs- und Aufsichtsbehörde [8].</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:19px; margin-right:0px; margin-bottom:9px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:16pt; font-weight:bold; color:#000000;">Hinweise zur Auswertung</text></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:left; text-indent:-24px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:24px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none; font-family:Symbol; font-size:10pt; color:#000000;">
+      <li styleclass="" style="text-align:left; text-indent:-24px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:24px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Quantitativ: Die Gewichtung 0 bis 4 je Frage kann mit der Häufigkeit der gewählten Optionen kombiniert werden. Zwingende Anforderungen sollten separat als Ausschlusskriterien behandelt werden.</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-24px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:24px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Qualitativ: Zu jeder Auswahl sollte nach einem konkreten Beispiel gefragt werden, etwa nach einem Audit, einem nicht bestandenen Test, einem Systemwechsel oder einem Ausfall.</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-24px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:24px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Regulatorisch: Vor einer Produktauswahl sind Ausbildungsart, Genehmigungsumfang, zuständige Stelle, aufzubewahrende Datensätze und Fristen verbindlich zu klären.</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-24px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:24px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Zeitdaten: Nutzungszeit, aktive Lernzeit, vorgeschriebene Kurszeit und tatsächlich erbrachte Kompetenz sind getrennte Messgrössen und sollten nicht gleichgesetzt werden.</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-24px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:24px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Assessment-Daten: Personenbezogene Leistungsanalyse und aggregierte Qualitätsanalyse der Fragen sollten organisatorisch und technisch getrennt betrachtet werden.</text></li>
+    </list>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:19px; margin-right:0px; margin-bottom:9px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:avoid; page-break-after:avoid; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:16pt; font-weight:bold; color:#000000;">Quellen und regulatorische Bezugspunkte</text></para>
+    <para styleclass="" style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:23px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">[1] </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">European Union Aviation Safety Agency (EASA), Easy Access Rules for Aircrew, insbesondere ORA.GEN.200, ORA.GEN.205, ORA.GEN.210, ORA.GEN.220 sowie AMC und GM. </text><text styleclass="" style="font-family:Aptos; font-size:8pt; color:#1f4e79;">https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-aircrew-regulation-eu-no</text></para>
+    <para styleclass="" style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:23px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">[2] </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">European Commission, Regulation (EU) No 1178/2011, technische Anforderungen und Verwaltungsverfahren für das fliegende Personal. </text><text styleclass="" style="font-family:Aptos; font-size:8pt; color:#1f4e79;">https://eur-lex.europa.eu/eli/reg/2011/1178/oj</text></para>
+    <para styleclass="" style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:23px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">[3] </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">International Civil Aviation Organization (ICAO), Procedures for Air Navigation Services Training, PANS-TRG, Doc 9868. </text><text styleclass="" style="font-family:Aptos; font-size:8pt; color:#1f4e79;">https://store.icao.int/en/procedures-for-air-navigation-services-training-pans-trg-doc-9868</text></para>
+    <para styleclass="" style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:23px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">[4] </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">ICAO, Training Development Guide Competency-based Training Methodology, Doc 9941. </text><text styleclass="" style="font-family:Aptos; font-size:8pt; color:#1f4e79;">https://store.icao.int/en/training-development-guide-competency-based-training-methodology-doc-9941</text></para>
+    <para styleclass="" style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:23px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">[5] </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">ICAO, Manual of Evidence-based Training, Doc 9995. </text><text styleclass="" style="font-family:Aptos; font-size:8pt; color:#1f4e79;">https://store.icao.int/en/manual-of-evidence-based-training-doc-9995</text></para>
+    <para styleclass="" style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:23px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">[6] </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Federal Aviation Administration (FAA), 14 CFR Part 141, § 141.101 Training records. </text><text styleclass="" style="font-family:Aptos; font-size:8pt; color:#1f4e79;">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-H/part-141/subpart-F/section-141.101</text></para>
+    <para styleclass="" style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:23px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">[7] </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Federal Aviation Administration (FAA), 14 CFR Part 142, § 142.73 Recordkeeping requirements. </text><text styleclass="" style="font-family:Aptos; font-size:8pt; color:#1f4e79;">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-H/part-142/subpart-E/section-142.73</text></para>
+    <para styleclass="" style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:23px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-weight:bold; color:#000000;">[8] </text><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Bundesamt für Zivilluftfahrt (BAZL), Flugausbildung und Rolle als Schweizer Zertifizierungs- und Aufsichtsbehörde. </text><text styleclass="" style="font-family:Aptos; font-size:8pt; color:#1f4e79;">https://www.bazl.admin.ch/de/flugausbildung</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:24px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; color:#000000;">Stand der Quellenprüfung: 18. September 2026. Für eine wissenschaftliche Verwendung sollten die zum untersuchten Ausbildungsbereich gehörenden aktuellen Fassungen und allfällige BAZL-Genehmigungsunterlagen zusätzlich geprüft werden.</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Aptos; font-size:10pt; font-style:italic; color:#000000;">Dieser Fragenkatalog wurde unter Einbezug der genannten Quellen mit Unterstützung künstlicher Intelligenz erstellt und anschliessend inhaltlich überprüft und redaktionell überarbeitet.</text></para>
+  </body>
+</topic>

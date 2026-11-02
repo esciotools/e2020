@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T21:46:55.653Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Lernmodule</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Lernmodule</para>
+    </header>
+    <para styleclass="Body Text">Die Lernmodule wurden mit unterschiedlichen Autorentools erstellt. Inhaltlich sind sie weitgehend identisch, unterscheiden sich jedoch in Aufbau, Gestaltung, Navigation und Funktionsumfang. Im Vordergrund steht nicht die Vermittlung der Lerninhalte, sondern die praktische Erprobung der Autorentools und ihrer Möglichkeiten. Dazu gehören insbesondere die Einbindung interaktiver Elemente, die verfügbaren Ausgabeformate und die Einstellungen zur Aufzeichnung des Lernfortschritts.</para>
+    <para styleclass="Body Text">Diese Arbeit unterscheidet zwischen Lernmodul und Microlearning.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Lernmodul</text>: Es vermittelt zusammenhängende Lerninhalte und kann mehrere Seiten, Abschnitte und interaktive Elemente umfassen lassen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Microlearning</text>: Microlearning bezeichnet dagegen eine kurze, in sich abgeschlossene Lerneinheit, die sich auf wenige Inhalte konzentriert und in kurzer Zeit bearbeitet werden kann.</para>
+    <para styleclass="Body Text">Auch die in dieser Arbeit verwendeten Microlearnings sind grundsätzlich Lernmodule. Zur besseren Unterscheidung werden jedoch die umfangreicheren Lerneinheiten als Lernmodule und die kurzen Einheiten als Microlearning bezeichnet. Diese Unterscheidung bezieht sich auf den Umfang und die didaktische Aufbereitung, nicht auf das verwendete Autorentool oder Ausgabeformat.</para>
+    <para styleclass="Body Text">Die Lerninhalte behandeln zwei Themen:</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Wolken</text>: Für umfangreichere, mehrseitige Lernmodule mit strukturiertem Aufbau, die als &#160;Beispiel für ein klassisches Lernmodul dienen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Energie</text>: Eine kürzere Lerneinheit dient als Beispiel für Microlearning. Ihr geringer Umfang ermöglicht die Umsetzung mit verschiedenen Autorentools bei überschaubarem Produktionsaufwand. So lassen sich die Möglichkeiten der Autorentools anhand vergleichbarer Inhalte aufzeigen.</para>
+    <para styleclass="Body Text">In den jeweiligen LMS-Praxisumgebungen sind aus Kompatibilitätsgründen nicht alle aufgeführten Lernmodule und Microlearnings verfügbar.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="6" colcount="3" style="page-break-inside:auto;">
+      <thead style="vertical-align:top">
+        <td colspan="3" style="width:77%; background-color:#e8f0f8;">
+          <para styleclass="Heading2">Lernmodule - Wolken</para>
+        </td>
+      </thead>
+      <tr>
+        <td style="width:23%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Lernmodul</text></para>
+        </td>
+        <td style="width:49%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Umsetzung</text></para>
+        </td>
+        <td style="width:28%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Lernfortschritt im LMS</text></para>
+        </td>
+      </tr>
+      <tr>
+        <td style="width:23%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Lernmodul 01</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">ILIAS</para>
+        </td>
+        <td style="width:49%;">
+          <para styleclass="Normal" style="margin-bottom:8px;">In ILIAS erstellt. Enthält Fragen.</para>
+        </td>
+        <td style="width:28%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">ILIAS: </text>Diverse Einstellmöglichkeiten</para>
+        </td>
+      </tr>
+      <tr>
+        <td style="width:23%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Lernmodul 02</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">HTML</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Lernmodul 02.1</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM</para>
+        </td>
+        <td style="width:49%;">
+          <para styleclass="Normal" style="margin-bottom:8px;">PowerPoint mit einem Online-Tool in HTML konvertiert, mit ChatGPT zusätzlich als SCORM verpackt. Keine interaktiven Elemente.</para>
+        </td>
+        <td style="width:28%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">HTML: </text>Besucht, Selbsteinschätzung</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">SCORM: </text>SCORM-Kapitel</para>
+        </td>
+      </tr>
+      <tr>
+        <td style="width:23%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Lernmodul 03</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">HTML</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Lernmodul 03.1</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM</para>
+        </td>
+        <td style="width:49%;">
+          <para styleclass="Normal" style="margin-bottom:8px;">PowerPoint mit ChatGPT in HTML konvertiert und zusätzlich als SCORM verpackt. Keine interaktiven Elemente.</para>
+        </td>
+        <td style="width:28%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">HTML: </text>Besucht, Selbsteinschätzung</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">SCORM: </text>SCORM-Kapitel</para>
+        </td>
+      </tr>
+      <tr>
+        <td style="width:23%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Lernmodul 04</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">HTML</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Lernmodul 04.1</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM</para>
+        </td>
+        <td style="width:49%;">
+          <para styleclass="Normal" style="margin-bottom:8px;">PowerPoint mit iSpring als HTML und SCORM veröffentlicht. Enthält Fragen.</para>
+        </td>
+        <td style="width:28%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">HTML: </text>Besucht, Selbsteinschätzung</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">SCORM: </text>SCORM-Kapitel</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Alle Lernmodule.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="8" colcount="3" style="page-break-inside:auto;">
+      <thead style="vertical-align:top">
+        <td colspan="3" style="background-color:#e8f0f8;">
+          <para styleclass="Heading2">Microlearnings - Elektroantrieb</para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="width:23%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Lernmodul</text></para>
+        </td>
+        <td style="width:49%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Umsetzung</text></para>
+        </td>
+        <td style="width:28%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Lernfortschritt im LMS</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:23%; height:115px;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Microlearning 01</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">HTML</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Microlearning 01.1</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM</para>
+        </td>
+        <td style="width:49%; height:115px;">
+          <para styleclass="Normal" style="margin-bottom:8px;">Mit ChatGPT in HTML erstellt und zusätzlich als SCORM verpackt. Keine interaktiven Elemente.</para>
+        </td>
+        <td style="width:28%; height:115px;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">HTML: </text>Besucht, Selbsteinschätzung</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">SCORM: </text>SCORM-Kapitel</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:23%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Microlearning 02</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">HTML</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Microlearning 02.1</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM</para>
+        </td>
+        <td style="width:49%;">
+          <para styleclass="Normal" style="margin-bottom:8px;">Mit eXeLearning erstellt und als HTML und SCORM veröffentlicht. Enthält eine Zuordnungsaufgabe.</para>
+        </td>
+        <td style="width:28%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">HTML: </text>Besucht, Selbsteinschätzung</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">SCORM: </text>SCORM-Kapitel</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:23%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Microlearning 03</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">HTML</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Microlearning 03.1</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM</para>
+        </td>
+        <td style="width:49%;">
+          <para styleclass="Normal" style="margin-bottom:8px;">HTML mit ChatGPT in PowerPoint konvertiert, mit iSpring als HTML und SCORM veröffentlicht. Enthält Fragen.</para>
+        </td>
+        <td style="width:28%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">HTML: </text>Besucht, Selbsteinschätzung</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">SCORM: </text>SCORM-Kapitel</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:23%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Microlearning 04</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">HTML</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Microlearning 04.1</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM</para>
+        </td>
+        <td style="width:49%;">
+          <para styleclass="Normal" style="margin-bottom:8px;">Mit Open eLearning erstellt und als HTML und SCORM veröffentlicht. Enthält Fragen.</para>
+        </td>
+        <td style="width:28%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">HTML: </text>Besucht, Selbsteinschätzung</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">SCORM: </text>SCORM-Kapitel</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:23%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Microlearning 05</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">HTML</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Microlearning 05.1</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM</para>
+        </td>
+        <td style="width:49%;">
+          <para styleclass="Normal" style="margin-bottom:8px;">In Markdown geschrieben und mit dem LiaScript-Exporter als HTML und SCORM veröffentlicht. Enthält Fragen.</para>
+        </td>
+        <td style="width:28%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">HTML: </text>Besucht, Selbsteinschätzung</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">SCORM: </text>SCORM-Kapitel</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:23%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Wolken-Memory</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">HTML</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Wolken-Memory</text></para>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM</para>
+        </td>
+        <td style="width:49%;">
+          <para styleclass="Normal" style="margin-bottom:8px;">Mit Lumi Desktop für H5P erstellt und als HTML und SCORM veröffentlicht. Enthält ein Memoryspiel.</para>
+        </td>
+        <td style="width:28%;">
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">HTML: </text>Besucht, Selbsteinschätzung</para>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">SCORM: </text>SCORM-Kapitel</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_9FF916" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Alle Microlearnings.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+  </body>
+</topic>

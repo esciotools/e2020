@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T21:39:47.731Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Abgrenzung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Abgrenzung</para>
+    </header>
+    <para styleclass="Body Text">Die Arbeit konzentriert sich auf die praktische Erstellung, Pflege und Veröffentlichung einer überschaubaren Dokumentation nach dem <var translate="false">&lt;%SSP%&gt;</var>-Prinzip. Der Beitrag zum Wissensmanagement liegt in der strukturierten Aufbereitung, Bewahrung und Bereitstellung dokumentierter Fachinformationen.</para>
+    <para styleclass="Body Text">Ein organisationsweites Wissensmanagement, die systematische Erhebung impliziten Wissens bei anderen Personen und die Untersuchung der tatsächlichen Wissensnutzung gehören nicht zum Inhalt der Arbeit. Empirische Erhebungen, umfassende Usability-Studien und langfristige Wirkungsbewertungen sind nicht vorgesehen.</para>
+    <para styleclass="Body Text"><var translate="false">&lt;%DOC_TOOL%&gt;</var> bildet das Hauptwerkzeug der praktischen Umsetzung. Im Mittelpunkt stehen die Strukturierung und Wiederverwendung von Inhalten, die zentrale Pflege einer gemeinsamen Wissensbasis sowie die Veröffentlichung in unterschiedlichen Formaten. Eine vollständige Marktübersicht oder umfassende Evaluation von Autorensystemen ist nicht vorgesehen.</para>
+    <para styleclass="Body Text">Die Arbeit ist keine Schulung zur umfassenden Bedienung von <var translate="false">&lt;%DOC_TOOL%&gt;</var> und ersetzt dessen Benutzerhandbuch nicht. Erläutert werden ausgewählte Funktionen und Arbeitsschritte, die für die Umsetzung von <var translate="false">&lt;%SSP%&gt;</var> in der verwendeten MAS-Umgebung erforderlich sind. Die Praxisbeispiele dienen dazu, den Aufbau, die Wiederverwendung und die Pflege der Inhalte nachvollziehbar zu machen.</para>
+    <para styleclass="Body Text">Die technischen Grundlagen werden so weit behandelt, wie es für das Verständnis und die praktische Umsetzung erforderlich ist. Umfangreiche Softwareentwicklungen und der Betrieb komplexer Redaktionssysteme bleiben unberücksichtigt. </para>
+    <para styleclass="Body Text">Die anwendungsorientierte Projektarbeit entsteht im Rahmen des Masterstudiums <text styleclass="T_Emphasis">E-Learning und Wissensmanagement</text> am IKF. Die Dokumentationsprojekte der MAS-Umgebung bilden gemeinsam das Praxisbeispiel.</para>
+  </body>
+</topic>

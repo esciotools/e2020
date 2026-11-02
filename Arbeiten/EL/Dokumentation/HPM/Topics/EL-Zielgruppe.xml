@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-09-22T15:25:49.354Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Zielgruppe</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Zielgruppe</para>
+    </header>
+    <para styleclass="Body Text">Die Arbeit richtet sich an Personen und kleinere Organisationen, die E-Learning praktisch ausprobieren oder ein eigenes Angebot aufbauen möchten und dafür nur über begrenzte finanzielle, personelle oder technische Mittel verfügen.</para>
+    <para styleclass="Body Text">Zur Zielgruppe gehören insbesondere:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">selbstständige Trainerinnen und Trainer</li>
+      <li styleclass="Body Text">kleine Unternehmen und Organisationen</li>
+      <li styleclass="Body Text">kleinere Bildungsanbieter</li>
+      <li styleclass="Body Text">E-Learning-Verantwortliche mit begrenztem Budget</li>
+      <li styleclass="Body Text">Personen, die erstmals ein eigenes digitales Lernangebot umsetzen</li>
+    </list>
+    <para styleclass="Body Text">Vorausgesetzt werden grundlegende Kenntnisse im Umgang mit Computern und webbasierten Anwendungen. Vertiefte Kenntnisse in Systemadministration, Programmierung oder Webentwicklung sind nicht erforderlich.</para>
+    <para styleclass="Body Text">Die Arbeit unterstützt die Zielgruppe bei der Auswahl geeigneter Werkzeuge und vermittelt anhand konkreter Beispiele die wesentlichen Schritte von der Einrichtung eines Lernmanagementsystems bis zur Bereitstellung eines Lernmoduls.</para>
+  </body>
+</topic>

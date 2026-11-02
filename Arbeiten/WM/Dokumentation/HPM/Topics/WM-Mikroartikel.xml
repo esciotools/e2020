@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-17T15:37:14.848Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <body>
+    <para styleclass="Heading2">Mikroartikel Vorlage</para>
+    <para styleclass="Body Text">Für jeden Praxisfall eine Kopie erstellen, Titel ersetzen und die Platzhalter ausfüllen. Nicht benötigte Angaben löschen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Titel</text>: [Kurzer Titel, z. B. Variablen umbenennen]</para>
+    <para styleclass="Body Text">Autor: [Name] &#160; &#160;Stand: [Datum] &#160; &#160;Status: [geplant / erprobt]</para>
+    <para styleclass="Heading3">Problem</para>
+    <para styleclass="Body Text">[Welche Aufgabe soll gelöst werden? Wo liegt die Schwierigkeit? Was soll danach möglich sein?]</para>
+    <para styleclass="Heading3">Kontext</para>
+    <para styleclass="Body Text">[In welcher Situation trat das Problem auf? Welche Programme, Versionen, Dateien und Voraussetzungen sind relevant?]</para>
+    <para styleclass="Body Text"><text styleclass="Heading3">Vorgehen</text></para>
+    <para styleclass="Body Text">1. [Vorbereitung und gegebenenfalls Sicherung]</para>
+    <para styleclass="Body Text">2. [Arbeitsschritte mit den nötigen Pfaden, Befehlen oder Beispielen]</para>
+    <para styleclass="Body Text">3. [Prüfung der Änderung und der betroffenen Ausgabe]</para>
+    <para styleclass="Body Text">Ergebnis: [Was hat funktioniert? Was nicht? Wie wurde das überprüft?]</para>
+    <para styleclass="Heading3">Erkenntnis</para>
+    <para styleclass="Body Text">[Was wurde aus diesem Fall gelernt? Warum hat die Lösung funktioniert oder ist sie gescheitert?]</para>
+    <para styleclass="Heading3">Folgerungen</para>
+    <para styleclass="Body Text">[Was sollte bei ähnlichen Aufgaben übernommen oder anders gemacht werden? Unter welchen Bedingungen ist das Vorgehen geeignet, wo liegen seine Grenzen?]</para>
+    <para styleclass="Heading3">Anschlussfragen</para>
+    <para styleclass="Body Text">[Welche weiterführenden Fragen ergeben sich aus den Erkenntnissen? Was bleibt ungeklärt oder sollte noch untersucht werden? Falls nichts offen ist: Keine.]</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Material und Quellen</text>: [Links zu Beispieldateien, Code, Abbildungen und verwendeten Quellen]</para>
+    <para styleclass="Body Text"><text styleclass="T_Ref">Struktur in Anlehnung an Willke </text><snippet src="file::WM-SNIP-LVZ-0600.xml" inline="true"/><text styleclass="T_Ref">, für technische Praxisfälle um Arbeitsschritte und Ergebniskontrolle ergänzt. Beschreibe nur tatsächlich gemachte Erfahrungen, kennzeichne geplante Schritte.</text></para>
+  </body>
+</topic>

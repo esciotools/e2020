@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<helpproject xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="helpproject.xsd" version="2.2" isskin="false" isrepository="true">
+  <config>
+    <namespaces/>
+    <styleclasses>
+      <styleclass name="Normal" shortcut="0">
+        <style-set media="screen" type="text">font-family:'Open Sans'; font-size:11pt; letter-spacing:normal; </style-set>
+      </styleclass>
+      <styleclass name="Body Text" parentclass="Normal" shortcut="114">
+        <style-set media="screen" type="para">margin-bottom:8px; </style-set>
+      </styleclass>
+      <styleclass name="Body Text Indent" parentclass="Body Text" shortcut="0">
+        <style-set media="screen" type="para">margin-left:38px; </style-set>
+      </styleclass>
+      <styleclass name="Body Text Keep Next" parentclass="Body Text" nextclass="Body Text" shortcut="0">
+        <style-set media="screen" type="para">white-space:nowrap; page-break-after:avoid; </style-set>
+      </styleclass>
+      <styleclass name="Callouts" parentclass="Normal" nextclass="Callouts" shortcut="0">
+        <style-set media="screen" type="para">margin-bottom:5px; </style-set>
+        <style-set media="screen" type="text">font-size:10pt; letter-spacing:-1px; </style-set>
+      </styleclass>
+      <styleclass name="Code" parentclass="Normal" nextclass="Code" shortcut="0">
+        <style-set media="screen" type="para">white-space:nowrap; </style-set>
+        <style-set media="screen" type="text">font-family:'Courier New'; font-size:12pt; </style-set>
+      </styleclass>
+      <styleclass name="Technical" parentclass="Code" nextclass="Body Text" shortcut="0">
+        <style-set media="screen" type="para">margin-bottom:8px; </style-set>
+        <style-set media="screen" type="text">font-weight:bold; </style-set>
+      </styleclass>
+      <styleclass name="Code Example" parentclass="Normal" shortcut="0">
+        <style-set media="screen" type="para">white-space:nowrap; </style-set>
+        <style-set media="screen" type="text">font-family:'Courier New'; font-size:12pt; background-color:#ececec; </style-set>
+      </styleclass>
+      <styleclass name="Technical Example" parentclass="Code Example" nextclass="Body Text" shortcut="0">
+        <style-set media="screen" type="para">margin-bottom:8px; </style-set>
+      </styleclass>
+      <styleclass name="Comment" parentclass="Normal" shortcut="0">
+        <style-set media="screen" type="para">text-align:center; </style-set>
+      </styleclass>
+      <styleclass name="Heading1" parentclass="Normal" nextclass="Body Text" shortcut="119">
+        <style-set media="screen" type="para">margin-bottom:4px; page-break-after:avoid; </style-set>
+        <style-set media="screen" type="text">font-size:16pt; font-weight:bold; color:#1f63a8; </style-set>
+      </styleclass>
+      <styleclass name="Heading2" parentclass="Heading1" nextclass="Body Text" shortcut="0">
+        <style-set media="screen" type="text">font-size:12pt; </style-set>
+      </styleclass>
+      <styleclass name="Heading3" parentclass="Heading2" nextclass="Body Text" shortcut="0">
+        <style-set media="screen" type="text">color:#ff9900; </style-set>
+      </styleclass>
+      <styleclass name="Image Caption" parentclass="Normal" nextclass="Image Caption Source" shortcut="0">
+        <style-set media="screen" type="para">margin-bottom:3px; white-space:nowrap; </style-set>
+        <style-set media="screen" type="text">font-size:10pt; </style-set>
+      </styleclass>
+      <styleclass name="Image Caption Source" parentclass="Image Caption" nextclass="Body Text" shortcut="0">
+        <style-set media="screen" type="para">margin-bottom:8px; </style-set>
+        <style-set media="screen" type="text">font-size:9pt; </style-set>
+      </styleclass>
+      <styleclass name="Table Caption" parentclass="Image Caption" nextclass="Image Caption Source" shortcut="0">
+        <style-set media="screen" type="text">font-size:10pt; font-style:normal; </style-set>
+      </styleclass>
+      <styleclass name="Notes" parentclass="Normal" shortcut="0">
+        <style-set media="screen" type="text">font-style:italic; </style-set>
+      </styleclass>
+      <styleclass name="NotesBox" parentclass="Notes" shortcut="0">
+        <style-set media="screen" type="para">margin-top:10px; </style-set>
+      </styleclass>
+      <styleclass name="Popup Box" parentclass="Normal" shortcut="0">
+        <style-set media="screen" type="text">font-size:9pt; </style-set>
+      </styleclass>
+      <styleclass name="SeeAlso" parentclass="Normal" nextclass="Body Text" shortcut="0">
+        <style-set media="screen" type="para">margin-top:10px; page-break-after:avoid; </style-set>
+        <style-set media="screen" type="text">font-family:'Segoe UI Semibold'; font-size:12pt; </style-set>
+        <style-set media="print" type="para"/>
+        <style-set media="print" type="text">font-size:12pt; font-weight:bold; font-style:italic; </style-set>
+      </styleclass>
+      <styleclass name="Tip Body" parentclass="Normal" shortcut="0">
+        <style-set media="screen" type="text">letter-spacing:-1px; </style-set>
+        <style-set media="print" type="text">font-size:9pt; </style-set>
+      </styleclass>
+      <styleclass name="Tip Heading" parentclass="Normal" nextclass="Body Text HowTo" shortcut="0">
+        <style-set media="screen" type="text">font-family:Tahoma; font-weight:bold; </style-set>
+      </styleclass>
+      <styleclass name="Title" parentclass="Normal" nextclass="Body Text" shortcut="0">
+        <style-set media="screen" type="para">margin-bottom:8px; </style-set>
+        <style-set media="screen" type="text">font-weight:bold; </style-set>
+      </styleclass>
+      <styleclass name="Higlight" parentclass="Title" nextclass="Body Text" shortcut="0">
+        <style-set media="screen" type="text">color:#8064a2; </style-set>
+      </styleclass>
+      <styleclass name="UI" parentclass="Normal" nextclass="Body Text" shortcut="0">
+        <style-set media="screen" type="para">margin-bottom:8px; </style-set>
+        <style-set media="screen" type="text">font-family:'Noto Sans'; font-weight:bold; color:#4f4f4f; </style-set>
+      </styleclass>
+      <styleclass name="T_Code" shortcut="0">
+        <style-set media="screen" type="text">font-family:'Courier New'; font-size:12pt; font-weight:normal; letter-spacing:-1px; </style-set>
+      </styleclass>
+      <styleclass name="T_Technical" parentclass="T_Code" shortcut="0">
+        <style-set media="screen" type="text">font-weight:bold; </style-set>
+      </styleclass>
+      <styleclass name="T_Code Example" shortcut="24643">
+        <style-set media="screen" type="text">font-family:'Courier New'; font-size:12pt; background-color:#ececec; letter-spacing:-1px; </style-set>
+      </styleclass>
+      <styleclass name="T_Technical Example" parentclass="T_Code Example" shortcut="0"/>
+      <styleclass name="T_Emphasis" shortcut="0">
+        <style-set media="screen" type="text">font-family:'Noto Sans'; font-size:11pt; font-weight:bold; font-style:normal; text-transform:none; vertical-align:baseline; color:#4f4f4f; background-color:transparent; letter-spacing:normal; letter-scaling:100%; </style-set>
+      </styleclass>
+      <styleclass name="T_Highlight" parentclass="T_Emphasis" shortcut="0">
+        <style-set media="screen" type="text">color:#8064a2; </style-set>
+      </styleclass>
+      <styleclass name="T_Label NO_USE" parentclass="T_Emphasis" shortcut="0">
+        <style-set media="screen" type="text">font-weight:normal; color:#465a6b; </style-set>
+      </styleclass>
+      <styleclass name="T_Product" parentclass="T_Emphasis" shortcut="0">
+        <style-set media="screen" type="text">color:#333399; </style-set>
+      </styleclass>
+      <styleclass name="T_Ref" parentclass="T_Emphasis" shortcut="0">
+        <style-set media="screen" type="text">font-weight:normal; font-style:italic; </style-set>
+      </styleclass>
+      <styleclass name="T_UI" parentclass="T_Emphasis" shortcut="0"/>
+      <styleclass name="T_Entry" shortcut="24645">
+        <style-set media="screen" type="text">font-family:'Courier New'; font-size:11pt; font-weight:bold; font-style:normal; letter-spacing:-1px; </style-set>
+      </styleclass>
+      <styleclass name="T_Entry 10pt" parentclass="T_Entry" shortcut="0">
+        <style-set media="screen" type="text">font-size:10pt; font-style:italic; </style-set>
+      </styleclass>
+      <styleclass name="T_Menu" shortcut="24653">
+        <style-set media="screen" type="text">font-family:'Segoe UI Semibold'; font-size:11pt; font-weight:normal; font-style:normal; color:#000000; letter-spacing:normal; </style-set>
+      </styleclass>
+      <styleclass name="T_Menu 10p" parentclass="T_Menu" shortcut="0"/>
+      <tablestyleclass name="Default">
+        <style-set media="screen">width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:none; head-row-background-color:none; alt-row-background-color:none; </style-set>
+      </tablestyleclass>
+      <tablestyleclass name="Code" parentclass="Default">
+        <style-set media="screen">width:auto; cell-padding:5px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:#ececec; head-row-background-color:none; alt-row-background-color:none; </style-set>
+      </tablestyleclass>
+      <tablestyleclass name="Box_Base" parentclass="Default">
+        <style-set media="screen">width:auto; cell-padding:5px; cell-spacing:0px; page-break-inside:avoid; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none; </style-set>
+      </tablestyleclass>
+      <tablestyleclass name="Box_Caution" parentclass="Box_Base">
+        <style-set media="screen">width:auto; cell-padding:5px; cell-spacing:0px; page-break-inside:avoid; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid; background-color:#fff4d6; head-row-background-color:none; alt-row-background-color:none; </style-set>
+      </tablestyleclass>
+      <tablestyleclass name="Box_Info" parentclass="Box_Base">
+        <style-set media="screen">width:auto; cell-padding:5px; cell-spacing:0px; page-break-inside:avoid; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid; background-color:#e8f0f8; head-row-background-color:none; alt-row-background-color:none; </style-set>
+      </tablestyleclass>
+      <tablestyleclass name="Box_Tip" parentclass="Box_Base">
+        <style-set media="screen">width:auto; cell-padding:5px; cell-spacing:0px; page-break-inside:avoid; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid; background-color:#eaf5ea; head-row-background-color:none; alt-row-background-color:none; </style-set>
+      </tablestyleclass>
+      <tablestyleclass name="Box_Warning" parentclass="Box_Base">
+        <style-set media="screen">width:auto; cell-padding:5px; cell-spacing:0px; page-break-inside:avoid; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid; background-color:#fbe8e8; head-row-background-color:none; alt-row-background-color:none; </style-set>
+      </tablestyleclass>
+      <imagestyleclass name="Default"/>
+    </styleclasses>
+    <config-group name="project">
+      <config-value name="lcid" translate="true">de-ch</config-value>
+      <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
+      <config-value name="deffont">font-family:Tahoma; font-size:10pt; color:#000000;</config-value>
+      <config-value name="versionmajor">1</config-value>
+      <config-value name="versionminor">0</config-value>
+      <config-value name="versionbuild">0</config-value>
+      <config-value name="bidimode">0</config-value>
+      <config-value name="imageshortcuts_includebaggage">1</config-value>
+      <config-value name="make0include">CHM</config-value>
+      <config-value name="make0status">*</config-value>
+      <config-value name="searchpath">.\</config-value>
+    </config-group>
+    <config-group name="html">
+      <config-value name="defaultext">.html</config-value>
+      <config-value name="cssfile">default.css</config-value>
+      <config-value name="fontsizeencoding">1</config-value>
+      <config-value name="fontsizebase">100</config-value>
+      <config-value name="exportmarkersastext">1</config-value>
+      <config-value name="exportstylenames">1</config-value>
+      <config-value name="exportutf8bom">1</config-value>
+      <config-value name="replacecharhyphen">0</config-value>
+      <config-value name="animations">1</config-value>
+      <config-value name="imagelightbox">1</config-value>
+      <config-value name="synctimestamp">1</config-value>
+      <config-value name="syncarchivebit">0</config-value>
+      <config-value name="imagehint">1</config-value>
+      <config-value name="imageconversion">1</config-value>
+      <config-value name="jpgquality">90</config-value>
+      <config-value name="htmlpopup">3</config-value>
+      <config-value name="topiceditor">0</config-value>
+      <config-value name="topicsimpleheadercolor">#E6E6E6</config-value>
+      <config-value name="topicsimpletextcolor">#FFFFFF</config-value>
+      <config-value name="topicsimplebuttons">1</config-value>
+      <config-group name="TOPICSIMPLEBUTTON1">
+        <config-value name="CAPTION" translate="true">Top</config-value>
+      </config-group>
+      <config-group name="TOPICSIMPLEBUTTON2">
+        <config-value name="CAPTION" translate="true">Previous</config-value>
+      </config-group>
+      <config-group name="TOPICSIMPLEBUTTON3">
+        <config-value name="CAPTION" translate="true">Next</config-value>
+      </config-group>
+      <config-group name="TOPICTEMPLATES">
+        <config-value name="Default" translate="true"><![CDATA[<%DOCTYPE%>
+<html>
+<head>
+   <title><%TOPIC_TITLE%></title>
+   <meta name="generator" content="Help &amp; Manual" />
+   <meta name="keywords" content="<%TOPIC_KEYWORDS%>" />
+   <meta http-equiv="Content-Type" content="text/html; charset=<%DOCCHARSET%>" />
+   <IF_CHM><meta http-equiv="X-UA-Compatible" content="IE=8" /></IF_CHM>
+   <IF_HTML><meta http-equiv="X-UA-Compatible" content="IE=edge" /></IF_HTML>
+   <meta name="description" content="<%TOPIC_DESCRIPTION%>" />
+   <meta name="picture" content="<%TOPIC_PICTURE%>" />
+   <link type="text/css" href="<%STYLESHEET%>" rel="stylesheet" />
+   <style type="text/css">
+     body { margin: 0px; background: #FFFFFF; }
+   </style>
+</head>
+<body>
+
+<IF_TOPIC_HEADER>
+<table style="width:100%; border:none; border-spacing:0px; padding:5px; background:#E6E6E6">
+  <tr style="vertical-align:middle">
+    <td style="text-align:left">
+      <%TOPIC_HEADER%>
+    </td>
+    <td style="text-align:right">
+     <a href="<%HREF_DEFAULT_PAGE%>">Top</a>&nbsp;
+     <IF_PREVIOUS_PAGE><a href="<%HREF_PREVIOUS_PAGE%>">Previous</a>&nbsp;</IF_PREVIOUS_PAGE>
+     <IF_NEXT_PAGE><a href="<%HREF_NEXT_PAGE%>">Next</a></IF_NEXT_PAGE>
+    </td>
+  </tr>
+</table>
+</IF_TOPIC_HEADER>
+
+<!-- Placeholder for topic body. -->
+<table style="width:100%;border:none;border-spacing:0px"><tr style="vertical-align:top"><td style="text-align:left;padding:5px">
+<%TOPIC_TEXT%>
+</td></tr></table>
+
+</body>
+</html>]]></config-value>
+      </config-group>
+      <config-value name="skin">$(HMSYS)Templates\HTML Skins\Premium Pack 6.1.0\V5 Minimal Skins\V5_Minimal_BlueDiamond.hmskin</config-value>
+      <config-value name="outputfile">..\output\masterX\HTML\index.html</config-value>
+    </config-group>
+    <config-group name="chm">
+      <config-value name="outputfile">E2020 Repository.chm</config-value>
+      <config-value name="skin">$(HMSYS)Templates\HTML Skins\Premium Pack 6.1.0\V5 Minimal Skins\V5_Minimal_Standard.hmskin</config-value>
+      <config-value name="deletetemp">1</config-value>
+    </config-group>
+    <config-group name="user">
+      <config-group name="huber">
+        <config-group name="project">
+          <config-value name="lastexport">0</config-value>
+        </config-group>
+      </config-group>
+    </config-group>
+    <variables>
+      <variable id="QU_EIGEN" type="text" translate="true">Quelle: Eigendarstellung.</variable>
+      <variable id="QU_KIEIGEN" type="text" translate="true">Quelle: KI-gestützte Eigendarstellung.</variable>
+      <variable id="QU_EIGENREF" type="text" translate="true">Quelle: Eigendarstellung nach</variable>
+      <variable id="QU_KIEIGENREF" type="text" translate="true">Quelle: KI-gestützte Eigendarstellung nach</variable>
+      <variable id="QU_ELLE" type="text" translate="true">Quelle:</variable>
+      <variable id="QU_EIGENSCREEN" type="text" translate="true">Quelle: Eigener Screenshot.</variable>
+      <variable id="WIN_TERM_PS" type="text" translate="true">Windows Terminal oder PowerShell</variable>
+      <variable id="WIN_VER" type="text" translate="true">Windows 11</variable>
+    </variables>
+    <helpcontext-numbers/>
+  </config>
+  <project-files>
+    <file href="Topics/*.xml" build="ALL" filetype="topic">
+      <file-mod href="Stylesheet-for-Style-Test.xml"/>
+    </file>
+    <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
+  </project-files>
+</helpproject>

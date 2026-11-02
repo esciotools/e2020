@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T06:06:30.988Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Handbuch MAS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Handbuch MAS</para>
+    </header>
+    <para styleclass="Body Text">Das MAS-Handbuch ist kein offizieller Bestandteil der Masterarbeit. Es wurde jedoch mit denselben Werkzeugen erstellt und veröffentlicht wie die Projektarbeiten. Daher werden auch von dieser Dokumentation die zugehörigen Projekt- und Ausgabedateien zum Download bereitgestellt.</para>
+    <para styleclass="Title">Online lesen:<text styleclass="Body Text">&#32;</text><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_PORTAL%&gt;/mas/index.html" target="_blank" styleclass="Body Text">E2020 MAS Handbuch</link></para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Herunterladen]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_DOC_MAS%&gt;/html/E2020 MAS Handbuch-html.zip" target="_blank">HTML5 / WebHelp</link> (ZIP)</li>
+          </list>
+          <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_DOC_MAS%&gt;/pdf/E2020 MAS Handbuch.pdf" target="_blank">PDF</link></li>
+          </list>
+          <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_DOC_MAS%&gt;/word/E2020 MAS Handbuch.docx" target="_blank">Microsoft Word</link></li>
+            <li styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_DOC_MAS%&gt;/chm/E2020 MAS Handbuch.chm" target="_blank">Microsoft HTML Help</link></li>
+            <li styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_DOC_MAS%&gt;/ewriter/E2020 MAS Handbuch.ewriter" target="_blank">eWriter Hilfe</link></li>
+            <li styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_DOC_MAS%&gt;/ziphelp/E2020 MAS Handbuch.zhelp" target="_blank">ZipHelp</link></li>
+            <li styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_DOC_MAS%&gt;/epub/E2020 MAS Handbuch.epub" target="_blank">Apple iBooks (ePUB Format)</link></li>
+            <li styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_DOC_MAS%&gt;/mobi/E2020 MAS Handbuch.epub" target="_blank">Amazon Kindle (MOBI)</link></li>
+            <li styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_DOC_MAS%&gt;/markdown/MAS Handbuch-markdown.zip" target="_blank">Markdown</link> (ZIP)</li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Sourcecode]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text">Die Quelldateien der Dokumentation stehen im Projektformat des Autorensystems <var translate="false">&lt;%DOC_TOOL%&gt;</var> zum Download bereit. Sie ermöglichen es, die Inhalte und die Projektstruktur im Autorensystem nachzuvollziehen und weiterzubearbeiten. Alle zugehörigen Medien sind ebenfalls enthalten.</para>
+          <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_LIB_MAS%&gt;/e2020-mas-dokumentation-hpm.zip" target="_blank">Sourcecode H+M</link> (ZIP)</li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Sourcecode in Git]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text">Die Quelldateien der Arbeit stehen auch in einem GitHub-Repository zur Verfügung. Das Repository enthält die Projektdateien von <var translate="false">&lt;%DOC_TOOL%&gt;</var> sowie alle zugehörigen Medien. Es ermöglicht, die vollständige Projektstruktur einzusehen, die Dateien herunterzuladen und Änderungen anhand der Versionshistorie nachzuvollziehen.</para>
+          <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="weblink" href="https://github.com/esciotools/e2020" target="_blank">Sourcecode H+M</link> (Git)</li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

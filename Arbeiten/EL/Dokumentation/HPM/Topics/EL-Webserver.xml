@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T10:54:26.006Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Webserver</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Webserver</para>
+    </header>
+    <para styleclass="Body Text">Ein Webserver stellt Webseiten, Webanwendungen und Dateien über ein Netzwerk oder das Internet bereit. Er bildet damit auch eine technische Grundlage für webbasierte Lernmanagementsysteme. Der Begriff bezeichnet sowohl den bereitstellenden Computer als auch die darauf ausgeführte Webserver-Software.</para>
+    <para styleclass="Body Text">Der Webbrowser übernimmt die Rolle des <text styleclass="T_Emphasis">Clients</text>: Er fordert Ressourcen beim Webserver an, der die Anfrage verarbeitet und eine Antwort zurücksendet. Die Kommunikation erfolgt über HTTP oder dessen verschlüsselte Variante HTTPS, den Standard für öffentlich erreichbare Webangebote. Ein Webserver kann Anfragen vieler Clients gleichzeitig bearbeiten.</para>
+    <para styleclass="Body Text">Die Kommunikation läuft so ab:</para>
+    <para styleclass="Higlight">Webbrowser (Client) <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Anfrage <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Webserver <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Antwort <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Webbrowser</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Statische Inhalte</text> liefert der Webserver direkt aus seinem Dateisystem aus. Dazu gehören HTML-, CSS- und JavaScript-Dateien, Bilder, Audio, Video und Dokumente. Der Browser verarbeitet diese Dateien, stellt die Webseite dar und führt enthaltene Funktionen aus.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Dynamische Inhalte </text>werden abhängig von der Anfrage, dem Benutzer oder gespeicherten Daten erzeugt. Dafür arbeitet der Webserver mit weiteren Komponenten zusammen:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Laufzeitumgebung</text>: Führt serverseitigen Programmcode aus, beispielsweise PHP.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Datenbank</text>: Speichert Benutzerkonten, Kurse, Lernfortschritte, Einstellungen und Bewertungen, beispielsweise in MariaDB, MySQL oder PostgreSQL.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Dateispeicher</text>: Enthält Anwendungsdateien und hochgeladene Inhalte wie Bilder, Dokumente und Lernmodule.</li>
+    </list>
+    <para styleclass="Body Text">Der Webserver übergibt entsprechende Anfragen an die Anwendung, die benötigte Daten verarbeitet und Inhalte erzeugt. Diese liefert der Webserver anschliessend an den Browser zurück.</para>
+    <para styleclass="Body Text">Die Kommunikation läuft so ab:</para>
+    <para styleclass="Higlight">Webbrowser <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Anfrage <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Webserver <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Anwendung <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Daten <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Webserver <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Antwort <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Webbrowser</para>
+    <para styleclass="Body Text">Auch ein LMS ist eine dynamische Webanwendung. Es verwaltet Benutzerkonten, stellt Kurse und Lerninhalte bereit, prüft Zugriffsrechte und speichert Lernaktivitäten. Sein Betrieb erfordert neben der LMS-Software die genannten Komponenten. Die konkreten Anforderungen sind anwendungsabhängig, ein PHP-basiertes LMS benötigt beispielsweise eine passende PHP-Version und bestimmte Erweiterungen.</para>
+    <para styleclass="Body Text">Als Webserver-Software stehen verschiedene Produkte zur Verfügung. Sie verarbeiten HTTP- und HTTPS-Anfragen, liefern Dateien aus oder leiten Anfragen an weitere Komponenten weiter. Verbreitete Beispiele sind Apache HTTP Server, NGINX und Microsoft IIS [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Webressourcen" anchor="Webserver">Web:Webserver]</link>.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="5" colcount="4" style="head-row-background-color:none; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Webserver</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Hersteller / Projekt</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Bereitstellung</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Typische Verwendung</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Apache HTTP Server</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Apache Software Foundation</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Open Source</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Webseiten und Webanwendungen, häufig in klassischen PHP-Umgebungen und bei Webhosting</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">NGINX</para>
+        </td>
+        <td>
+          <para styleclass="Normal">F5, Inc.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Open Source / kommerzielle Varianten</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Webserver, Reverse Proxy und leistungsfähige Webanwendungen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Microsoft IIS</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Microsoft</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Bestandteil von Windows Server</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Webanwendungen in Windows- und Microsoft-Umgebungen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Caddy</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Caddy-Projekt</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Open Source</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Webserver mit einfacher Konfiguration und automatischer HTTPS-Unterstützung</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_73A803" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Verbreitete Webserver-Software.</para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Heading2">Betriebsmodelle von Webservern</para>
+    <para styleclass="Body Text">Webserver können lokal auf einem Arbeitsplatzrechner oder auf einem über Netzwerk beziehungsweise Internet erreichbaren Server betrieben werden. Der lokale Betrieb dient vor allem der Entwicklung und Erprobung, Webhosting macht Webseiten und Webanwendungen für andere Benutzer zugänglich.</para>
+  </body>
+</topic>

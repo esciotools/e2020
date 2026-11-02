@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T20:38:12.094Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Responsive Design</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Responsive Design</para>
+    </header>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Responsive Design</text> bezeichnet eine Gestaltung, bei der sich Inhalte und Bedienelemente an die verfügbare Bildschirmgrösse anpassen. Ein Lernmodul soll dadurch auf einem Desktopbildschirm, einem Tablet und einem Smartphone lesbar und bedienbar bleiben. Beispielsweise können nebeneinander angeordnete Inhalte auf einem schmalen Bildschirm untereinander dargestellt werden.</para>
+    <para styleclass="Body Text">Dabei genügt es nicht, eine vollständige Seite lediglich zu verkleinern. Texte müssen lesbar, Schaltflächen gut bedienbar und Abbildungen verständlich bleiben. Besonders bei festen Folienlayouts können deshalb Anpassungen an Inhalt und Gestaltung erforderlich sein.</para>
+    <para styleclass="Body Text">Die verwendeten Werkzeuge unterstützen die Anpassung an unterschiedliche Bildschirmgrössen bereits in unterschiedlichem Umfang. Vorlagen erleichtern die Erstellung von Lernmodulen, die auf verschiedenen Bildschirmgrössen gut dargestellt werden. Ein durchgehend gut nutzbares Ergebnis kann dennoch zusätzlichen Aufwand verursachen, insbesondere bei komplexen Abbildungen, Tabellen und Interaktionen. Die Ausgabe ist deshalb auf unterschiedlichen Bildschirmgrössen zu prüfen. Kommerzielle Autorensysteme wie Articulate Rise bieten dafür eine weitgehend automatische Anordnung der Inhalte.</para>
+    <para styleclass="Image Caption"><image id="FIGD03E958" src="058-responsive-design.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Responsive Design für drei Geräte.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+  </body>
+</topic>

@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-09-29T15:10:05.344Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>E-Learning</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">E-Learning</para>
+    </header>
+    <para styleclass="Body Text">E-Learning bezeichnet Lernformen, bei denen digitale Medien und Technologien zur Unterstützung oder Durchführung von Lernprozessen zum Einsatz kommen. Der Begriff steht weder für ein bestimmtes Produkt noch für eine einzelne Lernform, sondern umfasst unterschiedliche Möglichkeiten des digital unterstützten Lernens [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Literaturverzeichnis" anchor="EL-LVZ-0200">2</link>].</para>
+    <para styleclass="Body Text">Das Lernen kann vollständig online oder ergänzend zum Präsenzunterricht stattfinden. Je nach Gestaltung bearbeiten die Lernenden Inhalte selbstständig, nehmen an gemeinsamen Lernphasen teil oder werden durch Lehrpersonen begleitet.</para>
+    <para styleclass="Body Text">E-Learning-Angebote lassen sich anhand verschiedener Merkmale einordnen. Die folgenden Ausprägungen beschreiben unterschiedliche Aspekte und können innerhalb eines Lernangebots miteinander kombiniert werden:</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="6" colcount="4">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Ausprägung</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Einordnung</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Beschreibung</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Beispiel</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Selbstgesteuertes Lernen</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Steuerung des Lernprozesses</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Die Lernenden bestimmen innerhalb eines vorgegebenen Rahmens insbesondere Zeitpunkt, Tempo und Reihenfolge der Bearbeitung.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Selbstlernmodul mit frei wählbaren Abschnitten.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Asynchrones Lernen</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Zeitliche Organisation</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Lehrende und Lernende müssen nicht gleichzeitig am Lernprozess beteiligt sein. Inhalte und Beiträge lassen sich zu unterschiedlichen Zeiten bearbeiten..</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Lernmodul, Aufgabe oder Diskussionsforum.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Online-Lernen</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Bereitstellung und Zugang</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Das Lernangebot wird über das Internet bereitgestellt und mit einem internetfähigen Endgerät genutzt.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Online-Kurs in einem webbasierten LMS.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Web Based Training</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Technische Bereitstellungsform</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Ein webbasiertes Lernprogramm wird über einen Webbrowser aufgerufen und bearbeitet.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Im LMS bereitgestelltes SCORM-Lernmodul.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Blended Learning</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kombination von Lernsettings</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Online-Lernen und Präsenzunterricht werden gezielt miteinander verbunden.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Vorbereitung im LMS mit anschliessendem Präsenzunterricht.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_46BD07" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Ausprägungen von E-Learning.</para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_REF%&gt;[</var>&#32;<text styleclass="Body Text">[</text><link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Literaturverzeichnis" anchor="EL-LVZ-0300" styleclass="Body Text">3</link><text styleclass="Body Text">]</text></para>
+    <para styleclass="Body Text">Im Mittelpunkt dieser praxisorientierten Arbeit stehen selbstgesteuerte und asynchrone Lernangebote, die weitgehend unabhängig von Ort und Zeit bearbeitet werden können. Sie eignen sich besonders, wenn Inhalte mehreren Personen mit überschaubarem Betreuungsaufwand zur Verfügung gestellt werden sollen.</para>
+    <para styleclass="Body Text">Digitale Technologien allein gewährleisten jedoch noch kein wirksames Lernangebot. Lernziele, Inhalte, Aufbau, Medien und Lernkontrollen müssen aufeinander abgestimmt sein. Zudem sollen die eingesetzten Werkzeuge den Lernprozess unterstützen und mit vertretbarem Aufwand nutzbar sein.</para>
+    <para styleclass="Body Text">Ein einfaches E-Learning-Angebot umfasst mindestens:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">ein klar abgegrenztes Lernthema</li>
+      <li styleclass="Body Text">definierte Lernziele</li>
+      <li styleclass="Body Text">digital aufbereitete Lerninhalte</li>
+      <li styleclass="Body Text">eine geeignete Bereitstellungsform</li>
+      <li styleclass="Body Text">eine Form der Lernkontrolle oder Rückmeldung</li>
+    </list>
+    <para styleclass="Body Text">Abhängig vom Einsatzzweck können weitere Bestandteile hinzukommen, beispielsweise Kommunikation, Zusammenarbeit, Lernfortschrittskontrolle, Zertifikate oder die Verwaltung unterschiedlicher Benutzergruppen.</para>
+    <para styleclass="Image Caption"><image id="FIG400C67E0" src="002-lernprozess-uebersicht.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Elemente eines E-Learning-Angebots.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Heading2"><anchor id="RollenimE-Learning"></anchor>Rollen im E-Learning</para>
+    <para styleclass="Body Text">Bei der Erstellung, Bereitstellung und Nutzung von E-Learning können unterschiedliche Rollen beteiligt sein:</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Eine Rolle beschreibt dabei eine bestimmte Aufgabe oder Verantwortung und muss nicht zwingend einer einzelnen Person entsprechen.</li>
+      <li styleclass="Body Text"> Je nach Organisation können Personen, Teams oder ganze Organisationseinheiten beziehungsweise Abteilungen eine oder mehrere Rollen übernehmen.</li>
+    </list>
+    <para styleclass="Body Text">Für die verschiedenen Rollen werden im E-Learning häufig englische Bezeichnungen verwendet, da diese in der Fachliteratur sowie in vielen E-Learning-Systemen und Autorentools gebräuchlich sind.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="8" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Rolle</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Typische Aufgaben</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainee</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Body Text">Nutzt die bereitgestellten Lerninhalte und bearbeitet Lernmodule, Übungen oder andere Lernaktivitäten.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainer</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Body Text">Begleitet den Lernprozess, betreuet Lernende und kann Lernaktivitäten oder Lernkontrollen durchführen.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Subject Matter Expert (SME)</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Body Text">Stellt das fachliche Wissen und die inhaltlichen Grundlagen für die Lerninhalte bereit. Der SME muss die Lerninhalte nicht selbst technisch umsetzen.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Instructional Designer</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Body Text">Plant und strukturiert Lerninhalte aus didaktischer Sicht und legt fest, wie Wissen sinnvoll vermittelt und aufbereitet wird.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Author bzw. Content Creator</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Body Text">Erstellt die digitalen Lerninhalte mit geeigneten Autorentools, Textverarbeitungsprogrammen sowie Werkzeugen zur Bild- und Videobearbeitung und setzt Texte, Medien, Übungen und Interaktionen technisch um.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Course Manager</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Body Text">Verantwortet die Organisation und Verwaltung eines Kurses im LMS.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Administrator</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Body Text">Richtet Lernplattformen und andere Systeme ein, verwaltet Benutzer und Zugriffsrechte und unterstützt den technischen Betrieb.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Rollen im E-Learning.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Die folgende Tabelle stellt die in dieser Arbeit verwendeten englischen und deutschen Bezeichnungen sowie gebräuchliche Abkürzungen gegenüber:</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="8" colcount="3">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Englisch</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Deutsch</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Abkürzung</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainee</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Lernende, Lernender</para>
+        </td>
+        <td>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainer</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Lehrende, Lehrender</para>
+        </td>
+        <td>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Subject Matter Expert</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Fachexperte, Fachexpertin</para>
+        </td>
+        <td>
+          <para styleclass="Normal">SME</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Instructional Designer</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Mediendidaktikerin, Mediendidaktiker, Instruktionsdesigner</para>
+        </td>
+        <td>
+          <para styleclass="Normal">ID</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Author / Content Creator</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Autor / Inhaltsersteller, Autorin / Inhaltserstellerin</para>
+        </td>
+        <td>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Course Manager</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kursverantwortliche, Kursverantwortlicher</para>
+        </td>
+        <td>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Administrator</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">Administrator</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Admin</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_BE6E50" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Rollen im E-Learning auf Englisch und Deutsch.</para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+  </body>
+</topic>

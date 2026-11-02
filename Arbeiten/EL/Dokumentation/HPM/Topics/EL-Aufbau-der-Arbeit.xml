@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-09-22T15:43:54.337Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Aufbau der Arbeit</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Aufbau der Arbeit</para>
+    </header>
+    <para styleclass="Body Text">Nach der Einleitung werden die für die Arbeit erforderlichen Grundlagen erläutert. Dazu gehören E-Learning, Lernmanagementsysteme, Autorentools, Kurse, Lernmodule, Webhosting sowie relevante Standards und Formate.</para>
+    <para styleclass="Body Text">Anschliessend folgen das methodische Vorgehen, die Evaluationskriterien und die Auswahl der Lernmanagementsysteme und Autorentools. Zudem werden das geplante Praxisbeispiel und das Vorgehen bei der Funktionsprüfung vorgestellt.</para>
+    <para styleclass="Body Text">Der praktische Teil beginnt mit der Einrichtung und Anwendung der ausgewählten Lernmanagementsysteme. Dazu gehören der Aufbau eines Kurses sowie die Erstellung und Verwendung von Fragen und Tests. Darauf folgt die Entwicklung eines Lernmoduls, das auf der Grundlage eines Lernkonzepts mit unterschiedlichen Werkzeugen umgesetzt wird. Auch die Veröffentlichung, die Einbindung in ein Lernmanagementsystem und die Funktionsprüfung werden beschrieben.</para>
+    <para styleclass="Body Text">Abschliessend werden die eingesetzten Werkzeuge sowie der damit verbundene Aufwand und die entstehenden Kosten miteinander verglichen. Aus den praktischen Erfahrungen werden Empfehlungen abgeleitet. Ein Fazit fasst die wesentlichen Erkenntnisse zusammen, beurteilt die Zielerreichung und zeigt mögliche Weiterentwicklungen auf.</para>
+    <para styleclass="Body Text">Den Abschluss bilden der Vergleich der eingesetzten Werkzeuge, des erforderlichen Aufwands und der entstehenden Kosten sowie daraus abgeleitete Empfehlungen. Das Fazit fasst die wesentlichen Erkenntnisse zusammen, beurteilt die Zielerreichung und zeigt mögliche Weiterentwicklungen auf.</para>
+    <para styleclass="Body Text">Diese Struktur folgt den am IKF vermittelten Empfehlungen für eine praxisorientierte Masterarbeit <snippet src="file::EL-SNIP-LVZ-0100.xml" inline="true"/>.</para>
+  </body>
+</topic>

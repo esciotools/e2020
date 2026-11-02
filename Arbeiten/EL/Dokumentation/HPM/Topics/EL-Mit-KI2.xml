@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T20:37:30.343Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Mit KI</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Mit KI</para>
+    </header>
+    <para styleclass="Body Text">KI kann besonders in der Entwurfsphase eines Lernmoduls unterstützen: Sie hilft, Inhalte zu strukturieren, Texte zu formulieren, Fragen zu entwickeln und Gestaltungsvarianten auszuprobieren. Je nach KI-Werkzeug lassen sich auch Dateien erzeugen oder umwandeln, von PowerPoint und HTML bis hin zu Projektdateien einzelner Autorentools, sofern deren Format bekannt und unterstützt ist. So entstehen rasch bearbeitbare Entwürfe, die anschliessend fachlich geprüft und im jeweiligen Autorentool weiterentwickelt werden.</para>
+    <para styleclass="Image Caption"><image src="046-ki-grafik.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: KI macht auch Grafiken.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_KI_EIGEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text"></para>
+  </body>
+</topic>

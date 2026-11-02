@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-10T12:50:26.231Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Rollen in Moodle</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Rollen in Moodle</para>
+    </header>
+    <para styleclass="Body Text">Moodle steuert den Zugriff auf Inhalte und Funktionen über Rollen. Neben den vorgegebenen Kursrollen und systemweiten Rollen können eigene Rollen mit gezielt festgelegten Berechtigungen erstellt werden.</para>
+    <para styleclass="Heading2">Rollen in Kursen</para>
+    <para styleclass="Body Text">Moodle stellt für jeden Kurs drei grundlegende Standardrollen bereit. Die folgende Tabelle ordnet diese dem in dieser Arbeit verwendeten <link displaytype="text" defaultstyle="true" type="topiclink" href="EL-E-Learning" anchor="RollenimE-Learning">Rollenschema</link> für E-Learning zu. Die Rollen gelten jeweils für den einzelnen Kurs. Die Administration des gesamten Moodle-Systems ist davon getrennt.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="4" colcount="3">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Rolle in Moodle</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Aufgabe und typische Befugnisse</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Zuordnung E-Learning</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Teilnehmer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Freigegebene Lerninhalte nutzen, Lernmodule bearbeiten und Tests absolvieren.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Trainee</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainer ohne Bearbeitungsrecht</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Lernende betreuen, Leistungen bewerten und Lernfortschritte einsehen.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Trainer</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kursinhalte, Einstellungen, Mitgliedschaften und zulässige Kursrollenzuweisungen verwalten.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Course Manager</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Moodle-Kursrollen und Zuordnung zum Rollenschema.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_REF%&gt;</var><text translate="false">&#32;</text><snippet src="file::EL-SNIP-LVZ-0700.xml" inline="true"/><text translate="false">.</text></para>
+    <para styleclass="Body Text">Die Befugnisse können durch Anpassungen der Rollen und der kursbezogenen Berechtigungen verändert werden <snippet src="file::EL-SNIP-LVZ-0800.xml" inline="true"/>. Die Zuordnung beschreibt daher die grundsätzlichen Aufgabenbereiche. Ein Benutzer kann in verschiedenen Kursen unterschiedliche Rollen besitzen.</para>
+    <para styleclass="Heading2">Technische Rollennamen</para>
+    <para styleclass="Body Text">Moodle verwendet für Rollen technische Kurzbezeichnungen. Diese werden in allen Kursen gleich verwendet. Der Geltungsbereich ergibt sich aus der Rollenzuweisung im jeweiligen Kurs <snippet src="file::EL-SNIP-LVZ-0900.xml" inline="true"/>.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="4" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Rolle</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Technischer Rollenname</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Teilnehmer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">student</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainer ohne Bearbeitungsrecht</para>
+        </td>
+        <td>
+          <para styleclass="Normal">teacher</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">editingteacher</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_7BCFAA" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Technische Rollennamen in Moodle-Kursen.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Die technischen Rollennamen ermöglichen eine eindeutige Zuordnung zur gewünschten Kursrolle. Sie können beispielsweise beim Benutzerimport verwendet werden, um Benutzer automatisch als Teilnehmer, Trainer ohne Bearbeitungsrecht oder Trainer zuzuweisen. Die Kurzbezeichnung des jeweiligen Kurses muss beim Import separat angegeben werden.</para>
+    <para styleclass="Heading2">Benutzer der Praxisumgebung</para>
+    <para styleclass="Body Text">Die Benutzernamen bestehen aus der Rollenbezeichnung und einer zweistelligen Nummer ab 01.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="4" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Benutzername</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Zugewiesene Kursrolle</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">trainee-01</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Teilnehmer</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">trainer-01</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Trainer ohne Bearbeitungsrecht</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">manager-01</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Trainer</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_72317F" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Benutzernamen und Kursrollen der Moodle-Praxisumgebung.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Die Unterschiede zwischen den Kursrollen zeigen sich beispielsweise in den verfügbaren Funktionen und Einstellungen. Während der Trainee die freigegebenen Lernangebote nutzt, kann der Trainer Leistungen bewerten und Lernende betreuen. Der Course Manager kann darüber hinaus Kursinhalte bearbeiten, Mitgliedschaften verwalten und im erlaubten Umfang Kursrollen zuweisen und damit wesentlich beeinflussen, wer auf den Kurs und seine Inhalte zugreifen und diese bearbeiten darf.</para>
+  </body>
+</topic>

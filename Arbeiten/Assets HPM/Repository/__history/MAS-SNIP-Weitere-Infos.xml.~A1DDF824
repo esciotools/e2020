@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-06T19:09:29.737Z" lasteditedby="huber" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">MAS-SNIP-Weitere-Infos</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">MAS-SNIP-Weitere-Infos</text></para>
+    </header>
+    <para styleclass="Body Text"><text styleclass="Body Text" translate="true">Weitere Informationen sowie die zugehörige Website finden sich bei </text></para>
+  </body>
+</topic>

@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T19:45:15.594Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Moodle</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Moodle</para>
+    </header>
+    <para styleclass="Body Text">Moodle ist ein webbasiertes Open-Source-Lernmanagementsystem zur Erstellung, Bereitstellung und Verwaltung digitaler Lernangebote. Es wird von Schulen, Hochschulen, Unternehmen und weiteren Organisationen eingesetzt. Moodle kann auf eigener Infrastruktur oder bei einem Dienstleister betrieben werden.</para>
+    <para styleclass="Heading2">Aufbau</para>
+    <para styleclass="Body Text">Kurse bilden die zentrale organisatorische Einheit. Sie können in Kursbereiche eingeordnet und nach Themen, Zeitabschnitten oder anderen Kriterien gegliedert werden.</para>
+    <para styleclass="Body Text">Innerhalb eines Kurses unterscheidet Moodle zwischen Materialien und Aktivitäten.</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Materialien dienen zur Bereitstellung von Inhalten. Dazu gehören Dateien, Textseiten, Bücher und Verweise auf externe Webseiten.</li>
+      <li styleclass="Body Text">Aktivitäten ermöglichen die Bearbeitung von Aufgaben und Tests sowie die Nutzung von Foren, Abstimmungen und weiteren Lernangeboten.</li>
+    </list>
+    <para styleclass="Body Text">Blöcke ergänzen Kursseiten um Funktionen wie Navigation, Kalender, Termine oder die Anzeige des Bearbeitungsstands.</para>
+    <para styleclass="Heading2">Funktionen</para>
+    <para styleclass="Body Text">Moodle bietet Funktionen zur Verwaltung von Kursen, Lerninhalten, Benutzern und Gruppen.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Lehrende können Aufgaben, Tests und Kommunikationsmöglichkeiten bereitstellen, Bewertungen erfassen und Kursabschlüsse festlegen.</li>
+      <li styleclass="Body Text">Berichte geben Auskunft über Aktivitäten und Lernfortschritte.</li>
+      <li styleclass="Body Text">Kurse können gesichert, wiederhergestellt und in andere Moodle-Installationen übertragen werden.</li>
+    </list>
+    <para styleclass="Body Text">Der Funktionsumfang hängt von der Moodle-Version, der Konfiguration und den installierten Plugins ab.</para>
+    <para styleclass="Heading2">Rollen und Berechtigungen</para>
+    <para styleclass="Body Text">Moodle verfügt über ein rollenbasiertes Berechtigungssystem. Berechtigungen werden über Rollen gesteuert, die systemweit oder in einzelnen Bereichen und Kursen zugewiesen werden können. Die Berechtigungen lassen sich ausser beim Administrator anpassen und durch eigene Rollen ergänzen.</para>
+    <para styleclass="Body Text" style="page-break-after:avoid;">Eine neue Moodle-Installation enthält die folgenden vordefinierten Rollen:</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="10" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Rolle in Moodle</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Aufgabe und typische Befugnisse</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text">Administrator</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Gesamte Moodle-Installation, Systemeinstellungen, Benutzer und Berechtigungen verwalten.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Manager</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kurse, Kursbereiche und Benutzer im zugewiesenen Bereich mit eingeschränkten Administrationsrechten verwalten.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Kursersteller</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Neue Kurse erstellen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kursinhalte, Einstellungen, Mitgliedschaften und zulässige Kursrollenzuweisungen verwalten.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainer ohne Bearbeitungsrecht</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Lernende betreuen, Leistungen bewerten und Lernfortschritte einsehen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Teilnehmer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Freigegebene Lerninhalte nutzen, Lernmodule bearbeiten und Tests absolvieren.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Gast</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Freigegebene Kursinhalte ohne Teilnahme an Aktivitäten ansehen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Authentifizierter Nutzer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Grundlegende Funktionen als angemeldeter Benutzer nutzen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Authentifizierter Nutzer auf der Startseite</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Inhalte und freigegebene Aktivitäten auf der Startseite als angemeldeter Benutzer nutzen.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_E1FCCC" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Vordefinierte Rollen in Moodle.</para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_REF%&gt;</var><text translate="false">&#32;</text><snippet src="file::EL-SNIP-LVZ-1000.xml" inline="true"/><text translate="false">.</text></para>
+    <para styleclass="Body Text" style="page-break-after:avoid;">Moodle weist jedem Kurs beim Anlegen drei seiner Standardrollen zu. Diese unterscheiden sich vor allem in ihren Bezeichnungen vom <link displaytype="text" defaultstyle="true" type="topiclink" href="EL-E-Learning" anchor="RollenimE-Learning">Rollenschema</link> dieser Arbeit. Die folgende Tabelle ordnet die Moodle-Kursrollen anhand ihrer Aufgaben und Befugnisse den Rollen der E-Learning-Arbeit zu.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="4" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Rolle in Moodle</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Zuordnung E-Learning</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Teilnehmer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Trainee</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainer ohne Bearbeitungsrecht</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Trainer</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Course Manager</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_40DFE9" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Moodle- und E-Learning-Rollen im Vergleich.</para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var><text translate="false">&#32;</text></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Merke</text>: Die Rollen gelten jeweils für den einzelnen Kurs. Die Administration des gesamten Moodle-Systems ist davon getrennt.</para>
+    <para styleclass="Heading2">Standards und Schnittstellen</para>
+    <para styleclass="Body Text">Moodle unterstützt Standards und Schnittstellen für den Austausch und die Einbindung von Lerninhalten und externen Anwendungen.</para>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">SCORM-Lernmodule können als Aktivität in einen Kurs eingebunden und ausgeführt werden. Moodle erfasst die vom Lernmodul übermittelten Daten.</li>
+      <li styleclass="Body Text">Über LTI lassen sich externe Lernwerkzeuge in einen Kurs einbinden. Je nach Werkzeug können Benutzerinformationen, Anmeldedaten und Ergebnisse zwischen den Systemen übertragen werden.</li>
+      <li styleclass="Body Text">H5P ist in Moodle integriert. H5P-Inhalte können in der Inhaltssammlung verwaltet und als Aktivität in Kursen eingesetzt werden.</li>
+    </list>
+    <para styleclass="Body Text">Weitere Standards und Schnittstellen lassen sich über Plugins ergänzen.</para>
+    <para styleclass="Heading2">Erweiterbarkeit</para>
+    <para styleclass="Body Text">Moodle kann durch Plugins erweitert werden. Diese ergänzen beispielsweise Aktivitäten, Fragetypen, Berichte, Authentifizierungsverfahren, Schnittstellen und Darstellungsfunktionen.</para>
+    <para styleclass="Heading2">Technische Grundlagen</para>
+    <para styleclass="Body Text">Moodle ist eine in PHP entwickelte Webanwendung und benötigt einen Webserver sowie ein relationales Datenbanksystem. In dieser Arbeit wird dafür MariaDB eingesetzt.</para>
+    <para styleclass="Body Text">Die Anforderungen an PHP, Datenbank und benötigte Erweiterungen hängen von der Moodle-Version ab und müssen vor der Installation geprüft werden.</para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Unter Windows kann Moodle lokal mit XAMPP oder Docker betrieben werden.</li>
+      <li styleclass="Body Text">Auf dem vorgesehenen Webhosting erfolgt die Installation über Softaculous.</li>
+    </list>
+    <para styleclass="Heading2">Verwendung in dieser Arbeit</para>
+    <para styleclass="Body Text">Moodle wird auf dem vorgesehenen Webhosting installiert. Die praktische Erprobung umfasst:</para>
+    <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Kurserstellung</li>
+      <li styleclass="Body Text">SCORM-Import</li>
+      <li styleclass="Body Text"> Einbindung eines externen Lernwerkzeugs über LTI</li>
+      <li styleclass="Body Text"> Rollenverwaltung</li>
+      <li styleclass="Body Text">Tests</li>
+      <li styleclass="Body Text">Lernfortschritte</li>
+      <li styleclass="Body Text">ausgewählte Administrationsaufgaben</li>
+    </list>
+    <para styleclass="Body Text">Die praktische Umsetzung wird in den zugehörigen Anleitungen und Praxisbeispielen beschrieben.</para>
+    <para styleclass="Heading2">Weiterführende Informationen</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Weitere-Infos" inline="true"/> [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Webressourcen" anchor="Moodle">Web:Moodle</link>].</para>
+    <para styleclass="Image Caption"><image src="017-moodle-einsatz.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Aufgaben und Einsatzbereiche von Moodle.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+  </body>
+</topic>

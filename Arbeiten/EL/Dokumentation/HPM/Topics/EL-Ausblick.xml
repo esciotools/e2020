@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T10:53:27.665Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Ausblick</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Ausblick</para>
+    </header>
+    <para styleclass="Body Text">Künstliche Intelligenz dürfte die Erstellung digitaler Lernangebote zunehmend verändern. Besonders bei der Aufbereitung von Texten, der Generierung von Bildern und der Erstellung von Fragen kann sie Arbeitsschritte vereinfachen und beschleunigen.</para>
+    <para styleclass="Body Text">Auch technische Aufgaben lassen sich zunehmend mit KI-Unterstützung bearbeiten. Dazu gehören die Erstellung einfacher HTML-Lernmodule und deren Aufbereitung als SCORM-Paket. Für solche Aufgaben könnten separate SCORM-Packager oder klassische Autorentools künftig teilweise entfallen. Entscheidend wird sein, wie zuverlässig sich die Ergebnisse prüfen, überarbeiten und langfristig pflegen lassen.</para>
+    <para styleclass="Body Text">Die Arbeit dürfte sich dadurch stärker von der manuellen Erstellung zur Formulierung von Anforderungen und zur Qualitätsprüfung verlagern. Fachliche Richtigkeit, didaktische Gestaltung und die Funktionsfähigkeit im LMS bleiben dabei zentrale Aufgaben. KI kann den Aufwand verringern, die Verantwortung für ein geeignetes Lernangebot bleibt bei den Personen, die es entwickeln und betreiben.</para>
+  </body>
+</topic>

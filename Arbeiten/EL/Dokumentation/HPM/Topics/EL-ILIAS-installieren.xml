@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T20:42:01.069Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>ILIAS installieren</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">ILIAS installieren</para>
+    </header>
+    <para styleclass="Body Text" style="page-break-after:avoid;">ILIAS auf dem Webserver installieren.</para>
+    <para styleclass="Body Text"><video src="004-ilias-installation.xplain" autostart="false" loop="false" showcontrols="false" playbutton="true" printcolumns="2" lightbox="true" previewimage="004-ilias-installation.xplain" imagestyleclass="Standard" scale="-50.00%" styleclass="Image Caption"><title>Explainer: ILIAS installieren</title><caption><![CDATA[Explainer: ILIAS installieren]]></caption></video></para>
+  </body>
+</topic>

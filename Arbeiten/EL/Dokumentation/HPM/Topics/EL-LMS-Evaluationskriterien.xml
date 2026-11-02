@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-08T11:33:18.423Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>LMS-Evaluationskriterien</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">LMS-Evaluationskriterien</para>
+    </header>
+    <para styleclass="Body Text">Für die Auswahl eines LMS sind nicht möglichst viele Funktionen entscheidend, sondern die Eignung für den vorgesehenen Einsatzzweck. Die Anforderungen ergeben sich deshalb aus der Zielsetzung dieser Arbeit: Die ausgewählten Systeme sollen mit möglichst geringen Kosten praktisch erprobt, selbst installiert und betrieben sowie zur Erstellung konkreter Beispiele verwendet werden können.</para>
+    <para styleclass="Heading2">Open Source als Muss-Kriterium</para>
+    <para styleclass="Body Text">Das wichtigste Auswahlkriterium ist die Verfügbarkeit des LMS als Open-Source-Software.</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Dieses Kriterium wird als <text styleclass="T_Emphasis">Muss</text>-Kriterium verwendet.</li>
+      <li styleclass="Body Text">Rein kommerzielle Systeme werden deshalb nicht in die nähere Evaluation aufgenommen.</li>
+    </list>
+    <para styleclass="Body Text">Open Source ist für diese Arbeit besonders relevant, weil dadurch eine Installation und Erprobung ohne den Erwerb kommerzieller Lizenzen möglich ist.Gleichzeitig können die Systeme grundsätzlich unabhängig von einem bestimmten Hostinganbieter betrieben werden. Dies unterstützt das Ziel der Arbeit, kostengünstige und langfristig nutzbare Lösungen aufzuzeigen.</para>
+    <para styleclass="Body Text">Die Lizenzangabe der Untersuchung von Sanchez et al. <snippet src="file::EL-SNIP-LVZ-0400.xml" inline="true"/> dienen als erste Orientierung. Da die dort verwendete Kategorie Free sowohl Freeware als auch Open-Source-Software umfasst, muss das tatsächliche Lizenzmodell der Kandidaten zusätzlich geprüft werden.</para>
+    <para styleclass="Heading2">Weitere Evaluationskriterien</para>
+    <para styleclass="Body Text">Nach Anwendung des Muss-Kriteriums Open Source werden die verbleibenden Systeme anhand weiterer Evaluationskriterien beurteilt. Diese Kriterien dienen nicht primär dazu, einen mathematisch exakten Gesamtsieger zu bestimmen, sondern sollen die Auswahl für die praktische Umsetzung nachvollziehbar machen.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="10" colcount="2" style="head-row-background-color:none; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Kriterium</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Bedeutung für diese Arbeit</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Open Source</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Muss-Kriterium, Quellcode und geeignete Open-Source-Lizenz müssen vorhanden sein.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Aktive Weiterentwicklung</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Das System soll aktuell gepflegt und weiterentwickelt werden.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Lokale Installation</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Installation in einer lokalen Testumgebung soll möglich sein.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Serverbetrieb</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Installation auf einem eigenen bzw. gehosteten Webserver soll möglich sein.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Dokumentation</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Ausreichende Dokumentation für Installation, Administration und Anwendung.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Community</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Aktive Benutzer- bzw. Entwicklergemeinschaft und verfügbare Unterstützung.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">LMS-Funktionsumfang</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Zentrale Funktionen für Kurse, Benutzer, Lerninhalte, Tests und Lernfortschritt.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Standards und Schnittstellen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Unterstützung relevanter Standards, insbesondere SCORM sowie möglichst LTI und weitere Austauschformate.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Praktische Handhabbarkeit</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Installation und grundlegende Nutzung müssen im Rahmen dieser Arbeit realistisch erprobt werden können.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_FF8E91" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Evaluationskriterien für die LMS-Auswahl.</para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Die festgelegten Evaluationskriterien bilden die für diese Arbeit relevanten Anforderungen an ein LMS ab. Neben dem Funktionsumfang stehen die freie Verfügbarkeit als Open-Source-Software, die Installierbarkeit und der Betrieb in unterschiedlichen Umgebungen sowie die praktische Handhabbarkeit im Vordergrund. Sie bilden die Grundlage für die nachfolgende Evaluation und Auswahl geeigneter LMS für die praktische Umsetzung.</para>
+  </body>
+</topic>

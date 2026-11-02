@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T01:24:34.928Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Publishing</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Publishing</para>
+    </header>
+    <para styleclass="Body Text">Publishing bezeichnet die Erstellung der Ausgaben aus den Projektquellen. Dabei führt <var translate="false">&lt;%DOC_TOOL%&gt;</var> die Topics, eingebundenen Snippets, Variablen und weiteren Bestandteile zusammen und erzeugt daraus das gewählte Ausgabeformat. Dieselben Quellen lassen sich so für unterschiedliche Formen der Bereitstellung verwenden.</para>
+    <para styleclass="Body Text">Für die MAS-Umgebung sind insbesondere WebHelp und PDF von Bedeutung. WebHelp ermöglicht das Lesen im Browser und erschliesst die Inhalte über Navigation, Suche und Verlinkungen. PDF bietet eine zusammenhängende Dokumentfassung mit festem Seitenlayout, die heruntergeladen, weitergegeben und gedruckt werden kann.</para>
+    <para styleclass="Body Text">Die Veröffentlichung wird über den Dialog <text styleclass="T_UI">Publish</text> vorbereitet. Dort werden das Ausgabeformat, der Ausgabeort und die passende Vorlage ausgewählt. Bei WebHelp steuert ein Skin das Erscheinungsbild und die Bedienoberfläche. Für PDF bestimmt eine Druckvorlage unter anderem das Titelblatt, die Seitenaufteilung sowie Kopf- und Fusszeilen. Damit können die Inhalte unabhängig von der Gestaltung der jeweiligen Ausgabe gepflegt werden.</para>
+    <para styleclass="Image Caption"><image id="FIGDC6E7DA9" src="051-hpm-export-formate.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Ausgabeformate von <%DOC_TOOL%>.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Der praktische Ablauf umfasst folgende Schritte:</para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Projekt vorbereiten</text>: Änderungen speichern und kontrollieren, ob die vorgesehenen Inhalte, Verweise und Projektangaben vollständig sind.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Ausgabe erzeugen</text>: Ausgabeformat, Vorlage und Zielverzeichnis festlegen und die Erstellung starten. Meldungen des Autorensystems prüfen.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Ergebnis kontrollieren</text>: Die erzeugte Ausgabe öffnen und insbesondere Inhaltsverzeichnis, Abbildungen, Tabellen, Quellenverweise und interne Links prüfen. Bei WebHelp kommen Navigation und Suche hinzu, bei PDF Seitenumbrüche und Seitenzahlen.</li>
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Ausgabe bereitstellen</text>: Die erzeugten WebHelp-Dateien auf den Webserver übertragen beziehungsweise die geprüfte PDF-Datei zum Download anbieten. Anschliessend den Zugriff über die öffentliche Adresse (URL) kontrollieren.</li>
+    </list>
+    <para styleclass="Body Text">Korrekturen an den Inhalten erfolgen in den Projektquellen. Danach werden die betroffenen Ausgaben erneut erzeugt und geprüft. Direkte Änderungen an den veröffentlichten Dateien würden bei der nächsten Erstellung überschrieben und sollten deshalb vermieden werden.</para>
+    <para styleclass="Body Text"><var translate="false">&lt;%SSP%&gt;</var> reduziert damit die mehrfache Pflege derselben Inhalte. Die Prüfung der einzelnen Ausgaben bleibt erforderlich, da sich Seitenlayout, Navigation und Darstellung je nach Format unterscheiden.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Auf dem Webportal der Masterarbeit <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://e2020.esciotools.ch</link> stehen die Arbeiten zum Online-Lesen sowie in verschiedenen Formaten zum Download zur Verfügung. Dort finden sich auch Hinweise zu den Formaten und den benötigten Leseprogrammen.</para>
+  </body>
+</topic>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T06:09:00.229Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Versionsverwaltung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Versionsverwaltung</para>
+    </header>
+    <para styleclass="Body Text"><text styleclass="T_Product">Git</text> und <text styleclass="T_Product">Subversion</text> protokollieren Änderungen an Dateien und ermöglichen den Zugriff auf frühere Bearbeitungsstände. <var translate="false">&lt;%DOC_TOOL%&gt;</var> unterstützt beide Systeme direkt, weitere Systeme können über angepasste Befehlsskripte angebunden werden. In dieser Arbeit wird Git vorgestellt.</para>
+    <para styleclass="Body Text">Git hält Änderungen an den Projektquellen nachvollziehbar fest. Gespeicherte Bearbeitungsstände lassen sich vergleichen und bei Bedarf wiederherstellen. Das unkomprimierte Projektformat von <var translate="false">&lt;%DOC_TOOL%&gt;</var> eignet sich dafür, weil die Topicinhalte als einzelne XML-Dateien vorliegen.</para>
+    <para styleclass="Body Text">Die Versionsverwaltung kann vollständig über <text styleclass="T_Product">GitHub Desktop</text>, einer grafischen Benutzeroberfläche für Git, erfolgen. Auf diese Weise lassen sich mehrere <var translate="false">&lt;%DOC_TOOL%&gt;</var>-Projekte in einem übergeordneten <text styleclass="T_Emphasis">Git-Repository</text> zusammenfassen. Sämtliche Git-Befehle werden dabei über GitHub Desktop ausgeführt. <var translate="false">&lt;%DOC_TOOL%&gt;</var> erkennt die einzelnen Projektordner in dieser Anordnung nicht als Git-Repositories und bietet deshalb keine Git-Funktionen im Menüband des <var translate="false">&lt;%DOC_TOOL%&gt;</var>-Editors an.</para>
+    <para styleclass="Body Text">Um Git-Befehle direkt aus <var translate="false">&lt;%DOC_TOOL%&gt;</var> aufzurufen, muss für jeden Projektordner ein eigenes Repository angelegt werden. Dazu wird das <var translate="false">&lt;%DOC_TOOL%&gt;</var>-Projekt geschlossen und in GitHub Desktop folgendermassen vorgegangen:</para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="T_UI">File &gt; Add local repository</text> wählen.</li>
+      <li styleclass="Body Text">Über <text styleclass="T_UI">Choose…</text> den Ordner auswählen, der die Projektdatei (.hmxp) enthält, und mit <text styleclass="T_UI">Add repository</text> bestätigen.</li>
+      <li styleclass="Body Text">Falls noch kein Repository vorhanden ist, dem angebotenen Link <text styleclass="T_UI">create a repository</text> folgen. Den Pfad kontrollieren und mit <text styleclass="T_UI">Create repository</text> das Repository direkt im Projektordner erstellen.</li>
+    </list>
+    <para styleclass="Body Text">Dabei entsteht der versteckte Unterordner <text styleclass="T_Technical">.git</text>, der die lokale Git-Verwaltung und Versionshistorie enthält.</para>
+    <para styleclass="Body Text">Anschliessend wird in <var translate="false">&lt;%DOC_TOOL%&gt;</var> unter <text styleclass="T_UI">Ansicht &gt; Programmoptionen &gt; Versionskontrolle</text> die Git-Unterstützung aktiviert und der Pfad zur installierten <text styleclass="T_Technical">git.exe</text> angegeben. Nach dem Öffnen des Projekts steht das Symbol für die Versionskontrolle im Menüband zur Verfügung.</para>
+    <para styleclass="Body Text"><conditional-text type="IFNOT" value="PDF,DOCX"/>Der folgende Explainer zeigt die Git-Initialisierung mittels GitHub Desktop Schritt-für-Schritt.</para>
+    <para styleclass="Body Text"><video src="001-wm-github.xplain" autostart="false" loop="false" showcontrols="false" playbutton="true" printcolumns="2" lightbox="true" previewimage="001-wm-github.xplain" imagestyleclass="Standard" scale="-50.00%"><title>Explainer: Git initialisieren</title><caption><![CDATA[Explainer: Git initialisieren]]></caption></video></para>
+    <para styleclass="Body Text"><conditional-text type="END"/><conditional-text type="IF" value="PDF,DOCX"/>Eine bebilderte Schritt-für-Schritt-Anleitung zur Initialisierung von Git mittels GitHub Desktop ist über folgende Verweise verfügbar:</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Im Anhang</text>: <link displaytype="text" defaultstyle="true" type="topiclink" href="WM-Git-initialisieren">&lt;%TARGETTITLE%&gt;</link></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Online PDF</text>: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_LIB_WM_EXPLAIN%&gt;/001/pdf/001-wm-github.pdf" target="_blank">Git initialisieren</link></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Online HTML</text>: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_LIB_WM_EXPLAIN%&gt;/001/html/001-wm-github.html" target="_blank">Git initialisieren</link> – interaktiver Explainer<conditional-text type="END"/></para>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Eine ausführliche Einführung in die Versionsverwaltung würde den Rahmen dieses Topics sprengen. Der praktische Versuch zeigt jedoch, dass sich Git auf diese Weise direkt aus <var translate="false">&lt;%DOC_TOOL%&gt;</var> nutzen lässt.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Weitere-Infos" inline="true"/> [<link displaytype="text" defaultstyle="true" type="topiclink" href="WM-Webressourcen" anchor="Versionsverwaltung">Web:SCM</link>].</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Das Repository mit den MAS-Projekten steht im GitHub-Repository <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank">https://github.com/esciotools</link> zur Verfügung.</para>
+  </body>
+</topic>

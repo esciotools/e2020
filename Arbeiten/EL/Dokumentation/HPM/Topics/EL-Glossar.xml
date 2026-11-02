@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T18:02:44.403Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Glossar</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Glossar</para>
+    </header>
+    <para styleclass="Body Text">Dieses Glossar enthält die in dieser Arbeit verwendeten Fachbegriffe und deren Definitionen in alphabetischer Reihenfolge. Es dient als zentrales Nachschlagewerk und unterstützt ein einheitliches Verständnis der verwendeten Terminologie.</para>
+    <para styleclass="Body Text" style="margin-top:19px; margin-bottom:19px;"><link displaytype="button" type="topiclink" href="" anchor="-A-">A</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-B-">B</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-C-">C</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-D-">D</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-E-">E</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-F-">F</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-G-">G</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-H-">H</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-J-">J</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-K-">K</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-L-">L</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-M-">M</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-N-">N</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-O-">O</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-P-">P</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-R-">R</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-S-">S</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-T-">T</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-U-">U</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-V-">V</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-W-">W</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-X-">X</link>&#32;<link displaytype="button" type="topiclink" href="" anchor="-Z-">Z</link></para>
+    <para styleclass="Heading2"><anchor id="-A-"></anchor>- A -</para>
+    <para styleclass="Title">Autorentool</para>
+    <para styleclass="Body Text">Software zum Erstellen, Bearbeiten und Veröffentlichen digitaler Inhalte. Im E-Learning werden damit Lernmodule mit Texten, Bildern, Medien und interaktiven Aufgaben entwickelt. Weitere Einsatzbereiche sind beispielsweise technische Dokumentationen, Online-Hilfen und Handbücher. Je nach Werkzeug lassen sich die Inhalte in unterschiedlichen Formaten ausgeben.</para>
+    <para styleclass="Heading2"><anchor id="-B-"></anchor>- B -</para>
+    <para styleclass="Title">Befehlszeile</para>
+    <para styleclass="Body Text">Wird häufig als Synonym für Kommandozeile verwendet und bezeichnet eine textbasierte Möglichkeit zur Eingabe und Ausführung von Befehlen. Je nach Kontext können die Begriffe Befehlszeile und Kommandozeile daher gleichbedeutend verwendet werden.</para>
+    <para styleclass="Heading2"><anchor id="-C-"></anchor>- C -</para>
+    <para styleclass="Title">Central Processing Unit (CPU)</para>
+    <para styleclass="Body Text">Die Central Processing Unit (CPU) ist die zentrale Recheneinheit eines Computers. Sie führt Programmbefehle aus, verarbeitet Daten und steuert die Abläufe zwischen Arbeitsspeicher, Massenspeicher sowie Ein- und Ausgabegeräten. Die Leistungsfähigkeit einer CPU wird unter anderem durch ihre Architektur, die Anzahl der Prozessorkerne, die Taktfrequenz und den verfügbaren Cache bestimmt.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: <text styleclass="T_Emphasis">Prozessor</text></para>
+    <para styleclass="Title">Client</para>
+    <para styleclass="Body Text">Programm oder Gerät, das Dienste oder Ressourcen eines Servers anfordert und nutzt. Beispielsweise übernimmt ein Webbrowser beim Zugriff auf ein LMS die Rolle des Clients.</para>
+    <para styleclass="Title">Control Panel</para>
+    <para styleclass="Body Text">Grafische Verwaltungsoberfläche für Webhostingumgebungen, insbesondere für Websites, Domains, E-Mail-Konten, Dateien und Datenbanken.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: <text styleclass="T_Emphasis">Kontrollzentrum</text>, <text styleclass="T_Emphasis">Verwaltungsoberfläche</text></para>
+    <para styleclass="Body Text"><text styleclass="Title">CSS (Cascading Style Sheets)</text></para>
+    <para styleclass="Body Text">Stylesheet-Sprache zur Gestaltung und Formatierung von HTML-Dokumenten. CSS definiert beispielsweise Farben, Schriftarten, Abstände, Grössen und die Anordnung von Elementen. Dadurch können Inhalt und Struktur einer Webseite von deren visueller Darstellung getrennt werden.</para>
+    <para styleclass="Heading2"><anchor id="-D-"></anchor>- D -</para>
+    <para styleclass="Title">Domain</para>
+    <para styleclass="Body Text">Eine Domain ist ein eindeutiger, gut lesbarer Name im Internet, beispielsweise <text styleclass="T_Technical">esciotools.ch</text>. Sie ist Teil einer Webadresse (URL) und wird über das Domain Name System (DNS) mit der zugehörigen technischen Adresse verknüpft. Domains werden auch für andere Dienste wie E-Mail genutzt.</para>
+    <para styleclass="Heading2"><anchor id="-E-"></anchor>- E -</para>
+    <para styleclass="Title">Eingabe</para>
+    <para styleclass="Body Text">Als Eingabe wird das Erfassen oder Übermitteln von Daten, Befehlen oder Werten an ein Programm bezeichnet. Dies kann beispielsweise über die Befehlszeile oder über Eingabefelder einer grafischen Benutzeroberfläche (GUI) erfolgen. In der Befehlszeile wird eine eingegebene Anweisung üblicherweise mit der Eingabetaste (Enter/Return) bestätigt und ausgeführt. In grafischen Benutzeroberflächen kann eine Eingabe je nach Anwendung durch die Eingabetaste, eine Schaltfläche oder eine andere Benutzeraktion bestätigt beziehungsweise übernommen werden.</para>
+    <para styleclass="Heading2"><anchor id="-F-"></anchor>- F -</para>
+    <para styleclass="Title">Font</para>
+    <para styleclass="Body Text">Digitale Schrift, die das Aussehen von Buchstaben, Zahlen und weiteren Zeichen bestimmt. Eine Schriftfamilie wie Arial umfasst mehrere Schriftschnitte, beispielsweise normal, fett und kursiv, die als einzelne Fonts vorliegen können.</para>
+    <para styleclass="Heading2"><anchor id="-G-"></anchor>- G -</para>
+    <para styleclass="Title">GIF (Graphics Interchange Format)</para>
+    <para styleclass="Body Text">GIF ist ein Bildformat mit begrenzter Farbpalette. Es kann einfache Animationen enthalten.</para>
+    <para styleclass="Title">GUI</para>
+    <para styleclass="Body Text">Eine grafische Benutzeroberfläche (Graphical User Interface, GUI) ermöglicht die Bedienung eines Programms über visuelle Elemente wie Fenster, Menüs, Schaltflächen und Eingabefelder. Die Interaktion erfolgt hauptsächlich mit Maus, Tastatur oder Touchscreen. Ein GUI bildet damit die visuelle Schnittstelle zwischen Benutzer und Anwendung und ermöglicht deren Bedienung, ohne Befehle über eine Befehlszeile eingeben zu müssen.</para>
+    <para styleclass="Heading2"><anchor id="-H-"></anchor>- H -</para>
+    <para styleclass="Title">H5P (HTML5 Package)</para>
+    <para styleclass="Body Text">Offenes Format und Werkzeug zur Erstellung interaktiver Webinhalte, beispielsweise Quizfragen, interaktiver Videos oder Lernkarten. H5P-Inhalte lassen sich in kompatible Lernmanagementsysteme und Websites einbinden und als H5P-Dateien austauschen.</para>
+    <para styleclass="Title">HTML (Hypertext Markup Language)</para>
+    <para styleclass="Body Text">Standardisierte Auszeichnungssprache zur Strukturierung von Inhalten auf Webseiten. HTML verwendet vordefinierte Elemente, um beispielsweise Überschriften, Texte, Bilder, Links, Tabellen und Formulare zu beschreiben. HTML wird von Webbrowsern interpretiert und bildet zusammen mit CSS und JavaScript eine zentrale Grundlage moderner Webseiten.</para>
+    <para styleclass="Title">HTML5 (Hypertext Markup Language 5)</para>
+    <para styleclass="Body Text">Auszeichnungssprache zur Strukturierung von Webinhalten. Sie ermöglicht die Einbindung von Texten, Bildern, Audio und Video direkt im Browser. Zusammen mit CSS und JavaScript bildet sie die Grundlage für moderne Webseiten und interaktive Lernmodule.</para>
+    <para styleclass="Title">HTTPS (Hypertext Transfer Protocol Secure)</para>
+    <para styleclass="Body Text">Ist das Protokoll für die geschützte Übertragung von Webseiten und anderen Daten zwischen Webbrowser und Webserver. Es verwendet TLS, um die Verbindung zu verschlüsseln und die Identität des Servers anhand eines Zertifikats zu prüfen.</para>
+    <para styleclass="Heading2"><anchor id="-J-"></anchor>- J -</para>
+    <para styleclass="Title">JavaScript</para>
+    <para styleclass="Body Text">JavaScript ist eine Programmiersprache, die vor allem zur Umsetzung interaktiver und dynamischer Funktionen auf Webseiten eingesetzt wird. Sie wird in der Regel direkt im Webbrowser ausgeführt, kann jedoch auch serverseitig verwendet werden. JavaScript ist trotz der ähnlichen Bezeichnung nicht mit Java gleichzusetzen.</para>
+    <para styleclass="Title">JPEG (Joint Photographic Experts Group)</para>
+    <para styleclass="Body Text">JPEG ist ein Bildformat mit verlustbehafteter Komprimierung. Es eignet sich besonders für Fotografien, da es Bilder bei vergleichsweise kleiner Dateigrösse speichern kann. Transparente Bildbereiche unterstützt es nicht.</para>
+    <para styleclass="Heading2"><anchor id="-K-"></anchor>- K -</para>
+    <para styleclass="Title">Kommandozeile</para>
+    <para styleclass="Body Text">Die Kommandozeile ist eine textbasierte Schnittstelle zur Bedienung eines Betriebssystems oder Programms. Befehle und zugehörige Parameter werden über die Tastatur eingegeben und üblicherweise mit der Eingabetaste ausgeführt. Im Unterschied zu einer grafischen Benutzeroberfläche (GUI) erfolgt die Bedienung hauptsächlich durch die direkte Eingabe von Befehlen.</para>
+    <para styleclass="Heading2"><anchor id="-L-"></anchor>- L -</para>
+    <para styleclass="Title">Learning Content Management System (LCMS)</para>
+    <para styleclass="Body Text">Software zur Erstellung, Verwaltung und Bereitstellung digitaler Lerninhalte. Ein Learning Content Management System unterstützt unter anderem die Inhaltserstellung, Kursverwaltung, Benutzerverwaltung, Lernfortschrittskontrolle sowie Kommunikation und Tests.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: <text styleclass="T_Emphasis">Lerninhaltsmanagementsystem</text></para>
+    <para styleclass="Title">Learning Management System (LMS)</para>
+    <para styleclass="Body Text">Software zur Verwaltung, Bereitstellung und Organisation digitaler Lernangebote. Ein Learning Management System unterstützt unter anderem die Kursverwaltung, Benutzerverwaltung, Lernfortschrittskontrolle sowie Kommunikation und Tests.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: <text styleclass="T_Emphasis">Lernmanagementsystem</text></para>
+    <para styleclass="Title">Linux</para>
+    <para styleclass="Body Text">Linux ist ein frei verfügbares und quelloffenes Betriebssystem beziehungsweise eine Familie von Betriebssystemen, die auf dem Linux-Kernel basieren. Es wird sowohl auf Desktop-Computern als auch auf Servern und anderen Geräten eingesetzt. Linux ist in verschiedenen Distributionen wie Ubuntu, Debian oder Fedora verfügbar.</para>
+    <para styleclass="Heading2"><anchor id="-M-"></anchor>- M -</para>
+    <para styleclass="Title">Markdown</para>
+    <para styleclass="Body Text">Einfache Auszeichnungssprache zur Strukturierung und Formatierung von Texten. Überschriften, Listen, Links und Hervorhebungen werden mit leicht lesbaren Zeichen direkt im Text gekennzeichnet. Markdown-Dateien sind reine Textdateien mit der Endung <text styleclass="T_Technical">.md</text> und lassen sich beispielsweise in HTML umwandeln.</para>
+    <para styleclass="Title">MP3</para>
+    <para styleclass="Body Text">MP3 ist ein Audioformat mit verlustbehafteter Komprimierung. Es ermöglicht vergleichsweise kleine Audiodateien.</para>
+    <para styleclass="Title">MP4</para>
+    <para styleclass="Body Text">MP4 ist ein Containerformat für Medieninhalte, insbesondere Video und Audio. Die enthaltenen Daten können unterschiedlich codiert sein.</para>
+    <para styleclass="Heading2"><anchor id="-N-"></anchor>- N -</para>
+    <para styleclass="Title">Notebook</para>
+    <para styleclass="Body Text">Tragbarer Computer mit integriertem Bildschirm, Tastatur und Akku. Er kann sowohl unterwegs als auch an einem festen Arbeitsplatz verwendet werden.</para>
+    <para styleclass="Heading2"><anchor id="-O-"></anchor>- O -</para>
+    <para styleclass="Title">ODF (OpenDocument Format)</para>
+    <para styleclass="Body Text">Offenes, standardisiertes Dateiformat für Office-Dokumente wie Texte, Tabellen und Präsentationen. ODF basiert auf XML und ermöglicht den Austausch und die Bearbeitung von Dokumenten zwischen unterschiedlichen Programmen. Typische Dateiendungen sind .odt für Textdokumente, .ods für Tabellen und .odp für Präsentationen.</para>
+    <para styleclass="Title">Open Source</para>
+    <para styleclass="Body Text">Open Source bezeichnet ein Entwicklungs- und Lizenzmodell, bei dem der Quellcode öffentlich zugänglich ist und entsprechend der jeweiligen Lizenz eingesehen, verwendet, verändert und weitergegeben werden darf. Das Konzept fördert Transparenz, Zusammenarbeit und die gemeinschaftliche Weiterentwicklung von Software.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: <text styleclass="T_Emphasis">Quelloffen</text></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis:</text> Open Source ist der Eigenname des Konzepts und wird international genau so verwendet und darum ohne Bindestrich geschrieben.</para>
+    <para styleclass="Title">Open-Source-Software (OSS)</para>
+    <para styleclass="Body Text">Open-Source-Software (OSS) ist Software, die unter einer Open-Source-Lizenz veröffentlicht wird. Ihr Quellcode ist öffentlich zugänglich und darf entsprechend den jeweiligen Lizenzbedingungen genutzt, untersucht, verändert und weitergegeben werden. Bekannte Beispiele sind Linux, LibreOffice, Gimp und Moodle.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: <text styleclass="T_Emphasis">Quelloffene Software</text></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis:</text> Open-Source-Software ist ein deutsches Kompositum mit einem englischen Erstglied. Nach den deutschen Rechtschreibregeln wird ein Bindestrich gesetzt.</para>
+    <para styleclass="Heading2"><anchor id="-P-"></anchor>- P -</para>
+    <para styleclass="Title">PDF (Portable Document Format)</para>
+    <para styleclass="Body Text">PDF ein Format für Dokumente, deren Darstellung auf unterschiedlichen Geräten weitgehend erhalten bleibt.</para>
+    <para styleclass="Title">Personal Computer (PC)</para>
+    <para styleclass="Body Text">Ein Personal Computer (PC) ist ein universell einsetzbarer Computer, der für die Nutzung durch eine einzelne Person ausgelegt ist. Er besteht typischerweise aus Prozessor, Arbeitsspeicher, Massenspeicher sowie Ein- und Ausgabegeräten und dient unter anderem zur Ausführung von Betriebssystemen, Anwendungsprogrammen und Entwicklungswerkzeugen.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: Personal Computer hat sich als <text styleclass="T_Emphasis">Eigenbegriff</text> etabliert.</para>
+    <para styleclass="Title">PNG (Portable Network Graphics)</para>
+    <para styleclass="Body Text">PNG ist ein Bildformat mit verlustfreier Komprimierung. Es wurde für die Übertragung und Darstellung von Bildern im Internet entwickelt und unterstützt transparente Bildbereiche.</para>
+    <para styleclass="Body Text"><text styleclass="Title">PPTX</text></para>
+    <para styleclass="Body Text">PPTX ist das Dateiformat für bearbeitbare PowerPoint-Präsentationen.</para>
+    <para styleclass="Heading2"><anchor id="-R-"></anchor>- R -</para>
+    <para styleclass="Title">Random Access Memory (RAM)</para>
+    <para styleclass="Body Text">Der Random Access Memory (RAM) ist der flüchtige Arbeitsspeicher eines Computers. Er speichert Programme und Daten temporär, damit die CPU schnell darauf zugreifen und sie verarbeiten kann. Beim Ausschalten des Computers geht der Inhalt des Arbeitsspeichers verloren.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: <text styleclass="T_Emphasis">Arbeitsspeicher</text></para>
+    <para styleclass="Title">Root-Verzeichnis</para>
+    <para styleclass="Body Text">Siehe <text styleclass="T_Ref">Stammverzeichnis</text>.</para>
+    <para styleclass="Heading2"><anchor id="-S-"></anchor>- S -</para>
+    <para styleclass="Title">SaaS (Software as a Service)</para>
+    <para styleclass="Body Text">Bereitstellungsmodell, bei dem eine Software über das Internet genutzt wird. Der Anbieter betreibt und aktualisiert die Anwendung, die Nutzenden greifen in der Regel über einen Webbrowser darauf zu. Die Abrechnung erfolgt häufig als Abonnement.</para>
+    <para styleclass="Title">Stammverzeichnis (Root-Verzeichnis)</para>
+    <para styleclass="Body Text">Oberstes Verzeichnis einer Verzeichnisstruktur, von dem alle untergeordneten Verzeichnisse ausgehen. Je nach Kontext bezeichnet es die Wurzel eines Dateisystems, eines Laufwerks oder eines zugänglichen Bereichs, beispielsweise eines Webhostingkontos.</para>
+    <para styleclass="Title">SFTP (SSH File Transfer Protocol)</para>
+    <para styleclass="Body Text">Protokoll zur verschlüsselten Übertragung und Verwaltung von Dateien auf einem Server. SFTP nutzt eine SSH-Verbindung und wird beispielsweise verwendet, um Dateien auf einen Webserver hochzuladen oder von dort herunterzuladen.</para>
+    <para styleclass="Title">SVG (Scalable Vector Graphics)</para>
+    <para styleclass="Body Text">SVG ist ein vektorbasiertes Bildformat. SVG-Grafiken lassen sich ohne Qualitätsverlust vergrössern.</para>
+    <para styleclass="Heading2"><anchor id="-T-"></anchor>- T -</para>
+    <para styleclass="Title">TLS (Transport Layer Security)</para>
+    <para styleclass="Body Text">TLS ist ein Sicherheitsprotokoll für die Datenübertragung über Netzwerke. Es verschlüsselt die Verbindung und schützt übertragene Daten vor unbemerkten Änderungen. Anhand eines TLS-Zertifikats kann der Browser ausserdem die Identität des Servers prüfen. HTTPS verwendet TLS für die Verbindung zwischen Webbrowser und Webserver.</para>
+    <para styleclass="Title">Tool</para>
+    <para styleclass="Body Text">Hilfsmittel zur Unterstützung einer bestimmten Aufgabe oder eines Arbeitsprozesses. In dieser Arbeit bezeichnet der Begriff überwiegend Softwareanwendungen und digitale Dienste.</para>
+    <para styleclass="Body Text">Deutsche Bezeichnung: <text styleclass="T_Emphasis">Werkzeug</text></para>
+    <para styleclass="Heading2"><anchor id="-U-"></anchor>- U -</para>
+    <para styleclass="Title">Umgebungsvariable</para>
+    <para styleclass="Body Text">Eine Umgebungsvariable ist eine von Windows oder einer Anwendung bereitgestellte Variable, die Informationen über die aktuelle System- oder Benutzerumgebung enthält. Sie kann beispielsweise auf bestimmte Laufwerke und Verzeichnisse verweisen. Dadurch lassen sich Pfade unabhängig von der konkreten Systemkonfiguration ansprechen. So verweist <text styleclass="T_Technical">%USERPROFILE%</text> auf das Profilverzeichnis des aktuellen Benutzers und <text styleclass="T_Technical">%TEMP%</text> auf dessen Verzeichnis für temporäre Dateien.</para>
+    <para styleclass="Title">Unix</para>
+    <para styleclass="Body Text">Unix ist eine Familie von Betriebssystemen, die ursprünglich für den Einsatz auf Mehrbenutzersystemen und Servern entwickelt wurde. Es bildet die Grundlage beziehungsweise das Vorbild für zahlreiche heutige Betriebssysteme. Auch Linux orientiert sich an vielen Konzepten und Prinzipien von Unix, ist jedoch kein direktes Unix-System.</para>
+    <para styleclass="Title">URL (Uniform Resource Locator)</para>
+    <para styleclass="Body Text">Adresse einer Ressource im Internet oder in einem lokalen Netzwerk, beispielsweise einer Webseite, eines Bildes oder einer Datei. Sie enthält das Zugriffsprotokoll (z. B. HTTPS), den Servernamen und gegebenenfalls einen Pfad, etwa <text styleclass="T_Technical">https://example.org/kurs/start.html</text>.</para>
+    <para styleclass="Title">User Interface (UI)</para>
+    <para styleclass="Body Text">Benutzeroberfläche eines Programms oder Systems, über die Benutzer mit dessen Funktionen und Inhalten interagieren. Dazu gehören beispielsweise Menüs, Schaltflächen, Eingabefelder, Symbole und andere Bedienelemente.</para>
+    <para styleclass="Heading2"><anchor id="-V-"></anchor>- V -</para>
+    <para styleclass="Title">Virtual Private Server (VPS)</para>
+    <para styleclass="Body Text">Ein physischer Server wird in mehrere voneinander getrennte virtuelle Server aufgeteilt. Ein VPS bietet mehr Leistung und Konfigurationsmöglichkeiten als Shared Hosting und eignet sich damit für Websites und Webanwendungen mit höheren Anforderungen, ohne dass dafür ein eigener physischer Server benötigt wird.</para>
+    <para styleclass="Heading2"><anchor id="-W-"></anchor>- W -</para>
+    <para styleclass="Title">WAV</para>
+    <para styleclass="Body Text">WAV ist ein Format zur Speicherung von Audiodaten. Es wird häufig für unkomprimiertes Audio verwendet.</para>
+    <para styleclass="Heading2"><anchor id="-X-"></anchor>- X -</para>
+    <para styleclass="Title">XML (Extensible Markup Language)</para>
+    <para styleclass="Body Text">Textbasiertes, standardisiertes Format zur strukturierten Speicherung und Übertragung von Daten. XML verwendet frei definierbare Elemente und Attribute, um Daten hierarchisch zu beschreiben. Es ist sowohl für Menschen als auch für Maschinen lesbar und wird unter anderem für Konfigurationsdateien, Datenaustausch und als Grundlage verschiedener Dokumentformate wie ODF verwendet.</para>
+    <para styleclass="Heading2"><anchor id="-Z-"></anchor>- Z -</para>
+    <para styleclass="Title">ZIP</para>
+    <para styleclass="Body Text">ZIP ist ein Archivformat, mit dem mehrere Dateien und Ordner in einer Datei zusammengefasst und komprimiert werden können.</para>
+  </body>
+</topic>

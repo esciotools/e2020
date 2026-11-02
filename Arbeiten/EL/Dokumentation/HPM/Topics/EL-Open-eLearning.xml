@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-11T18:58:59.554Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Open eLearning</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Open eLearning</para>
+    </header>
+    <para styleclass="Body Text">Open eLearning ist ein kostenloses Open-Source-Autorentool zur Erstellung interaktiver Lernmodule mit Texten, Medien und interaktiven Aufgaben. Die Software kann unter Windows installiert und lokal genutzt werden. Die Gestaltung erfolgt auf einer grafischen Arbeitsfläche.</para>
+    <para styleclass="Body Text">Die Benutzeroberfläche enthält eine Folienübersicht, die Arbeitsfläche und Werkzeuge zum Einfügen und Bearbeiten von Objekten. Texte, Bilder, Medien, Schaltflächen und Fragen werden auf den Folien angeordnet und über ihre Eigenschaften angepasst.</para>
+    <para styleclass="Image Caption"><image id="FIG9B50128C" src="035-open-elarning-ui.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Open eLearning-Benutzerschnittstelle.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">Ein Lernmodul besteht aus einzelnen Folien. Diese lassen sich ergänzen, duplizieren und umordnen. Objekte können mit Aktionen verbunden werden, beispielsweise zum Wechseln der Folie oder zum Einblenden weiterer Inhalte. Fragen und Rückmeldungen ermöglichen einfache Lernaktivitäten.</para>
+    <para styleclass="Body Text">Neben Spielen lassen sich auch Fragen und weitere interaktive Elemente in ein Lernmodul einbauen.</para>
+    <para styleclass="Image Caption"><image id="FIGA872A7ED" src="037-open-elearning-spiele.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Open eLearning-Spiele.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">Die Veröffentlichung erfolgt als HTML-Ausgabe für den Browser oder als SCORM-1.2-Paket für ein LMS. PDF-Ausgaben sind ebenfalls möglich, sie enthalten keine interaktiven Funktionen. Die bearbeitbare Projektdatei wird im eigenen Projektformat gespeichert.</para>
+    <para styleclass="Image Caption"><image id="FIG416D2BD2" src="036-open-elearning-export.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Open eLearning-Export.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">Die Navigation wird über Schaltflächen und zugewiesene Aktionen gestaltet. Dadurch lassen sich sowohl lineare Abläufe mit Vor- und Zurückblättern als auch gezielte Sprünge zwischen Folien umsetzen. Die vorgesehenen Navigationswege werden bereits beim Aufbau des Lernmoduls festgelegt.</para>
+    <para styleclass="Body Text">Für die Aufzeichnung im LMS wird die SCORM-Ausgabe verwendet. Fragen und Bewertungsfunktionen können Ergebnisse liefern, beim Export lässt sich eine Bestehensgrenze festlegen. Welche Aktionen einen Abschluss auslösen und welche Werte tatsächlich übertragen werden, muss für das jeweilige Lernmodul im LMS geprüft werden.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Weitere-Infos" inline="true"/> [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Webressourcen" anchor="OpeneLearning">Web:OpenEL</link>].</para>
+  </body>
+</topic>

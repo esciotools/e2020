@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-11T13:16:32.911Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Standards und Formate</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Standards und Formate</para>
+    </header>
+    <para styleclass="Body Text">Standards und Formate ermöglichen es, Lerninhalte und Daten zwischen verschiedenen Werkzeugen und Systemen auszutauschen. Sie reduzieren die Abhängigkeit von einzelnen Produkten und erleichtern die Wiederverwendung bereits erstellter Inhalte.</para>
+    <para styleclass="Body Text">Die Begriffe Standard und Format werden häufig gemeinsam verwendet, bezeichnen jedoch nicht genau dasselbe:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Ein <text styleclass="T_Emphasis">Format</text> legt fest, wie Inhalte oder Daten gespeichert und strukturiert werden.</li>
+      <li styleclass="Body Text">Ein <text styleclass="T_Emphasis">Standard</text> beziehungsweise eine Spezifikation beschreibt gemeinsame Regeln, die von unterschiedlichen Systemen unterstützt werden können.</li>
+      <li styleclass="Body Text">Eine <text styleclass="T_Emphasis">Schnittstelle</text> ermöglicht die Verbindung und den Datenaustausch zwischen Systemen.</li>
+    </list>
+    <para styleclass="Body Text" style="page-break-after:avoid;">Für E-Learning sind insbesondere folgende Standards und Spezifikationen relevant:</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="7" colcount="3">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Standard oder Spezifikation</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Zweck</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Bedeutung für E-Learning</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">SCORM</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Austausch und Ausführung von Lernmodulen in einem LMS</para>
+        </td>
+        <td>
+          <para styleclass="Normal"> Veröffentlichung und Einbindung des Lernmoduls</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">xAPI</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Erfassung unterschiedlicher Lernaktivitäten</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Einordnung moderner Formen der Lerndatenerfassung</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">cmi5</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Verbindung von xAPI mit LMS-gestützten Kursstrukturen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Ergänzende Einordnung</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">QTI</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Austausch von Fragen und Tests</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Übertragung von Testinhalten zwischen Systemen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">LTI</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Einbindung externer Lernwerkzeuge in ein LMS</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Anbindung zusätzlicher Anwendungen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">API und Webservices</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Technischer Datenaustausch zwischen Anwendungen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Allgemeine Integration von Systemen</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Standards und Spezifikationen im E-Learning.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Heading2">SCORM</para>
+    <para styleclass="Body Text">SCORM steht für Sharable Content Object Reference Model. Es beschreibt, wie webbasierte Lerninhalte verpackt, in ein LMS übertragen und dort ausgeführt werden können.</para>
+    <para styleclass="Body Text">Ein SCORM-Paket wird üblicherweise als ZIP-Datei bereitgestellt. Es enthält die Dateien des Lernmoduls sowie eine Beschreibungsdatei (Manifest), anhand derer das LMS die Struktur und die erforderlichen Ressourcen erkennt. Unterstützen sowohl das Autorentool als auch das LMS dieselbe SCORM-Version, kann das Paket in das LMS importiert werden.</para>
+    <para styleclass="Body Text">Während der Bearbeitung können je nach Umsetzung Informationen an das LMS übermittelt werden, beispielsweise:</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Bearbeitungsstatus</li>
+      <li styleclass="Body Text">Abschlussstatus</li>
+      <li styleclass="Body Text">Erreichte Punktzahl</li>
+      <li styleclass="Body Text">Erfolg oder Misserfolg</li>
+      <li styleclass="Body Text">Bearbeitungszeit</li>
+      <li styleclass="Body Text">Gespeicherte Fortsetzungsposition</li>
+    </list>
+    <para styleclass="Body Text">SCORM erleichtert damit die Übertragung eines Lernmoduls zwischen Autorentool und LMS. Die Unterstützung des Standards garantiert jedoch nicht, dass jedes Paket in jedem System vollständig identisch dargestellt wird. Unterschiede können sich unter anderem aus der verwendeten SCORM-Version, den Funktionen des Autorentools und der Umsetzung im LMS ergeben.</para>
+    <para styleclass="Image Caption"><image id="FIG6484098" src="007-scorm-lernmodul.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: SCORM-Lernmodul in zwei LMS.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Für den praktischen Teil dieser Arbeit ist SCORM relevant, weil ein mit unterschiedlichen Autorentools erstelltes Lernmodul möglichst unverändert in unterschiedlichen Lernmanagementsystemen verwendet werden soll.</para>
+    <para styleclass="Heading2">xAPI und cmi5</para>
+    <para styleclass="Body Text">Die Experience API, kurz xAPI, ermöglicht die Erfassung von Lernaktivitäten auch ausserhalb eines klassischen LMS. Aktivitäten werden in einer strukturierten Form beschrieben und an einen Learning Record Store übermittelt. Dadurch können beispielsweise Lernaktivitäten in mobilen Anwendungen, Simulationen oder externen Lernumgebungen erfasst werden.</para>
+    <para styleclass="Body Text">cmi5 verbindet xAPI mit Regeln für die Nutzung von Lerninhalten innerhalb eines LMS. Es legt unter anderem fest, wie Lerninhalte gestartet und bestimmte Statusinformationen übermittelt werden.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: xAPI und cmi5 werden hier aufgeführt, weil sie im Zusammenhang mit Lerntechnologien relevant sind. Die kurze Beschreibung dient dazu, die Begriffe und ihre Einsatzbereiche einzuordnen. Für die weitere Arbeit haben sie keine Bedeutung.</para>
+    <para styleclass="Heading2">QTI</para>
+    <para styleclass="Body Text">Question and Test Interoperability, kurz QTI, ist eine Spezifikation für den Austausch von Fragen, Tests und Ergebnissen. Damit sollen Testinhalte zwischen unterschiedlichen Lern- und Prüfungssystemen übertragen werden können.</para>
+    <para styleclass="Body Text">Die praktische Unterstützung unterscheidet sich je nach Produkt und verwendeter QTI-Version. Ein Export und Import ist deshalb nicht in jedem Fall ohne Anpassungen möglich.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: QTI wird hier erwähnt, damit der Begriff und sein Einsatzbereich bekannt sind. Für die weitere Arbeit spielt QTI keine Rolle.</para>
+    <para styleclass="Heading2">LTI</para>
+    <para styleclass="Body Text">Learning Tools Interoperability, kurz LTI, ermöglicht die Einbindung externer Lernwerkzeuge und Inhalte in ein LMS. Benutzer können ein angebundenes Werkzeug aus dem LMS heraus aufrufen, ohne sich zwingend erneut anmelden zu müssen. Je nach Umsetzung können zudem Benutzer-, Rollen- oder Ergebnisdaten übertragen werden.</para>
+    <para styleclass="Body Text">LTI dient damit nicht primär dem Import eines Lernmoduls. Stattdessen bleibt das externe Werkzeug als eigenständige Anwendung bestehen und wird mit dem LMS verbunden.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Im praktischen Teil dieser Arbeit wird versucht, zwei Systeme über LTI miteinander zu verbinden. Dabei wird untersucht, ob sich ein externes Lernwerkzeug aus dem LMS heraus aufrufen lässt und welche Möglichkeiten die Verbindung in der gewählten Umgebung bietet.</para>
+    <para styleclass="Heading2">Dateiformate</para>
+    <para styleclass="Body Text">Neben E-Learning-spezifischen Standards werden allgemeine Dateiformate für die Erstellung und Bereitstellung von Lerninhalten benötigt.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="9" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Inhalt</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Typische Formate</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Webseiten</para>
+        </td>
+        <td>
+          <para styleclass="Normal">HTML, CSS und JavaScript</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Strukturierte Daten</para>
+        </td>
+        <td>
+          <para styleclass="Normal">XML und JSON</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Bilder</para>
+        </td>
+        <td>
+          <para styleclass="Normal">PNG, JPEG, GIF und SVG</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Audio</para>
+        </td>
+        <td>
+          <para styleclass="Normal">MP3 und WAV</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Video</para>
+        </td>
+        <td>
+          <para styleclass="Normal">MP4</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Dokumente</para>
+        </td>
+        <td>
+          <para styleclass="Normal">PDF</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Präsentationen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">PPTX und ODP</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Lernpakete</para>
+        </td>
+        <td>
+          <para styleclass="Normal">ZIP, beispielsweise für SCORM</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_415ABD" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Typische Dateiformate für Lerninhalte.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">HTML, CSS und JavaScript bilden die technische Grundlage vieler webbasierter Lernmodule. XML und JSON dienen vor allem der strukturierten Speicherung und Übertragung von Daten. Medienformate bestimmen unter anderem Dateigrösse, Qualität, Bearbeitbarkeit und Kompatibilität.</para>
+    <para styleclass="Body Text">Bei begrenzten technischen und finanziellen Mitteln sollten möglichst verbreitete und gut unterstützte Formate verwendet werden. Dadurch lassen sich Inhalte einfacher austauschen, langfristig aufbewahren und mit unterschiedlichen Werkzeugen weiterverwenden.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Weitere-Infos" inline="true"/> [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Webressourcen" anchor="1EdTech">Web:EdTech</link>].</para>
+  </body>
+</topic>

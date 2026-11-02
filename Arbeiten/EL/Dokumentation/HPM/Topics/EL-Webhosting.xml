@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T20:33:12.094Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Webhosting</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Webhosting</para>
+    </header>
+    <para styleclass="Body Text">Webbasierte Lernangebote benötigen eine technische Umgebung, über die sie im Internet bereitgestellt werden. Beim Webhosting stellt ein Anbieter die dafür erforderliche Serverinfrastruktur und grundlegende technische Dienste zur Verfügung. Vereinfacht ausgedrückt wird dafür Speicherplatz mit den benötigten Ressourcen auf einem Server gemietet.</para>
+    <para styleclass="Body Text">Zum Webhosting gehören je nach Angebot unter anderem:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Speicherplatz auf einem Server</li>
+    </list>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Domains und Subdomains</li>
+      <li styleclass="Body Text">Webserver</li>
+      <li styleclass="Body Text">Datenbanken</li>
+      <li styleclass="Body Text">Laufzeitumgebungen wie PHP</li>
+      <li styleclass="Body Text">TLS-Zertifikate für HTTPS</li>
+      <li styleclass="Body Text">Dateiverwaltung</li>
+      <li styleclass="Body Text">Datensicherungen</li>
+      <li styleclass="Body Text">Ein grafisches Control Panel</li>
+    </list>
+    <para styleclass="Body Text">Ein Lernmanagementsystem ist in der Regel eine dynamische Webanwendung. Neben den Programmdateien benötigt es eine Datenbank für Benutzer, Kurse, Einstellungen und Lernfortschritte sowie Speicherplatz für hochgeladene Dateien und Lerninhalte.</para>
+    <para styleclass="Body Text" style="page-break-after:avoid;">Die Kommunikation läuft so ab:</para>
+    <para styleclass="Higlight">Webbrowser <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="0"></image> Internet <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="0"></image> Webserver <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="0"></image> LMS mit Datenbank und Dateien</para>
+    <para styleclass="Body Text">Der Webbrowser übernimmt dabei die Rolle des Clients. Er sendet eine Anfrage über eine verschlüsselte HTTPS-Verbindung an den Webserver. Dieser verarbeitet die Anfrage gemeinsam mit dem LMS und greift bei Bedarf auf die Datenbank oder gespeicherte Dateien zu. Das Ergebnis wird anschliessend über dieselbe Verbindung an den Browser zurückgesendet und dort dargetellt.</para>
+    <para styleclass="Image Caption"><image id="FIG7636799F" src="006-lms-zugriff-https.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Zugriff auf ein webbasiertes LMS über HTTPS.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text" style="page-break-after:avoid;">Die folgende Tabelle zeigt typische Betriebsformen für Lernmanagementsysteme und deren Eignung.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="6" colcount="3">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Betriebsform</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Verantwortung des Benutzers</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Typische Eignung</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Lokale Installation</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Installation und Betrieb auf dem eigenen Computer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Entwicklung und Tests</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Shared Hosting</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Anwendung verwalten, Serverbetrieb weitgehend beim Anbieter</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kleine öffentlich erreichbare Angebote</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Eigener Server</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Server und Anwendung vollständig selber betreiben</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Individuelle Anforderungen und grössere Kontrolle</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">LMS-Hosting</para>
+        </td>
+        <td>
+          <para styleclass="Normal">LMS konfigurieren und nutzen, technischer Betrieb beim Anbieter</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Betrieb mit reduziertem Administrationsaufwand</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">SaaS</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Bereitgestellten Dienst konfigurieren und nutzen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Schneller Einstieg mit begrenzten technischen Aufgaben</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Betriebsformen für Lernmanagementsysteme im Vergleich.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Zum Betrieb eines eigenen Servers kann beim Hostinganbieter ein virtueller oder dedizierter Server gemietet werden. Ein virtueller Server (Virtual Private Server, VPS) teilt sich die Hardware mit weiteren virtuellen Servern. Bei einem dedizierten Server steht die Hardware ausschliesslich einem Kunden zur Verfügung.</para>
+    <para styleclass="Body Text">Für kleinere Projekte ist <text styleclass="T_Emphasis">Shared Hosting</text> eine kostengünstige Möglichkeit. Dabei teilen sich mehrere Kunden die Infrastruktur eines Servers. Die technische Verwaltung erfolgt weitgehend durch den Hostinganbieter. Über ein Control Panel können Kunden ihre Serverumgebung grafisch verwalten. Shared Hosting reduziert den administrativen Aufwand, schränkt aber die Konfigurationsmöglichkeiten ein. Es können nur Anwendungen installiert werden, deren technische Anforderungen von der Hostingumgebung unterstützt werden. Das Hostingangebot ist deshalb anhand der technischen Anforderungen der gewünschten Lernumgebung auszuwählen.</para>
+    <para styleclass="Body Text" style="page-break-after:avoid;">Die folgende Abbildung zeigt verschiedene Webhostingangebote. Für den Einstieg und die Anforderungen dieser Arbeit würde bereits das erste Angebot technisch ausreichen.</para>
+    <para styleclass="Image Caption"><image id="FIG9F2B0AC1" src="016-hosting-angebote.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Typische Webhostingangebote.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_ELLE%&gt;</var> hosttech-Website.</para>
+    <para styleclass="Heading2">Verwendung in dieser Arbeit</para>
+    <para styleclass="Body Text">Für die praktische Umsetzung dieser Arbeit wird Shared Hosting verwendet. Die Installation der Praxisumgebung erfolgt über ein grafisches Control Panel und ein Installationswerkzeug. Damit entspricht die Hostingumgebung einem Szenario, das auch für Einzelpersonen oder kleinere Organisationen ohne eigenen Serverbetrieb realistisch ist.</para>
+  </body>
+</topic>

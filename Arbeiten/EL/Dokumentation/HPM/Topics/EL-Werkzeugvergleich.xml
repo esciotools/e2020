@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-11T16:53:06.683Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Werkzeugvergleich</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Werkzeugvergleich</para>
+    </header>
+    <para styleclass="Body Text">Moodle und ILIAS sind für das untersuchte Anwendungsszenario geeignet. Beide verfügen über einen umfangreichen Funktionsumfang, etablierte Communitys und eine aktive Weiterentwicklung. Moodle bietet einen vorwiegend kursbasierten Aufbau. ILIAS ermöglicht mit seinem Magazin zusätzlich die Organisation von Lernobjekten ausserhalb einzelner Kurse und verfügt über integrierte Werkzeuge zur Inhaltserstellung. Welches System besser passt, hängt deshalb vor allem von der gewünschten Organisation der Lernangebote ab.</para>
+    <para styleclass="Body Text">Der Funktionsumfang allein sagt jedoch wenig darüber aus, wie zuverlässig ein konkreter Arbeitsablauf funktioniert. Bei der Erprobung des HTML-Exports eines ILIAS-Lernmoduls fehlten beispielsweise Inhalte im Ergebnis. Der Export war damit für den vorgesehenen Zweck nicht brauchbar. Diese Beobachtung betrifft den erprobten Exportweg und lässt sich nicht auf die allgemeine Eignung von ILIAS übertragen. Sie verdeutlicht aber, dass auch bei etablierten Systemen benötigte Funktionen praktisch geprüft werden müssen.</para>
+    <para styleclass="Body Text">Bei Autorentools sind insbesondere der Ausgangspunkt der Inhalte, die Bearbeitungsmöglichkeiten und das benötigte Ausgabeformat entscheidend. Wer vorhandene PowerPoint-Präsentationen weiterverwenden möchte, stellt andere Anforderungen als jemand, der Lernmodule neu aufbaut oder Inhalte textbasiert pflegen will. Massgeblich ist daher der gesamte Ablauf von der Erstellung über die Veröffentlichung bis zur späteren Überarbeitung.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text">Bei der praktischen Nutzung von Open-Source-Werkzeugen treten wiederholt Probleme bei der Bedienung oder in den erzeugten Ausgabeformaten auf, die sich mit zunehmender Erfahrung und geeigneten Workarounds meist lösen oder umgehen lassen.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

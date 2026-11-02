@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T19:48:54.266Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Autorentool-Auswahlentscheid</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Autorentool-Auswahlentscheid</para>
+    </header>
+    <para styleclass="Body Text">Die Auswahl orientiert sich an folgenden Anforderungen:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Lokale Nutzung</text>: Bevorzugt werden Werkzeuge, die sich unter Windows installieren und lokal nutzen lassen. Onlineangebote werden ergänzend berücksichtigt, haben jedoch zweite Priorität.</li>
+    </list>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Ausgabeformate</text>: Für den Einsatz in der Praxisumgebung wird ein SCORM-Export vorausgesetzt, direkt im Werkzeug oder über einen ergänzenden Exporter. HTML, EPUB und weitere Ausgabeformate sind zusätzliche Vorteile.</li>
+    </list>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Lizenz und Kosten</text>: Berücksichtigt werden Open-Source-Software und Freeware. Die für die Arbeit benötigten Funktionen müssen kostenlos nutzbar sein. Nutzungseinschränkungen und kostenpflichtige Zusatzsoftware werden ausgewiesen.</li>
+    </list>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">Weiterentwicklung und Community</text>: Eine aktive Weiterentwicklung oder eine aktive Community soll erkennbar sein. Hinweise liefern veröffentlichte Versionen, Änderungen am Quellcode und Beiträge in Projektforen.</li>
+    </list>
+    <para styleclass="Body Text">Die folgende Übersicht fasst die recherchierten Werkzeuge und ihre Einordnung für diese Arbeit zusammen. Sie stellt keine Rangfolge dar.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="11" colcount="4" style="head-row-background-color:none; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Autorentool</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Nutzung und Lizenz</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Ausgabe</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Einordnung</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">eXeLearning</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Lokal unter Windows, Open Source, kostenlos.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM, HTML und EPUB.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kandidat für strukturierte Lernmodule mit Texten, Medien und Übungen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Lumi Desktop für H5P</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Lokal unter Windows, Open Source, kostenlos.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">H5P, HTML und SCORM.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kandidat für interaktive Inhalte und Lernkontrollen. Betrachtet wird der Desktop-Editor.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Spring Free</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Windows-Erweiterung für PowerPoint, kostenlos für persönliche, nichtkommerzielle Nutzung. PowerPoint wird zusätzlich benötigt.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM und HTML5.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kandidat für die Weiterverwendung vorhandener Präsentationen und die Ergänzung einfacher Quizfragen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Open eLearning</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Lokal unter Windows, Open Source, kostenlos.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM 1.2, HTML und PDF.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kandidat für die visuelle Erstellung interaktiver Lernmodule.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">LiaScript mit Exporter</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Lokal mit einem Texteditor und ergänzendem Exporter nutzbar, Open Source, kostenlos.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM 1.2 und 2004, Webpakete sowie unter anderem PDF, EPUB und Word.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kandidat für die textbasierte Erstellung in erweitertem Markdown.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Xerte Online Toolkits</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Browserbasiert, Open Source, kostenlos. Benötigt eine Serverumgebung, die auch lokal eingerichtet werden kann.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM-Ausgabe und zahlreiche Vorlagen für Lerninhalte..</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Wegen des zusätzlichen Einrichtungs- und Betriebsaufwands nachrangig</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Scenari / Opale</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Lokal unter Windows nutzbar, Open Source, kostenlos.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM 1.2 und 2004 sowie Web- und Dokumentausgaben.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Interessant für strukturierte Inhalte und Mehrfachveröffentlichung, das Autorenmodell erfordert zusätzliche Einarbeitung.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Adapt Authoring Tool</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Browserbasiert mit eigener Serverumgebung, Open Source, kostenlos.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Responsive Lernmodule für die Veröffentlichung im Web und in SCORM-LMS.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Wegen der technischen Einrichtung nachrangig.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">ActivePresenter</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Desktopsoftware mit kostenloser und kostenpflichtigen Editionen.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM-Ausgabe vorhanden.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Die kostenlose Edition deckt die benötigte E-Learning-Veröffentlichung nicht ohne Einschränkungen ab, nichtfreie Ausgaben erhalten ein Wasserzeichen. Deshalb nicht ausgewählt.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Udutu</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Browserbasiertes, proprietäres Autorentool mit eingeschränktem Gratisangebot.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">SCORM-Ausgabe vorhanden.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Für die Veröffentlichung in einem fremden LMS ist eine kostenpflichtige Open Publishing License erforderlich. Deshalb nicht ausgewählt.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_4E4017" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Vergleich der Autorentool-Kandidaten.</para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_KI_EIGEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Heading2">Auswahlentscheid</para>
+    <para styleclass="Body Text">Für die praktische Umsetzung werden iSpring Free, Open eLearning, eXeLearning, Lumi für H5P und LiaScript ausgewählt. Ausschlaggebend sind ihre lokale Nutzbarkeit, der verfügbare SCORM-Export und ein für diese Arbeit überschaubar eingeschätzter Einstieg. Gleichzeitig ermöglichen sie unterschiedliche Zugänge zur Erstellung von Lerninhalten:</para>
+    <para styleclass="Body Text">i<text styleclass="T_Product">Spring Free</text> ermöglicht die Weiterverwendung vorhandener PowerPoint-Präsentationen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Product">Open eLearning</text> ergänzt die Auswahl um einen visuellen Editor für interaktive Lernmodule.</para>
+    <para styleclass="Body Text"><text styleclass="T_Product">eXeLearning</text> dient der Erstellung strukturierter, mehrseitiger Lernmodule.</para>
+    <para styleclass="Body Text"><text styleclass="T_Product">Lumi für H5P</text> bietet einen lokalen Zugang zu vorgefertigten interaktiven Inhaltstypen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Product">LiaScript</text> ergänzt die grafischen Werkzeuge um einen textbasierten Ansatz mit Markdown und mehreren Ausgabeformaten.</para>
+    <para styleclass="Body Text">Die Auswahl ist eine qualitative Einschätzung für den vorgesehenen Praxiseinsatz. Sie berücksichtigt die Anforderungen dieser Arbeit und die vorhandenen Vorkenntnisse. Eine allgemeine Überlegenheit gegenüber den übrigen Kandidaten wird damit nicht beansprucht. Ob sich die Werkzeuge tatsächlich mit geringem Aufwand einsetzen lassen, wird bei der Erstellung und Veröffentlichung der Lernmodule geprüft.</para>
+  </body>
+</topic>

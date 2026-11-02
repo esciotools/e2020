@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T06:02:09.031Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Topicbasierte Dokumentation</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Topicbasierte Dokumentation</para>
+    </header>
+    <para styleclass="Body Text">Topicbasierte Dokumentation gliedert Inhalte in einzelne, thematisch abgegrenzte Einheiten, die sogenannten <text styleclass="T_Emphasis">Topics</text>. Ein Topic behandelt beispielsweise einen Begriff, eine Aufgabe oder eine Funktion. Es soll so verständlich und eigenständig formuliert sein, dass es auch ausserhalb seiner ursprünglichen Position verwendet werden kann <snippet src="file::WM-SNIP-LVZ-0700.xml" inline="true"/><text styleclass="Normal">.</text></para>
+    <para styleclass="Body Text">Dieser Ansatz unterstützt eine strukturierte Dokumentation: Inhalte werden nach ihrer Funktion und ihren Beziehungen geordnet. Grundlagen erklären Zusammenhänge, Anleitungen beschreiben Handlungen und Referenzinformationen enthalten Angaben zum Nachschlagen. Ein einheitlicher Aufbau dieser Inhaltstypen erleichtert die Orientierung und die Wiederverwendung.</para>
+    <para styleclass="Body Text">Ein Topic besitzt einen Titel und eine eindeutige Kennung, über die es referenziert werden kann. Für eine Publikation werden die Topics ausgewählt und in einer übergeordneten Struktur angeordnet, die beispielsweise als Inhaltsverzeichnis sichtbar wird. Querverweise verbinden zusammengehörige Inhalte.</para>
+    <para styleclass="Body Text">Neben vollständigen Topics lassen sich auch kleinere Inhaltsbausteine wiederverwenden, beispielsweise wiederkehrende Hinweise oder gemeinsame Definitionen. Solche Bausteine werden in manchen Autorentools als <text styleclass="T_Emphasis">Snippets</text> bezeichnet. Veränderliche Angaben wie Produktnamen oder Versionsnummern können zentral hinterlegt und über Platzhalter eingebunden werden. Bedingungen steuern, welche Inhalte in einer bestimmten Ausgabe enthalten sind.</para>
+    <para styleclass="Body Text">Diese Möglichkeiten werden je nach Autorensystem unterschiedlich umgesetzt. DITA stellt ein standardisiertes Modell für topicbasierte Inhalte bereit, andere Systeme verwenden eigene Inhaltsmodelle <snippet src="file::WM-SNIP-LVZ-0700.xml" inline="true"/><text styleclass="Normal">. </text>Die Aufteilung in Topics allein gewährleistet jedoch noch keine verständliche Dokumentation. Entscheidend sind eine sinnvolle Abgrenzung der Themen, einheitliche Bezeichnungen und nachvollziehbare Verknüpfungen.</para>
+    <para styleclass="Body Text"><image id="FIG95FBB33A" src="036-topics-schematisch.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Wiederverwendung von Topics.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KIEIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Topics werden typischerweise unabhängig von der späteren Dokumenthierarchie abgelegt. Ihre Reihenfolge und hierarchische Zuordnung werden im Autorensystem festgelegt. So lassen sich dieselben Topics zu unterschiedlich strukturierten Dokumentationen zusammenstellen.</para>
+    <para styleclass="Body Text">Bei<var translate="false">&lt;%DOC_TOOL%&gt;</var> liegen die Topicdateien beispielsweise gemeinsam in einem Ordner.</para>
+    <para styleclass="Image Caption"><image src="037-hpm-topic-datein.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Topicdateien im Ordner.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Die Struktur der fertigen Dokumentation entsteht im <var translate="false">&lt;%DOC_TOOL%&gt;-</var>Editor über das Inhaltsverzeichnis (Table of Contents, TOC), in dem die Topics angeordnet und einander untergeordnet werden.</para>
+    <para styleclass="Image Caption"><image src="038-hpm-topics-toc.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Topicdateien in TOC angeordnet.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+  </body>
+</topic>

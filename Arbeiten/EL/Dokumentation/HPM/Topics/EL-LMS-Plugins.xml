@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-08T11:33:06.731Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>LMS-Plugins</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">LMS-Plugins</para>
+    </header>
+    <para styleclass="Body Text">Lernmanagementsysteme stellen grundlegende Funktionen über ihr Kernsystem bereit. Plugins ergänzen dieses durch separat installierbare Softwarekomponenten, ohne das Kernprogramm zu verändern.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Funktionen und Vorteile</text>: Plugins passen ein LMS an unterschiedliche Anforderungen an, ohne fehlende Funktionen selbst entwickeln zu müssen. Sie ergänzen Lernaktivitäten, Inhaltstypen, Fragetypen, Berichte und Auswertungen, Anmeldeverfahren, Benutzerverwaltung sowie Erscheinungsbild und Navigation. Auch Standards, Schnittstellen und externe Dienste lassen sich damit einbinden, beispielsweise H5P, xAPI oder Videokonferenzsysteme.</para>
+    <para styleclass="Body Text">Erweiterungen stammen je nach LMS aus offiziellen Plugin-Verzeichnissen, von Herstellern oder aus der Community. Ein offizieller Verzeichniseintrag erleichtert die Beurteilung, ersetzt jedoch nicht die Prüfung für den vorgesehenen Einsatz.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Kompatibilität und Aktualisierung</text>: Plugins werden meist für bestimmte LMS-Versionen entwickelt. Fehlende Aktualisierungen können einen Versionswechsel verzögern oder verhindern. Vor einer LMS-Aktualisierung sind deshalb die Kompatibilitätsangaben aller installierten Plugins zu kontrollieren. Die Aktualisierung sollte durch eine Datensicherung abgesichert und zunächst in einer Testumgebung durchgeführt werden. Dabei sind der Systemstart sowie die betroffenen Funktionen, Kurse und Lerninhalte zu prüfen.</para>
+    <para styleclass="Body Text">Nicht mehr benötigte Plugins sollten kontrolliert entfernt werden, da bei blosser Deaktivierung Programmdateien und Datenbankeinträge zurückbleiben können.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Betrieb und Kosten</text>: Neben möglichen Lizenz- oder Abonnementkosten verursachen auch kostenlose Plugins Aufwand für Auswahl, Installation, Konfiguration, Prüfung, Aktualisierung und Dokumentation. Mit ihrer Anzahl steigen tendenziell die Abhängigkeiten und der Wartungsaufwand. Erweiterungen sollten deshalb auf benötigte Funktionen beschränkt und mit Name, Version, Bezugsquelle, Zweck und Kompatibilität dokumentiert werden.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Einordnung</text>: Die Verfügbarkeit von Plugins ist ein wichtiges LMS-Merkmal, ihre Anzahl allein belegt jedoch keine Qualität. Entscheidend sind die zuverlässige Bereitstellung und langfristige Wartbarkeit der benötigten Funktionen.</para>
+    <para styleclass="Image Caption"><image id="FIG8044A361" src="014-plugins.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Plugins ergänzen den Funktionsumfang eines LMS.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Plugins werden in Online-Verzeichnissen bereitgestellt, die je nach LMS als Plugin-Verzeichnis, Repository oder Marketplace bezeichnet werden. Sie bieten Informationen zu Funktionen, Kompatibilität und Installation der verfügbaren Erweiterungen.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Beispiel]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="015-plugins-market.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"><caption><![CDATA[Plugin-Verzeichnis für das Moodle LMS.]]></caption></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Anzahl, Qualität und Verfügbarkeit zusätzlicher Plugins bleiben in dieser Arbeit unberücksichtigt, da sich die praktische Erprobung auf den Standardfunktionsumfang der beiden LMS beschränkt.</para>
+  </body>
+</topic>

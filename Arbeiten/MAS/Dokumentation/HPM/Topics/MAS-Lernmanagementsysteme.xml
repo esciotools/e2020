@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-02T20:24:46.956Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Lernmanagementsysteme</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Lernmanagementsysteme</para>
+    </header>
+    <para styleclass="Body Text">Lernmanagementsysteme (LMS) stellen Lerninhalte bereit und ermöglichen die Verwaltung von Kursen, Teilnehmenden und Lernaktivitäten.</para>
+    <para styleclass="Body Text">Für die praktische Umsetzung beim Thema E-Learning wurden <text styleclass="T_Product">Moodle</text> und <text styleclass="T_Product">ILIAS</text> ausgewählt. Beide sind Open-Source-Systeme und lassen sich auf einem eigenen Webserver betreiben. Die eingerichteten Lernumgebungen, auch als Praxisumgebungen bezeichnet, &#160;zeigen anhand einfacher Beispielkurse, wie Lerninhalte eingebunden und genutzt werden können.</para>
+    <para styleclass="Body Text">Die praktische Umsetzung konzentriert sich auf den Aufbau, die Gestaltung und die Nutzung von Kursen. Die bereitgestellten Benutzerkonten ermöglichen es, die Beispielkurse aus unterschiedlichen Rollen heraus zu nutzen und zu prüfen.</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Links zu den Praxisumgebungen und Hinweise zur Anmeldung sind unter <link displaytype="text" defaultstyle="true" type="topiclink" href="MAS-Zugang-zu-den-LMS">Zugang zu den LMS </link> zusammengfefasst.</li>
+      <li styleclass="Body Text">Zur Nutzung der Beispiele stehen unter <link displaytype="text" defaultstyle="true" type="topiclink" href="MAS-Moodle">Moodle</link> und <link displaytype="text" defaultstyle="true" type="topiclink" href="MAS-ILIAS">ILIAS</link> Anleitungen und Hinweise zum jeweiligen System bereit.</li>
+    </list>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Einige Benutzerkonten erlauben Änderungen an den Inhalten. Die Praxisumgebungen werden deshalb täglich nach 00:00 Uhr auf ihren Ausgangszustand zurückgesetzt. Dabei gehen gemachte Änderungen verloren.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>
