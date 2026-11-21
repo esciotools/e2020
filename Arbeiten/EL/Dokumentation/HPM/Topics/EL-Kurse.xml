@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-06T19:07:12.149Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Kurse</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Kurse</para>
+    </header>
+    <para styleclass="Body Text">Ein Kurs ist eine organisatorische und didaktische Einheit, in der Lerninhalte, Lernaktivitäten und Benutzer zusammengeführt werden. In einem LMS bildet der Kurs üblicherweise den zentralen Arbeitsbereich für ein bestimmtes Thema, eine Schulung oder eine Lerngruppe.</para>
+    <para styleclass="Body Text">Ein Kurs kann aus einem einzelnen Lernmodul bestehen, enthält häufig aber mehrere Bestandteile. Dazu gehören beispielsweise:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Einführung und Lernziele</li>
+    </list>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Lernmodule</li>
+    </list>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Dokumente und weiterführende Materialien</li>
+    </list>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Videos und externe Links</li>
+    </list>
+    <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Aufgaben und Übungen</li>
+    </list>
+    <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Fragen und Tests</li>
+    </list>
+    <list id="6" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Foren oder andere Kommunikationsmöglichkeiten</li>
+    </list>
+    <list id="7" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Informationen zum Lernfortschritt und Abschluss</li>
+    </list>
+    <para styleclass="Body Text">Die Kursstruktur legt fest, in welcher Reihenfolge und unter welchen Bedingungen diese Elemente bearbeitet werden. Inhalte können frei zugänglich sein, schrittweise freigeschaltet oder vom Abschluss vorheriger Aktivitäten abhängig gemacht werden.</para>
+    <para styleclass="Body Text">Ein Kurs ist nicht mit einem Lernmodul gleichzusetzen. Das Lernmodul ist ein einzelner, inhaltlich abgegrenzter Bestandteil. Der Kurs bildet den übergeordneten Rahmen und kann mehrere Lernmodule sowie ergänzende Materialien und Aktivitäten enthalten.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="6" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Kurs</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Lernmodul</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Organisiert ein gesamtes Lernangebot</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Behandelt ein abgegrenztes Lernthema</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Kann mehrere Module und Aktivitäten enthalten</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Besteht aus zusammengehörenden Lerninhalten</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Verwaltet Teilnehmende und Zugriffsrechte</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Wird von den Lernenden bearbeitet</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Kann Kommunikation und Zusammenarbeit ermöglichen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Konzentriert sich auf die Vermittlung und Einübung von Inhalten</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Kann einen Abschluss oder ein Zertifikat vorsehen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kann einen eigenen Wissenstest enthalten</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_A31612" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Vergleich Kurs mit Lernmodul.</para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Bei einem kleinen E-Learning-Angebot sollte die Kursstruktur möglichst einfach und nachvollziehbar bleiben. Eine klare Einführung, wenige logisch angeordnete Lernschritte und ein erkennbarer Abschluss erleichtern die Orientierung. Zusätzliche Funktionen sollten nur eingesetzt werden, wenn sie den Lernprozess tatsächlich unterstützen.</para>
+    <para styleclass="Image Caption"><image id="FIGE84204F4" src="005-kursaufbau.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Aufbau eines einfachen Kurses.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Für das Praxisbeispiel dieser Arbeit bildet der Kurs den Rahmen, in dem ein erstelltes Lernmodul bereitgestellt und geprüft wird. Ergänzende Fragen oder Tests können direkt im LMS angelegt werden. Dadurch lässt sich untersuchen, wie Lerninhalte und LMS-Funktionen zusammenspielen.</para>
+  </body>
+</topic>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-09-23T10:37:29.404Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Zielsetzung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Zielsetzung</para>
+    </header>
+    <para styleclass="Body Text">Ziel dieser Arbeit ist es, aufzuzeigen, wie sich ein E-Learning-Angebot mit begrenzten finanziellen, personellen und technischen Mitteln realisieren lässt. Dazu werden geeignete Lernmanagementsysteme und Autorentools anhand festgelegter Kriterien ausgewählt und praktisch erprobt.</para>
+    <para styleclass="Body Text">Im Mittelpunkt stehen Werkzeuge, die kostenlos, als Open-Source-Software oder zu vergleichsweise geringen Kosten verfügbar sind. Neben den Lizenzkosten werden auch die technischen Voraussetzungen, der Einrichtungsaufwand, die Bedienbarkeit und die Möglichkeiten zur Veröffentlichung und Weiterverwendung der Lerninhalte berücksichtigt.</para>
+    <para styleclass="Body Text">Die praktische Umsetzung umfasst die Einrichtung ausgewählter Lernmanagementsysteme, den Aufbau eines Kurses sowie die Erstellung eines Lernmoduls mit unterschiedlichen Werkzeugen. Das Lernmodul wird anschliessend veröffentlicht, in ein Lernmanagementsystem eingebunden und auf seine grundlegende Funktionsfähigkeit geprüft und abschliessend Interessierten zur Verfügung gestellt.</para>
+    <para styleclass="Body Text">Als Ergebnis entsteht eine praxisorientierte Entscheidungs- und Umsetzungshilfe. Sie soll zeigen, welche Möglichkeiten mit begrenzten Mitteln bestehen, welcher Aufwand damit verbunden ist und welche Werkzeuge sich für das gewählte Anwendungsszenario eignen.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Der Fokus liegt auf nicht-kommerziellen, kostengünstigen und langfristig nutzbaren Werkzeugen.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis:</text> Auch kostenlose oder sehr günstige Werkzeuge verursachen Kosten, insbesondere durch den Arbeitsaufwand für Evaluation, Einführung, Nutzung, Wartung und Betrieb. Eine eigene Bewertung sollte daher die gesamten Betriebskosten und nicht nur die Lizenzkosten berücksichtigen.</para>
+  </body>
+</topic>

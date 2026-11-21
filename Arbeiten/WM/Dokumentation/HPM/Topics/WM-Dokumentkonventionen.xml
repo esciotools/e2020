@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T10:34:32.636Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Dokumentkonventionen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Dokumentkonventionen</para>
+    </header>
+    <para styleclass="Body Text"><snippet src="file::EL-Dokumentkonventionen.xml" inline="true"/></para>
+  </body>
+</topic>

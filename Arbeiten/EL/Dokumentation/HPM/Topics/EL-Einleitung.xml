@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-09-23T21:29:22.631Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Einleitung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Einleitung</para>
+    </header>
+    <para styleclass="Body Text">Digitale Lernangebote ermöglichen es, Wissen zeit- und ortsunabhängig zu vermitteln. Ihre Entwicklung und Bereitstellung ist jedoch häufig mit Kosten, technischem Aufwand und der Auswahl geeigneter Werkzeuge verbunden. Gerade Einzelpersonen, kleine Unternehmen und kleinere Bildungsanbieter verfügen dafür nur über begrenzte finanzielle und personelle Mittel.</para>
+    <para styleclass="Body Text">Gleichzeitig stehen heute kostengünstige und frei verfügbare Lernmanagementsysteme, Autorentools und weitere Hilfsmittel zur Verfügung. Die Vielzahl der Angebote erschwert jedoch die Auswahl und wirft die Frage auf, welche Lösungen sich mit vertretbarem Aufwand praktisch einsetzen lassen.</para>
+    <para styleclass="Body Text">Diese Arbeit untersucht deshalb, wie sich ein E-Learning-Angebot mit begrenzten Mitteln planen, umsetzen und betreiben lässt. Dazu werden geeignete Werkzeuge ausgewählt, praktisch erprobt und anhand eines konkreten Lernmoduls miteinander verglichen.</para>
+    <para styleclass="Body Text">Diese Arbeit zeigt deshalb anhand praktischer Beispiele, wie sich ein E-Learning-Angebot mit begrenzten Mitteln planen, umsetzen und betreiben lässt. Dazu werden geeignete Werkzeuge ausgewählt und für die Erstellung eines konkreten Lernmoduls praktisch eingesetzt und miteinander verglichen.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Topic-Themen-Links" inline="true"/></para>
+  </body>
+</topic>

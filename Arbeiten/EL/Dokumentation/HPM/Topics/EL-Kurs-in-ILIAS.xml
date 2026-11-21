@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-14T16:01:10.857Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Kurs in ILIAS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Kurs in ILIAS</para>
+    </header>
+    <para styleclass="Body Text">Ein Kurs in ILIAS dient dazu, Lerninhalte und Aktivitäten für eine bestimmte Gruppe von Lernenden bereitzustellen. Er kann Lernmodule, Tests, Dateien und weitere Lernobjekte enthalten, die direkt im Kurs erstellt oder aus dem Magazin übernommen werden.</para>
+    <para styleclass="Body Text">Über die Kursverwaltung lassen sich Mitglieder, Zugriffsrechte und Lernfortschritte verwalten. Zusätzlich können Vorbedingungen festgelegt werden, sodass bestimmte Lernobjekte erst nach Erfüllung definierter Voraussetzungen zugänglich sind.</para>
+    <para styleclass="Image Caption"><image src="049-ilias-kurs.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Kurs in ILIAS.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Sowohl im Magazin als auch innerhalb von Kursen verfügen die Lernobjekte über ein sogenanntes Aktionenmenü. Dieses lässt sich über den Pfeil am rechten Rand des jeweiligen Objekts öffnen.</para>
+    <para styleclass="Image Caption"><image src="050-ilias-aktionenmenu.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Aktionenmenü in ILIAS.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Das Menü bietet Zugriff auf Funktionen wie Einstellungen, Lernfortschritt, Vorbedingungen, Kopieren oder Verschieben. Welche Funktionen zur Verfügung stehen, hängt von den Zugriffsrechten der jeweiligen Benutzer ab. Damit können sowohl Kursverantwortliche als auch Kursteilnehmende die für sie freigegebenen Aktionen ausführen.</para>
+    <para styleclass="Normal"><image src="051-ilias-kurs-einstellungen.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Lernfortschrittseinstellungen beim Kurs in ILIAS.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Das Aktionenmenü der Lernobjekte bietet Lernenden nur wenige Funktionen. Über den Menüpunkt <text styleclass="T_UI">Info</text> können sie jedoch Informationen zum jeweiligen Lernobjekt abrufen und je nach Systemeinstellungen eigene Notizen hinterlegen.</para>
+    <para styleclass="Normal"><image src="066-ilias-menu-info.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Infomenu bei ILIAS-Objekten.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+    <para styleclass="Body Text">ILIAS bietet eine übersichtliche grafische Darstellung des gesamten Lernfortschritts innerhalb eines Kurses. Der prozentuale Fortschritt zeigt auf einen Blick, wie weit die Bearbeitung des Kurses fortgeschritten ist.</para>
+    <para styleclass="Image Caption"><image id="FIG50B5F075" src="067-ilias-lernfortschritts-anzeige-kurs.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Lernfortschrittsanzeige im ILIAS-Kurs.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+  </body>
+</topic>

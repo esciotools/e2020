@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T21:32:49.665Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Gemeinsame Inhalte</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Gemeinsame Inhalte</para>
+    </header>
+    <para styleclass="Body Text">Das MAS-Repository ist ein<text styleclass="T_Emphasis"> Style Repository</text>. Es enthält gemeinsame <text styleclass="T_Emphasis">Absatz- und Textformatvorlagen</text> sowie vollständige Topicdateien, die als <text styleclass="T_Emphasis">Snippets</text> (Schnipsel) verwendet werden. Es besitzt kein eigenes Inhaltsverzeichnis und wird nicht als eigenständige Dokumentation publiziert.</para>
+    <para styleclass="Body Text">Das Repository wird im Repository Manager (Bibliotheksmanager) registriert und in jedem Projekt eingebunden. Pro Projekt lässt sich ein Style Repository verbinden <snippet src="file::WM-SNIP-LVZ-1200.xml" inline="true"/>. </para>
+    <para styleclass="Image Caption"><image src="015-hpm-bibliotheksmanager.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Bibliotheksmanager von <%DOC_TOOL%>.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Auf einem anderen Rechner wird das MAS Repository zusätzlich im Bibliotheksmanager registriert. Der dort eingetragene Name muss mit dem im Projekt verwendeten Repositorynamen übereinstimmen.</para>
+    <para styleclass="Heading2">Formatvorlagen</para>
+    <para styleclass="Body Text">In den MAS-Projekten sind die Formatvorlagen mit dem MAS-Repository verlinkt. Sie werden dort gepflegt und können in den verwendenden Projekten nicht geändert werden. Änderungen werden beim erneuten Öffnen der Projekte übernommen. Zusätzliche lokale Formatvorlagen sind möglich.</para>
+    <para styleclass="Body Text">Die gemeinsamen Formatvorlagen legen die Gestaltung von Absätzen und einzelnen Textstellen fest. Absatzformatvorlagen bestimmen beispielsweise Schrift, Abstände und Einzüge sowie Rahmen und Hintergrund. Textformatvorlagen dienen der Formatierung einzelner Wörter oder Textstellen innerhalb eines Absatzes. Für die elektronische Ausgabe und die Druckausgabe lassen sich unterschiedliche Einstellungen hinterlegen <snippet src="file::WM-SNIP-LVZ-1200.xml" inline="true"/>.</para>
+    <para styleclass="Body Text">Die folgende Abbildung zeigt die im MAS-Repository definierten Formatvorlagen.</para>
+    <para styleclass="Image Caption"><image src="016-hpm-formatvorlagen.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Eingebundene Formatvorlagen.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Für die Projektarbeiten wurden einige Anpassungen an den bestehenden Formatvorlagen gemacht und einige wenige auf bestehenden neu definiert. Das betraf vor allem Schriftgrössen und Farben.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Beim Zuordnen des Repositorys werden gleichnamige Formatvorlagen im Projekt überschrieben.</para>
+    <para styleclass="Heading2">Snippets</para>
+    <para styleclass="Body Text">Das MAS-Repository mit dem internen technischen Namen <text styleclass="T_Highlight">E2020 Repository</text> enthält vor allem kleine Snippets, die sich in allen Projekten verwenden lassen.</para>
+    <para styleclass="Body Text">Ein Beispiel sind vorbereitete Hinweisboxen.</para>
+    <para styleclass="Image Caption"><image src="013-hpm-repos-snippet-insert.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Snippets aus Repository verlinken oder kopieren.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Snippets aus einem Repository lassen sich als Verlinkung oder als Kopie in ein Projekt einfügen. Verlinkte Snippets werden zentral an der Quelle gepflegt. Sie sind im verwendenden Projekt gesperrt. Kopierte Snippets lassen sich im jeweiligen Topic bearbeiten, übernehmen jedoch keine späteren Änderungen der Quelle. Auch die Snippets verwenden die Formatvorlagen des Repositorys. Da die verwendenden Projekte dasselbe Repository eingebunden haben, stehen die benötigten Formatvorlagen dort ebenfalls zur Verfügung <snippet src="file::WM-SNIP-LVZ-1200.xml" inline="true"/>.</para>
+    <para styleclass="Body Text">Folgender Hinweis entspricht dem Info-Box-Snippet aus dem Repository. Der enthaltene Text ist nur ein Platzhalter und dient der Erklärung für Anwender.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Das ist eine Info. Zusätzliche Informationen, Hintergrundwissen.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text">Die Hinweisboxen werden als Kopie eingefügt, weil ihr Text an jeder Verwendungsstelle unterschiedlich ist. Das Snippet liefert den vorbereiteten Aufbau, der konkrete Hinweistext wird im Topic ergänzt. Die verwendeten Absatz- und Textformatvorlagen stammen weiterhin aus dem MAS-Repository. Die Hinweisboxen werden dadurch projektübergreifend einheitlich formatiert.</para>
+    <para styleclass="Body Text">Spätere Änderungen am ursprünglichen Snippet verändern die eingefügten Kopien nicht. Änderungen an den gemeinsam verwendeten Formatvorlagen können deren Darstellung weiterhin beeinflussen.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Änderungen an gemeinsamen Formatvorlagen werden beim erneuten Öffnen der verlinkten Projekte übernommen.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text">In der MAS-Umgebung richtet sich der Ablageort eines Snippets nach seiner Verwendung. Allgemein verwendbare Bausteine wie Hinweisboxen liegen im MAS-Repository. Weitere Inhalte werden in gemeinsamen oder projektspezifischen Snippetordnern abgelegt. Fachliche Inhalte können auch direkt aus den Topicdateien der EL- oder WM-Arbeit eingebunden werden. Entscheidend ist, wo der Inhalt gepflegt wird, seine Grösse spielt für die Einbindung eine untergeordnete Rolle.</para>
+    <para styleclass="Image Caption"><image src="017-hpm-snippets-datei.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Datei als Snippet verlinken oder kopieren.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Beim Einfügen wird die gewünschte Quelldatei ausgewählt. Soll ihr Inhalt unverändert verwendet und weiterhin an der Quelle gepflegt werden, wird das Snippet verlinkt. Wird eine unabhängig bearbeitbare Vorlage benötigt, wird der Inhalt kopiert. Dabei wird nur der Inhalt in das Topic übernommen, nicht die Quelldatei in den Projektordner.</para>
+    <para styleclass="Heading2">Verlinkte Inhalte</para>
+    <para styleclass="Body Text">Der Inhalt des Topics <text styleclass="T_Emphasis">Dokumentkonventionen</text> aus der EL-Arbeit wird auch im gleichnamigen Topic der WM-Arbeit verwendet. Dazu wurde die Topicdatei als verlinktes Snippet eingefügt. Der Inhalt wird ausschliesslich im Quelltopic der EL-Arbeit bearbeitet.</para>
+    <para styleclass="Image Caption"><image id="FIGC8DAAD1D" src="025-snippet-quelle.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Quelltopic Dokumentkonventionen in der EL-Arbeit.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Die zugehörige Topicdatei liegt im Projektordner der EL-Arbeit. Sie dient als Quelle für das Snippet und bleibt an diesem Ablageort.</para>
+    <para styleclass="Image Caption"><image src="028-snippet-datei.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Snippet-Quelldatei im Projektordner der EL-Arbeit.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Im Zieltopic der WM-Arbeit wird diese Datei als Snippet eingefügt. Dabei wird die Option zum Verlinken gewählt, damit der eingebundene Inhalt mit seiner Quelle verbunden bleibt.</para>
+    <para styleclass="Image Caption"><image src="026-snippet-verlinken.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Topicdatei als verlinktes Snippet einfügen.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Das Zieltopic enthält nun das verlinkte Snippet. Die Dokumentkonventionen werden damit in beiden Arbeiten verwendet, aber nur an einer Stelle gepflegt.</para>
+    <para styleclass="Image Caption"><image src="027-snippet-verlinkt.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Verlinktes Snippet im Zieltopic der WM-Arbeit.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Im Editor wird das verlinkte Snippet als Platzhalter angezeigt. Erst beim Publizieren wird der Inhalt aus der Quelldatei in die Ausgabe übernommen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Empfehlung</text>: Zur Prüfung der Verlinkung empfiehlt es sich, eine Textstelle im Quelltopic zu ändern und die EL-Arbeit erneut zu publizieren. Erscheint die Änderung auch dort, funktioniert die Einbindung. Der gemeinsame Inhalt muss damit nur im Quelltopic gepflegt werden. Anschliessend dei Teständerung rückgängig machen.</para>
+  </body>
+</topic>

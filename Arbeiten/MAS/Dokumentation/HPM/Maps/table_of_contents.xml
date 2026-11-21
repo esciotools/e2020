@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="462953653639030" build="ALL" modified="2026-09-30T11:57:24.051Z" icon="0" href="MAS-Willkommen">
+    <caption translate="true">Willkommen</caption>
+  </topicref>
+  <topicref type="topic" id="462964299094335" build="ALL" modified="2026-10-01T11:28:19.280Z" icon="0" href="MAS-Arbeiten">
+    <caption translate="true">Arbeiten</caption>
+    <topicref type="topic" id="462953206235490" build="ALL" modified="2026-09-30T12:00:08.144Z" icon="0" href="MAS-E-Learning">
+      <caption translate="true">E-Learning</caption>
+    </topicref>
+    <topicref type="topic" id="462955290897808" build="ALL" modified="2026-09-30T12:00:17.527Z" icon="0" href="MAS-Wissensmanagement">
+      <caption translate="true">Wissensmanagement</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="462966818453734" build="ALL" modified="2026-10-01T20:10:34.591Z" icon="0" href="MAS-Lernmanagementsysteme">
+    <caption translate="true">Lernmanagementsysteme</caption>
+    <topicref type="topic" id="462956566246414" build="ALL" modified="2026-09-30T11:59:02.504Z" icon="0" href="MAS-Moodle">
+      <caption translate="true">Moodle</caption>
+    </topicref>
+    <topicref type="topic" id="462954235981913" build="ALL" modified="2026-09-30T11:59:39.693Z" icon="0" href="MAS-ILIAS">
+      <caption translate="true">ILIAS</caption>
+    </topicref>
+    <topicref type="topic" id="462967097055841" build="ALL" modified="2026-10-01T19:13:30.075Z" icon="0" href="MAS-Zugang-zu-den-LMS">
+      <caption translate="true">Zugang zu den LMS</caption>
+    </topicref>
+    <topicref type="topic" id="463064587388256" build="ALL" modified="2026-10-11T11:53:44.530Z" icon="0" href="MAS-Lernmodule">
+      <caption translate="true">Lernmodule</caption>
+    </topicref>
+    <topicref type="topic" id="462984516660286" build="ALL" modified="2026-10-03T10:42:55.077Z" icon="0" href="MAS-Kurse">
+      <caption translate="true">Kurse</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="462954624896066" build="ALL" modified="2026-09-30T11:58:31.050Z" icon="0" href="MAS-Dateien-und-Tools">
+    <caption translate="true">Dateien und Tools</caption>
+  </topicref>
+  <topicref type="topic" id="462968112411002" build="ALL" modified="2026-10-01T14:42:42.749Z" icon="0" href="MAS-Anhang">
+    <caption translate="true">Anhang</caption>
+    <topicref type="topic" id="46307739192171" build="ALL" modified="2026-10-12T05:46:31.688Z" icon="0" href="MAS-Handbuch-MAS">
+      <caption translate="true">Handbuch MAS</caption>
+    </topicref>
+    <topicref type="topic" id="462974490236639" build="ALL" modified="2026-10-02T13:48:44.427Z" icon="0" href="MAS-Hilfe-zu-Dateien">
+      <caption translate="true">Hilfe zu Dateien</caption>
+    </topicref>
+    <topicref type="topic" id="462974276863875" build="ALL" modified="2026-10-02T14:54:11.763Z" icon="0" href="MAS-Hintergrund">
+      <caption translate="true">Hintergrund</caption>
+    </topicref>
+  </topicref>
+</map>

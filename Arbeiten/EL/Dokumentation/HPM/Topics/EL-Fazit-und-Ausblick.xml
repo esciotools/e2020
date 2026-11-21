@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-09T15:19:03.467Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Fazit und Ausblick</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Fazit und Ausblick</para>
+    </header>
+    <para styleclass="Body Text">Das Fazit fasst zusammen, inwieweit die Ziele der Arbeit erreicht wurden. Der Ausblick zeigt, wie KI die künftige Erstellung digitaler Lernangebote verändern könnte.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Topic-Themen-Links" inline="true"/></para>
+  </body>
+</topic>

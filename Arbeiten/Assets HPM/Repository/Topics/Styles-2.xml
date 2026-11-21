@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-08-06T17:34:03.240Z" lasteditedby="huber" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Styles 2</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Styles 2</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Geben Sie hier den Text ein.</text></para>
+    <para styleclass="Body Text"><text styleclass="Body Text" translate="true">dasdsadasd</text></para>
+    <para styleclass="Body Text"><text styleclass="Body Text" translate="true">dasdsaD</text></para>
+    <para styleclass="Heading2"><text styleclass="Heading2" translate="true">Referenzen</text></para>
+    <para styleclass="Body Text"><text styleclass="Body Text" style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;" translate="true">Für Titel eigenständiger Werke (Bücher, Berichte, Dissertationen, Webseiten):</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#91;&#37;&#48;&#58;&#115;&#93;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="Body Text" translate="true">Treichel, D. &amp; Institut für Kommunikation &amp; Führung IKF. (2013). </text><text styleclass="T_Ref_Title" style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Wissenschaftlichkeit &amp; wissenschaftliches Arbeiten</text><text styleclass="Body Text" translate="true">.</text></li>
+      <li styleclass="Body Text"><text styleclass="Body Text" translate="true">More...</text></li>
+    </list>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Body Text"><text styleclass="Body Text" translate="true">Hervorhebungen</text></para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Callout"><text styleclass="Callout" translate="true">Beispiel:</text></para>
+    <para styleclass="Body Text"><text styleclass="Body Text" translate="true">Blabla Blabla.</text></para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Heading2"><text styleclass="Heading2" translate="true">Einrückungen</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:&apos;Open Sans&apos;; font-size:11pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Für Bilder, Beispiele, etc.</text></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis" translate="true">Beispiel:</text></para>
+    <para styleclass="Body Text Example" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Body Text Example" style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">The quix brown fox jumps here and and there.</text></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis" translate="true">Beispiel:</text></para>
+    <para styleclass="Body Text Example" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Body Text Example" style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">The gray cat is sleeping.</text></para>
+    <para styleclass="Body Text"><text styleclass="Body Text" translate="true">Bild mit Einrückung:</text></para>
+    <para styleclass="Body Text Indent"><image src="020-Ordnerstruktur.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Image Caption"><figurelabel id="FIG_55407D" type="figure" styleclass="Image Caption" figurelistinclude="1" translate="true">Abbildung &lt;%HMFIGCOUNTER%&gt;: </figurelabel><text styleclass="Image Caption" translate="true">Bildunterschrift eingeben.</text></para>
+    <para styleclass="Image Caption Source"><var styleclass="Image Caption Source">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text" style="margin-left:13px;"><text styleclass="Body Text" translate="true">Weiter im Text...</text></para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Heading2"><text styleclass="Heading2" translate="true">Hinweise</text></para>
+    <para styleclass="Body Text"><text styleclass="Body Text" translate="true">Blabla blabla</text></para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true"> Das ist einfach eingerahmt.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="Body Text" translate="true">Blabla blabla</text></para>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Dies ist eine Info. Zusätzliche Informationen, Hintergrundwissen.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="Body Text" translate="true">Blabla blabla</text></para>
+    <para styleclass="Body Text"><table styleclass="Box_Tip" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Das ist ein Tipp. Empfehlung, Best Practice, Abkürzung.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="Body Text" translate="true">Blabla blabla</text></para>
+    <para styleclass="Body Text"><table styleclass="Box_Caution" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Das ist ein Achtung. Gefahr einer Fehlbedienung oder unerwünschter Ergebnisse.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="Body Text" translate="true">Blabla blabla</text></para>
+    <para styleclass="Body Text"><table styleclass="Box_Warning" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Das ist eine Warnung. Gefahr von Datenverlust, Beschädigung oder Sicherheitsrisiken.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="Body Text" translate="true">Blabla blabla</text></para>
+    <para styleclass="Body Text"><text styleclass="Body Text" translate="true">Blabla blabla</text></para>
+    <para styleclass="Body Text"></para>
+  </body>
+</topic>

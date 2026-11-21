@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T20:58:30.906Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Ausgangslage</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Ausgangslage</para>
+    </header>
+    <para styleclass="Body Text">Dokumentationen sind häufig nicht mehr aktuell und stimmen nur teilweise mit den beschriebenen Anwendungen oder Vorgehensweisen überein. Für die Pflege fehlt Zeit, Zuständigkeiten sind unklar oder Änderungen werden nicht konsequent nachgeführt. Besonders problematisch ist dies, wenn gleiche Inhalte in mehreren Dokumenten oder Ausgabeformaten unabhängig voneinander verwaltet werden. Anpassungen müssen dann mehrfach vorgenommen werden, wodurch zusätzlicher Aufwand entsteht und das Risiko widersprüchlicher oder veralteter Informationen steigt.</para>
+    <para styleclass="Body Text"><var translate="false">&lt;%SSP%&gt;</var> kann diesen Aufwand reduzieren und die Konsistenz der Dokumentation verbessern. Die zentrale Pflege allein genügt jedoch nicht. Erforderlich sind eine geeignete Inhaltsstruktur, ein Autorensystem, das die Wiederverwendung von Inhalten unterstützt, sowie nachvollziehbare Abläufe für die Bearbeitung und Veröffentlichung.</para>
+    <para styleclass="Body Text">Als praktische Grundlage dieser Arbeit dient die gesamte Dokumentationsumgebung des MAS-Studiums. Sie umfasst die E-Learning-Arbeit, die vorliegende Wissensmanagement-Arbeit und das MAS-Handbuch. Die drei Dokumentationen werden als eigenständige <var translate="false">&lt;%DOC_TOOL%&gt;</var>-Projekte geführt und nutzen gemeinsame Inhalte, Formatvorlagen und weitere Ressourcen.</para>
+    <para styleclass="Body Text">Die E-Learning-Arbeit liefert einen wesentlichen Teil der fachlichen Beispielinhalte. Untersucht wird jedoch auch deren Zusammenspiel mit den anderen Dokumentationsprojekten. Die MAS-Umgebung dient damit gleichzeitig der Erstellung und Bereitstellung der Arbeiten sowie als Praxisbeispiel für <var translate="false">&lt;%SSP%&gt;</var> und die projektübergreifende Wiederverwendung von Inhalten.</para>
+  </body>
+</topic>

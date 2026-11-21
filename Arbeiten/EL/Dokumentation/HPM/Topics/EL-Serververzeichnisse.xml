@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-10T11:56:18.363Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Serververzeichnisse</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Serververzeichnisse</para>
+    </header>
+    <para styleclass="Body Text">Ein Server verfügt wie jeder Computer über eine Verzeichnisstruktur, in der Programme und Daten gespeichert werden. Auf die vollständige Verzeichnisstruktur haben in der Regel nur Administratoren Zugriff. Beim Webhosting erhalten Kunden Zugriff auf einen bestimmten Bereich des Servers, beispielsweise über einen Dateimanager oder SFTP.</para>
+    <para styleclass="Body Text">In dieser Arbeit wird das Verzeichnis <text styleclass="Technical">/sites/e2020</text> als Ausgangspunkt für die Installation der Lernmanagementsysteme verwendet. Der führende Schrägstrich <text styleclass="T_Technical">/</text> bezeichnet dabei das oberste für den Webhostingkunden erreichbare Verzeichnis. Es handelt sich nicht zwingend um das tatsächliche Stammverzeichnis des Servers.</para>
+    <para styleclass="Body Text">Von aussen erfolgt der Zugriff über eine Webadresse (URL). Welches Serververzeichnis unter einer Domain erreichbar ist, bestimmt das <text styleclass="T_Emphasis">Document Root</text> des Webservers. Das Document Root ist der zentrale Startordner auf einem Webserver, in dem alle öffentlich abrufbaren Dateien einer Website liegen. Wird eine Webadresse (URL) im Browser aufgerufen, leitet der Webserver die Anfrage genau in dieses Verzeichnis.</para>
+    <para styleclass="Body Text">Die folgende Abbildung zeigt die in dieser Arbeit verwendete Verzeichnisstruktur der Lernmanagementsysteme auf dem Webserver.</para>
+    <para styleclass="Image Caption"><image id="FIGBADA3924" src="024-verzeichnisbaum-lms.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Verzeichnisstruktur auf dem Webserver.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Bei den aktuellen Vesionen von Moodle und bei ILIAS zeigt das Document Root auf den Unterordner <text styleclass="T_Technical">public</text>. Programmdateien und geschützte Daten liegen ausserhalb dieses öffentlich erreichbaren Verzeichnisses.</para>
+  </body>
+</topic>

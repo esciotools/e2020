@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T05:43:17.728Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Git initialisieren</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Git initialisieren</para>
+    </header>
+    <para styleclass="Body Text" style="page-break-after:avoid;">Initialisierung von Git mittels GitHub Desktop.</para>
+    <para styleclass="Image Caption"><video src="001-wm-github.xplain" autostart="false" loop="false" showcontrols="false" playbutton="true" printcolumns="2" lightbox="true" previewimage="001-wm-github.xplain" imagestyleclass="Standard" scale="-50.00%"><title>Explainer: Git initialisieren</title><caption><![CDATA[Explainer: Git initialisieren]]></caption></video></para>
+  </body>
+</topic>

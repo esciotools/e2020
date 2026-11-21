@@ -1,0 +1,1 @@
+(function(){if(window.__openelStartBound)return;window.__openelStartBound=true;document.addEventListener('click',function(e){var t=e.target;for(var k=0;t&&k<5;k++,t=t.parentElement){if((t.textContent||'').trim()==='Start'){if(window.LUDI&&typeof LUDI.goPage==='function'){e.preventDefault();e.stopImmediatePropagation();LUDI.goPage(0);}return;}}},true);})();

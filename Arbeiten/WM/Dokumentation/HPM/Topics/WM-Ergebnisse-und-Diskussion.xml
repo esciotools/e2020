@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T18:55:13.022Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Ergebnisse und Diskussion</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Ergebnisse und Diskussion</para>
+    </header>
+    <para styleclass="Body Text">Die praktische Umsetzung zeigt, welche Möglichkeiten <var translate="false">&lt;%SSP%&gt;</var> mit einem dateibasierten Autorensystem bietet und wo Einschränkungen bestehen. Entscheidend sind neben der Funktionsfähigkeit insbesondere der Arbeitsaufwand und die Voraussetzungen für eine längerfristige Pflege.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Topic-Themen-Links" inline="true"/></para>
+  </body>
+</topic>

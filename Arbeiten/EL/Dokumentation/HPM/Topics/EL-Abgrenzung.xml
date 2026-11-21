@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-08T15:32:27.824Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Abgrenzung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Abgrenzung</para>
+    </header>
+    <para styleclass="Body Text">Die Arbeit konzentriert sich auf die praktische Umsetzung eines überschaubaren E-Learning-Angebots mit begrenzten Mitteln. Sie stellt ausgewählte Lernmanagementsysteme und Autorentools vor, die kostenlos, als Open-Source-Software oder zu vergleichsweise geringen Kosten verfügbar sind.</para>
+    <para styleclass="Body Text">Die folgend abgebildete E-Learning-Landkarte von <snippet src="file::EL-SNIP-LVZ-0050.xml" inline="true"/> unterscheidet zwischen Medien und Lehr-Lernmethoden. Der Schwerpunkt dieser Arbeit liegt auf den Medien: Untersucht werden Werkzeuge zur Erstellung und Bereitstellung digitaler Lernangebote.</para>
+    <para styleclass="Image Caption"><image id="FIGA0827B83" src="019-e-learning-landkarte.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: E-Learning-Landkarte.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_ELLE%&gt;</var><text translate="false">&#32;</text><snippet src="file::EL-SNIP-LVZ-0050.xml" inline="true"/><text translate="false">.</text></para>
+    <para styleclass="Body Text">Die Auswahl beschränkt sich auf Werkzeuge, die sich anhand definierter Evaluationskriterien für den praktischen Einsatz eignen. Eine vollständige Marktübersicht ist nicht vorgesehen. Proprietäre Enterprise-Lösungen, umfangreiche Lernplattformen für Grossunternehmen und individuell entwickelte Systeme bleiben unberücksichtigt.</para>
+    <para styleclass="Body Text">Im Mittelpunkt stehen die grundlegende Einrichtung und die praktische Anwendung der ausgewählten Werkzeuge. Komplexe Serverkonfigurationen, umfangreiche Anpassungen des Quellcodes, hochverfügbare Betriebsumgebungen sowie vertiefte Sicherheits- und Datenschutzkonzepte gehören nicht zum Inhalt der Arbeit.</para>
+    <para styleclass="Body Text">Die praktischen Beispiele umfassen die wesentlichen Abläufe für die Erstellung und Bereitstellung eines Lernangebots. Erprobungen mit Lernenden, umfassende Usability-Studien und langfristige Bewertungen des Lernerfolgs sind nicht vorgesehen.</para>
+    <para styleclass="Body Text">Die anwendungsorientierte Projektarbeit entsteht im Rahmen des Masterstudiums <text styleclass="T_Emphasis">E-Learning und Wissensmanagement</text> am IKF. Ihre Dokumentation folgt den Prinzipien des Single-Source-Publishings. Die dabei eingesetzten Methoden und Werkzeuge werden in der eigenständigen Projektarbeit zum Wissensmanagement vertieft behandelt.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Webserver sind ein zentrales Werkzeug für die Bereitstellung der in dieser Arbeit entwickelten E-Learning-Angebote. Sie können lokal oder im Shared Hosting betrieben werden. Die lokale Installation und Konfiguration würde den Dokumentationsaufwand jedoch stark erhöhen und den Rahmen dieser Arbeit sprengen. Der Fokus liegt deshalb auf Shared Hosting, da es einfach zu vermitteln ist und eine praxisnahe Umgebung für einen produktiven Betrieb bietet.</para>
+  </body>
+</topic>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-09-22T15:10:47.137Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Ausgangslage</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Ausgangslage</para>
+    </header>
+    <para styleclass="Body Text">E-Learning ist heute ein fester Bestandteil der Aus- und Weiterbildung. Digitale Lernangebote werden nicht nur von grossen Unternehmen und Bildungsinstitutionen eingesetzt, sondern zunehmend auch von kleineren Organisationen, selbstständigen Fachpersonen sowie Trainerinnen und Trainern.</para>
+    <para styleclass="Body Text">Die Umsetzung eines solchen Angebots erfordert jedoch geeignete technische und didaktische Grundlagen. Benötigt werden unter anderem ein Lernmanagementsystem für die Bereitstellung und Verwaltung der Lernangebote sowie Werkzeuge zur Erstellung der Lerninhalte. Viele bekannte Lösungen sind mit Lizenz-, Betriebs- oder Einführungskosten verbunden, die bei begrenzten finanziellen Mitteln eine Hürde darstellen können.</para>
+    <para styleclass="Body Text">Neben kommerziellen Produkten stehen verschiedene Open-Source-Anwendungen, kostenlose Werkzeuge und kostengünstige Angebote zur Verfügung. Diese ermöglichen grundsätzlich auch Einzelpersonen und kleineren Anbietern den Aufbau eines eigenen E-Learning-Angebots. Ihre Auswahl und Einführung setzt jedoch voraus, dass die verfügbaren Möglichkeiten bekannt sind und hinsichtlich ihrer Eignung, ihres Aufwands und ihrer technischen Anforderungen beurteilt werden können.</para>
+    <para styleclass="Body Text">Die Arbeit greift diese bereits im Antrag zur Masterarbeit festgehaltene Ausgangslage auf und untersucht die praktische Umsetzung eines E-Learning-Angebots mit möglichst geringem finanziellem und technischem Aufwand.</para>
+  </body>
+</topic>

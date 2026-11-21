@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T21:13:06.731Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Begriffe</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Begriffe</para>
+    </header>
+    <para styleclass="Body Text"><var translate="false">&lt;%DOC_TOOL%&gt;</var> trennt Inhalte, Struktur und Gestaltung einer Dokumentation. Die Inhalte werden in einzelnen Topics erfasst und innerhalb eines Projekts organisiert. Bei der Veröffentlichung entstehen daraus unterschiedliche Ausgabeformate, beispielsweise WebHelp oder PDF.</para>
+    <para styleclass="Body Text">Die folgende Übersicht beschreibt die wichtigsten Begriffe zum Autorentool. Dateitypen sind dort angegeben, wo sie für das Verständnis oder die praktische Arbeit relevant sind.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="21" colcount="3" style="page-break-inside:auto;">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Begriff</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Beschreibung</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Dateityp / Beispiel</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Projekt</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Gesamtheit der Inhalte, Einstellungen und zugehörigen Ressourcen einer Dokumentation. Ein Projekt bildet die Grundlage für die Veröffentlichung in unterschiedlichen Formaten.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Unkomprimiertes oder komprimiertes Projekt</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Projektdatei</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Zentrale Datei eines unkomprimierten Projekts. Sie enthält zentrale Projekteinstellungen und Verweise auf weitere Projektbestandteile. Die Inhalte der einzelnen Topics liegen in separaten Dateien. Die Projektdatei allein ist deshalb keine vollständige Sicherung des Projekts. Für eine vollständige Sicherung müssen auch die zugehörigen Dateien und verwendeten Ressourcen berücksichtigt werden.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">.hmxp</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="3">
+          <para styleclass="Normal" style="text-indent:-18px; margin-left:18px;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Zusatzinfo]]></caption></toggle></para>
+          <para styleclass="Normal" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+            <tr style="vertical-align:top">
+              <td>
+                <para styleclass="Normal">Das unkomprimierte Projektformat eignet sich insbesondere für die Bearbeitung mit externen Werkzeugen und die Versionsverwaltung.</para>
+              </td>
+            </tr>
+          </table></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Projektordner</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Verzeichnis eines unkomprimierten Projekts. Es enthält die Projektdatei, Topicdateien und weitere Projektbestandteile. Zusätzlich verwendete Ressourcen können je nach Organisation auch ausserhalb dieses Ordners liegen.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Ordner mit .hmxp und zugehörigen Dateien</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Komprimiertes Projekt</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Speicherform, bei der die Projektbestandteile in einer einzigen komprimierten Datei zusammengefasst werden. Der Projektinhalt entspricht grundsätzlich dem unkomprimierten Format. Extern abgelegte Bilder und Snippets können weiterhin ausserhalb der Projektdatei liegen.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">.hmxz</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Topic</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Einzelne inhaltliche Einheit, beispielsweise eine Begriffserklärung oder eine Anleitung. Ein Topic kann unabhängig von seiner Position im Inhaltsverzeichnis bearbeitet und verlinkt werden.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Beispielsweise <text styleclass="T_Highlight">Variablen umbenennen</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Topicdatei</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Datei mit dem Inhalt und den zugehörigen Angaben eines Topics. Bei unkomprimierten Projekten liegt sie als separate XML-Datei vor.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">.xml</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Inhaltsverzeichnis (TOC)</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Hierarchische Gliederung der Dokumentation. Seine Einträge verweisen auf Topics. Die sichtbare Gliederung ist von der Ablage der Topicdateien zu unterscheiden.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Kapitel und Unterkapitel</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Snippet</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Wiederverwendbarer Inhalt, der in ein Topic eingefügt wird. Bei verlinkten Snippets werden Änderungen an der Quelle an den verwendenden Stellen übernommen. Eine eingefügte Kopie bleibt dagegen unabhängig von der Quelle.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Topicdatei als Inhaltsbaustein</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Formatvorlage</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Benannte Festlegung für die Gestaltung von Texten, Absätzen oder Tabellen. Sie ermöglicht eine einheitliche Formatierung und zentrale Anpassungen.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Beispielsweise t_product</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Style-Repository</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Spezielles <var translate="false">&lt;%DOC_TOOL%&gt;</var>-Projekt zur gemeinsamen Nutzung von Formatvorlagen und Snippets in mehreren Projekten. Es besitzt kein eigenes Inhaltsverzeichnis.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">.hmxr</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Variable</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Benannter Platzhalter für einen Wert, beispielsweise einen Produktnamen oder eine Versionsnummer. Der Wert wird bei der Veröffentlichung eingesetzt.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Beispielsweise &lt;%\VERSION%&gt;</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="3">
+          <para styleclass="Normal" style="text-indent:-18px; margin-left:18px;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Zusatzinfo]]></caption></toggle></para>
+          <para styleclass="Normal" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+            <tr style="vertical-align:top">
+              <td>
+                <para styleclass="Normal">Ein Style-Repository stellt diese Bausteine mehreren Projekten zur Verfügung.</para>
+              </td>
+            </tr>
+          </table></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">HTML-Seitenvorlage</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Vorlage für den Aufbau einer erzeugten HTML-Seite. Sie legt beispielsweise fest, wo Titel, Topicinhalt und weitere Seitenelemente erscheinen.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">HTML-Vorlagencode im Projekt oder Skin</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Skin</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Zusammenstellung von Gestaltungseinstellungen für HTML-basierte Ausgaben. Ein Skin kann unter anderem Seitenvorlagen, Formatvorlagen, Variablen und zusätzliche Dateien enthalten und wird bei der Veröffentlichung ausgewählt.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">.hmskin</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Druckvorlage</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Vorlage für die Seitengestaltung der PDF-Ausgabe. Sie definiert beispielsweise Titelseite, Kopf- und Fusszeilen, Seitenzahlen und Inhaltsverzeichnis. Die Bearbeitung erfolgt im Manual Designer.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">.mnl</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Baggagedateien</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Zusatzdateien, die <var translate="false">&lt;%DOC_TOOL%&gt;</var> im Projekt verwaltet und abhängig vom Ausgabeformat mit der Ausgabe bereitstellt, beispielsweise CSS-Dateien, Skripte oder Grafiken für WebHelp.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">.css, .js, Bilddateien</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Veröffentlichung</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Vorgang, bei dem <var translate="false">&lt;%DOC_TOOL%&gt;</var> aus den Projektinhalten und den gewählten Einstellungen eine Ausgabe erzeugt. Die erzeugten Dateien werden anschliessend am vorgesehenen Ablageort bereitgestellt.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Funktion <text styleclass="T_UI">Publish</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Ausgabeformat</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">Technisches Format der veröffentlichten Dokumentation. Die Auswahl richtet sich nach dem vorgesehenen Nutzungszweck.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">WebHelp, PDF, DOCX und weitere</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">WebHelp</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">HTML-basierte Dokumentation zur Nutzung im Browser. Sie besteht aus mehreren zusammengehörigen Dateien und bietet typischerweise Navigation und Suchfunktion.</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px; page-break-inside:avoid;">HTML-, CSS-, JavaScript- und Mediendateien</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_1F873A" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Begriffe von &lt;%DOC_TOOL%&gt;.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KIEIGEN%&gt;</var></para>
+  </body>
+</topic>

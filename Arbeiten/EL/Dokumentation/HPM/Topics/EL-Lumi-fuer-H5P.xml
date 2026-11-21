@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-11T19:11:54.985Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Lumi für H5P</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Lumi für H5P</para>
+    </header>
+    <para styleclass="Body Text">Lumi ist ein Editor zur Erstellung interaktiver H5P-Inhalte. Der kostenlose Open-Source-Desktop-Editor kann unter Windows installiert und lokal genutzt werden. Daneben steht ein separates Cloud-Angebot zur Verfügung.</para>
+    <para styleclass="Body Text">Die Bearbeitung erfolgt über Eingabemasken des gewählten H5P-Inhaltstyps. Texte, Medien, Fragen und Rückmeldungen werden in vorgegebene Felder eingetragen. Eine Vorschau zeigt, wie die Inhalte später von den Lernenden genutzt werden.</para>
+    <para styleclass="Image Caption"><image src="042-lumi-ui.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Lumi-Benutzerschnittstelle.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">Der Aufbau eines Inhalts hängt vom Inhaltstyp ab. Möglich sind beispielsweise interaktive Videos, Präsentationen, Fragensammlungen oder mehrseitige Lerninhalte. Einige Inhaltstypen verbinden mehrere Aktivitäten zu einem Lernmodul. Gestaltung und Interaktionen folgen dabei den Möglichkeiten des jeweiligen H5P-Bausteins.</para>
+    <para styleclass="Image Caption"><image src="043-lumi-spiele.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Lumi-Inhalte.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">Die Inhalte werden als H5P-Datei gespeichert und können in einer geeigneten H5P-Umgebung weiterbearbeitet oder eingebunden werden. Zusätzlich ermöglicht Lumi den Export als HTML für den Browser und SCORM 1.2 für ein LMS.</para>
+    <para styleclass="Image Caption"><image src="044-lumi-export-html.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Lumi-Export für HTML.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Image Caption"><image src="045-lumi-export-scorm.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Lumi-Export für SCORM]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">Die Navigation wird vom Inhaltstyp vorgegeben. Eine Präsentation verwendet beispielsweise Folien, ein interaktives Buch Kapitel und Seiten. Bei einem interaktiven Video erfolgt die Bearbeitung entlang des Videos mit eingeblendeten Aufgaben.</para>
+    <para styleclass="Body Text">Für die Aufzeichnung im LMS wird die SCORM-Ausgabe verwendet. Welche Ergebnisse und Abschlussinformationen entstehen, hängt vom Inhaltstyp und seinen Aktivitäten ab. Wird stattdessen die H5P-Datei direkt im LMS eingebunden, erfolgt die Auswertung über dessen H5P-Funktionen. Die Abschlussbedingungen werden im LMS eingestellt und mit dem gewählten Inhaltstyp geprüft.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Weitere-Infos" inline="true"/> [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Webressourcen" anchor="Lumi">Web:Lumi</link>].</para>
+  </body>
+</topic>

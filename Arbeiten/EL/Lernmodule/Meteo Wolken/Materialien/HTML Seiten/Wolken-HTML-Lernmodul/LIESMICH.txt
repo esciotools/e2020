@@ -1,0 +1,32 @@
+Wolken – HTML-Lernmodul
+
+23 HTML-Seiten, eine pro PowerPoint-Folie.
+Startdatei: index.html
+Weitere Seiten: folie-02.html bis folie-23.html
+Bilder, Gestaltung und Skript: assets/
+
+Verwendung in ILIAS:
+Ein Lernmodul HTML anlegen, das ZIP-Paket in dessen Dateiverwaltung hochladen
+und entpacken. index.html als Startdatei festlegen und das Modul online setzen.
+Die genaue Oberfläche kann je nach ILIAS-Version abweichen.
+Anleitung: https://iliastutorials.com/html-learning-module/
+
+Lokale Vorschau:
+ZIP vollständig entpacken und index.html im Browser öffnen.
+
+Umsetzung:
+Texte und Bilder sind getrennte HTML-Elemente, keine Folien-Screenshots.
+Seitenreihenfolge und bestehende Verknüpfungen wurden übernommen.
+In PowerPoint ausgeblendete Objekte bleiben ausgeblendet.
+Das Seitenmenü ermöglicht den direkten Aufruf aller 23 Seiten.
+Der Selbsttest verlinkt wie die Vorlage auf die richtige bzw. falsche Antwort.
+Es findet keine Übertragung von Testergebnissen an ILIAS statt.
+Die Seiten verwenden keine extern geladenen Bibliotheken oder Medien.
+Die ursprüngliche Schrift Aptos wird verwendet, wenn lokal verfügbar,
+sonst Arial. Dadurch sind kleinere Umbruchsabweichungen möglich.
+PowerPoint-Animationen und Folienübergänge werden nicht wiedergegeben.
+
+Prüfung:
+Seitenzahl, lokale Ressourcen und interne Linkziele wurden geprüft.
+Ein visueller Browsertest und ein Importtest in ILIAS waren in der
+Erstellungsumgebung nicht möglich.

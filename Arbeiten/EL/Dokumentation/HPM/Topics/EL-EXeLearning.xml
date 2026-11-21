@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-11T18:57:11.900Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>eXeLearning</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">eXeLearning</para>
+    </header>
+    <para styleclass="Body Text">Open eLearning ist ein kostenloses Open-Source-Autorentool zur Erstellung interaktiver Lernmodule mit Texten, Medien und interaktiven Aufgaben. Die Software kann unter Windows installiert und lokal genutzt werden. Die Gestaltung erfolgt auf einer grafischen Arbeitsfläche.</para>
+    <para styleclass="Body Text">Die Benutzeroberfläche umfasst die Seitenstruktur, die Auswahl der Inhaltsbausteine und den Bearbeitungsbereich.</para>
+    <para styleclass="Image Caption"><image src="038-exelearning-ui.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: eXeLearning-Benutzerschnittstelle.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">Ein Lernmodul besteht aus hierarchisch angeordneten Seiten. Diese werden mit Inhaltsbausteinen, sogenannten iDevices, für Texte, Medien und Aufgaben gefüllt.</para>
+    <para styleclass="Body Text">Neben Spielen lassen sich zahlreiche weitere interaktive Elemente in ein Lernmodul einbauen.</para>
+    <para styleclass="Image Caption"><image src="041-exelearning-spiele.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: eXeLearning-Spiele.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">Die Veröffentlichung erfolgt als HTML-Ausgabe für den Browser oder als SCORM-Paket für ein LMS. Unterstützt werden SCORM 1.2 und SCORM 2004. IMS Content Package und EPUB sind ebenfalls möglich. Die bearbeitbare Projektdatei wird im eigenen Projektformat gespeichert.</para>
+    <para styleclass="Image Caption"><image src="040-exelearning-export.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: eXeLearning-Export.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">In der HTML-Ausgabe erfolgt die Navigation über ein Seitenmenü und Vor-/Zurück-Schaltflächen. Bei SCORM-Ausgaben hängt sie zusätzlich von der Darstellung im LMS ab.</para>
+    <para styleclass="Body Text">Für die Aufzeichnung im LMS wird die SCORM-Ausgabe verwendet. Unterstützte Aktivitäten wie das SCORM-Quiz können Ergebnisse liefern, die Einstellungen erfolgen beim jeweiligen Inhaltsbaustein. Die Abschlussbedingungen werden zusätzlich im LMS festgelegt. Welche Aufgaben Ergebnisse übertragen und welche Aktionen einen Abschluss auslösen, muss für das jeweilige Lernmodul im LMS geprüft werden.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Weitere-Infos" inline="true"/> [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Webressourcen" anchor="eXeLearning">Web:eXeL</link>].</para>
+  </body>
+</topic>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T20:42:39.972Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Installation von Moodle</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Installation von Moodle</para>
+    </header>
+    <para styleclass="Body Text">In der Praxisumgebung wird Moodle auf einem Shared Hosting mit cPanel und Softaculous installiert. Die Screenshots und interaktiven Anleitungen zeigen den konkreten Ablauf der Installation und Deinstallation.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Voraussetzungen</text>: Das Hosting muss die Systemanforderungen der gewählten Moodle-Version erfüllen. Dazu gehören passende PHP- und Datenbankversionen sowie die erforderlichen PHP-Erweiterungen. Für den verschlüsselten Zugriff über HTTPS wird ein gültiges TLS-Zertifikat benötigt. </para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Servervorbereitung</text>: Zunächst wird die Subdomain für Moodle mit einem eigenen Document Root eingerichtet. Das separate Datenverzeichnis liegt ausserhalb des öffentlich erreichbaren Bereichs. Die verwendeten Pfade sind im Kapitel zur <link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Serververzeichnisse">Serververzeichnisstruktur</link> dargestellt </para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="025-moodle-domain-erstellen.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text">Für die Subdomain sollte ein gültiges TLS-Zertifikat eingerichtet sein, damit Moodle über HTTPS aufgerufen werden kann. Das lässt sich im cPanel überprüfen.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="028-moodle-tls-zertifikat.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Installation</text>: Anschliessend wird Moodle in Softaculous ausgewählt. Dort werden Installationsadresse, Datenverzeichnis, Website-Angaben und Administrationskonto festgelegt. Nach der Kontrolle der Angaben wird die Installation gestartet.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="026-moodle-softaculous.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Kontrolle und Einrichtung</text>: Nach der Installation werden der Aufruf über HTTPS und die Anmeldung als Administrator beim System geprüft. In der Website-Administration werden die Systemhinweise kontrolliert und grundlegende Einstellungen wie Sprache, Zeitzone und E-Mail-Versand angepasst.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="027-moodle-admin-login.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><conditional-text type="IFNOT" value="PDF,DOCX"/>Der folgende Explainer zeigt die Moodle-Installation Schritt-für-Schritt.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Explainer]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text"><video src="002-moodle-installation.xplain" autostart="false" loop="false" showcontrols="false" playbutton="true" printcolumns="2" lightbox="true" previewimage="002-moodle-installation.xplain" imagestyleclass="Standard" scale="-50.00%" styleclass="Image Caption"><title>Explainer: Moodle installieren</title><caption><![CDATA[Explainer: Moodle installieren]]></caption></video></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><conditional-text type="END"/><conditional-text type="IF" value="PDF,DOCX"/>Eine bebilderte Schritt-für-Schritt-Anleitung zum Installieren von Moodle ist über folgende Verweise verfügbar:</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Im Anhang</text>: <link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Moodle-installieren">&lt;%TARGETTITLE%&gt;</link></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Online PDF</text>: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_LIB_EL_EXPLAIN%&gt;/002/pdf/002-moodle-installation.pdf" target="_blank">Moodle installieren</link></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Online HTML</text>: <link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_LIB_EL_EXPLAIN%&gt;/002/html/002-moodle-installieren.html" target="_blank">Moodle installieren</link> – interaktiver Explainer<conditional-text type="END"/></para>
+  </body>
+</topic>

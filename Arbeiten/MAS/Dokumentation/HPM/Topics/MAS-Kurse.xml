@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-15T18:27:08.595Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Kurse</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Kurse</para>
+    </header>
+    <para styleclass="Body Text">Kurse sind in vielen LMS ein zentrales Organisationselement. Die Praxisumgebung bietet Kurse mit unterschiedlichen Lerninhalten. Sie zeigen, wie Lernobjekte mit und ohne Aufzeichnung des Lernfortschritts eingesetzt werden können. Lernmodule zum selben Thema veranschaulichen zudem, wie sich die verwendeten Autorentools auf Darstellung, Bedienung und Funktionen auswirken. Sowohl die Kurse als auch die Lernmodule verfolgen keine didaktischen oder pädagogischen Ziele, sondern dienen der Veranschaulichung technischer Möglichkeiten.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Lernobjekt schliessen</text>: Die Bearbeitung eines Lernobjekts lässt sich auf unterschiedliche Weise beenden: über eine Schaltfläche wie Schliessen oder Close, durch Schliessen eines separaten Browser-Tabs oder über die Navigation im LMS. Diese Unterschiede ergeben sich aus den verwendeten Autorentools und den verschiedenen Möglichkeiten, Lerninhalte im LMS einzubinden.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Tip" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Weitere Angaben zu den Kursen und den Lernforschrittseinstellungen finden sich in den Kursen selbst.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="8" colcount="3" style="page-break-inside:auto;">
+      <thead style="vertical-align:top">
+        <td colspan="3" style="background-color:#e8f0f8;">
+          <para styleclass="Heading2">Moodle</para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Kurs</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Zugang</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Zweck</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurs 01 - Lernmodule ohne Lernfortschritt</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_MOODLE_COURSE%&gt;2" target="_blank">Kurs aufrufen</link></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Lernmodule und weitere Lernobjekte lassen sich beliebig oft bearbeiten. Der Lernfortschritt wird nicht aufgezeichnet.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurs 02 - Lernmodule mit Lernfortschritt</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_MOODLE_COURSE%&gt;12" target="_blank">Kurs aufrufen</link></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Der Lernfortschritt der Lernmodule, weiterer Lernobjekte und des Kurses wird aufgezeichnet. Der erfolgreiche Abschluss der Lernobjekte führt zum erfolgreichen Kursabschluss. Ein Zurücksetzen erfordert entsprechende Berechtigungen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurs 03 – Lernmodule mit Vorbedingungen</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_MOODLE_COURSE%&gt;13" target="_blank">Kurs aufrufen</link></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Vorbedingungen steuern den Zugang zu Lernmodulen und weiteren Lernobjekten. Wenige Lernobjekte mit einfachen Bedingungen veranschaulichen den Kursablauf.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurs 04 – Microlearnings ohne Lernfortschritt</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_MOODLE_COURSE%&gt;6" target="_blank">Kurs aufrufen</link></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Microlearnings und weitere Lernobjekte lassen sich beliebig oft bearbeiten. Der Lernfortschritt wird nicht aufgezeichnet.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurs 05 – Microlearnings mit Lernfortschritt</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_MOODLE_COURSE%&gt;7" target="_blank">Kurs aufrufen</link></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Der Lernfortschritt der Microlearnings, weiterer Lernobjekte und des Kurses wird aufgezeichnet. Der erfolgreiche Abschluss der Lernobjekte führt zum erfolgreichen Kursabschluss. Ein Zurücksetzen erfordert entsprechende Berechtigungen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurs 06 – Magazin</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_MOODLE_COURSE%&gt;8" target="_blank">Kurs aufrufen</link></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Als Vergleich zum Magazin in ILIAS angelegter Kurs. Lernmodule und weitere Lernobjekte sollen von diesem Kurs aus in andere Kurse kopiert werden. Der Lernfortschritt wird nicht aufgezeichnet.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Alle Kurse in Moodle.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="8" colcount="3" style="page-break-inside:auto;">
+      <thead style="vertical-align:top">
+        <td colspan="3" style="background-color:#e8f0f8;">
+          <para styleclass="Heading2">ILIAS</para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Kurs</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Zugang</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Zweck</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurs 01 - Lernmodule ohne Lernfortschritt</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_ILIAS_COURSE%&gt;98" target="_blank">Kurs aufrufen</link></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Lernmodule und weitere Lernobjekte lassen sich beliebig oft bearbeiten. Der Lernfortschritt wird nicht aufgezeichnet.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurs 02 - Lernmodule mit Lernfortschritt</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_ILIAS_COURSE%&gt;99" target="_blank">Kurs aufrufen</link></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Der Lernfortschritt der Lernmodule, weiterer Lernobjekte und des Kurses wird aufgezeichnet. Der erfolgreiche Abschluss der Lernobjekte führt zum erfolgreichen Kursabschluss. Ein Zurücksetzen erfordert entsprechende Berechtigungen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurs 03 – Lernmodule mit Vorbedingungen</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_ILIAS_COURSE%&gt;105" target="_blank">Kurs aufrufen</link></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Vorbedingungen steuern den Zugang zu Lernmodulen und weiteren Lernobjekten. Wenige Lernobjekte mit einfachen Bedingungen veranschaulichen den Kursablauf.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurs 04 – Microlearnings ohne Lernfortschritt</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_ILIAS_COURSE%&gt;126" target="_blank">Kurs aufrufen</link></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Microlearnings und weitere Lernobjekte lassen sich beliebig oft bearbeiten. Der Lernfortschritt wird nicht aufgezeichnet.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurs 05 – Microlearnings mit Lernfortschritt</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_ILIAS_COURSE%&gt;127" target="_blank">Kurs aufrufen</link></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Der Lernfortschritt der Microlearnings, weiterer Lernobjekte und des Kurses wird aufgezeichnet. Der erfolgreiche Abschluss der Lernobjekte führt zum erfolgreichen Kursabschluss. Ein Zurücksetzen erfordert entsprechende Berechtigungen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurs 06 – Alle Lernobjekte</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%URL_ILIAS_COURSE%&gt;104" target="_blank">Kurs aufrufen</link></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Als Behälter für alle Lernobjekte angelegter Kurs. Lernmodule und weitere Lernobjekte sollen von diesem Kurs aus in andere Kurse kopiert werden. Der Lernfortschritt wird nicht aufgezeichnet.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_E16BBF" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Alle Kurse in ILIAS</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+  </body>
+</topic>

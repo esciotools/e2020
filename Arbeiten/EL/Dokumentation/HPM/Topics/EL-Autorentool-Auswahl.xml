@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-11T14:40:36.330Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Autorentool-Auswahl</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Autorentool-Auswahl</para>
+    </header>
+    <para styleclass="Body Text">Für die praktische Umsetzung werden Autorentools gesucht, mit denen sich Lernmodule unter Windows erstellen und in den ausgewählten LMS einsetzen lassen. Die Auswahl erfolgt anhand einer Internetrecherche auf offiziellen Produktseiten, in Dokumentationen und in öffentlichen Projekt-Repositories. Ziel ist eine überschaubare Auswahl kostenlos nutzbarer Werkzeuge für unterschiedliche Arten der Inhaltserstellung.</para>
+    <para styleclass="Body Text">Auf etablierte kommerzielle Autorentools wie Articulate Storyline, Adobe Captivate, iSpring Suite oder Lectora wird bewusst verzichtet. Diese bieten teilweise einen grossen Funktionsumfang, sind jedoch mit erheblichen Lizenzkosten verbunden. Der Schwerpunkt dieser Arbeit liegt auf Open-Source-Werkzeugen und kostenlos nutzbaren Alternativen.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Topic-Themen-Links" inline="true"/></para>
+  </body>
+</topic>

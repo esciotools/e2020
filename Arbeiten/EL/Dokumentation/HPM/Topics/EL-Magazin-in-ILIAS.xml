@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T07:30:29.631Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Magazin in ILIAS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Magazin in ILIAS</para>
+    </header>
+    <para styleclass="Body Text">Das Magazin bildet die zentrale Ablage- und Organisationsstruktur von ILIAS. Hier lassen sich Kurse, Lernmodule, Tests und weitere Lernobjekte in Kategorien und Ordnern strukturieren und verwalten.</para>
+    <para styleclass="Body Text">Lernobjekte können unabhängig von Kursen erstellt und anschliessend in diese kopiert oder verknüpft werden. Beim Kopieren entsteht ein eigenständiges Objekt, während bei einer Verknüpfung dasselbe Objekt an mehreren Stellen genutzt wird. Änderungen an verknüpften Objekten wirken sich auf alle Verwendungsstellen aus.</para>
+    <para styleclass="Body Text">Damit unterstützt ILIAS die zentrale Verwaltung und Wiederverwendung von Lerninhalten.</para>
+    <para styleclass="Image Caption"><image id="FIG6B57760A" src="048-ilias-magazin.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Das ILIAS-Magazin.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+  </body>
+</topic>

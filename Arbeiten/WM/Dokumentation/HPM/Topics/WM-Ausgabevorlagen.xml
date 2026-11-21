@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T21:12:02.074Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Ausgabevorlagen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Ausgabevorlagen</para>
+    </header>
+    <para styleclass="Body Text">Die gemeinsamen <text styleclass="T_Emphasis">Formatvorlagen</text> bestimmen die Textgestaltung in den Projekten der Masterarbeiten. Für die Veröffentlichung werden zusätzlich ausgabespezifische Vorlagen verwendet: <text styleclass="T_Emphasis">Skins</text> für HTML-basierte Ausgaben und Druckvorlagen für PDF <snippet src="file::WM-SNIP-LVZ-1200.xml" inline="true"/>.</para>
+    <para styleclass="Body Text">Ein Skin steuert unter anderem Navigation, Farben und Bedienelemente der HTML-basierten Ausgabe. In der MAS-Umgebung dienen angepasste Skinvarianten dazu, die einzelnen Projekte optisch zu unterscheiden. Da Skins auch eigene Text- und Absatzformate enthalten können, werden diese mit den gemeinsamen Formatvorlagen abgestimmt.</para>
+    <para styleclass="Body Text">Die PDF-Druckvorlage legt unter anderem Titelseite, Seitenformat, Ränder sowie Kopf- und Fusszeilen fest. Sie wird im <text styleclass="T_Product">Manual Designer</text> bearbeitet und bei der Publikation ausgewählt.</para>
+    <para styleclass="Body Text">In den Ausgabevorlagen lassen sich vordefinierte Variablen verwenden, beispielsweise <text styleclass="T_Technical">&lt;%\TITLE%&gt;</text> für den Projekttitel, <text styleclass="T_Technical">&lt;%\AUTHOR%&gt;</text> für den Autor und <text styleclass="T_Technical">&lt;%\DATE%&gt;</text> für das Datum der Ausgabeerzeugung. Beim Publizieren werden die Platzhalter durch die jeweiligen Werte ersetzt. Dadurch lässt sich dieselbe Vorlage für mehrere Projekte verwenden. Das Ausgabedatum bezeichnet dabei nicht automatisch den letzten inhaltlichen Bearbeitungsstand.</para>
+    <para styleclass="Image Caption"><image id="FIG4780FBFC" src="023-pdf-template.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Vorlage für Handbücher im Manual Designer.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGENSCREEN%&gt;</var></para>
+    <para styleclass="Body Text">Skins und PDF-Layoutvorlagen werden zentral in der MAS-Umgebung abgelegt und bei der Publikation ausgewählt. Dadurch lassen sich dieselben Inhalte für unterschiedliche Ausgaben aufbereiten, ohne die Topics dafür einzeln anzupassen.</para>
+    <para styleclass="Image Caption"><image id="FIG413D6DC5" src="024-vorlagen-diagramm.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Zusammenspiel von Inhalten und Vorlagen.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KIEIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Für jedes Projekt der MAS-Umgebung stehen ein eigener Skin und eine eigene PDF-Druckvorlage zur Verfügung. Die folgende Tabelle zeigt die Zuordnung der Vorlagendateien zu den Projekten.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="4" colcount="3">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Projekt</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Skin</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">PDF-Druckvorlage</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">EL</para>
+        </td>
+        <td>
+          <para styleclass="Normal">E2020-EL.hmskin</para>
+        </td>
+        <td>
+          <para styleclass="Normal">E2020-EL-Manual-A4.mnl</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">WM</para>
+        </td>
+        <td>
+          <para styleclass="Normal">E2020-WM.hmskin</para>
+        </td>
+        <td>
+          <para styleclass="Normal">E2020-WM-Manual-A4.mnl</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">MAS</para>
+        </td>
+        <td>
+          <para styleclass="Normal">E2020-MAS.hmskin</para>
+        </td>
+        <td>
+          <para styleclass="Normal">E2020-MAS-Manual-A4.mnl</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_7A228E" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Vorlagen für die Projektarbeiten.</para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Für die Masterarbeit wurden bestehende Ausgabevorlagen angepasst. Die Änderungen betreffen vor allem Farben, Icons und die Darstellung der Projektbezeichnungen. Bei den PDF-Druckvorlagen wurden zudem die Titelseite sowie die Kopf- und Fusszeilen auf die Projektarbeiten abgestimmt. Die Gestaltung folgt einem gemeinsamen Grundaufbau, projektspezifische Farben und Bezeichnungen erleichtern die Unterscheidung der Ausgaben.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Die Erstellung, Prüfung und Bereitstellung der Ausgaben wird bei <link displaytype="text" defaultstyle="true" type="topiclink" href="WM-Publishing">Publishing</link> beschrieben.</para>
+  </body>
+</topic>

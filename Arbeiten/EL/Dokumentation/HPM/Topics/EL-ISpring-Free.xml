@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-11T18:59:09.840Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>iSpring Free</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">iSpring Free</para>
+    </header>
+    <para styleclass="Body Text">iSpring Free ist eine kostenlos nutzbare Erweiterung für Microsoft PowerPoint unter Windows. Damit lassen sich Präsentationen in webbasierte Lernmodule umwandeln. Die Software ist keine Open-Source-Lösung und setzt eine vorhandene PowerPoint-Installation voraus.</para>
+    <para styleclass="Body Text">Die Bearbeitung erfolgt direkt in PowerPoint. iSpring Free ergänzt das Menüband um Funktionen zur Vorschau und Veröffentlichung. Die vertrauten Werkzeuge für Texte, Bilder, Formen und Medien bleiben verfügbar.</para>
+    <para styleclass="Image Caption"><image id="FIG652C5757" src="033-ispring-ui.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: iSpring-Benutzerschnittstelle.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">Ein Lernmodul besteht aus einer Folge von Folien. Vorhandene Präsentationen können als Grundlage dienen und mit zusätzlichen Inhalten und Quizfragen ergänzt werden. Animationen, Übergänge und Verknüpfungen ermöglichen eine schrittweise Darstellung und interaktive Elemente.</para>
+    <para styleclass="Body Text">Die Veröffentlichung erfolgt als HTML5-Ausgabe für den Browser oder als SCORM-Paket für ein LMS. Unterstützt werden SCORM 1.2 und SCORM 2004. PDF-Ausgaben können ergänzend über PowerPoint erstellt werden, sie enthalten keine interaktiven Funktionen.</para>
+    <para styleclass="Image Caption"><image id="FIG57A8BE5A" src="034-ispring-export.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: iSpring-Export.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Body Text">Im veröffentlichten Lernmodul erfolgt die Navigation über die Bedienelemente des Players. Zusätzlich können auf den Folien Schaltflächen und interne Verknüpfungen eingerichtet werden, beispielsweise für Sprünge zu bestimmten Inhalten.</para>
+    <para styleclass="Body Text">Für die Aufzeichnung im LMS wird das Lernmodul als SCORM-Paket veröffentlicht. Dabei können Bearbeitungsinformationen und gegebenenfalls Quizresultate übertragen werden. Welche Werte für den Abschluss zählen, wird anhand der Veröffentlichungseinstellungen und der Abschlussbedingungen im LMS festgelegt.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Weitere-Infos" inline="true"/> [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Webressourcen" anchor="iSpringFree">Web:iSpring</link>].</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: In dieser Arbeit wird iSpring Free kurz als iSpring bezeichnet.</para>
+  </body>
+</topic>

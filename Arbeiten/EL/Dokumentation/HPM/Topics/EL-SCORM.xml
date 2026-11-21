@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-10T15:29:59.067Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>SCORM</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">SCORM</para>
+    </header>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">SCORM (Sharable Content Object Reference Model)</text> ist ein etablierter Standard zur Bereitstellung von Lernmodulen und zum Austausch von Lerndaten mit einem Lernmanagementsystem. Viele gängige Autorentools unterstützen deshalb den Export als SCORM-Paket. Damit können externe Lernmodule beispielsweise ihren Bearbeitungsstatus und Testergebnisse an das LMS übermitteln. LMS-interne Aktivitäten können Lernfortschritte auch ohne SCORM aufzeichnen.</para>
+    <para styleclass="Body Text">SCORM beschreibt die Verpackung der Inhalte, ihren Start im LMS und den Datenaustausch während der Bearbeitung. Ein SCORM-Paket enthält die Lerninhalte und die Datei <text styleclass="T_Technical">imsmanifest.xml</text>, welche Aufbau und Startdateien beschreibt. Die mit dem LMS kommunizierende Lerneinheit heisst <text styleclass="T_Emphasis">Sharable Content Object (SCO)</text>. Ein Paket kann ein oder mehrere SCOs enthalten.</para>
+    <para styleclass="Body Text">Zu den wichtigsten Möglichkeiten gehören:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Bearbeitungsstatus und Testergebnisse übermitteln.</li>
+      <li styleclass="Body Text">Bearbeitungszeiten erfassen.</li>
+      <li styleclass="Body Text">Bearbeitungsstand speichern und später fortsetzen.</li>
+      <li styleclass="Body Text">Antworten auf einzelne Fragen und deren Bewertung übermitteln.</li>
+    </list>
+    <para styleclass="Image Caption"><image id="FIG923F7EF5" src="023-scorm-paket.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Aufbau SCORM-Paket.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Welche Daten tatsächlich verfügbar sind, hängt von der Umsetzung im Lernmodul und der Unterstützung durch das LMS ab. SCORM protokolliert nicht automatisch jede aufgerufene Seite oder jede Benutzeraktion.</para>
+    <para styleclass="Body Text" style="page-break-after:avoid;">Die folgende Tabelle vergleicht SCORM 1.2 mit der 3. und 4. Edition von SCORM 2004 hinsichtlich Lernfortschrittsaufzeichnung, Fortsetzungsdaten und Ablaufsteuerung.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="6" colcount="4">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Merkmal</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">SCORM 1.2</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">SCORM 2004, 3. Edition</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">SCORM 2004, 4. Edition</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="height:44px;">
+          <para styleclass="Normal">Abschluss und Bestehen</para>
+        </td>
+        <td style="height:44px;">
+          <para styleclass="Normal">Gemeinsames Statusfeld, beispielsweise <text styleclass="T_Highlight">abgeschlossen</text> oder <text styleclass="T_Highlight">bestanden</text></para>
+        </td>
+        <td style="height:44px;">
+          <para styleclass="Normal">Getrennte Angaben für Bearbeitungsabschluss und Bestehen</para>
+        </td>
+        <td style="height:44px;">
+          <para styleclass="Normal">Wie 3. Edition</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Bearbeitungsfortschritt</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kein eigenes standardisiertes Feld für einen Fortschrittsanteil</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Fortschrittswert zwischen 0 und 1 möglich</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Zusätzlich erweiterte Zusammenfassung von Teilfortschritten</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Fortsetzungsdaten</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kleinerer Speicherumfang</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Deutlich mehr Platz für gespeicherte Bearbeitungsstände</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Wie 3. Edition</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Ablauf zwischen SCOs</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kein mit SCORM 2004 vergleichbares Sequenzierungsmodell</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Regeln für Reihenfolge, Voraussetzungen und Verzweigungen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Erweiterte Steuerung und gemeinsame Nutzung von Daten zwischen SCOs</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Typischer Nutzen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Status, Ergebnis und Wiederaufnahme einfacher Lernmodule</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Genauere Statusangaben und gesteuerte Lernpfade</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Komplexere Pakete mit mehreren zusammenwirkenden SCOs</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Vergleich der SCORM-Versionen.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Die 4. Edition erweitert insbesondere die Zusammenfassung von Teilfortschritten und die gemeinsame Nutzung von Ziel- und Zustandsdaten zwischen SCOs. Für ein einfaches Lernmodul mit einem einzigen SCO sind diese Erweiterungen zumeist nicht erforderlich [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Literaturverzeichnis" anchor="EL-LVZ-0350">4</link>].</para>
+    <para styleclass="Heading2">Zusammenspiel mit dem LMS</para>
+    <para styleclass="Body Text">Das LMS startet das Lernmodul im Browser und stellt dort eine JavaScript-Schnittstelle, die <text styleclass="T_Emphasis">SCORM-API</text>, bereit. Das Lernmodul meldet darüber Daten und kann gespeicherte Werte abrufen. Die Übertragung zum Server und die dauerhafte Speicherung organisiert das LMS. SCORM standardisiert die Schnittstelle im Browser, nicht die technische Umsetzung der Serverkommunikation.</para>
+    <para styleclass="Body Text" style="page-break-after:avoid;">Die Kommunikation läuft so ab:</para>
+    <para styleclass="Higlight">Webbrowser <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Sitzung starten <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> &#160;Lernstand abrufen <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Bearbeitungsdaten melden <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> &#160;Speichern und Sitzung beenden</para>
+    <para styleclass="Body Text">Daten können bereits während der Bearbeitung mehrfach gelesen und gespeichert werden. Beim erneuten Einstieg kann das Modul den gespeicherten Stand wiederherstellen, sofern es diese Funktion unterstützt. Dabei standardisiert SCORM die Schnittstelle im Browser. Die Übertragung zum Server organisiert das LMS.</para>
+    <para styleclass="Image Caption"><image id="FIG0EC2BC" src="022-scorm-kommunikation.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Datenaustausch über die SCORM-Schnittstelle.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Zusätzliche Möglichkeiten bietet SCORM 2004 insbesondere für Pakete mit mehreren SCOs.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Sequencing: Reihenfolge und Freigabe von Lerneinheiten anhand definierter Regeln steuern.</li>
+      <li styleclass="Body Text">Rollup: Ergebnisse und Bearbeitungsstände mehrerer Einheiten zu einem übergeordneten Gesamtstatus zusammenfassen.</li>
+      <li styleclass="Body Text">Globale Objectives: Zielinformationen zwischen Lerneinheiten gemeinsam nutzen.</li>
+      <li styleclass="Body Text">In der 4. Edition: zusätzliche Fortschrittsinformationen zusammenführen und gemeinsame Datenspeicher verwenden.</li>
+    </list>
+    <para styleclass="Body Text">Diese Möglichkeiten sind für die Gestaltung eines Lernpakets optional. Ein Paket muss sie nicht ausschöpfen. Die Anforderungen an ein vollständig konformes LMS bleiben davon unberührt. Die Sequenzierung betrifft den Wechsel zwischen SCOs, die Seitennavigation innerhalb eines SCOs bestimmt das Lernmodul selbst [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Literaturverzeichnis" anchor="EL-LVZ-0350">4</link>].</para>
+    <para styleclass="Body Text">Welche Daten ein Lernmodul übermittelt und wie das LMS sie auswertet, wird an verschiedenen Stellen festgelegt. Die folgende Tabelle zeigt, welche Einstellungen im Autorentool, im SCORM-Paket und im LMS bestimmt werden.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="4" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Ort</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Was dort bestimmt wird</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Autorentool beziehungsweise Programmcode</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Welche Daten das Modul übermittelt und wann es beispielsweise <text styleclass="T_Highlight">abgeschlossen</text> oder <text styleclass="T_Highlight">bestanden</text> meldet.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">SCORM-Paket</para>
+        </td>
+        <td>
+          <para styleclass="Normal">SCORM-Version, Inhaltsstruktur und gegebenenfalls Schwellenwerte sowie Regeln für Ablauf und Ergebniszusammenfassung.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">LMS</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Je nach System unter anderem erlaubte Versuche, Bewertung mehrerer Versuche, Darstellung und Bedingungen für den Aktivitäts- oder Kursabschluss.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_856AF6" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: SCORM-Einstellungen und Grenzen.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Die Einstellungen müssen aufeinander abgestimmt sein. Meldet das Modul beispielsweise nach dem Besuch aller Inhaltsseiten abgeschlossen, kann das LMS diesen Status als Abschlussbedingung verwenden. Nicht übermittelte Einzelantworten oder Seitenbesuche kann es daraus jedoch nicht rekonstruieren. Manche LMS bieten zusätzliche Optionen zum Überschreiben oder Ableiten von Statuswerten. Diese verändern die Auswertung, ersetzen aber keine fehlenden Detaildaten.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Autorentool und LMS müssen die gewählte SCORM-Version unterstützen.</para>
+  </body>
+</topic>

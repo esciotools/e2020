@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-17T20:01:49.690Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Autorentools</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Autorentools</para>
+    </header>
+    <para styleclass="Body Text">Ein Autorentool ist eine Software zur Erstellung digitaler Lerninhalte. Damit können Texte, Bilder, Audio- und Videoinhalte, Animationen, Fragen, Übungen und interaktive Elemente zu einem Lernmodul verbunden werden.</para>
+    <para styleclass="Body Text">Autorentools sollen die Erstellung solcher Inhalte ermöglichen, ohne dass sämtliche Funktionen programmiert werden müssen. Je nach Werkzeug erfolgt die Bearbeitung ähnlich wie bei einer Präsentationssoftware, über vorbereitete Inhaltsbausteine oder direkt in einer webbasierten Umgebung.</para>
+    <para styleclass="Body Text">Der Funktionsumfang kann sich erheblich unterscheiden. Einfache Werkzeuge unterstützen vor allem Texte, Bilder und grundlegende Navigation. Umfangreichere Autorentools ermöglichen zusätzlich Animationen, Bildschirmaufzeichnungen, Verzweigungen, Simulationen, interaktive Übungen und Tests.</para>
+    <para styleclass="Body Text" style="page-break-after:avoid;">Zu den typischen Funktionen gehören:</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="9" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Funktionsbereich</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Beispiele</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Inhaltserstellung</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Texte, Bilder, Tabellen, Audio und Video</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Struktur und Navigation</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Seiten, Kapitel, Menüs und Schaltflächen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Interaktivität</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Auswahlfelder, Ebenen, Verzweigungen und anklickbare Bereiche</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Fragen und Übungen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Auswahlfragen, Zuordnungen oder Eingaben</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Gestaltung</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Vorlagen, Farben, Schriftarten und Layouts</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Veröffentlichung</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Ausgabe als Webseite, Video oder Lernpaket</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Wiederverwendung</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Vorlagen, Bausteine und gemeinsam genutzte Medien</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Barrierearme Nutzung</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Alternativtexte, Tastaturbedienung und Untertitel</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Typische Funktionen eines Autorentools.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Autorentools können als eigenständige Programme, webbasierte Anwendungen oder integrierte Bestandteile eines LMS angeboten werden. Eigenständige Werkzeuge ermöglichen häufig eine vom LMS unabhängige Erstellung. Integrierte Werkzeuge vereinfachen dagegen die direkte Bereitstellung, können die Inhalte aber stärker an das jeweilige System binden (Lock-in-Effekt).</para>
+    <para styleclass="Body Text">Ein wichtiges Unterscheidungsmerkmal ist das <link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Standards-und-Formate">Ausgabeformat</link>. Einige Werkzeuge erzeugen eigenständig nutzbare Webseiten oder Videodateien. Andere können standardisierte Lernpakete erstellen, die anschliessend in ein LMS importiert werden. Für die Wiederverwendung eines Lernmoduls in unterschiedlichen Systemen ist insbesondere der Export in ein unterstütztes Austauschformat von Bedeutung.</para>
+    <para styleclass="Image Caption"><image id="FIGE207D58B" src="004-autorentool-ausgabewege.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Ausgabeformate für Lernmodule.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+  </body>
+</topic>

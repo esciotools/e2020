@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-14T18:49:20.533Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Zugang zu den LMS</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Zugang zu den LMS</para>
+    </header>
+    <para styleclass="Body Text"><table styleclass="Default" rowcount="2" colcount="3">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Login Moodle:</text></para>
+        </td>
+        <td style="width:6px;">
+        </td>
+        <td>
+          <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank" styleclass="Body Text">&lt;%URL_MOODLE%&gt;</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Login ILIAS</text>:</para>
+        </td>
+        <td style="width:6px;">
+        </td>
+        <td>
+          <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank" styleclass="Body Text">&lt;%URL_ILIAS%&gt;</link></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"><line style="height:1px; color:#c0c0c0;" /></para>
+    <para styleclass="Body Text">Für den Zugang zu den Praxisumgebungen stehen Benutzerkonten mit unterschiedlichen Berechtigungen bereit. Damit lassen sich die Lernangebote aus verschiedenen Rollen heraus nutzen und prüfen. Die am Rollenschema der E-Learning-Arbeit angelehnten Benutzernamen bestehen aus der Rollenbezeichnung und einer zweistelligen Nummer ab 01.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="5" colcount="4">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Benutzername</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Rolle DE</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Rolle EN</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="T_Emphasis">Typische Berechtigungen</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">trainee-01</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Lernender</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Trainee</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurse aufrufen, Lerninhalte bearbeiten, Lernaktivitäten und Tests durchführen und den eigenen Lernfortschritt einsehen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">trainer-01</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Lehrender</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Trainer</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurse und Lerninhalte gestalten, Lernaktivitäten betreuen, Aufgaben und Tests auswerten sowie den Lernfortschritt der Teilnehmenden begleiten.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">manager-01</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kursverantwortlicher</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Course Manager</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Kurse anlegen und organisieren, Trainer und Teilnehmende zuweisen, Kursabläufe verwalten sowie kursübergreifende Berichte auswerten.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">reviewer-01</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Gutachter</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Reviewer</para>
+        </td>
+        <td>
+          <para styleclass="Normal" style="margin-bottom:8px;">Grundstruktur des Systems einsehen und anpassen sowie Lernobjekte anlegen und bearbeiten – auch ausserhalb einzelner Kurse, soweit das jeweilige LMS dies unterstützt.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Rollen für den LMS-Zugang.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Pro Rolle stehen je zehn Benutzer zur Verfügung:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">trainee-01 bis trainee-10</li>
+      <li styleclass="Body Text">trainer-01 bis trainer-10</li>
+      <li styleclass="Body Text">manager-01 bis manager-10</li>
+      <li styleclass="Body Text">reviewer-01 bis reviewer-10</li>
+    </list>
+    <para styleclass="Body Text">Die Rolle Reviewer wurde speziell für den Praxisteil der E-Learning-Arbeit ausserhalb des Rollenschemas eingerichtet. Sie ermöglicht den Betreuenden der Arbeit einen möglichst umfassenden Einblick in die Praxisumgebungen und deren Aufbau.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Mit dieser Rolle kann die Grundstruktur der Systeme eingesehen und angepasst sowie Lernobjekte angelegt und bearbeitet werden, auch ausserhalb einzelner Kurse, soweit das jeweilige LMS dies unterstützt.</li>
+    </list>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Die Rolle besitzt jedoch keine vollständigen Administrationsrechte. Das Anlegen neuer Benutzerkonten und die Vergabe systemweiter Berechtigungen sind beispielsweise ausgeschlossen.</li>
+    </list>
+  </body>
+</topic>

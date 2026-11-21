@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T21:06:53.774Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Strukturiertes Dokument</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Strukturiertes Dokument</para>
+    </header>
+    <para styleclass="Body Text">Ein strukturiertes Dokument enthält neben den eigentlichen Inhalten auch maschinenlesbare Angaben zu deren Aufbau. Bestandteile wie Überschriften, Absätze, Listen, Tabellen und Abbildungen sind ausdrücklich gekennzeichnet. Dadurch können Programme die einzelnen Elemente erkennen, ihre Beziehungen auswerten und sie gezielt verarbeiten <snippet src="file::WM-SNIP-LVZ-0800.xml" inline="true"/>.</para>
+    <para styleclass="Body Text">Entscheidend ist die Unterscheidung zwischen <text styleclass="T_Emphasis">Struktur</text> und <text styleclass="T_Emphasis">Darstellung</text>. Eine Überschrift erhält ihre Funktion durch die entsprechende Kennzeichnung. Eine grössere oder fett gesetzte Schrift allein beschreibt zunächst nur ihr Aussehen. Auf dieser Grundlage lässt sich die Darstellung verändern, während die Gliederung des Dokuments erhalten bleibt.</para>
+    <para styleclass="Body Text">Strukturierte Dokumente sind nicht auf XML-Dateien beschränkt. Auch HTML-Seiten sowie Word-Dokumente und Excel-Arbeitsmappen besitzen maschinenlesbare Strukturen. Die Dateiformate DOCX und XLSX verwenden intern ebenfalls XML <snippet src="file::WM-SNIP-LVZ-0900.xml" inline="true"/>. Bei einer Excel-Arbeitsmappe gehören beispielsweise Arbeitsblätter und Zellen zur Dokumentstruktur. Ob die darin enthaltenen Informationen einheitlich aufgebaut und zuverlässig auswertbar sind, hängt zusätzlich von ihrer Erfassung ab.</para>
+    <para styleclass="Body Text">Davon zu unterscheiden sind strukturierte Daten. Eine Tabelle mit festgelegten Spalten wie Artikelnummer, Bezeichnung und Preis enthält strukturierte Daten. Das gilt sowohl für eine entsprechend aufgebaute Excel-Tabelle als auch für eine relationale Datenbanktabelle. Eine Datenbanktabelle wird deshalb jedoch nicht automatisch als Dokument bezeichnet <snippet src="file::WM-SNIP-LVZ-1000.xml" inline="true"/>.</para>
+    <para styleclass="Body Text">XML ermöglicht es, Inhalte durch benannte Elemente und Attribute zu beschreiben und hierarchisch anzuordnen. Welche Elemente zulässig sind und was sie bedeuten, legt das jeweilige Dokumentmodell fest. XML gibt dafür die grundlegenden syntaktischen Regeln vor <snippet src="file::WM-SNIP-LVZ-0800.xml" inline="true"/>.</para>
+    <para styleclass="Body Text">In dieser Arbeit sind insbesondere die XML-Quelldateien von <var translate="false">&lt;%DOC_TOOL%&gt;</var> relevant. Im unkomprimierten Projektformat lassen sie sich mit externen Editoren und eigenen Hilfsprogrammen bearbeiten. Die erkennbare Struktur ermöglicht gezielte Änderungen über mehrere Topicdateien hinweg, beispielsweise an Variablen oder Formatzuweisungen. Dabei müssen sowohl die XML-Syntax als auch die vom Autorensystem erwartete Dokumentstruktur erhalten bleiben <snippet src="file::WM-SNIP-LVZ-1100.xml" inline="true"/>.</para>
+  </body>
+</topic>

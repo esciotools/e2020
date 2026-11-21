@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T06:02:30.327Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Wissensbasen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Wissensbasen</para>
+    </header>
+    <para styleclass="Body Text">Eine Wissensbasis ist im Zusammenhang dieser Arbeit eine geordnete Sammlung zusammengehöriger Fachinformationen. Sie umfasst beispielsweise Grundlagen, Anleitungen, Begriffserklärungen und Praxisbeispiele. Eine gemeinsame Struktur und Querverweise verbinden die einzelnen Inhalte.</para>
+    <para styleclass="Body Text">Die Bezeichnung legt keine bestimmte Speichertechnik fest. Eine Wissensbasis kann aus Dateien bestehen oder durch eine datenbankgestützte Anwendung verwaltet werden. Für Autoren ist entscheidend, dass sich die Inhalte übersichtlich bearbeiten, pflegen und wiederverwenden lassen. Nutzende der veröffentlichten Inhalte sollen die benötigten Informationen finden, verstehen und anwenden können.</para>
+    <para styleclass="Body Text">Bei <var translate="false">&lt;%SSP%&gt;</var> bilden die bearbeitbaren Inhalte zusammen mit Medien und wiederverwendbaren Textbausteinen die gemeinsame Quelle. Daraus entstehen die veröffentlichten Ausgaben, beispielsweise eine Website oder ein PDF. Redaktionelle Änderungen erfolgen an der Quelle und werden anschliessend neu publiziert.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Info" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Autoren pflegen die Inhalte an der Quelle, Nutzende greifen auf die daraus veröffentlichten Ausgaben zu..</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

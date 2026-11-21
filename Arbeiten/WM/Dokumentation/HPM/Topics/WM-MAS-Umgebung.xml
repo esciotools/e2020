@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T21:03:15.780Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>MAS-Umgebung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">MAS-Umgebung</para>
+    </header>
+    <para styleclass="Body Text">Die MAS-Umgebung umfasst drei eigenständige <var translate="false">&lt;%DOC_TOOL%&gt;-</var>Projekte.</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Die<text styleclass="T_Emphasis"> EL-Arbeit</text> dokumentiert die E-Learning-Praxis. Projektname: E2020 E-Learning.</li>
+      <li styleclass="Body Text">Die <text styleclass="T_Emphasis">WM-Arbeit </text>dokumentiert den Aufbau und die Pflege der Dokumentationsumgebung sowie die Wiederverwendung ihrer Inhalte. Projektname: E2020 Wissensmanagement.</li>
+      <li styleclass="Body Text">Das <text styleclass="T_Emphasis">MAS-Handbuch </text>stellt Zugänge, Bedienhinweise und Downloads bereit. Projektname: E2020 MAS.</li>
+    </list>
+    <para styleclass="Body Text">Die drei Projekte werden getrennt gepflegt und publiziert. Gemeinsame Inhalte werden gezielt eingebunden. Erst das Zusammenspiel der drei Projekte schafft für diese Arbeit die praktischen Konstellationen, an denen sich die projektübergreifende Wiederverwendung sinnvoll zeigen lässt. Gemeinsame Dokumentkonventionen, Hinweisvorlagen und Formatvorlagen werden in mehreren Dokumentationen benötigt, während fachliche Inhalte und Ausgabevorlagen teilweise projektspezifisch bleiben. Die MAS-Umgebung macht damit nachvollziehbar, welche Bestandteile gemeinsam gepflegt und welche getrennt verwaltet werden.</para>
+    <para styleclass="Body Text">Alle drei Projekte verwenden das <text styleclass="T_Emphasis">MAS-Repository</text> für gemeinsame Formatvorlagen und wiederverwendbare Topics. Ergänzend stehen ein gemeinsamer Ordner für externe Snippets sowie projektspezifische Snippetordner zur Verfügung. Fachliche Inhalte werden im jeweils zuständigen Projekt gepflegt. Bei Bedarf können andere Projekte diese Inhalte als Snippets einbinden.</para>
+    <para styleclass="Image Caption"><image id="FIGA1E58728" src="011-mas-struktur.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Aufbau der Umgebung für die Masterarbeit.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KIEIGEN%&gt;</var></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>:Die Verbindungen zeigen die Einbindung gemeinsamer Ressourcen. Die Gliederung innerhalb der Projekte ist vereinfacht dargestellt.</para>
+    <para styleclass="Body Text">Die folgende Übersicht zeigt die verwendete Ordnerstruktur. Gemeinsame Ressourcen liegen unter <text styleclass="T_Emphasis">Assets HPM</text>. Jedes Projekt besitzt jeweils einen eigenen Ordner Dokumentation mit dem <var translate="false">&lt;%DOC_TOOL%&gt;</var>-Projekt im Unterordner HPM. Für zugehörige Medien und Snippets gibt es entspreechende Ordner. Wobei sich die Unterordner nach dem Bedarf eine Projekts richten und deshalb nicht in allen Projekten identisch sein müssen.</para>
+    <para styleclass="Image Caption"><image id="FIG2453C8B3" src="014-mas-ordnerstruktur.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Ordnerstruktur für die Masterarbeit.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KIEIGEN%&gt;</var></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Aufbau und Ordnerstruktur lassen sich aus den <link displaytype="text" defaultstyle="true" type="topiclink" href="WM-Pfade">Pfaden</link> herauslesen.</para>
+  </body>
+</topic>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-11T19:47:43.945Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Mit Autorentools</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Mit Autorentools</para>
+    </header>
+    <para styleclass="Body Text">Für den praktischen Vergleich dieser Arbeit wird dasselbe Lernmodul mit unterschiedlichen Werkzeugen umgesetzt. Inhalt und grundlegender Aufbau bleiben dabei möglichst gleich. Dadurch lassen sich Unterschiede beim Erstellungsprozess, bei den Gestaltungsmöglichkeiten, bei der Veröffentlichung und bei der Einbindung in das LMS besser erkennen.</para>
+    <para styleclass="Body Text">Mit den ausgewählten Autorentools wurden Lernmodule zu den Themen Wolken und Elektroantrieb erstellt. Sie dienen als HTML- und SCORM-basierte Beispiele für die Praxisumgebung und zeigen, dass sich mit den Werkzeugen nutzbare Lerninhalte erstellen lassen.</para>
+    <para styleclass="Body Text">Die Autorentools lassen sich unter Windows problemlos nutzen und die exportierten Module in den eingesetzten LMS einbinden. Dort stehen sie zur Bearbeitung in den Beispielkursen bereit. Auf Anleitungen zu den einzelnen Autorentools wird verzichtet, im Mittelpunkt stehen die erstellten Lernmodule und ihre Nutzung im LMS.</para>
+    <para styleclass="Body Text">Die Arbeit mit einem Autorentool beginnt mit einem neuen Projekt. Darin werden Seiten oder Folien angelegt und mit Texten, Bildern und bei Bedarf interaktiven Aufgaben gefüllt. Anschliessend werden Gestaltung, Navigation und Funktionen in der Vorschau geprüft. Das Projekt bleibt zur weiteren Bearbeitung gespeichert, für die Veröffentlichung wird es in die vom Werkzeug unterstützten Formate exportiert, beispielsweise HTML, SCORM oder PDF.</para>
+    <para styleclass="Body Text">Der Ablauf ist so:</para>
+    <para styleclass="Higlight">Projekt anlegen <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Inhalte einfügen <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Gestaltung und Funktionen prüfen <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Projekt speichern <image src="mas-arrow-right.gif" imagestyleclass="Standard" scale="100.00%" figurelistinclude="0"></image> Ausgabeformate exportieren</para>
+  </body>
+</topic>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T20:37:53.910Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>PowerPoint für Prototypen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">PowerPoint für Prototypen</para>
+    </header>
+    <para styleclass="Body Text">In der Praxis liefern Fachabteilungen ihre Ideen und ersten Entwürfe für Lernmodule häufig als PowerPoint-Präsentation. Das Werkzeug ist in der Arbeitswelt bekannt und vielfach bereits verfügbar. Fachpersonen können damit Inhalte zusammenstellen und ihre Vorstellungen vermitteln, ohne sich in ein Autorentool einarbeiten zu müssen.</para>
+    <para styleclass="Body Text">PowerPoint eignet sich gut für die Entwicklung von Prototypen. Neben Texten und Bildern lassen sich Animationen, schrittweise Erklärungen und Abläufe darstellen. Über Hyperlinks auf Folien und Formen können auch Navigation und einfache Interaktionen umgesetzt werden. So lässt sich bereits simulieren, wie Lernende ein späteres Lernmodul durchlaufen. Foliennotizen bieten zudem Platz für ergänzende Erklärungen und Fachwissen.</para>
+    <para styleclass="Body Text">Der fertige Prototyp dient anschliessend als Vorlage für die Umsetzung im Autorentool. Bei PowerPoint-basierten Werkzeugen wie iSpring können die Folien direkt weiterverwendet werden. Bei anderen Werkzeugen müssen Inhalte und Interaktionen übernommen beziehungsweise neu aufgebaut werden.</para>
+    <para styleclass="Body Text">Mit einem geeigneten Konverter, der auch Hyperlinks und Animationen nach HTML überträgt, lassen sich aus PowerPoint-Präsentationen zudem funktionsfähige Prototypen oder kleinere, direkt nutzbare Lernmodule erstellen.</para>
+    <para styleclass="Image Caption"><image src="060-powerpoint-links.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: PowerPoint-Links für die Modulnavigation.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+  </body>
+</topic>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-10T11:14:26.302Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>LMS einsetzen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">LMS einsetzen</para>
+    </header>
+    <para styleclass="Body Text">Dieses Kapitel zeigt, wie in Moodle und ILIAS Kurse eingerichtet, Lernobjekte erstellt und vorhandene Lerninhalte eingebunden werden. Es vermittelt einen kurzen praktischen Einblick in die wichtigsten Funktionen und ergänzt die bereits erläuterten Grundlagen.</para>
+    <para styleclass="Body Text">Das Kapitel ist kein vollständiger Moodle- oder ILIAS-Kurs. Eine umfassende Einführung würde den Rahmen dieser Arbeit überschreiten. Im Mittelpunkt stehen die Schritte und Einstellungen, die zum Verständnis und zum eigenen Erproben der Praxisbeispiele erforderlich sind. Weiterführende Dokumentationen ermöglichen eine gezielte Vertiefung.</para>
+    <para styleclass="Body Text">Die beschriebenen Abläufe setzen passende Berechtigungen voraus. Bezeichnungen und verfügbare Funktionen können je nach Version, Konfiguration und installierten Erweiterungen abweichen.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Topic-Themen-Links" inline="true"/></para>
+  </body>
+</topic>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-09T15:08:20.531Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Aufwand und Kosten</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Aufwand und Kosten</para>
+    </header>
+    <para styleclass="Body Text">Die direkten Kosten beschränken sich im gewählten Szenario im Wesentlichen auf die Jahresmiete des Shared Hostings. Moodle und ILIAS verursachen keine Lizenzkosten. Für die Inhaltserstellung stehen kostenlos nutzbare Werkzeuge zur Verfügung. Ein geeigneter Computer, ein Internetzugang und eine vorhandene PowerPoint-Lizenz werden vorausgesetzt und nicht als zusätzliche Projektkosten berücksichtigt.</para>
+    <para styleclass="Body Text">Der Arbeitsaufwand war dagegen erheblich. Neben der Einrichtung beanspruchten vor allem die Einarbeitung, die Erstellung und Anpassung der Inhalte sowie die Fehlersuche viel Zeit. Auch vermeintlich einfache Schritte wie ein Export können Nachbearbeitung oder einen anderen Lösungsweg erfordern.</para>
+    <para styleclass="Body Text">Eine verlässliche Aufwandsschätzung lässt sich daraus nicht ableiten. Der Zeitbedarf hängt stark von den Vorkenntnissen, dem Umfang der Inhalte und den Qualitätsanforderungen ab. Zudem verursacht die vergleichende Erprobung mehrerer Werkzeuge zusätzlichen Aufwand, der bei einer späteren Umsetzung mit einem festgelegten Werkzeug entfällt.</para>
+    <para styleclass="Body Text">Geringe Softwarekosten bedeuten somit keine geringen Gesamtkosten. Bei vergleichbaren Vorhaben muss Arbeitszeit als wesentlicher Kostenfaktor berücksichtigt werden. Hinzu kommt der wiederkehrende Aufwand für Betreuung, Wartung und inhaltliche Aktualisierungen.</para>
+  </body>
+</topic>

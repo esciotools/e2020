@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-08T11:33:28.669Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Evaluation der LMS-Kandidaten</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Evaluation der LMS-Kandidaten</para>
+    </header>
+    <para styleclass="Body Text">Als Ausgangspunkt für die Auswahl geeigneter LMS dient die Untersuchung von Sanchez et al. <snippet src="file::EL-SNIP-LVZ-0400.xml" inline="true"/>. Darin werden 45 Lernmanagementsysteme anhand einheitlicher Kriterien miteinander verglichen. Die Übersicht enthält neben Angaben zum Einsatzgebiet, Erscheinungsjahr und zur Anzahl der Benutzer auch das jeweilige Lizenzmodell. Dabei unterscheiden die Autoren zwischen <text styleclass="T_Emphasis">Commercial</text>, <text styleclass="T_Emphasis">Free</text> und <text styleclass="T_Emphasis">Both</text>. Zusätzlich wird für jedes LMS ein <text styleclass="T_Emphasis">SQTL</text>-Wert (Software Quality and Technical Level) ausgewiesen. Dieser fasst verschiedene qualitative und technische Merkmale zu einer Bewertung auf einer Skala von 0 bis 10 zusammen, wobei ein höherer Wert für eine bessere Gesamtbewertung steht.</para>
+    <para styleclass="Heading2">Proprietär oder Open Source</para>
+    <para styleclass="Body Text">Für die Vorauswahl wird zunächst zwischen proprietären und Open-Source-LMS unterschieden.</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Bei proprietären LMS verbleiben Quellcode und Nutzungsrechte beim jeweiligen Anbieter. Nutzung und Betrieb sind an dessen Lizenz- und Geschäftsmodell gebunden.</li>
+      <li styleclass="Body Text">Open-Source-LMS stellen ihren Quellcode unter einer entsprechenden Lizenz zur Verfügung und können grundsätzlich unabhängig von einem bestimmten Anbieter installiert und betrieben werden.</li>
+    </list>
+    <para styleclass="Body Text">Gemäss dem festgelegten Muss-Kriterium Open Source werden proprietäre LMS von der weiteren Evaluation ausgeschlossen. Dies gilt auch für Systeme, die zwar kostenlos genutzt werden können, deren Software jedoch proprietär ist.</para>
+    <para styleclass="Heading2">Eingrenzung nach Open Source</para>
+    <para styleclass="Body Text">Die Lizenzangaben von Sanchez et al. dienen zunächst der Eingrenzung. Die dort verwendete Kategorie Free darf jedoch nicht unmittelbar mit Open Source gleichgesetzt werden.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Die Autoren verwenden Free sowohl für Freeware als auch für Open-Source-Software, Both bezeichnet Systeme mit kommerziellen und freien Angeboten.</li>
+      <li styleclass="Body Text">Deshalb wurden die als Free oder Both aufgeführten Systeme zusätzlich hinsichtlich ihres tatsächlichen Lizenzmodells betrachtet und proprietäre Angebote aus der weiteren Auswahl ausgeschlossen.</li>
+    </list>
+    <para styleclass="Body Text">Werden die LMS, welche Open Source sind, aus der Liste von Sanchez herausgefiltert, ergibt sich folgende Vorauswahl.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="10" colcount="3" style="head-row-background-color:none; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">LMS</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Lizenzkategorie</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">SQTL</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">ILIAS</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Free</para>
+        </td>
+        <td>
+          <para styleclass="Normal">7.75</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">OpenOLAT</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Both</para>
+        </td>
+        <td>
+          <para styleclass="Normal">7.38</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Claroline</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Free</para>
+        </td>
+        <td>
+          <para styleclass="Normal">7.00</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Moodle</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Free</para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">9.25</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Dokeos</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Both<text style="font-size:7pt; vertical-align:super;">1</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal">7.75</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Sakai</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Free</para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">8.00</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Chamilo</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Free</para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">8.75</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Canvas LMS</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Both</para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">8.38</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">OpenEduCat</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Free</para>
+        </td>
+        <td>
+          <para styleclass="Normal">7.0</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_FF8E91" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Open-Source-Kandidaten für die LMS-Auswahl.</para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_REF%&gt;</var><text translate="false">&#32;</text><snippet src="file::EL-SNIP-LVZ-0400.xml" inline="true"/></para>
+    <para styleclass="Body Text"><text style="font-size:7pt; vertical-align:super;">1</text>Dokeos ist nicht mehr Open Source und wird daher nicht weiter evaluiert. </para>
+    <para styleclass="Heading2">Weitere Eingrenzung der Kandidaten</para>
+    <para styleclass="Body Text">Die Vorauswahl umfasst damit diejenigen LMS aus der Untersuchung von Sanchez et al., die für die weitere Betrachtung als Open-Source-Systeme infrage kommen. Der SQTL-Wert dient dabei als zusätzliche Orientierung, wird jedoch nicht als alleiniges Auswahlkriterium herangezogen. Eine hohe Bewertung bedeutet nicht automatisch, dass ein System für den vorgesehenen praktischen Einsatz dieser Arbeit geeignet ist.</para>
+    <para styleclass="Body Text">Im nächsten Schritt wird die Vorauswahl anhand technischer Aspekte weiter eingegrenzt. Berücksichtigt werden insbesondere die verwendete Technologie und Laufzeitumgebung, das Datenbanksystem sowie die Möglichkeiten zur lokalen Installation und zum Betrieb auf einem Webhosting.</para>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Von besonderem Interesse ist, ob sich ein LMS mit verbreiteten Technologien wie PHP, MariaDB oder MySQL betreiben und sowohl lokal als auch auf einem gehosteten Webserver installieren lässt.</li>
+      <li styleclass="Body Text">Zusätzlich wird der damit verbundene technische Aufwand berücksichtigt.</li>
+    </list>
+    <para styleclass="Body Text">Ziel der technischen Eingrenzung ist es, diejenigen LMS zu bestimmen, die sich unter den Rahmenbedingungen dieser Arbeit grundsätzlich für die praktische Installation und die Erprobung eignen.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="9" colcount="5" style="head-row-background-color:none; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">LMS</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Technische Basis</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Datenbank</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Lokal</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Webhosting</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">ILIAS</para>
+        </td>
+        <td>
+          <para styleclass="Normal">PHP, Apache/Nginx</para>
+        </td>
+        <td>
+          <para styleclass="Normal">MariaDB / MySQL</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Docker</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Ja</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">OpenOLAT</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Java, Tomcat</para>
+        </td>
+        <td>
+          <para styleclass="Normal">PostgreSQL</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Docker, manuell</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Erhöhte Anforderungen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Claroline</para>
+        </td>
+        <td>
+          <para styleclass="Normal">PHP, Symfony</para>
+        </td>
+        <td>
+          <para styleclass="Normal">MySQL / MariaDB</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Docker, manuell</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Erhöhte Anforderungen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Moodle</para>
+        </td>
+        <td>
+          <para styleclass="Normal">PHP, Apache/Nginx</para>
+        </td>
+        <td>
+          <para styleclass="Normal">MariaDB / MySQL / PostgreSQL u. a.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">XAMPP, Docker</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Ja</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Sakai</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Java, Tomcat</para>
+        </td>
+        <td>
+          <para styleclass="Normal">MariaDB / MySQL / Oracle</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Docker, manuell</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Erhöhte Anforderungen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Chamilo</para>
+        </td>
+        <td>
+          <para styleclass="Normal">PHP, Apache</para>
+        </td>
+        <td>
+          <para styleclass="Normal">MariaDB / MySQL</para>
+        </td>
+        <td>
+          <para styleclass="Normal">XAMPP, Docker</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Ja</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Canvas LMS</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Ruby on Rails</para>
+        </td>
+        <td>
+          <para styleclass="Normal">PostgreSQL</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Docker, manuell</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Erhöhte Anforderungen</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="height:18px;">
+          <para styleclass="Normal">OpenEduCat</para>
+        </td>
+        <td style="height:18px;">
+          <para styleclass="Normal">Python, Odoo</para>
+        </td>
+        <td style="height:18px;">
+          <para styleclass="Normal">PostgreSQL</para>
+        </td>
+        <td style="height:18px;">
+          <para styleclass="Normal">Docker, manuell</para>
+        </td>
+        <td style="height:18px;">
+          <para styleclass="Normal">Erhöhte Anforderungen</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_4E4017" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Technischer Vergleich der LMS-Kandidaten.</para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_KI_EIGEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Title">Legende: <text styleclass="Body Text">Erhöhte Anforderungen beim Webhosting bedeutet, dass gegenüber einem klassischen PHP-Webhosting zusätzliche technische Voraussetzungen erforderlich sind.</text></para>
+    <para styleclass="Heading2">Auswahl für den weiteren Vergleich</para>
+    <para styleclass="Body Text">Der technische Vergleich zeigt, dass sich insbesondere <text styleclass="T_Product">ILIAS</text>, <text styleclass="T_Product">Moodle</text> und <text styleclass="T_Product">Chamilo</text> für die weitere Evaluation eignen.</para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Alle drei Systeme sind als Open-Source-Software verfügbar, basieren auf PHP, unterstützen verbreitete Datenbanksysteme und können sowohl lokal als auch auf einem Webhosting betrieben werden.</li>
+      <li styleclass="Body Text">Die lokale Installation kann dabei je nach LMS mit XAMPP oder Docker erfolgen.</li>
+    </list>
+    <para styleclass="Body Text">Die übrigen Kandidaten stellen teilweise höhere Anforderungen an die technische Umgebung. Dazu gehören zusätzliche Laufzeitumgebungen und Serverkomponenten, beispielsweise Java und Tomcat bei OpenOLAT und Sakai, Ruby on Rails bei Canvas LMS sowie Python und Odoo bei OpenEduCat. Ihre Installation und Bereitstellung ist grundsätzlich möglich, entspricht jedoch weniger den für die praktische Umsetzung dieser Arbeit vorgesehenen Umgebungen.</para>
+    <para styleclass="Body Text">Für die weitere Evaluation wird die Auswahl deshalb auf ILIAS, Moodle und Chamilo eingegrenzt.</para>
+    <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Diese drei LMS werden im nächsten Schritt anhand der für die praktische Umsetzung relevanten Funktionen, Standards und Schnittstellen miteinander verglichen.</li>
+      <li styleclass="Body Text">Die abschliessende Auswahl von zwei LMS erfolgt anschliessend unter zusätzlicher Berücksichtigung der Verbreitung, Community und verfügbaren Dokumentation.</li>
+    </list>
+  </body>
+</topic>

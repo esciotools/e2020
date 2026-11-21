@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T08:00:06.482Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Weitere Moodle-Objekte</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Weitere Moodle-Objekte</para>
+    </header>
+    <para styleclass="Body Text">Moodle bietet eine Vielzahl von Lernobjekten und Aktivitäten, mit denen sich Kurse unterschiedlich gestalten lassen. Da in Moodle die Kurse im Zentrum stehen, werden die Lernobjekte in der Regel direkt innerhalb der Kurse erstellt und verwaltet.</para>
+    <para styleclass="Body Text">Die Möglichkeiten und deren Anwendung erschliessen sich vor allem durch die praktische Arbeit mit dem System. Zu den wichtigsten Funktionen gehören Lernmodule und Tests mit verschiedenen Fragetypen, mit denen sich Wissen überprüfen und Lernergebnisse auswerten lassen.</para>
+    <para styleclass="Image Caption"><image id="FIG8F8BC8A" src="047-moodle-objekte.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Moodle-Lernobjekte.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+  </body>
+</topic>

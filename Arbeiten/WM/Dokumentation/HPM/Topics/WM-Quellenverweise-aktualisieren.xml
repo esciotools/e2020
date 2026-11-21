@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T01:10:30.495Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Quellenverweise aktualisieren</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Quellenverweise aktualisieren</para>
+    </header>
+    <para styleclass="Heading3">Problem</para>
+    <para styleclass="Body Text">Die Quellenverweise in den MAS-Arbeiten folgen der IEEE-Zitierweise: Im Text stehen Nummern in eckigen Klammern, beispielsweise [3]. Jede Nummer verweist auf den gleich nummerierten Eintrag im Literaturverzeichnis.</para>
+    <para styleclass="Body Text">Wird dort eine Quelle zwischen bestehenden Einträgen eingefügt, passt <var translate="false">&lt;%DOC_TOOL%&gt;</var> die nachfolgenden Nummern der Liste automatisch an. Die Listennummern lassen sich jedoch nicht unmittelbar als dynamische Quellenverweise in den Topics verwenden. Fest eingetragene Nummern müssten deshalb an allen betroffenen Textstellen manuell geändert werden.</para>
+    <para styleclass="Body Text"><text styleclass="Heading3">Kontext</text></para>
+    <para styleclass="Body Text">Als Lösung wird jede Quellenreferenz über eine eigene <text styleclass="T_Emphasis">Snippetdatei</text> eingebunden. Diese enthält die anzuzeigende Nummer mit eckigen Klammern sowie einen Link zum zugehörigen Eintrag im Literaturverzeichnis. Die Snippets liegen als XML-Dateien in einem eigenen Verzeichnis vor.</para>
+    <para styleclass="Title">Literatureintrag mit einem Anker kennzeichnen</para>
+    <para styleclass="Body Text">Im Topic mit dem Literaturverzeichnis erhält jeder Eintrag einen eigenen Anker. Dieser markiert die Sprungstelle, die beim Anklicken eines Quellenverweises geöffnet wird. Der erste Eintrag erhält beispielsweise den Ankernamen <text styleclass="T_Technical">EL-LVZ-0100</text>.</para>
+    <para styleclass="Body Text">Der Ankername bleibt bestehen, auch wenn sich die Listennummer des Eintrags später ändert. Dadurch bleibt der Eintrag über dieselbe Sprungstelle erreichbar.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="049-lvz-anker.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title">Snippet mit dem Literatureintrag verknüpfen</para>
+    <para styleclass="Body Text">Die zugehörige Snippetdatei <text styleclass="T_Technical">EL-SNIP-LVZ-0100.xml</text> enthält die Darstellung des Quellenverweises als [1]. Die Nummer ist mit einem Link hinterlegt. Dieser verweist auf das Topic mit dem Literaturverzeichnis und dort auf den Anker <text styleclass="T_Technical">EL-LVZ-0100</text>.</para>
+    <para styleclass="Body Text">Im XML-Code bezeichnet <text styleclass="T_Technical">href</text> das Zieltopic und <text styleclass="T_Technical">anchor</text> die Sprungstelle innerhalb dieses Topics. Zwischen dem öffnenden und schliessenden <text styleclass="T_Technical">link</text>-Element steht die angezeigte Nummer.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="043-lvz-snip-code.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title">Snippet im Text einbinden</para>
+    <para styleclass="Body Text">An der gewünschten Textstelle wird die Snippetdatei verlinkt eingebunden. Dort erscheint der Quellenverweis [1], was dem Snippetinhalt entspricht. Beim Anklicken führt er zum verknüpften Eintrag im Literaturverzeichnis. Dasselbe Snippet kann an mehreren Textstellen verwendet werden.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="050-lvz-snip-in-topic.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title">Referenznummern aktualisieren</para>
+    <para styleclass="Body Text">Die Snippetdateien liegen als XML-Dateien in einem eigenen Verzeichnis vor. Der Dateiname identifiziert das Snippet und bestimmt seine Position innerhalb der nach Dateinamen sortierten Dateien. Die darin enthaltene Nummer entspricht dagegen der aktuellen Position der Quelle im Literaturverzeichnis.</para>
+    <para styleclass="Body Text">Beispielsweise enthält <text styleclass="T_Technical">EL-SNIP-LVZ-0300.xml</text> zunächst die Nummer 3. Wird davor eine Quelle eingefügt, muss diese Nummer auf 4 geändert werden. Der Dateiname und das Linkziel bleiben bestehen. Alle Textstellen, die dieses Snippet verlinkt einbinden, übernehmen dadurch die aktualisierte Nummer.</para>
+    <para styleclass="Body Text">Damit die betroffenen Snippets nicht einzeln bearbeitet werden müssen, wurden mit Unterstützung künstlicher Intelligenz zwei kleine Hilfsprogramme in Rust entwickelt:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">lvz-info</text> liest die Snippetdateien nach Dateinamen sortiert ein und zeigt die jeweiligen Linkanker und internen Referenznummern an. So lässt sich kontrollieren, ob die Nummerierung zur Dateireihenfolge passt. Die Dateien werden nicht verändert.</li>
+    </list>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="T_Emphasis">lvz-update</text> sortiert die Snippetdateien ebenfalls nach Dateinamen und ersetzt ihre internen Referenznummern durch fortlaufende Nummern ab 1. Das Programm speichert die Dateien und zeigt die zugewiesenen Nummern unmittelbar an.</li>
+    </list>
+    <para styleclass="Body Text">Beide Programme werden über die Befehlszeile gestartet und fragen nach dem Pfad zum Snippetverzeichnis. Der folgende Ablauf zeigt ihre Anwendung beim Einfügen einer neuen Quelle.</para>
+    <para styleclass="Body Text"><text styleclass="Heading3">Vorgehen</text></para>
+    <para styleclass="Title">1. Ausgangszustand festlegen</para>
+    <para styleclass="Body Text">Für jede Quelle wird eine Snippetdatei angelegt. Die Dateinamen erhalten zunächst Nummern in Hunderterschritten, beispielsweise 0100, 0200 und 0300. Die Abstände ermöglichen es, später weitere Dateien dazwischen einzusortieren.</para>
+    <para styleclass="Body Text">Die Reihenfolge der Dateien muss der Reihenfolge der Quellen im Literaturverzeichnis entsprechen. Die Nummer im Dateinamen ist eine Sortierkennung und muss deshalb nicht mit der angezeigten Quellenreferenz übereinstimmen.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="044-lvz-snip-files-initial.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title">2. Vorhandene Nummerierung prüfen</para>
+    <para styleclass="Body Text">Nach dem Start von <text styleclass="T_Technical">lvz-info.exe</text> auf der Befehlszweile wird der Pfad zum Snippetverzeichnis eingegeben. Das Programm liest die Dateien in sortierter Reihenfolge und zeigt pro Datei die enthaltene Referenznummer an.</para>
+    <para styleclass="Body Text">Im Ausgangszustand ergeben sich die fortlaufenden Nummern 1 bis 19.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="045-lvz-snip-numbers-initial.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title">3. Neue Quelle und Snippet einfügen</para>
+    <para styleclass="Body Text">Die neue Quelle wird an der gewünschten Stelle im Literaturverzeichnis ergänzt. Im Beispiel erhält sie Position 3. Die bisherige Quelle 3 rückt dadurch auf Position 4, alle weiteren Einträge verschieben sich entsprechend.</para>
+    <para styleclass="Body Text">Das zugehörige Snippet erhält den Dateinamen <text styleclass="T_Technical">EL-SNIP-LVZ-0250.xml</text>. Damit wird es zwischen <text styleclass="T_Technical">EL-SNIP-LVZ-0200.xml</text> und <text styleclass="T_Technical">EL-SNIP-LVZ-0300.xml</text> einsortiert. Die bestehenden Dateinamen und die darauf gerichteten Snippeteinbindungen bleiben unverändert.</para>
+    <para styleclass="Body Text">Der neue Literatureintrag erhält einen eigenen Anker, im Beispiel <text styleclass="T_Technical">EL-LVZ-0250</text>. Wird das neue Snippet durch Kopieren einer vorhandenen Datei erstellt, muss dessen Linkziel auf diesen Anker geändert werden. Die bestehenden Literatureinträge behalten ihre Ankernamen. Das Hilfsprogramm aktualisiert anschliessend die angezeigten Nummern.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="046-lvz-new-snip-file.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title">4. Abweichung sichtbar machen</para>
+    <para styleclass="Body Text">Ein erneuter Aufruf von <text styleclass="T_Technical">lvz-info.exe </text>zeigt, dass die internen Nummern noch nicht zur neuen Reihenfolge passen. Im gezeigten Beispiel enthält das kopierte Snippet noch die Nummer 2. Die nachfolgenden Dateien tragen ebenfalls weiterhin ihre bisherigen Nummern.</para>
+    <para styleclass="Body Text">Das Einfügen und Benennen der Datei allein aktualisiert somit noch keine Quellenreferenzen.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="047-lvz-odd-numbers.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title">5. Nummerierung aktualisieren</para>
+    <para styleclass="Body Text">Vor der Änderung werden die Projektänderungen gespeichert, das Projekt geschlossen und die Snippetdateien gesichert.</para>
+    <para styleclass="Body Text">Anschliessend wird <text styleclass="T_Technical">lvz-update.exe</text> gestartet und der Pfad zum Snippetverzeichnis eingegeben. Das Programm sortiert die Dateien nach ihrem Namen und ersetzt die internen Referenznummern durch fortlaufende Nummern ab 1.</para>
+    <para styleclass="Body Text">Das neue Snippet erhält dadurch die Nummer 3. Das bisherige Snippet für Quelle 3 erhält die Nummer 4, die weiteren Nummern werden entsprechend angepasst. Das Programm zeigt die gespeicherten Nummern unmittelbar an.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="048-lvz-updated-numbers.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title">6. Ergebnis kontrollieren</para>
+    <para styleclass="Body Text">Nach dem erneuten Öffnen des Projekts werden die Quellenverweise und ihre Linkziele kontrolliert. Vor der Veröffentlichung ist zusätzlich zu prüfen, ob die angezeigten Nummern mit den Einträgen im Literaturverzeichnis übereinstimmen.</para>
+    <para styleclass="Heading2">Einsichten</para>
+    <para styleclass="Body Text">Die Trennung zwischen stabiler Snippetdatei und veränderlicher Referenznummer ermöglicht es, Quellenverweise zentral zu aktualisieren. Nach dem Einfügen einer Quelle müssen die betroffenen Textstellen nicht einzeln bearbeitet werden. Die verlinkten Snippets übernehmen die angepassten Nummern.</para>
+    <para styleclass="Body Text">Die XML-Dateien bieten damit einen Ansatzpunkt, um Funktionen des Autorensystems durch eigene Hilfsprogramme zu ergänzen. Die mit KI-Unterstützung entwickelten Programme setzen eine klar definierte Regel um: Die Position einer Datei in der sortierten Dateiliste bestimmt ihre interne Referenznummer.</para>
+    <para styleclass="Body Text">Die automatische Nummerierung gewährleistet jedoch noch keine korrekte Quellenzuordnung. Die Reihenfolge im Literaturverzeichnis und die Linkziele der Snippets müssen weiterhin stimmen.</para>
+    <para styleclass="Heading2">Folgerungen</para>
+    <para styleclass="Body Text">Für den zuverlässigen Einsatz ist ein geregelter Ablauf erforderlich: Neue Quellen und Snippets werden an übereinstimmender Position eingefügt, die Linkziele geprüft und die Referenznummern anschliessend aktualisiert. Vor der Veröffentlichung werden die Quellenverweise in der Ausgabe kontrolliert.</para>
+    <para styleclass="Body Text">Die Lösung ist weniger komfortabel als automatisch aktualisierte Querverweise in Word, bietet für die vorliegende Dokumentation jedoch einen brauchbaren Workaround. Der Ablauf lässt sich bei weiteren Ergänzungen wiederholen.</para>
+    <para styleclass="Body Text">Das Beispiel zeigt, dass sich eine konkrete Einschränkung mit einer nachvollziehbaren Verarbeitungsregel und einem kleinen Hilfsprogramm ausgleichen lässt. KI kann die Entwicklung unterstützen, die Anforderungen festzulegen und das Ergebnis zu prüfen bleibt Aufgabe der verantwortlichen Person.</para>
+    <para styleclass="Heading2">Anschlussfragen</para>
+    <para styleclass="Body Text">Keine.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Im Anhang sind die <link displaytype="text" defaultstyle="true" type="topiclink" href="WM-Rust-Sourcecode">Sourcecodes</link> der Hilfsprogramme abgebildet.</para>
+  </body>
+</topic>

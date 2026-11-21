@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-06T13:40:19.349+02:00" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Einsatz von KI</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Einsatz von KI</para>
+    </header>
+    <para styleclass="Body Text">Künstliche Intelligenz (KI) wird in dieser Arbeit als unterstützendes Hilfsmittel eingesetzt. Sie dient insbesondere der Recherche, Strukturierung und sprachlichen Überarbeitung von Inhalten sowie der Erstellung und Bearbeitung grafischer Darstellungen. Die Ergebnisse werden durch den Autor fachlich geprüft und bei Bedarf überarbeitet. Die inhaltliche Bewertung und Verantwortung verbleiben beim Autor.</para>
+    <para styleclass="Body Text">Davon zu unterscheiden sind KI-Funktionen der in dieser Arbeit verwendeten Werkzeuge zur Erstellung digitaler Lerninhalte. Da künstliche Intelligenz heute Bestandteil nahezu aller modernen Autorensysteme, Lernplattformen sowie zahlreicher Grafik-, Audio- und Videowerkzeuge ist, erfolgt ihr Einsatz dort, wo sie einen nachvollziehbaren Mehrwert hinsichtlich Effizienz, Qualität oder Kreativität bietet.</para>
+    <para styleclass="Heading2">Verwendete KI-Tools</para>
+    <para styleclass="Body Text">Im Rahmen dieser Arbeit kamen folgende KI-Werkzeuge zum Einsatz [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Webressourcen" anchor="KI-Assistenten">Web:KI-Assistenten</link>]:</para>
+    <para styleclass="Body Text"><text styleclass="T_Product">ChatGPT</text><text styleclass=" " style="font-family:'Noto Sans'; font-size:11pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">:</text> Unterstützung bei der Recherche, Strukturierung, sprachlichen Formulierung und fachlichen Einordnung sowie bei der Erstellung von Beispielen, Anleitungen, Sourcecode und grafischen Darstellungen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Product">Google Gemini</text><text styleclass=" " style="font-family:'Noto Sans'; font-size:11pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">:</text> Ergänzende Verifikation von Ergebnissen sowie Erarbeitung alternativer Formulierungen und sprachlicher Varianten.</para>
+    <para styleclass="Body Text"><text styleclass="T_Product">Gemini Notebook</text><text styleclass=" " style="font-family:'Noto Sans'; font-size:11pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">:</text> Erstellung strukturierter Exzerpte sowie Zusammenfassung und thematische Aufbereitung von Fachliteratur.</para>
+  </body>
+</topic>

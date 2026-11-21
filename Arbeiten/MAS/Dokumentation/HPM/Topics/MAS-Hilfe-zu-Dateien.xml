@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T03:12:01.148Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Hilfe zu Dateien</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Hilfe zu Dateien</para>
+    </header>
+    <para styleclass="Body Text">Beim Herunterladen oder Öffnen der bereitgestellten Dateien können Sicherheitsfunktionen des Browsers, von Windows oder einer installierten Schutzsoftware Warnungen anzeigen oder den Zugriff verhindern. Dies betrifft insbesondere ZIP-Archive, ausführbare Programme und weniger bekannte Dateiformate.</para>
+    <para styleclass="Body Text">Die folgenden Hinweise beschreiben häufige Probleme und mögliche Lösungen. Die Anleitungen beziehen sich auf <var translate="false">&lt;%WIN_VER%&gt;</var> sowie die Browser Microsoft Edge und Google Chrome.</para>
+    <para styleclass="Heading2">1. Download wird im Browser blockiert</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Problem</text>: Der Browser zeigt eine Sicherheitswarnung an und verhindert das Herunterladen einer Datei. Dies kann beispielsweise bei unbekannten Dateitypen oder selten heruntergeladenen Dateien vorkommen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Lösung</text>:</para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Die Downloadübersicht des Browsers mit <text styleclass="T_Technical Example">Strg + J</text> öffnen.</li>
+      <li styleclass="Body Text">Die betreffende Datei und den angegebenen Grund für die Blockierung prüfen.</li>
+      <li styleclass="Body Text">Die Herkunft und den Dateityp überprüfen.</li>
+      <li styleclass="Body Text">Falls der Browser eine entsprechende Option anbietet und die Datei nach Prüfung als vertrauenswürdig gilt, den Download für diese einzelne Datei zulassen.</li>
+    </list>
+    <para styleclass="Body Text">Die Bezeichnungen und verfügbaren Optionen unterscheiden sich je nach Browser und Art der Warnung.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="012-browser-verlauf.png" imagestyleclass="Default" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading2">2. Heruntergeladene Datei wird von Windows blockiert</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Problem</text>: Die Datei wurde heruntergeladen, lässt sich jedoch nicht wie erwartet öffnen oder verwenden. Windows kann Dateien aus dem Internet mit einer Sicherheitskennzeichnung versehen und deren Verwendung einschränken.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Lösung</text>:</para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Den Datei-Explorer öffnen und die heruntergeladene Datei suchen.</li>
+      <li styleclass="Body Text">Mit der rechten Maustaste auf die Datei klicken und <text styleclass="T_UI">Eigenschaften</text> auswählen.</li>
+      <li styleclass="Body Text">Auf der Registerkarte <text styleclass="T_UI">Allgemein</text> den Abschnitt Sicherheit prüfen.</li>
+      <li styleclass="Body Text">Falls vorhanden, die Option Zulassen beziehungsweise <text styleclass="T_UI">Blockierung aufheben</text> aktivieren.</li>
+      <li styleclass="Body Text">Die Änderung mit <text styleclass="T_UI">Übernehmen</text> und OK bestätigen.</li>
+    </list>
+    <para styleclass="Body Text">Die Option erscheint nur, wenn eine entsprechende Sicherheitskennzeichnung vorhanden ist. Sie sollte ausschliesslich bei Dateien aus vertrauenswürdigen Quellen verwendet werden.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="011-datei-zulassen.png" imagestyleclass="Default" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading2">3. Sicherheitssoftware oder Netzwerk verhindert den Zugriff</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Problem</text>: Ein Download wird abgebrochen, die Datei nach dem Herunterladen entfernt oder der Zugriff auf die Downloadadresse verweigert. Ursache können Antivirenprogramme, Firewalls oder Sicherheitsrichtlinien des verwendeten Netzwerks sein.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Lösung</text>:</para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Die Internetverbindung überprüfen und den Download gegebenenfalls erneut starten.</li>
+      <li styleclass="Body Text">Unter<text style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">&#32;</text><image src="mas-win-ui.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image><text style="font-family:&apos;Open Sans&apos;; font-size:11pt; color:#000000;">&#32;</text><text styleclass="T_UI">Windows-Sicherheit &gt; Viren- &amp; Bedrohungsschutz &gt; Schutzverlauf</text> prüfen, ob Microsoft Defender die Datei blockiert oder in Quarantäne verschoben hat.</li>
+      <li styleclass="Body Text">Bei anderer Sicherheitssoftware die entsprechenden Meldungen und Protokolle prüfen.</li>
+      <li styleclass="Body Text">In einem verwalteten Netzwerk gegebenenfalls die zuständige IT-Administration kontaktieren.</li>
+    </list>
+    <para styleclass="Body Text">Eine irrtümlich blockierte Datei sollte erst nach Prüfung ihrer Herkunft und Sicherheit freigegeben werden. Ein generelles Abschalten der Firewall oder des Virenschutzes wird nicht empfohlen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Sicherheitswarnungen sollten ernst genommen werden. Vor dem Öffnen oder Freigeben einer Datei sind deren Herkunft und Dateityp zu prüfen. Bestehen Zweifel an der Sicherheit, sollte die Datei nicht geöffnet werden.</para>
+    <para styleclass="Heading2">ZIP-Dateien verwenden</para>
+    <para styleclass="Body Text">Einige Downloads werden als ZIP-Archive bereitgestellt. Diese enthalten mehrere Dateien oder Verzeichnisse, die zusammengehören.</para>
+    <para styleclass="Body Text">Zum Entpacken im Datei-Explorer mit der rechten Maustaste auf die ZIP-Datei klicken, <text styleclass="T_UI">Alle extrahieren wählen</text> und den gewünschten Zielordner angeben.</para>
+    <para styleclass="Body Text">Bei HTML-Lernmodulen müssen die enthaltenen Dateien und Unterverzeichnisse zusammenbleiben. Anschliessend kann die Startdatei, üblicherweise <text styleclass="T_Technical">index.html</text>, im Browser geöffnet werden.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="013-win-alle-extrahieren.png" imagestyleclass="Default" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

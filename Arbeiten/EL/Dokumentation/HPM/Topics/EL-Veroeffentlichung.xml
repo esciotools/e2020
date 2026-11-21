@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T20:38:02.772Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Veröffentlichung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Veröffentlichung</para>
+    </header>
+    <para styleclass="Body Text">Die meisten der hier betrachteten Autorentools unterstützen die Veröffentlichung als HTML-Ausgabe für den Browser und als SCORM-1.2-Paket für ein LMS. Je nach Werkzeug erfolgt die Ausgabe direkt oder über ein zusätzliches Exportwerkzeug. Weitere Formate wie EPUB stehen nur bei einem Teil der Werkzeuge zur Verfügung.</para>
+    <para styleclass="Body Text">Eine statische PDF-Ausgabe lässt sich häufig über einen Export oder eine Druckfunktion erzeugen. Animationen, interaktive Aufgaben und die Übermittlung von Lernergebnissen bleiben dabei nicht erhalten. Für den interaktiven Lerneinsatz bietet eine solche Ausgabe deshalb nur einen begrenzten Nutzen.</para>
+    <para styleclass="Body Text">Während der Entwicklung kann PDF dagegen hilfreich sein. Ein festgehaltener Stand lässt sich unkompliziert zur Durchsicht weitergeben und als Grundlage für Bereinigungsdiskussionen verwenden. Zudem können PDF-Ausgaben ausgewählter Zwischenstände den Entwicklungsfortschritt dokumentieren. Für die Prüfung von Navigation, Animationen und Interaktionen bleibt die veröffentlichte HTML- oder SCORM-Ausgabe erforderlich.</para>
+    <para styleclass="Image Caption"><image src="034-ispring-export.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Übliche Exportformate für die Nutzung im LMS.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+  </body>
+</topic>

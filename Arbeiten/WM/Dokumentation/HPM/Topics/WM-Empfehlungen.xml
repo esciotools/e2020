@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T19:29:26.492Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Empfehlungen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Empfehlungen</para>
+    </header>
+    <para styleclass="Body Text">Für ein erstes Vorhaben empfiehlt sich ein kleines Dokumentationsprojekt mit wenigen Topics, einem wiederverwendbaren Inhalt und den tatsächlich benötigten Ausgabeformaten. Damit lässt sich der vollständige Ablauf prüfen, bevor grössere Inhaltsbestände übernommen werden.</para>
+    <para styleclass="Body Text">Gemeinsame Inhalte sollten einen eindeutig festgelegten Pflegeort erhalten. Verlinkte Snippets eignen sich für Texte, die an mehreren Stellen übereinstimmen sollen. Kopierte Snippets sind sinnvoll, wenn lediglich ein vorbereiteter Aufbau benötigt wird. Wiederkehrende Bezeichnungen sollten frühzeitig als Variablen angelegt werden.</para>
+    <para styleclass="Body Text">Dateinamen, Suchpfade und Formatvorlagen sollten vor dem Ausbau vereinheitlicht werden. Bei externen Änderungen sind die betroffenen Projekte zu sichern und im Autorensystem zu schliessen. Anschliessend werden die bearbeiteten Stellen und die erzeugten Ausgaben kontrolliert.</para>
+    <para styleclass="Body Text">Nach Änderungen an gemeinsamen Quellen müssen alle betroffenen Ausgaben neu erstellt werden. Bei WebHelp sind insbesondere Navigation, Links und eingebundene Inhalte zu prüfen, bei PDF zusätzlich Seitenumbrüche, Tabellen und Abbildungsbeschriftungen. Eine vollständige Sicherung muss auch externe Medien, Snippets und Vorlagen umfassen.</para>
+    <para styleclass="Body Text">Für die längerfristige Nutzung in einem Team sind Zuständigkeiten und Zeit für die Inhaltspflege festzulegen.<var translate="false">&lt;%SSP%&gt;</var> vereinfacht die technische Pflege, stellt aber nicht sicher, dass Inhalte fachlich aktuell bleiben.</para>
+  </body>
+</topic>

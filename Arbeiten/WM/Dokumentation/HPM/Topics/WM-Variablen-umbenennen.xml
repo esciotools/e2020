@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Under Construction" modified="2026-10-19T08:33:38.188Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Variablen umbenennen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Variablen umbenennen</para>
+    </header>
+    <para styleclass="Heading3">Problem</para>
+    <para styleclass="Body Text">Der Name einer benutzerdefinierten Variable lässt sich in der Variablenverwaltung von <var translate="false">&lt;%DOC_TOOL%&gt;</var> nicht nachträglich ändern. Soll eine bereits verwendete Variable einen anderen Namen erhalten, müssen sowohl ihre Definition als auch ihre Verwendungen angepasst werden.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="042-hpm-variablen.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading3">Kontext</para>
+    <para styleclass="Body Text">Beim Aufbau einer Dokumentation können sich Benennungen ändern, beispielsweise um Variablennamen zu vereinheitlichen oder verständlicher zu machen. Eine neue Variable anzulegen genügt dabei nicht: Die bestehenden Verweise verwenden weiterhin den bisherigen Namen.</para>
+    <para styleclass="Body Text">Im unkomprimierten Projektformat liegen die Topicdateien als XML vor. Sie lassen sich mit einem Texteditor gemeinsam durchsuchen und bearbeiten.</para>
+    <para styleclass="Heading3">Vorgehen</para>
+    <para styleclass="Body Text">Im folgenden Beispiel wird die benutzerdefinierte Variable <text styleclass="T_Technical">QU_EIGENSCREEN</text> in <text styleclass="T_Technical">QU_EIGEN_SCREEN</text> umbenannt. Ihr Wert bleibt unverändert.</para>
+    <para styleclass="Title">1. Projekt sichern und schliessen</para>
+    <para styleclass="Body Text">Alle Änderungen in <var translate="false">&lt;%DOC_TOOL%&gt;</var> speichern und das Projekt schliessen. Eine Sicherung des Projektordners erstellen.</para>
+    <para styleclass="Title">2. Projektdatei anpassen</para>
+    <para styleclass="Body Text">Die Projektdatei (<text styleclass="T_Technical">.hmxp</text>) in <var translate="false">&lt;%VSC%&gt;</var> öffnen und nach der Variablendefinition suchen.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="057-var-vorher.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text">Vor der Änderung prüfen, ob bereits eine Variable mit dem Namen QU_EIGEN_SCREEN vorhanden ist. Anschliessend ausschliesslich den Namen im Attribut <text styleclass="T_Technical">id</text> ändern:</para>
+    <para styleclass="Body Text"><text styleclass="T_Code">&lt;variable id=&quot;QU_EIGEN_SCREEN&quot; type=&quot;text&quot; translate=&quot;true&quot;&gt;Quelle: Eigener Screenshot.&lt;/variable&gt;</text></para>
+    <para styleclass="Body Text">Der Variablenwert und die übrigen Attribute bleiben erhalten. Die Projektdatei sodann speichern und schliessen.</para>
+    <para styleclass="Body Text"><text styleclass="Title">3. Topicsordner öffnen</text></para>
+    <para styleclass="Body Text">Den Topicsordner in <var translate="false">&lt;%VSC%&gt;</var> öffnen. Dazu den Ordner aus dem Datei-Explorer in das Programmfenster von <var translate="false">&lt;%VSC%&gt;</var> ziehen. Die Bearbeitung bezieht sich auf das betreffende Projekt und die darin verwendeten Inhalte. Bei gemeinsam genutzten Snippets muss vor einer Änderung geprüft werden, welche weiteren Projekte sie verwenden. Diese Projekte benötigen ebenfalls eine passende Variablendefinition.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="007-hpm-var-vsc-files.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="Title">4. Fundstellen prüfen</text></para>
+    <para styleclass="Body Text">Nach QU_EIGENSCREEN suchen und die Treffer kontrollieren. Im XML-Format hat ein Variablenverweis folgenden Aufbau:</para>
+    <para styleclass="Body Text"><text styleclass="T_Code">&lt;var translate=&quot;false&quot;&gt;&amp;lt;%QU_EIGENSCREEN%&amp;gt;&lt;/var&gt;</text></para>
+    <para styleclass="Body Text">Das Element <text styleclass="T_Technical">var</text> kennzeichnet den Variablenverweis. Die Zeichen &lt; und &gt; des Platzhalters werden darin als <text styleclass="T_Technical">&amp;lt;</text> und <text styleclass="T_Technical">%&amp;gt;</text> gespeichert.</para>
+    <para styleclass="Body Text"><text styleclass="Title">5. Variablenverweise ersetzen</text></para>
+    <para styleclass="Body Text">Die Ersetzung unter Berücksichtigung der Gross-/Kleinschreibung und ohne reguläre Ausdrücke durchführen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Suchen nach</text>: &amp;lt;%QU_EIGENSCREEN%&amp;gt;</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Ersetzen durch</text>: &amp;lt;%QU_EIGEN_SCREEN%&amp;gt;</para>
+    <para styleclass="Body Text">Damit wird beispielsweise aus dem bisherigen Variablenverweis:</para>
+    <para styleclass="Body Text"><text styleclass="T_Code">&lt;var translate=&quot;false&quot;&gt;&amp;lt;%QU_EIGEN_SCREEN%&amp;gt;&lt;/var&gt;</text></para>
+    <para styleclass="Body Text">Die umgebenden XML-Elemente und deren Attribute bleiben erhalten. Weitere Fundstellen des bisherigen Namens einzeln prüfen. Auch direkt geschriebene Platzhalter oder Verweise innerhalb anderer Inhalte müssen gegebenenfalls angepasst werden.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="058-hpm-var-search-replace.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text"><text styleclass="Title">6. Dateien kontrollieren und speichern</text></para>
+    <para styleclass="Body Text">Die Änderungen im Editor prüfen und alle bearbeiteten Dateien mit unveränderter Zeichenkodierung speichern. Erneut nach QU_EIGENREF suchen. Verbleibende Treffer kontrollieren und feststellen, ob sie angepasst werden müssen oder den bisherigen Namen bewusst dokumentieren.</para>
+    <para styleclass="Body Text">Die XML-Struktur darf durch die Bearbeitung nicht verändert werden.</para>
+    <para styleclass="Body Text"><text styleclass="Title">7. Ergebnis prüfen</text></para>
+    <para styleclass="Body Text">Das Projekt in <var translate="false">&lt;%DOC_TOOL%&gt;</var> öffnen. In der Variablenverwaltung kontrollieren, ob QU_EIGEN_REF mit dem bisherigen Wert vorhanden ist. Anschliessend die bearbeiteten Topics und eingebundenen Snippets prüfen.</para>
+    <para styleclass="Body Text">Eine Testausgabe erstellen und kontrollieren, ob an den betroffenen Stellen weiterhin <text styleclass="T_Highlight">Quelle: Eigener Screenshot.</text> erscheint. Bei mehreren verwendeten Ausgabeformaten die Prüfung für diese Ausgaben wiederholen.</para>
+    <para styleclass="Body Text">In der Praxisumgebung werden nicht gefundene Variablen im Ausgabereport nicht gemeldet. Ein fehlerfreier Report genügt deshalb nicht als Nachweis. Die Suche nach dem bisherigen Namen und die Sichtkontrolle der betroffenen Ausgabestellen gehören zur Prüfung.</para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px; white-space:nowrap; page-break-after:avoid;"><image src="hmtoggle_arrow0.gif" scale="100.00%" figurelistinclude="0"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" src-collapsed="hmtoggle_arrow0.gif" src-expanded="hmtoggle_arrow1.gif"><caption><![CDATA[Screenshot]]></caption></toggle></para>
+    <para styleclass="Body Text" style="text-indent:-18px; margin-left:18px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><image src="042-hpm-variablen.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading2">Einsichten</para>
+    <para styleclass="Body Text">Eine Variable besteht aus einer Definition und den Verweisen auf diese Definition. Eine Umbenennung ist erst abgeschlossen, wenn beide denselben Namen verwenden. Durch die direkte XML-Bearbeitung lassen sich die Verweise dateiübergreifend anpassen.</para>
+    <para styleclass="Body Text">Bei eingebundenen Snippets kann die Änderung über das bearbeitete Projekt hinauswirken. Ein gemeinsam genutzter Inhalt benötigt in allen verwendenden Projekten eine passende Variablendefinition.</para>
+    <para styleclass="Heading2">Folgerungen</para>
+    <para styleclass="Body Text">Variablennamen sollten frühzeitig nach einem einheitlichen Schema festgelegt werden. Spätere Umbenennungen sind möglich, erfordern jedoch eine Sicherung, genaue Suchkriterien und die Prüfung aller betroffenen Inhalte. Vor der Bearbeitung muss klar sein, welche Dateien und Projekte von der Änderung betroffen sind.</para>
+    <para styleclass="Heading2">Anschlussfragen</para>
+    <para styleclass="Body Text">Keine.</para>
+  </body>
+</topic>

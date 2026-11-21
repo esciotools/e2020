@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T00:15:25.591Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Einsatz</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Einsatz</para>
+    </header>
+    <para styleclass="Body Text">Dieses Kapitel beschreibt die Werkzeuge und Arbeitsweisen zur Bearbeitung und Veröffentlichung der Dokumentation. Neben den verwendeten Editoren und Dateiwerkzeugen zeigen Praxisbeispiele, wie sich XML-Quelldateien direkt bearbeiten und eigene Hilfsmittel einsetzen lassen. Sie verdeutlichen die zusätzlichen Möglichkeiten eines dateibasierten Systems über die übliche Bedienung von <var translate="false">&lt;%DOC_TOOL%&gt;</var> hinaus. Die Vorgehensweisen sind nachvollziehbar dokumentiert und auf ähnliche Aufgaben übertragbar.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Topic-Themen-Links" inline="true"/></para>
+  </body>
+</topic>

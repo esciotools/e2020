@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T20:37:44.852Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Online-Konverter</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Online-Konverter</para>
+    </header>
+    <para styleclass="Body Text">Online-Konverter können vorhandene Dateien in ein anderes Format überführen und damit die Weiterverwendung von Inhalten unterstützen. Für die Lernmodulproduktion ist insbesondere die Umwandlung von PowerPoint- oder Word-Dateien in HTML interessant. Sie kann helfen, Inhalte für ein weiteres Werkzeug vorzubereiten oder unterschiedliche technische Lösungswege zu erproben.</para>
+    <para styleclass="Body Text">Eine solche Konvertierung liefert jedoch nicht automatisch ein fertiges Lernmodul. Besonders bei PowerPoint-Präsentationen ist zu prüfen, ob Layout, Animationen, Verknüpfungen und Bedienfunktionen erhalten bleiben. Auch eine im Browser korrekt dargestellte HTML-Ausgabe lässt sich nicht zwangsläufig in einem Autorentool weiterbearbeiten. Das Ergebnis dient daher häufig als Zwischenstand oder als Grundlage für weitere Versuche.</para>
+    <para styleclass="Body Text">Bei der Auswahl eines Dienstes sind die unterstützten Formate, Einschränkungen und Kosten zu beachten. Werden Dateien zur Verarbeitung hochgeladen, gelangen ihre Inhalte an einen externen Anbieter. Für vertrauliche oder personenbezogene Inhalte ist deshalb vorgängig zu klären, ob dieser Übertragungsweg zulässig ist. Ein kostenloser Konverter, der für diese Arbeit gute Resultate lieferte, ist PPT to HTML converter [<link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Webressourcen" anchor="Konverter">Web:Konvert</link>].</para>
+    <para styleclass="Image Caption"><image id="FIGD03E958" src="059-ppt-to-html.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Eingabemaske für Online-Konverter.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+  </body>
+</topic>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T09:16:56.370Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Lernmodul in Moodle</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Lernmodul in Moodle</para>
+    </header>
+    <para styleclass="Body Text">Lernmodule gehören zu den zentralen Lernobjekten in Moodle. Sie ermöglichen die strukturierte Bereitstellung von Lerninhalten mit Texten, Bildern, Videos und interaktiven Elementen.</para>
+    <para styleclass="Body Text">Moodle besitzt jedoch keinen einzelnen Standard-Objekttyp namens Lernmodul. Je nach Aufbau werden unterschiedliche Werkzeuge verwendet.</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Mit dem Buch und der Lektion bietet Moodle eigene Möglichkeiten zur Erstellung strukturierter Lerninhalte.</li>
+      <li styleclass="Body Text">Besonders wichtig ist jedoch die Unterstützung von SCORM 1.2 über die Aktivität Lernpaket. Damit lassen sich Lernmodule aus verschiedenen Autorentools importieren und im LMS nutzen.</li>
+    </list>
+    <para styleclass="Body Text">SCORM ermöglicht zudem die Übermittlung von Lernfortschrittsdaten an Moodle. Je nach Lernmodul können beispielsweise Bearbeitungsstatus, Ergebnisse, Punktzahlen und Bearbeitungszeiten aufgezeichnet und ausgewertet werden. Voraussetzung ist, dass das Lernmodul die entsprechenden Daten übermittelt.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="5" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Umsetzung</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Anlegen und verwenden</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Buch</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kapitel und Unterkapitel direkt im Browser erstellen, geeignet für gegliederte Texte und Medien.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Lektion</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Inhalts- und Frageseiten anlegen und ihre Übergänge festlegen, geeignet für geführte oder verzweigte Abläufe.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Lernpaket SCORM</para>
+        </td>
+        <td>
+          <para styleclass="Normal">SCORM-ZIP hochladen und Anzeige, Versuche, Bewertung sowie Abschlussbedingungen einstellen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">HTML über Datei</para>
+        </td>
+        <td>
+          <para styleclass="Normal">HTML-Dateien als ZIP hochladen, entpacken und die Einstiegsseite als Hauptdatei festlegen.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Umsetzung von Lernmodulen in Moodle.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Moodle unterstützt den Import und die Auswertung von SCORM-1.2-Lernpaketen. Die Einstellungen beschränken sich im Wesentlichen auf Darstellung, Versuche, Bewertung und Abschlussbedingungen. Die eigentliche Steuerung des Lernfortschritts erfolgt weitgehend im SCORM-Lernmodul selbst. Gegenüber ILIAS bietet Moodle weniger Möglichkeiten zur Konfiguration von SCORM-Lernpaketen.</para>
+    <para styleclass="Normal"><image id="FIG50B5F075" src="057-moodle-modul-einstellungen.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Bewertungseinstellungen beim Lernmodul in Moodle.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN_SCREEN%&gt;</var></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Moodle unterstützt SCORM 1.2 vollständig, während SCORM 2004 nur eingeschränkt unterstützt wird.</para>
+  </body>
+</topic>

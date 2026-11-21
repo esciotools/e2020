@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-09T20:34:51.956Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Arbeitsumgebung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Arbeitsumgebung</para>
+    </header>
+    <para styleclass="Body Text">Für die praktische Umsetzung der in dieser Arbeit beschriebenen Beispiele wird eine Windows-basierte Arbeitsumgebung verwendet. Sie dient der lokalen Erstellung und Bearbeitung der Dokumentation mit dem ausgewählten Autorensystem sowie dem Einsatz ergänzender Werkzeuge. Die erzeugten Ausgaben können lokal geprüft und bei Bedarf auf einem Webserver veröffentlicht werden.</para>
+    <para styleclass="Body Text">Die folgende Tabelle zeigt die grundlegenden Anforderungen an die Arbeitsumgebung.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="12" colcount="2">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Bereich</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Anforderung</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Notebook oder PC</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Mit Tastatur, Maus, Monitor und Netzwerkzugang</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Prozessor</para>
+        </td>
+        <td>
+          <para styleclass="Normal">64-Bit-Mehrkernprozessor</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Arbeitsspeicher</para>
+        </td>
+        <td>
+          <para styleclass="Normal">16 GB RAM</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Speicherplatz</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Mindestens 50 GB freier SSD-Speicherplatz</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Betriebssystem</para>
+        </td>
+        <td>
+          <para styleclass="Normal"><var translate="false">&lt;%WIN_VER%&gt;</var>, 64-Bit</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Autorensystem</para>
+        </td>
+        <td>
+          <para styleclass="Normal"><var translate="false">&lt;%DOC_TOOL%&gt;</var></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Texteditor</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Visual Studio Code, Notepad++ oder vergleichbarer Texteditor</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Webbrowser</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Aktueller Webbrowser, beispielsweise Edge, Chrome oder Firefox</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Netzwerk</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Breitband-Internetzugang</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Webhosting</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Shared Hosting mit Webserver</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Hostingverwaltung</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Webbasierte Verwaltungsoberfläche</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_7A228E" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Anforderungen an die persönliche Arbeitsumgebung.</para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Webhosting wird nur benötigt, wenn die erstellte Dokumentation im Internet bereitgestellt werden soll. Die Erstellung, Bearbeitung und Prüfung der Ausgaben sind auch lokal möglich.</para>
+    <para styleclass="Body Text">Die Angaben beziehen sich auf die in dieser Arbeit verwendete Arbeitsumgebung und stellen keine allgemeinen Systemanforderungen der eingesetzten Produkte dar. Die einzelnen Tools werden in den entsprechenden Kapiteln näher beschrieben.</para>
+  </body>
+</topic>

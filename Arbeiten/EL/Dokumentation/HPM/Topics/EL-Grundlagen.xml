@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T20:05:02.041Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Grundlagen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Grundlagen</para>
+    </header>
+    <para styleclass="Body Text">E-Learning verbindet didaktische Konzepte mit digitalen Technologien. Für die praktische Umsetzung müssen Lerninhalte geplant, erstellt, bereitgestellt und von den Lernenden genutzt werden können. Dazu kommen unterschiedliche Werkzeuge und technische Systeme zum Einsatz.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Lernmanagementsysteme</text> dienen vor allem dazu, Kurse, Lerninhalte und Benutzer zu verwalten.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Autorentools</text> unterstützen die Erstellung digitaler Lerninhalte und Lernmodule.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Standards und Formate</text> ermöglichen den Austausch dieser Inhalte zwischen verschiedenen Werkzeugen und Systemen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Webhosting</text> stellt die technische Umgebung bereit, damit webbasierte Lernangebote über das Internet erreichbar sind.</para>
+    <para styleclass="Body Text">Dieses Kapitel erläutert die grundlegenden Begriffe und Zusammenhänge, die für das weitere Verständnis der Arbeit erforderlich sind. Der Schwerpunkt liegt auf Lösungen, die sich auch mit begrenzten finanziellen, personellen und technischen Mitteln einsetzen lassen.</para>
+    <para styleclass="Image Caption"><image id="FIGB3B89DB6" src="001-e-learning-werkzeuge-uebersicht.png" imagestyleclass="Standard" scale="-99.90%" styleclass="Image Caption" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Zusammenspiel der E-Learning-Komponenten.]]></caption></image></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_KI_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Lernmodule können auch direkt im LMS erstellt werden.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Topic-Themen-Links" inline="true"/></para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Body Text"></para>
+  </body>
+</topic>

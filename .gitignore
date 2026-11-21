@@ -1,0 +1,68 @@
+
+# Alles im Stammverzeichnis ignorieren
+/*
+
+# .gitignore selbst berücksichtigen
+!/.gitignore
+
+# Cleaner-Skripte im Stammverzeichnis freigeben
+!/Cleaner.bat
+!/Cleaner.ps1
+
+# ------------------
+# Ordner Arbeiten zulassen
+!/Arbeiten/
+
+# Innerhalb von Arbeiten alles ignorieren
+/Arbeiten/*
+
+# Verzeichnis Assets HPM vollständig freigeben
+!/Arbeiten/Assets HPM/
+
+# ------------------
+# Ordner EL zulassen
+!/Arbeiten/EL/
+
+# Innerhalb von EL alles ignorieren
+/Arbeiten/EL/*
+
+# Dokumentation vollständig freigeben
+!/Arbeiten/EL/Dokumentation/
+
+# Lernmodule vollständig freigeben
+!/Arbeiten/EL/Lernmodule/
+
+# ------------------
+# Ordner MAS zulassen
+!/Arbeiten/MAS/
+
+# Innerhalb von MAS alles ignorieren
+/Arbeiten/MAS/*
+
+# Dokumentation vollständig freigeben
+!/Arbeiten/MAS/Dokumentation/
+
+# ------------------
+# Ordner WM zulassen
+!/Arbeiten/WM/
+
+# Innerhalb von WM alles ignorieren
+/Arbeiten/WM/*
+
+# Dokumentation vollständig freigeben
+!/Arbeiten/WM/Dokumentation/
+
+# Ordner WM/Implementation zulassen
+!/Arbeiten/WM/Implementation/
+
+# Innerhalb von Implementation alles ignorieren
+/Arbeiten/WM/Implementation/*
+
+# Nur WM/Implementation/Rust freigeben
+!/Arbeiten/WM/Implementation/Rust/
+
+# Rust Build-Artefakte ignorieren
+**/target/
+
+# Alle MP4-Videodateien ausschliessen
+*.mp4

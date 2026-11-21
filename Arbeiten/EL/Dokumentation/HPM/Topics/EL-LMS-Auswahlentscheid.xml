@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-10T15:34:29.767Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>LMS-Auswahlentscheid</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">LMS-Auswahlentscheid</para>
+    </header>
+    <para styleclass="Body Text">Für die praktische Umsetzung dieser Arbeit fällt die Auswahl auf <text styleclass="T_Product">Moodle</text> und <text styleclass="T_Product">ILIAS</text>. Ziel ist nicht, einen allgemeingültigen Testsieger zu bestimmen, sondern zwei etablierte LMS praktisch zu erproben. Beide Systeme erfüllen die festgelegten Evaluationskriterien, setzen bei Bedienung, Strukturierung und Administration jedoch unterschiedliche Schwerpunkte.</para>
+    <para styleclass="Heading2">Gründe für die Wahl</para>
+    <para styleclass="Body Text"><text styleclass="T_Product">Moodle</text> verfügt über eine sehr grosse internationale Verbreitung, eine umfangreiche Community und eine breite Auswahl an Erweiterungen. Das System lässt sich in unterschiedlichen Umgebungen installieren. Für die lokale Erprobung kommen sowohl XAMPP als auch Docker infrage. Auf geeignetem Webhosting kann Moodle häufig über Installationswerkzeuge wie Softaculous eingerichtet werden. Die umfangreiche Dokumentation und die zahlreichen verfügbaren Anleitungen erleichtern den Einstieg.</para>
+    <para styleclass="Body Text"><text styleclass="T_Product">ILIAS</text> ist insbesondere im Hochschulbereich, in Bildungseinrichtungen und in Organisationen mit differenzierten Rollen- und Berechtigungsstrukturen etabliert. Das System bietet umfangreiche Funktionen für die Organisation von Lernangeboten, Tests, Bewertungen und Lernfortschritten. Eine besondere Stärke liegt in der strukturierten Verwaltung unterschiedlicher Lernobjekte sowie in der Unterstützung von Standards und Austauschformaten. Für die lokale Erprobung wird ILIAS im Rahmen dieser Arbeit mit Docker betrieben. Auf dem vorgesehenen Webhosting ist die Installation über Softaculous möglich.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Chamilo</text> erfüllt ebenfalls wesentliche technische Anforderungen und wäre grundsätzlich für eine praktische Erprobung geeignet. Da der Umfang dieser Arbeit auf zwei LMS begrenzt wird, werden jedoch Moodle und ILIAS ausgewählt. Ausschlaggebend sind ihre Verbreitung, ihre etablierten Communitys, die verfügbare Dokumentation und ihre Bedeutung in unterschiedlichen Bildungskontexten. Zudem ermöglichen sie den Vergleich zweier Systeme mit ähnlichen Grundfunktionen, aber unterschiedlichen Ansätzen bei Bedienung, Strukturierung und Administration.</para>
+    <para styleclass="Heading2">Gegenüberstellung von Moodle und ILIAS</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="12" colcount="3" style="head-row-background-color:none; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Aspekt</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Moodle</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">ILIAS</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Verbreitung und Community</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Sehr grosse internationale Verbreitung und umfangreiche Community.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Besonders im deutschsprachigen und europäischen Hochschul- und Bildungsbereich etabliert.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Lokale Installation</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Mit XAMPP oder Docker möglich.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Im Rahmen dieser Arbeit mit Docker.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Installation auf Webhosting</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Auf geeignetem PHP-Webhosting möglich, häufig über Softaculous.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Auf geeignetem PHP-Webhosting möglich, häufig über Softaculous.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Bedienung</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Vergleichsweise schneller Einstieg und zahlreiche verfügbare Anleitungen.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Leistungsfähig, aufgrund der umfangreichen Struktur und Konfigurationsmöglichkeiten jedoch anspruchsvoller.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Kurse und Lerninhalte</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kursorientierter Aufbau mit zahlreichen Aktivitäten und Erweiterungen.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Strukturierte Verwaltung unterschiedlicher Lernobjekte innerhalb von Kursen und Kategorien.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Rollen und Berechtigungen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Flexibles Rollen- und Rechtesystem.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Sehr differenziertes Rollen- und Rechtesystem.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Tests und Bewertungen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Umfangreiche Test-, Aufgaben- und Bewertungsfunktionen.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Umfangreiche Test- und Bewertungsfunktionen mit starker Unterstützung strukturierter Lernprozesse.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Standards und Schnittstellen</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Unterstützung unter anderem für SCORM und LTI, weitere Funktionen über Plugins.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Unterstützung unter anderem für SCORM, LTI und QTI, weitere Funktionen über Plugins.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">H5P</para>
+        </td>
+        <td>
+          <para styleclass="Normal">In das System integriert.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Über ein Plugin eingebunden.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Erweiterbarkeit</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Sehr grosse Auswahl an Plugins.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Erweiterbar, jedoch mit kleinerem Plugin-Angebot.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Administrationsaufwand</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Grundfunktionen relativ rasch einsetzbar, der Aufwand steigt mit dem Umfang der Konfiguration und der Anzahl eingesetzter Plugins.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Aufgrund der umfangreichen Konfigurationsmöglichkeiten tendenziell höherer Einarbeitungs- und Administrationsaufwand.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_A006A8" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: </figurelabel>Gegenüberstellung von Moodle und ILIAS für die praktische Umsetzung.</para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_KI_EIGEN%&gt;</var><text styleclass="Image Caption Source" translate="false">&#32;</text></para>
+    <para styleclass="Heading2">Wesentliche Unterschiede</para>
+    <para styleclass="Body Text">Zwischen den ausgewählten Lernmanagementsystemen Moodle und ILIAS gibt es einige wesentliche Unterschiede. Deren Kenntnis ist für die Einrichtung und Nutzung der Lernumgebungen im praktischen Teil dieser Arbeit relevant.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Kurs und Magazin</text>: Moodle ist vorwiegend kursbasiert: Lernmaterialien und Aktivitäten werden in Kursen bereitgestellt. ILIAS organisiert seine Angebote in einem hierarchischen Magazin, das neben Kursen auch unabhängig davon zugängliche Lern- und Arbeitsmaterialien aufnehmen kann. Das Magazin ist damit Bestandteil der Lernumgebung. Dies entspricht dem offiziellen ILIAS-Konzept, Lernen auch ausserhalb von Kursen zu ermöglichen.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">LMS und LCMS</text>: Beide Systeme sind Lernmanagementsysteme (LMS) zur Bereitstellung und Verwaltung digitaler Lernangebote. ILIAS bietet zudem integrierte Autorenwerkzeuge zur Erstellung von Lernmodulen und weiteren Inhalten. Diese Funktionen begründen eine zusätzliche Einordnung als Learning Content Management System (LCMS).</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">SCORM-Unterstützung</text>: Moodle unterstützt im Kernsystem SCORM 1.2, jedoch nicht SCORM 2004. ILIAS unterstützt beide Versionen. Für SCORM-Lernmodule, die unverändert in beiden Systemen eingesetzt werden sollen, ist deshalb SCORM 1.2 das gemeinsame Format.</para>
+    <para styleclass="Heading2">Einordnung für die praktische Umsetzung</para>
+    <para styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="topiclink" href="EL-Moodle">Moodle</link> eignet sich aufgrund seiner grossen Verbreitung, der umfangreichen Dokumentation und der unterschiedlichen Installationsmöglichkeiten gut für die praktische Erprobung. Die grosse Auswahl an Plugins ermöglicht eine flexible Erweiterung, kann jedoch den Wartungs- und Prüfaufwand bei Aktualisierungen erhöhen.</para>
+    <para styleclass="Body Text"><link displaytype="text" defaultstyle="true" type="topiclink" href="EL-ILIAS">ILIAS</link> zeichnet sich durch seine strukturierte Verwaltung von Lernobjekten, sein differenziertes Rollen- und Rechtesystem sowie umfangreiche Funktionen für Tests, Bewertungen und Lernprozesse aus. Diese Funktionsbreite unterstützt komplexere organisatorische Anforderungen, kann jedoch den Einstieg sowie die Konfiguration und Administration anspruchsvoller machen. Da sich ILIAS weniger gut für den Betrieb in einer einfachen XAMPP-Umgebung eignet, wird für die lokale Erprobung Docker verwendet.</para>
+    <para styleclass="Body Text">Die beiden Systeme ergänzen sich damit für den vorgesehenen Vergleich:</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Moodle repräsentiert ein weitverbreitetes und flexibel erweiterbares LMS,</li>
+      <li styleclass="Body Text">während ILIAS die praktische Erprobung eines stärker strukturierten Systems mit differenzierten Verwaltungs- und Berechtigungsfunktionen ermöglicht.</li>
+    </list>
+    <para styleclass="Heading2">Kosten</para>
+    <para styleclass="Body Text">Für Moodle und ILIAS fallen grundsätzlich keine Lizenzkosten für die Software an. Beide Systeme stehen unter einer Open-Source-Lizenz zur Verfügung und können auf eigener Infrastruktur betrieben werden. Open Source bedeutet jedoch nicht, dass der Betrieb insgesamt kostenlos ist.</para>
+    <para styleclass="Body Text">Kosten oder interner Aufwand können insbesondere in folgenden Bereichen entstehen:</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Bereitstellung eines lokalen Computers, Servers oder Webhostings.</li>
+      <li styleclass="Body Text">Installation und technische Konfiguration.</li>
+      <li styleclass="Body Text">Einrichtung von Kursen, Rollen und Benutzerkonten.</li>
+      <li styleclass="Body Text">Wartung und Aktualisierung des LMS.</li>
+      <li styleclass="Body Text">Prüfung und Aktualisierung eingesetzter Plugins.</li>
+      <li styleclass="Body Text">Datensicherung und Wiederherstellung.</li>
+      <li styleclass="Body Text">Überwachung von Sicherheit und Verfügbarkeit.</li>
+      <li styleclass="Body Text">Anpassung des Erscheinungsbildes und Entwicklung zusätzlicher Funktionen.</li>
+      <li styleclass="Body Text">Schulung und Unterstützung der Administratoren, Kursverantwortlichen und Lernenden.</li>
+    </list>
+    <para styleclass="Body Text">Für lokale Testinstallationen können beide Systeme ohne zusätzliche Lizenzkosten erprobt werden. Bei einem produktiven Einsatz hängen die tatsächlichen Kosten insbesondere von der Anzahl der Benutzer, den Anforderungen an Verfügbarkeit und Sicherheit, dem benötigten Speicherplatz sowie vom internen oder externen Betreuungsaufwand ab. Alternativ können kommerzielle Hosting- und Supportangebote genutzt werden. Diese verringern den eigenen technischen Aufwand, verursachen jedoch laufende Kosten.</para>
+    <para styleclass="Heading2">Ergebnis der Auswahl</para>
+    <para styleclass="Body Text">Moodle und ILIAS erfüllen das Muss-Kriterium Open Source sowie die weiteren für diese Arbeit festgelegten Anforderungen. Beide Systeme werden aktiv weiterentwickelt, verfügen über etablierte Communitys und eine umfangreiche Dokumentation und unterstützen zentrale LMS-Funktionen sowie relevante Standards und Schnittstellen.</para>
+    <para styleclass="Body Text">Für die praktische Umsetzung werden daher Moodle und ILIAS ausgewählt und anhand konkreter Anwendungsbeispiele erprobt. Das umfasst:</para>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text">Die Bereitstellung von Kursen und Lerninhalten.</li>
+      <li styleclass="Body Text">Der Import desselben SCORM-Lernmoduls in beide LMS.</li>
+      <li styleclass="Body Text">Die Einbindung eines externen Lernwerkzeugs über LTI.</li>
+      <li styleclass="Body Text">Die Benutzer-, Rollen- und Rechteverwaltung.</li>
+      <li styleclass="Body Text">Ausgewählte Funktionen für Tests und Bewertungen.</li>
+      <li styleclass="Body Text">Die Erfassung und Darstellung des Lernfortschritts.</li>
+      <li styleclass="Body Text">Ausgewählte Administrationsaufgaben.</li>
+    </list>
+  </body>
+</topic>

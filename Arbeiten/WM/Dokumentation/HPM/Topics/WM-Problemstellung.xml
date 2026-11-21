@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-16T14:41:32.208Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Problemstellung</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Problemstellung</para>
+    </header>
+    <para styleclass="Body Text">In der Praxis zeigt sich häufig, dass Dokumentationen und Wissensbestände nicht regelmässig nachgeführt werden. Informationen veralten, bleiben unvollständig oder werden an verschiedenen Stellen unterschiedlich gepflegt. Auch die heute weit verbreitete Nutzung webbasierter Dokumentationssysteme löst dieses Problem nicht automatisch.</para>
+    <para styleclass="Body Text">Eine weitere Schwierigkeit liegt in der einheitlichen Gestaltung der Inhalte. Unterschiedliche Kenntnisse und Arbeitsweisen der beteiligten Autoren führen häufig zu uneinheitlichen Formatierungen, Strukturen und Darstellungen. Dies beeinträchtigt die Lesbarkeit und erschwert die Nutzung der Dokumentation. Bei der gemeinsamen Bearbeitung kommt es zudem vor, dass Änderungen gegenseitig überschrieben werden oder verloren gehen.</para>
+    <para styleclass="Body Text">Werden dieselben Inhalte zusätzlich in mehreren Dokumenten oder Ausgabeformaten benötigt, erhöht sich der Pflegeaufwand. Änderungen müssen mehrfach vorgenommen und die verschiedenen Fassungen auf ihre Aktualität und Konsistenz geprüft werden.</para>
+    <para styleclass="Body Text">Diese Arbeit zeigt anhand eines praktischen Beispiels, wie sich Inhalte mit einem etablierten Autorentool mit dem <var translate="false">&lt;%SSP%&gt;</var>-Prinzip zentral verwalten, einheitlich gestalten und in verschiedenen Formaten veröffentlichen lassen. Im Mittelpunkt stehen die Organisation der Inhalte, die eingesetzten Werkzeuge und ein nachvollziehbarer Arbeitsablauf.</para>
+  </body>
+</topic>

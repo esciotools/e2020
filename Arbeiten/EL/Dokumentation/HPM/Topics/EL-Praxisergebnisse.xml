@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-12T19:55:32.660Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Praxisergebnisse</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Praxisergebnisse</para>
+    </header>
+    <para styleclass="Body Text">Mit den ausgewählten Werkzeugen konnten funktionsfähige E-Learning-Angebote aufgebaut und online bereitgestellt werden. Moodle und ILIAS ermöglichen es, Kurse einzurichten, Lerninhalte einzubinden sowie Fragen und Tests bereitzustellen. Lernmodule lassen sich mit unterschiedlichen Werkzeugen erstellen und anschliessend in einem LMS verwenden.</para>
+    <para styleclass="Body Text">Shared Hosting erwies sich für die gewählte Umsetzung als geeignete Betriebsform. Die grafischen Verwaltungs- und Installationswerkzeuge erleichtern die technische Einrichtung. Die Gestaltung der Kurse, die Vergabe von Berechtigungen und die Prüfung der Lernangebote bleiben jedoch eigenständige Aufgaben.</para>
+    <para styleclass="Body Text">Die entstandenen Praxisumgebungen bilden eine Grundlage für den weiteren Ausbau. Für einen produktiven Einsatz müssen insbesondere die laufende Betreuung, Aktualisierungen, Datensicherungen und die Anforderungen an den Datenschutz geregelt werden.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Caution" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Die in der Praxisumgebung zugänglichen Ergebnisse dieser Arbeit weisen noch einzelne Fehler und Einschränkungen auf. Während der Umsetzung traten Softwareprobleme auf, deren Behebung zusätzlichen Aufwand erfordert hätte. Auf ihre vollständige Behebung wurde verzichtet, da sie den Demonstrationscharakter der Praxisumgebung nicht wesentlich beeinträchtigen. Die vorgestellten Funktionen und Anwendungsbeispiele lassen sich dennoch nachvollziehen und erproben.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

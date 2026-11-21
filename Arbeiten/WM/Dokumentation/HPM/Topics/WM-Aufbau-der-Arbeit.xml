@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T21:38:22.067Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Aufbau der Arbeit</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Aufbau der Arbeit</para>
+    </header>
+    <para styleclass="Body Text">Nach der Einleitung werden die für die Arbeit erforderlichen Grundlagen erläutert. Dazu gehören Wissensmanagement, <var translate="false">&lt;%SSP%&gt;</var>, strukturierte Dokumentation, relevante Standards und Formate sowie die Speicherung und Versionsverwaltung von Inhalten.</para>
+    <para styleclass="Body Text">Anschliessend folgen das methodische Vorgehen, die Anforderungen an das Autorensystem und die Auswahl der eingesetzten Werkzeuge. Zudem werden das geplante Praxisbeispiel und die Kriterien zur Prüfung der erzeugten Ausgaben vorgestellt.</para>
+    <para styleclass="Body Text">Der praktische Teil beginnt mit der Planung und Einrichtung der Dokumentationsprojekte. Dazu gehören der Aufbau einer gemeinsamen Inhaltsstruktur, die Verwendung von Formatvorlagen und die Wiederverwendung von Inhalten über mehrere Projekte hinweg. Darauf folgen die Übernahme bestehender Inhalte, die Veröffentlichung in unterschiedlichen Formaten sowie die Prüfung der erzeugten Ausgaben. Ergänzend werden die Bearbeitung von Projektdateien mit externen Werkzeugen und die Sicherung der Projektstände beschrieben.</para>
+    <para styleclass="Body Text">Abschliessend werden die praktische Eignung des gewählten Vorgehens, der erforderliche Aufwand und die Grenzen der Umsetzung beurteilt. Aus den praktischen Erfahrungen werden Empfehlungen abgeleitet. Ein Fazit fasst die wesentlichen Erkenntnisse zusammen, beurteilt die Zielerreichung und zeigt mögliche Weiterentwicklungen auf.</para>
+    <para styleclass="Body Text">Diese Struktur folgt den am IKF vermittelten Empfehlungen für eine praxisorientierte Masterarbeit <snippet src="file::WM-SNIP-LVZ-0100.xml" inline="true"/></para>
+    <para styleclass="Body Text"></para>
+    <para styleclass="Body Text"></para>
+  </body>
+</topic>

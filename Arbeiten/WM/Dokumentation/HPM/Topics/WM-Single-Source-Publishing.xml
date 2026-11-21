@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-19T06:01:51.494Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Single-Source-Publishing</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Single-Source-Publishing</para>
+    </header>
+    <para styleclass="Body Text"><var styleclass="Normal" translate="false">&lt;%SSP%&gt;</var><text styleclass="Normal"> bezeichnet die Erstellung mehrerer Publikationen aus einer gemeinsamen Inhaltsquelle. Texte, Abbildungen und weitere Bestandteile werden zentral gepflegt und für die gewünschten Ausgaben zusammengestellt. Eine gemeinsame Quelle kann dabei aus vielen einzelnen Dateien bestehen.</text></para>
+    <para styleclass="Body Text"><text styleclass="Normal">Das Prinzip verbindet die Wiederverwendung von Inhalten mit einer getrennten Steuerung ihrer Darstellung. Derselbe Text kann beispielsweise in einer Webhilfe, einem PDF-Handbuch und einem E-Book erscheinen. Navigation, Seitenaufteilung und Gestaltung werden an das jeweilige Ausgabeformat angepasst. Topicbasierte Standards wie DITA unterstützen diesen Ansatz durch eigenständige Inhalte und deren Zusammenstellung zu Publikationen </text><snippet src="file::WM-SNIP-LVZ-0700.xml" inline="true"/><text styleclass="Normal">.</text></para>
+    <para styleclass="Body Text"><text styleclass="Normal">Der grundlegende Ablauf besteht aus folgenden Schritten:</text></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body Text" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body Text"><text styleclass="Normal">Inhalte erstellen und zentral pflegen</text></li>
+      <li styleclass="Body Text"><text styleclass="Normal">Inhalte für die jeweilige Publikation zusammenstellen</text></li>
+      <li styleclass="Body Text"><text styleclass="Normal">Ausgabeformat und Gestaltung festlegen</text></li>
+      <li styleclass="Body Text"><text styleclass="Normal">Publikation erzeugen und prüfen</text></li>
+      <li styleclass="Body Text"><text styleclass="Normal">geprüfte Ausgabe bereitstellen</text></li>
+    </list>
+    <para styleclass="Body Text"><text styleclass="Normal">Eine fachliche Korrektur wird an der zuständigen Quelle vorgenommen. Anschliessend werden die betroffenen Ausgaben neu erzeugt. Bereits veröffentlichte PDF-Dateien oder statische Webseiten ändern sich dadurch nicht automatisch.</text></para>
+    <para styleclass="Body Text"><var styleclass="Normal" translate="false">&lt;%SSP%&gt;</var><text styleclass="Normal"> reduziert die mehrfache Pflege gleicher Inhalte. Der Nutzen hängt jedoch davon ab, wie konsequent gemeinsame Textstellen, Vorlagen und Ausgabeeinstellungen verwaltet werden. Unterschiedliche Publikationsformen erfordern weiterhin eine eigene Prüfung.</text></para>
+    <para styleclass="Image Caption"><image id="FIG706275E4" src="035-multi-channel-publish-ec.png" imagestyleclass="Standard" scale="-99.90%" figurelistinclude="1"><caption><![CDATA[Abbildung <%HMFIGCOUNTER%>: Eine Quelle für mehrere Formate.]]></caption></image></para>
+    <para styleclass="Body Text"><var styleclass="Image Caption Source" translate="false">&lt;%QU_ELLE%&gt;</var><text styleclass="Image Caption Source"> EC-Software-Homapge.</text></para>
+    <para styleclass="Body Text">Die Trennung von Inhalt und Darstellung macht <var translate="false">&lt;%SSP%&gt;</var> flexibel. Inhalte werden unabhängig von ihrem späteren Erscheinungsbild gepflegt. Für die jeweilige Ausgabe lassen sich passende Inhalte auswählen und mit unterschiedlichen Vorlagen gestalten, ohne die Quellen selbst ändern zu müssen.</para>
+    <para styleclass="Body Text">Dadurch können verschiedene Bereiche einer Organisation, etwa Entwicklung, Marketing und Schulung, dieselben Quellen nutzen. Die Entwicklung benötigt beispielsweise technische Details, das Marketing eine Übersicht der Produktvorteile und die Schulung verständliche Anleitungen. Gemeinsam verwendete Inhalte werden zentral gepflegt und je nach Zielgruppe in unterschiedlichem Umfang, Aufbau und Ausgabeformat bereitgestellt.</para>
+    <para styleclass="Body Text"><text styleclass="T_Emphasis">Hinweis</text>: Im Zusammenhang mit <var translate="false">&lt;%SSP%&gt;</var> wird auch der Begriff <text styleclass="T_Emphasis">Multichannel-Publishing</text> verwendet. Die Begriffe setzen unterschiedliche Schwerpunkte: <var translate="false">&lt;%SSP%&gt;</var> betont die gemeinsame Quelle der Inhalte, Multichannel-Publishing deren Veröffentlichung über mehrere Ausgabekanäle, beispielsweise als Webdokumentation, PDF oder E-Book. Eine gemeinsame Quelle ist beim Multichannel-Publishing jedoch nicht zwingend vorausgesetzt.</para>
+  </body>
+</topic>

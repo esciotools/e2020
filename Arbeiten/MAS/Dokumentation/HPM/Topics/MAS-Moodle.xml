@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-11T13:02:55.525Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Moodle</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Moodle</para>
+    </header>
+    <para styleclass="Body Text">Moodle ist ein Open-Source-Lernmanagementsystem zur Bereitstellung und Verwaltung von Online-Kursen. Es ermöglicht, Lerninhalte einzubinden, Aufgaben und Tests durchzuführen sowie Lernfortschritte zu verfolgen.</para>
+    <para styleclass="Body Text">Moodle ist seit vielen Jahren etabliert und weltweit an Schulen, Hochschulen und in der betrieblichen Weiterbildung verbreitet. Eine grosse internationale Community unterstützt die Weiterentwicklung und den Erfahrungsaustausch.</para>
+    <para styleclass="Body Text"><table styleclass="Default" rowcount="3" colcount="3">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Website</text>:</para>
+        </td>
+        <td style="width:6px;">
+        </td>
+        <td>
+          <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="weblink" href="&lt;%LINK_CAPTION%&gt;" target="_blank" styleclass="Body Text">https://www.moodle.org</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Einführung</text>:</para>
+        </td>
+        <td style="width:6px;">
+        </td>
+        <td>
+          <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="weblink" href="https://docs.moodle.org/502/de/Kurzanleitung_f%C3%BCr_Trainer/innen" target="_blank" styleclass="Body Text">Kurzanleitung für Trainer/innen</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Body Text"><text styleclass="T_Emphasis">Kurse</text>:</para>
+        </td>
+        <td style="width:6px;">
+        </td>
+        <td>
+          <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="weblink" href="https://ebooks.hslu.ch/phlumoodledozierende/chapter/kurse-bearbeiten/" target="_blank" styleclass="Body Text">Moodle-Kurse bearbeiten – PH Luzern</link></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Body Text">Moodle stellt für jeden Kurs drei grundlegende Standardrollen bereit, die sich vor allem in deren Bezeichnungen vom Rollenschema der E-Learning-Arbeit unterscheiden. Die folgende Tabelle ordnet die Moodle-Kursrollen anhand ihrer Aufgaben und Befugnisse den Rollen der E-Learning-Arbeit zu.</para>
+    <para styleclass="Body Text"><table styleclass="Box_Base" rowcount="4" colcount="3">
+      <thead style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Rolle in Moodle</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Aufgabe und typische Befugnisse</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="T_Emphasis">Zuordnung E-Learning</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Teilnehmer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Freigegebene Lerninhalte nutzen, Lernmodule bearbeiten und Tests absolvieren.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Trainee</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainer ohne Bearbeitungsrecht</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Lernende betreuen, Leistungen bewerten und Lernfortschritte einsehen.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Trainer</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal">Trainer</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Kursinhalte, Einstellungen, Mitgliedschaften und zulässige Kursrollenzuweisungen verwalten.</para>
+        </td>
+        <td>
+          <para styleclass="Normal">Course Manager</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Caption"><figurelabel id="FIG_2923E5" type="table" figurelistinclude="1">Tabelle &lt;%HMTBLCOUNTER%&gt;: Rollen in den Moodle-Kursen.</figurelabel></para>
+    <para styleclass="Image Caption Source"><var translate="false">&lt;%QU_EIGEN%&gt;</var></para>
+    <para styleclass="Body Text">Die Rollen gelten jeweils für den einzelnen Kurs. Die Administration des gesamten Moodle-Systems ist davon getrennt.</para>
+  </body>
+</topic>

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="462886294542395" build="ALL" modified="2026-09-23T10:09:44.484Z" icon="0" href="WM-Einleitung">
+    <caption translate="true">Einleitung</caption>
+    <topicref type="topic" id="462885379812479" build="ALL" modified="2026-09-23T10:11:08.887Z" icon="0" href="WM-Ausgangslage">
+      <caption translate="true">Ausgangslage</caption>
+    </topicref>
+    <topicref type="topic" id="462884155924598" build="ALL" modified="2026-09-23T10:11:18.677Z" icon="0" href="WM-Problemstellung">
+      <caption translate="true">Problemstellung</caption>
+    </topicref>
+    <topicref type="topic" id="462886299998291" build="ALL" modified="2026-09-23T10:11:28.175Z" icon="0" href="WM-Zielsetzung">
+      <caption translate="true">Zielsetzung</caption>
+    </topicref>
+    <topicref type="topic" id="462884484919494" build="ALL" modified="2026-09-23T10:12:00.599Z" icon="0" href="WM-Fragestellung">
+      <caption translate="true">Fragestellung</caption>
+    </topicref>
+    <topicref type="topic" id="462883615857219" build="ALL" modified="2026-09-23T10:12:17.852Z" icon="0" href="WM-Zielgruppe">
+      <caption translate="true">Zielgruppe</caption>
+    </topicref>
+    <topicref type="topic" id="462884952596083" build="ALL" modified="2026-09-23T10:12:28.230Z" icon="0" href="WM-Abgrenzung">
+      <caption translate="true">Abgrenzung</caption>
+    </topicref>
+    <topicref type="topic" id="462882378720135" build="ALL" modified="2026-09-23T10:12:48.745Z" icon="0" href="WM-Aufbau-der-Arbeit">
+      <caption translate="true">Aufbau der Arbeit</caption>
+    </topicref>
+    <topicref type="topic" id="46288733585097" build="ALL" modified="2026-09-23T10:36:25.391Z" icon="0" href="WM-Arbeitsumgebung">
+      <caption translate="true">Arbeitsumgebung</caption>
+    </topicref>
+    <topicref type="topic" id="463047674714895" build="ALL" modified="2026-10-09T20:26:30.910Z" icon="0" href="WM-Einsatz-von-KI">
+      <caption translate="true">Einsatz von KI</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="462885273025576" build="ALL" modified="2026-09-23T10:10:14.181Z" icon="0" href="WM-Grundlagen">
+    <caption translate="true">Grundlagen</caption>
+    <topicref type="topic" id="463118278854677" build="ALL" modified="2026-10-16T15:27:05.631Z" icon="0" href="WM-Wissen">
+      <caption translate="true">Wissen</caption>
+    </topicref>
+    <topicref type="topic" id="462884744915784" build="ALL" modified="2026-09-23T10:37:59.479Z" icon="0" href="WM-Wissensmanagement">
+      <caption translate="true">Wissensmanagement</caption>
+    </topicref>
+    <topicref type="topic" id="462884182056052" build="ALL" modified="2026-09-23T10:13:40.593Z" icon="0" href="WM-Wissensbasen">
+      <caption translate="true">Wissensbasen</caption>
+    </topicref>
+    <topicref type="topic" id="462885097025653" build="ALL" modified="2026-09-23T10:13:57.669Z" icon="0" href="WM-Single-Source-Publishing">
+      <caption translate="true">Single-Source-Publishing</caption>
+    </topicref>
+    <topicref type="topic" id="462884935600757" build="ALL" modified="2026-10-09T16:51:16.822Z" icon="0" href="WM-Topicbasierte-Dokumentation">
+      <caption translate="true">Topicbasierte Dokumentation</caption>
+    </topicref>
+    <topicref type="topic" id="463136639943150" build="ALL" modified="2026-10-18T15:47:27.492Z" icon="0" href="WM-Strukturiertes-Dokument">
+      <caption translate="true">Strukturiertes Dokument</caption>
+    </topicref>
+    <topicref type="topic" id="462886038900139" build="ALL" modified="2026-09-23T10:15:33.858Z" icon="0" href="WM-XML">
+      <caption translate="true">XML</caption>
+    </topicref>
+    <topicref type="topic" id="463135889216663" build="ALL" modified="2026-10-18T17:38:56.563Z" icon="0" href="WM-Autorentools">
+      <caption translate="true">Autorentools</caption>
+    </topicref>
+    <topicref type="topic" id="463133885657926" build="ALL" modified="2026-10-18T21:49:11.982Z" icon="0" href="WM-Explainer">
+      <caption translate="true">Explainer</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="462884733846570" build="ALL" modified="2026-09-23T10:16:05.897Z" icon="0" href="WM-Vorgehen">
+    <caption translate="true">Vorgehen</caption>
+    <topicref type="topic" id="463122865122409" build="ALL" modified="2026-10-17T11:39:23.873Z" icon="0" href="WM-HelpManual">
+      <caption translate="true">Help+Manual</caption>
+    </topicref>
+    <topicref type="topic" id="463118477069768" build="ALL" modified="2026-10-17T16:05:57.570Z" icon="0" href="WM-Begriffe">
+      <caption translate="true">Begriffe</caption>
+    </topicref>
+    <topicref type="topic" id="463122888284501" build="ALL" modified="2026-10-17T11:39:36.370Z" icon="0" href="WM-Projektdateien">
+      <caption translate="true">Projektdateien</caption>
+    </topicref>
+    <topicref type="topic" id="463125569837541" build="ALL" modified="2026-10-17T11:39:48.241Z" icon="0" href="WM-MAS-Umgebung">
+      <caption translate="true">MAS-Umgebung</caption>
+    </topicref>
+    <topicref type="topic" id="463126493760685" build="ALL" modified="2026-10-17T11:39:58.839Z" icon="0" href="WM-Gemeinsame-Inhalte">
+      <caption translate="true">Gemeinsame Inhalte</caption>
+    </topicref>
+    <topicref type="topic" id="46313416563541" build="ALL" modified="2026-10-17T11:40:06.809Z" icon="0" href="WM-Pfade">
+      <caption translate="true">Pfade</caption>
+    </topicref>
+    <topicref type="topic" id="463124353029517" build="ALL" modified="2026-10-17T11:40:19.340Z" icon="0" href="WM-Ausgabevorlagen">
+      <caption translate="true">Ausgabevorlagen</caption>
+    </topicref>
+    <topicref type="topic" id="463124891212847" build="ALL" modified="2026-10-17T11:40:30.721Z" icon="0" href="WM-Versionsverwaltung">
+      <caption translate="true">Versionsverwaltung</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="463125046649342" build="ALL" modified="2026-10-17T11:38:07.852Z" icon="0" href="WM-Einsatz">
+    <caption translate="true">Einsatz</caption>
+    <topicref type="topic" id="46314632404720" build="ALL" modified="2026-10-17T11:42:49.262Z" icon="0" href="WM-Editoren2">
+      <caption translate="true">Editoren</caption>
+    </topicref>
+    <topicref type="topic" id="463125021500910" build="ALL" modified="2026-10-17T11:44:18.411Z" icon="0" href="WM-Formate-ersetzen">
+      <caption translate="true">Formate ersetzen</caption>
+    </topicref>
+    <topicref type="topic" id="463117396429908" build="ALL" modified="2026-10-16T19:29:19.101Z" icon="0" href="WM-Variablen-umbenennen">
+      <caption translate="true">Variablen umbenennen</caption>
+    </topicref>
+    <topicref type="topic" id="463124327545146" build="ALL" modified="2026-10-17T14:08:55.948Z" icon="0" href="WM-Variablen-einfuegen">
+      <caption translate="true">Variablen einfügen</caption>
+    </topicref>
+    <topicref type="topic" id="463139951808074" build="ALL" modified="2026-10-18T23:19:25.233Z" icon="0" href="WM-Quellenverweise-aktualisieren">
+      <caption translate="true">Quellenverweise aktualisieren</caption>
+    </topicref>
+    <topicref type="topic" id="463142732083944" build="ALL" modified="2026-10-19T02:11:00.250Z" icon="0" href="WM-Stichworte-ergaenzen">
+      <caption translate="true">Stichworte ergänzen</caption>
+    </topicref>
+    <topicref type="topic" id="463124331380646" build="ALL" modified="2026-10-17T11:48:04.930Z" icon="0" href="WM-Publishing">
+      <caption translate="true">Publishing</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="462882241236265" build="ALL" modified="2026-09-23T10:23:52.020Z" icon="0" href="WM-Ergebnisse-und-Diskussion">
+    <caption translate="true">Ergebnisse und Diskussion</caption>
+    <topicref type="topic" id="462882243178703" build="ALL" modified="2026-09-23T10:24:05.691Z" icon="0" href="WM-Praxisergebnisse">
+      <caption translate="true">Praxisergebnisse</caption>
+    </topicref>
+    <topicref type="topic" id="462884651893737" build="ALL" modified="2026-09-23T10:25:09.400Z" icon="0" href="WM-Werkzeugvergleich">
+      <caption translate="true">Werkzeugvergleich</caption>
+    </topicref>
+    <topicref type="topic" id="463138526531999" build="ALL" modified="2026-10-18T19:00:56.420Z" icon="0" href="WM-Aufwand-und-Kosten">
+      <caption translate="true">Aufwand und Kosten</caption>
+    </topicref>
+    <topicref type="topic" id="462885172066115" build="ALL" modified="2026-09-23T10:26:34.102Z" icon="0" href="WM-Grenzen-und-Uebertragbarkeit">
+      <caption translate="true">Grenzen und Übertragbarkeit</caption>
+    </topicref>
+    <topicref type="topic" id="462886176653074" build="ALL" modified="2026-09-23T10:26:17.320Z" icon="0" href="WM-Empfehlungen">
+      <caption translate="true">Empfehlungen</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="462884562919309" build="ALL" modified="2026-09-23T10:26:51.541Z" icon="0" href="WM-Fazit-und-Ausblick">
+    <caption translate="true">Fazit und Ausblick</caption>
+    <topicref type="topic" id="462884128098843" build="ALL" modified="2026-09-23T10:27:05.521Z" icon="0" href="WM-Zielerreichung">
+      <caption translate="true">Zielerreichung</caption>
+    </topicref>
+    <topicref type="topic" id="462886364271422" build="ALL" modified="2026-09-23T10:27:14.470Z" icon="0" href="WM-Ausblick">
+      <caption translate="true">Ausblick</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="46287345766139" build="ALL" modified="2026-09-23T10:53:59.147Z" icon="0" href="WM-Literaturverzeichnis">
+    <caption translate="true">Literaturverzeichnis</caption>
+  </topicref>
+  <topicref type="topic" id="462886212449409" build="ALL" modified="2026-09-23T10:27:34.324Z" icon="0" href="WM-Anhang">
+    <caption translate="true">Anhang</caption>
+    <topicref type="topic" id="462885461513155" build="ALL" modified="2026-09-23T10:27:53.081Z" icon="0" href="WM-Glossar">
+      <caption translate="true">Glossar</caption>
+    </topicref>
+    <topicref type="topic" id="462885790909566" build="ALL" modified="2026-09-23T10:28:05.518Z" icon="0" href="WM-Webressourcen">
+      <caption translate="true">Webressourcen</caption>
+    </topicref>
+    <topicref type="topic" id="463138660360889" build="ALL" modified="2026-10-19T00:02:13.844Z" icon="0" href="WM-Rust-Sourcecode">
+      <caption translate="true">Rust Sourcecode</caption>
+      <topicref type="topic" id="463141678461172" build="ALL" modified="2026-10-19T00:01:10.023Z" icon="0" href="WM-Lvz-info_rs">
+        <caption translate="true">lvz-info.rs</caption>
+      </topicref>
+      <topicref type="topic" id="463137916573440" build="ALL" modified="2026-10-19T00:02:35.794Z" icon="0" href="WM-Lvz-update_rs">
+        <caption translate="true">lvz-update.rs</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="463140355012279" build="ALL" modified="2026-10-19T05:36:16.525Z" icon="0" href="WM-Git-initialisieren">
+      <caption translate="true">Git initialisieren</caption>
+    </topicref>
+    <topicref type="topic" id="46313733819138" build="ALL" modified="2026-10-17T12:35:56.706Z" icon="0" href="WM-Mikroartikel">
+      <caption translate="true">Mikroartikel</caption>
+    </topicref>
+    <topicref type="topic" id="462884140500784" build="ALL" modified="2026-09-23T10:30:04.070Z" icon="0" href="WM-Dokumentkonventionen">
+      <caption translate="true">Dokumentkonventionen</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="463137869424049" build="IKF" modified="2026-10-18T22:12:20.278Z" icon="0" href="WM-Erklaerung">
+    <caption translate="true">Erklärung</caption>
+  </topicref>
+</map>

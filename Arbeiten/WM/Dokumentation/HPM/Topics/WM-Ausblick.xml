@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-18T20:52:18.936Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Ausblick</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Ausblick</para>
+    </header>
+    <para styleclass="Body Text">Eine Weiterentwicklung besteht in der Automatisierung wiederkehrender Prüfungen. Die strukturierten Projektdateien bieten Ansatzpunkte, um beispielsweise fehlende Dateien, uneinheitliche Variablennamen oder abweichende Formatzuweisungen zu erkennen. Solche Hilfsmittel sollten dort eingesetzt werden, wo wiederkehrende Aufgaben den zusätzlichen Entwicklungs- und Wartungsaufwand rechtfertigen.</para>
+    <para styleclass="Body Text">Künstliche Intelligenz könnte die Überarbeitung von Texten, die Vereinheitlichung von Begriffen und die Erstellung kleiner Hilfsprogramme zunehmend unterstützen. Durch gezielte Anleitungen und Beispiele lässt sie sich auch an bisher unbekannte oder produktspezifische Dateistrukturen heranführen, etwa an die XML-Struktur der <var translate="false">&lt;%DOC_TOOL%&gt;</var>-Projektdateien. Für dateiübergreifende Änderungen bleiben klare Regeln, Sicherungen und eine Kontrolle der Ergebnisse erforderlich.</para>
+    <para styleclass="Body Text">Die Arbeit könnte sich dadurch stärker von manuellen Einzelkorrekturen zur Festlegung und Prüfung einheitlicher Regeln verlagern. Fachliche Richtigkeit, verständliche Inhalte und die Eignung der Ausgaben bleiben dabei zentrale Aufgaben. KI kann diese Arbeit unterstützen, die Verantwortung für die Dokumentation bleibt bei den Personen, die sie erstellen und pflegen.</para>
+  </body>
+</topic>

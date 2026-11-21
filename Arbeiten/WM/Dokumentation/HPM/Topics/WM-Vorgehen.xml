@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-10-17T21:40:17.292Z" lasteditedby="huber" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Vorgehen</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Vorgehen</para>
+    </header>
+    <para styleclass="Body Text">Die praktische Arbeit verwendet <var translate="false">&lt;%DOC_TOOL%&gt;</var> und die bereits aufgebaute MAS-Umgebung. Die Dokumentation der E-Learning-Arbeit dient als Anwendungsbeispiel. Dieser Abschnitt zeigt, wie die Dokumentationsprojekte organisiert sind, welche Inhalte und Formatvorlagen sie gemeinsam nutzen und wie daraus unterschiedliche Ausgaben entstehen. Der beschriebene Aufbau bildet die Grundlage für die anschliessenden Praxisfälle.</para>
+    <para styleclass="Body Text"><snippet src="E2020 Repository_1::MAS-SNIP-Topic-Themen-Links" inline="true"/></para>
+  </body>
+</topic>
